@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="onesong">"Faaruu 1"</string>
+<plurals name="Nsongs">
+<item quantity="one">"<xliff:g id="count">%d</xliff:g> sirba"</item>
+<item quantity="other">"Kan waliigala <xliff:g id="count">%d</xliff:g> sirboota"</item>
+</plurals>
+<plurals name="Nalbums">
+<item quantity="one">"Albaamii 1"</item>
+<item quantity="other">"<xliff:g id="count">%d</xliff:g> albaamiiwwan"</item>
+</plurals>
+<string name="whoes_album">"kaaseettii"</string>
+<string name="party_shuffle">"Makaa paartii"</string>
+<string name="party_shuffle_off">"Makaan paartii cufadha"</string>
+<string name="delete_item">"balleessuu"</string>
+<string name="shuffle_all">"Hundaa hundaa"</string>
+<string name="delete_confirm_button_text">"TOLE"</string>
+<plurals name="NNNtracksdeleted">
+<item quantity="one">"Faaruun 1."</item>
+<item quantity="other">"<xliff:g id="songs_to_delete">%d</xliff:g> Faaruuwwan balleeffamaniiru."</item>
+</plurals>
+<plurals name="NNNtracksremoved">
+<item quantity="one">"<xliff:g id="songs_to_delete">%d</xliff:g> sirba kan haqame ture \"<xliff:g id="playlist">%s</xliff:g>\" tartiibataphaa."</item>
+<item quantity="other">"<xliff:g id="songs_to_delete">%d</xliff:g> sirbootni kan haqaman ture \"<xliff:g id="playlist">%s</xliff:g>\" tartiibataphaa."</item>
+</plurals>
+<string name="scanning">"SD card qulqulleessuu\u2026"</string>
+<string name="scanning_nosdcard">"USB storage qulqulleessuu\u2026"</string>
+<string name="nowplaying_title">"Amma taphachaa jira"</string>
+<string name="artists_title">"artiistota"</string>
+<string name="albums_menu">"Albaamiiwwan"</string>
+<string name="albums_title">"Albaamiiwwan"</string>
+<string name="tracks_menu">"faaruuwwan"</string>
+<string name="tracks_title">"faaruuwwan"</string>
+<string name="playlists_menu">"Tarreewwan sirbaa"</string>
+<string name="playlists_title">"Tarreewwan sirbaa"</string>
+<string name="all_title">"Miidiyaa hunda"</string>
+<string name="browse_menu">"artiistota"</string>
+<string name="search_title">"Barbaadi"</string>
+<string name="no_tracks_title">"Faaruuwwan hin jiran"</string>
+<string name="no_album_title">"Kuusii hn jiru"</string>
+<string name="no_artist_title">"Ogeessi aartii hin jiru"</string>
+<string name="no_folderlist_title">"Ukaankan hin jiru"</string>
+<string name="delete_playlist_menu">"balleessuu"</string>
+<string name="rename_playlist_menu">"Irra debi’uun maqaa kennuu"</string>
+<string name="playlist_deleted_message">"Tarree sirbaa balleeffameera."</string>
+<string name="playlist_renamed_message">"Maqaan tarree sirbaa jijjiirameera."</string>
+<string name="recentlyadded">"Yeroo dhiyoo dabalame"</string>
+<string name="podcasts_listitem">"filatamtoota"</string>
+<string name="sdcard_missing_title">"SD kaardiin hin jiru"</string>
+<string name="sdcard_missing_title_nosdcard">"USB storage hin jiru"</string>
+<string name="sdcard_missing_message">"Bilbilli kee SD card hin qabu."</string>
+<string name="sdcard_missing_message_nosdcard">"Bilbilli kee USB storage hin qabu  ."</string>
+<string name="sdcard_busy_title">"SD kaardiin hin argamu"</string>
+<string name="sdcard_busy_title_nosdcard">"Kuustuun USB hin jiru"</string>
+<string name="sdcard_busy_message">"SD card kee biiziidha."</string>
+<string name="sdcard_busy_message_nosdcard">"USB storage kee biiziidha."</string>
+<string name="sdcard_error_title">"Dogoggora SD card"</string>
+<string name="sdcard_error_title_nosdcard">"Dogoggora USB storage"</string>
+<string name="sdcard_error_message">"Dogoggorri  SD card kee muudateera."</string>
+<string name="sdcard_error_message_nosdcard">"Dogoggorri  USB storage kee muudateera ."</string>
+<string name="unknown_artist_name">"Artiistii hin beekamne"</string>
+<string name="unknown_album_name">"Fakkii hin beekamne"</string>
+<string name="shuffle_on_notif">"Makaan banaadha."</string>
+<string name="repeat_current_notif">"Faaruu ammaa irra deebisuu."</string>
+<string name="sequence_notif">"Tarreen taphaa irraa jira."</string>
+<string name="repeat_all_notif">"Faaruu hunda irra deebisuu."</string>
+<string name="ringtone_menu">"Toonii wamichaa bilbiilatti fayyadama"</string>
+<string name="ringtone_menu_short">"Toonii godhii fayyadami"</string>
+<string name="ringtone_set">"\"<xliff:g example="Alarm Bell" id="name">%s</xliff:g>\" akka sagalee waamichaatti guuti."</string>
+<string name="play_selection">"Taphaachiisi"</string>
+<string name="add_to_playlist">"Tarree sirbaa dabali"</string>
+<string name="show_artist">"Odeeffaannoo aartistii agarsisa"</string>
+<string name="queue">"Tarree sirbaa ammaa"</string>
+<string name="new_playlist">"Haaraa"</string>
+<plurals name="NNNtrackstoplaylist">
+<item quantity="one">"Faaruun 1 taree sirbaatti dabalameera."</item>
+<item quantity="other">"<xliff:g example="27" id="number">%d</xliff:g> sirboota tartiibatphaatti dabalame."</item>
+</plurals>
+<string name="emptyplaylist">"Tarreen sirbaa sirreeffame duwwaadha."</string>
+<string name="create_playlist_create_text">"Olkaa’I"</string>
+<string name="service_start_error_title">"Rakkoo gara bbooddeetti taphachiisuu"</string>
+<string name="service_start_error_msg">"Faaruu hin taphatu ."</string>
+<string name="service_start_error_button">"TOLE"</string>
+<string name="musicbrowserlabel">"Muuziiqaa"</string>
+<string name="mediaplaybacklabel">"Muuziiqaa"</string>
+<string name="mediapickerlabel">"Muuziiqaa"</string>
+<string name="playback_failed">"Nan gadda,faayila hin tahpachiisu."</string>
+<string name="cancel">"Balleessi"</string>
+<string name="done">"Hojjeeteera/dalageera"</string>
+<string name="remove_from_playlist">"Tarree sirbaa keessaa balleessi"</string>
+<string name="streamloadingtext">"Wal qunnamsiisi <xliff:g id="host">%s</xliff:g>\u2026"</string>
+<string name="loading">"Fee’uu\u2026"</string>
+<string name="sort_by_track">"Sirboota"</string>
+<string name="sort_by_album">"Albaamiiwwan"</string>
+<string name="sort_by_artist">"artiistota"</string>
+<string name="music_picker_title">"Tapha sirbaa filadhu"</string>
+<string name="search_result">"Firrii Barbaaduu b"</string>
+<string name="widget_initial_text">"Muuziqaa filachuuf xuqi."</string>
+<string name="effectspanel">"Ibsawwan sagalee"</string>
+<string name="no_play">"Amma taphachuu hin eenye!"</string>
+<string name="music_selected_all">"Hunda filii"</string>
+<string name="music_cancle_selected_all">"Hunda balleesi"</string>
+<string name="nolrc">"Lyric hin jiru yookan faayilli fudhatama hin qabu"</string>
+<string name="ringtone_title_sim1">"Toonii wamichaa bilbiila SIIMII1"</string>
+<string name="ringtone_title_sim2">"Toonii wamichaa bilbiila SIIMII2"</string>
+<string name="ringtone_set_sim1">"\"<xliff:g example="Alarm Bell" id="name">%s</xliff:g>\" akka sagalee waamicha SIIMII1 kan guutame."</string>
+<string name="ringtone_set_sim2">"\"<xliff:g example="Alarm Bell" id="name">%s</xliff:g>\" akka sagalee waamicha SIIMII2 kan guutame."</string>
+<string name="ring_set_fail">"Nan gadda, faaruun hin taphatu. Maaloo faaruu biroo akka toonii bilbilaatti filadhu"</string>
+<string name="ring_set_silent_vibrate">"Toonii bilbilaa baramoon moodii ammaa keessatti hin taphatan"</string>
+<string name="please_insert_sim_card">"maaloo yoo xiqqaatea SIM card itti galchi"</string>
+<string name="create_playlist_warning">"Maqaa tokko sirna taphachiisaf fayyadamu hin danda’uu."</string>
+<string name="playlist_created_message">"Tarreen sirbaa uumameera."</string>
+<string name="delete_album">"Faakkiiwwan hunda dhaabbidhaan  \"<xliff:g id="album">%s</xliff:g>\"  meeshaa keessaa balleesseeraa?"</string>
+<string name="delete_artist_album">"Albeemii keessaa sirboota hunda dhaabbataan haqi \"<xliff:g id="album">%s</xliff:g>\" kan karaa \"<xliff:g id="artist">%s</xliff:g>\" meeshaa irraa?"</string>
+<string name="delete_song">"dhaabbidhaan  \"<xliff:g id="song">%s</xliff:g>\"  meeshaa keessaa balleesseeraa?"</string>
+<plurals name="NNNallDeleteSelectedSong">
+<item quantity="one">"Sirbooota filaaman dhabbaatan mi\'aa irraa haquu?"</item>
+<item quantity="other">"Sirbooota filaaman dhabbaatan mi\'aa irraa haquu?"</item>
+</plurals>
+<string name="delete_folder_prompt">"Sirboota dhaabbataan idaa\'I haquu keessatti \"<xliff:g id="folder">%s</xliff:g>\" ukaankaa meeshaa irraa?"</string>
+<string name="delete_playlist">"Haquu \"<xliff:g id="song">%s</xliff:g>\" tartiibataphaa?"</string>
+<string name="display_music">"Muuziiqaa"</string>
+<string name="quit">"Keessa bahi"</string>
+<string name="setting">"Qindaa\'ina"</string>
+<string name="folder_menu">"Ukaanka"</string>
+<string name="delete_playlist_message">""Tarree sirba irraa haqu barbaadun kessanni mirkanaa \"%1$s\"?"</string>
+<string name="delete_all_playlist">"Tarreewwan sirbaa hunda  balleessi"</string>
+<plurals name="NNNallSongsExist">
+<item quantity="one">"Faaruun tarree sirbaa keessa jira."</item>
+<item quantity="other">"Faaruuwwan tarree sirbaa keessa jira."</item>
+</plurals>
+<plurals name="NNNaddsongtoplaylist">
+<item quantity="one">"Faaruun 1 dabalameera,"</item>
+<item quantity="other">"<xliff:g example="27" id="number">%d</xliff:g> sirboota dabalame,"</item>
+</plurals>
+<string name="NNNsongAlreadyExist2">" <xliff:g example="27" id="number">%d</xliff:g> sirboota duraan keessa jiran \"<xliff:g id="playlist">%s</xliff:g>\" tartiibataphaa. "</string>
+<string name="favorite_added">"Sirboota ani jaaladhuu"</string>
+<string name="add_playlist_title">"Tarree taphachisaa itti dabaala"</string>
+<string name="empty_play_list">"Tarree taphachisaa duwwaa"</string>
+<string name="sort_by_time">"Yeroon kan hiraame"</string>
+<string name="sort_by_name">"Maqan kan hiraame"</string>
+<string name="share">"Qooduu"</string>
+<string name="share_error">"Galmee qooda hin qabne!"</string>
+<string name="no_search_result">"Faaruuwwan keessa hin turre"</string>
+<string name="search_title_hint">"Aartistii,Sirba fi kaasseettii"</string>
+<string name="error_permissions">"Appilikeeshiniin eeyyaamoota barbaachise gadi fageenyaan hin qabu dalaguuf: Maaloo yoomeessawwan eeyyaamoota kee mirkannessi."</string>
+<string name="dialog_dismiss">"Dhaabuu"</string>
+<string name="toast_fileexplorer_internal_error">"Eeyyamni muuziiqaa dhorkame jir!"</string>
+<string name="fifty_min">"Daqiiqota 15"</string>
+<string name="theirty_min">"Daqiiqota 30"</string>
+<string name="sixty_min">"Daqiiqota 60"</string>
+<string name="ninety_min">"Daqiiqota 90"</string>
+<string name="self_define">"Yeero dhaabi mamili"</string>
+<string name="timer_option">"Qindeessin milka\'eerra, muziiqaan erga lakkaa\'amen boda cufaama."</string>
+<plurals name="NNNselftimeSuffix">
+<item quantity="one">"Daaqiiqaa"</item>
+<item quantity="other">"daqiiqaawwan"</item>
+</plurals>
+<string name="self_min">"daqiiqaawwan"</string>
+<string name="timer_setting">"Dhaabi yeero kaa\'ii"</string>
+<string name="change_face">"Dhamsa jijjiirra"</string>
+<string name="timed_setting">"Dhaabi yeero filaadhuu"</string>
+<string name="time_warning">"Yeero mamila daangaa ol aanaa daqiiqaa 1440 (sa\'aatti 24) ol ta\'e jira!"</string>
+<string name="time_min_warning">"Yeero mamila daqiiqaa tokko gad ta\'u hin qabu!"</string>
+<string name="time_not_null">"Yeero mamila duwwaa ta\'u hin qabu!"</string>
+<string name="no_allow_play_calling">"Yeroo bilbiluutti muuziqaa taphachiisuun hin eyyamamu (raadiyoo/viidiyoo)."</string>
+<string name="random_play_all">"Hunda faduulii taphachiisaa"</string>
+<string name="unable_to_connect_title">"Faayilii wali-qunnamu hin dandeenye"</string>
+<string name="unable_to_connect_message">"Faayilii amma argachu hin dandeemnye. Maaloo walindhaa too\'aadha"</string>
+<string name="protect_information">"Oddeeffannoo eeguu"</string>
+<string name="drm_consume_title">"Mirgoota Drm nyaata"</string>
+<string name="drm_consume_hint">"Raawwiin kee mirgoota Drm nyaata"</string>
+<string name="drm_file_name">"Maqaa faayilii: %1$s"</string>
+<string name="drm_rights_validity">"Mirga gataa\'essuu:gataa\'aa"</string>
+<string name="drm_rights_invalidity">"Mirga gataa\'essuu:gataa\'aa hin tahin"</string>
+<string name="drm_rights_status_transfer">"Sadarkaa Mirgootaa:kan eeyyaame ta’a dabarfame"</string>
+<string name="drm_rights_status_untransfer">"Sadarkaa Mirgootaa:kan hin eeyyaamne ta’a dabarfame"</string>
+<string name="drm_start_time">"Yeroo Jalqabuu:%1$s"</string>
+<string name="drm_end_time">"Yeroo Xumuruu:%1$s"</string>
+<string name="drm_expiration_time">"Yeruu Gubaachuu:%1$s"</string>
+<string name="drm_remain_times">"Yeroowwaan Hafaaan:%1$s"</string>
+<string name="drm_unlimited_rights">"Hin murtoofne"</string>
+<string name="drm_rights_unknown">"Hinbeekamu"</string>
+<string name="drm_inactive_rights">"Mirgoota hin si’oofne"</string>
+<string name="statusbarlabel">"Muuziiqaa "</string>
+<string name="dock_forced_resizable">"Taphachiisan muziiqaa haalata argii adda ba\'aa irratti sirritti hin hojaatu."</string>
+<string name="error_choose_drm_for_gallery">"Faayilii DRM dalaga kanaatti hin gaalu"</string>
+<string name="delete_from_device">"Mi\'aa irraa haqi"</string>
+<string name="delete_from_playlist">"Sirboota filaaman taphachistuu irraa haquu?"</string>
+<string name="empty">"Sirbi filaame hin jiru, maaloo ilaalla."</string>
+<string name="empty_playlist_message">""Tarree taphachiisa duwwa godhu barbaadu\"%1$s\"?"</string>
+<string name="same_playlist">"Maqaan soyiran tarree taphachiisa duraanu jira!"</string>
+<string name="overwrite_playlist_alert_rename">"Odeeffannoon tarree sirbaa  “<xliff:g id="NAME">%s</xliff:g>” keessa jiru haguugameera."</string>
+<string name="usbdisk">"USB Disk(<xliff:g id="USBNAME">%s</xliff:g>)"</string>
+<string name="length_limited">"Maqaan gara dheeriina gudda olii"</string>
+<string name="file_notfound">"Dhifaama faayilii hin argaane, maaaloo ilaalla."</string>
+<string name="operation_failed">"Sirba gara tarree sirba "sirboota Ani jaaladhutti" dabaaluun kuufe jira."</string>
+<string name="playlist_emptied">"Tarree taphachisaa duwwaa godhame jira."</string>
+<string name="max_number">" Faayilii 100 ol filaame jira,dalagan qooduu hin jiru"</string>
+<string name="invalid_playlist_name">"Maqaan tarree taphachisaa\"/\" hin xumuraamu."</string>
+<string name="special_playlist_name">"Maqaan tartiibataphaa arfiiwwan qabachuu kan hin dandeenye \\:*?\"\u003C\u003E|/"</string>
+</resources>

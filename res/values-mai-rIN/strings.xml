@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="onesong">"1 टा गीत"</string>
+<plurals name="Nsongs">
+<item quantity="one">"<xliff:g id="count">%d</xliff:g> गीत"</item>
+<item quantity="other">"<xliff:g id="count">%d</xliff:g> गीत"</item>
+</plurals>
+<plurals name="Nsongscomp">
+<item quantity="one">"<xliff:g id="count_for_artist">%2$d</xliff:g> केर <xliff:g id="total_count">%1$d</xliff:g> गीत"</item>
+<item quantity="other">"<xliff:g id="count_for_artist">%2$d</xliff:g> क <xliff:g id="total_count">%1$d</xliff:g> गीत"</item>
+</plurals>
+<plurals name="Nalbums">
+<item quantity="one">"1 टा एलबम"</item>
+<item quantity="other">"<xliff:g id="count">%d</xliff:g> एलबम"</item>
+</plurals>
+<string name="whoes_album">"एस एलबम"</string>
+<string name="goto_start">"लाइब्रेरी"</string>
+<string name="party_shuffle">"मिलनैय जुलनैय"</string>
+<string name="party_shuffle_off">"मिलनैय जुलनैय बंद"</string>
+<string name="delete_item">"मेंटाऊ"</string>
+<string name="shuffle_all">"मिलेलहा सबटा"</string>
+<string name="play_all">"सबटा चलाऊ"</string>
+<string name="delete_artist_desc">"सबटा गीत क एकरा द्वारा हरदम क लेल मेंटा देल गेल <xliff:g id="artist">%s</xliff:g> एसडी कार्ड सं ?"</string>
+<string name="delete_artist_desc_nosdcard">"सबटा गीत क एकरा द्वारा हरदम क लेल मेंटा देल गेल <xliff:g id="artist">%s</xliff:g> USB गोदाम सं?"</string>
+<string name="delete_album_desc">"सबटा एलबम हरदम कय लेल मेंटा देल गेल  \"<xliff:g id="album">%s</xliff:g>\"एसडी कार्ड सं?"</string>
+<string name="delete_album_desc_nosdcard">"सबटा एलबम हरदम कय लेल मेंटा देल गेल  \"<xliff:g id="album">%s</xliff:g>\"USB गोदाम सं?"</string>
+<string name="delete_song_desc">"हरदम क लेल मेंटा देल गेल \"<xliff:g id="song">%s</xliff:g>\"एसडी कार्ड गोदाम सं?"</string>
+<string name="delete_song_desc_nosdcard">"हरदम क लेल मेंटा देल गेल \"<xliff:g id="song">%s</xliff:g>\"USB गोदाम सं?"</string>
+<string name="delete_confirm_button_text">"ठीक छई"</string>
+<plurals name="NNNtracksdeleted">
+<item quantity="one">"1 टा गीत मिटाओल गेल"</item>
+<item quantity="other">"<xliff:g id="songs_to_delete">%d</xliff:g> गीत मेंटायल."</item>
+</plurals>
+<string name="scanning">"एसी कॉर्ड क परिखल जा रहल अछि..."</string>
+<string name="scanning_nosdcard">"USB गोदाम क परिखल जा रहल अछि..".</string>
+<string name="nowplaying_title">"आब चलि रहल अछि"</string>
+<string name="partyshuffle_title">"मिलनैय जुलनैय"</string>
+<string name="artists_title">"कलाकार"</string>
+<string name="albums_menu">"एलबम्स"</string>
+<string name="albums_title">"एलबम्स"</string>
+<string name="tracks_menu">"गीत"</string>
+<string name="tracks_title">"गीत"</string>
+<string name="playlists_menu">"गायबय बला"</string>
+<string name="playlists_title">"गायबय बला"</string>
+<string name="videos_title">"चलचित्र"</string>
+<string name="all_title">"सबटा माध्यम"</string>
+<string name="browse_menu">"कलाकार"</string>
+<string name="search_title">"खोजू"</string>
+<string name="no_tracks_title">"कोनो गीत नहिं"</string>
+<string name="no_album_title">"कोनो एलबम नहि"</string>
+<string name="no_artist_title">"कोनो कलाकार नहि"</string>
+<string name="no_folderlist_title">"कोनो फोल्डर नहि"</string>
+<string name="no_videos_title">"कोनो चलचित्र नहिं"</string>
+<string name="no_playlists_title">"कोनो गायबय बला नहिं"</string>
+<string name="delete_playlist_menu">"मेंटाऊ"</string>
+<string name="edit_playlist_menu">"ठीक करू"</string>
+<string name="rename_playlist_menu">"दोसर नाम"</string>
+<string name="playlist_deleted_message">"गायबय बला मेंटा देल गेल"</string>
+<string name="playlist_renamed_message">"गायबय बला क दोसर बेर नाम देल गेल"</string>
+<string name="recentlyadded">"एखने जोड़ल गेल"</string>
+<string name="recentlyadded_title">"एखने जोड़ल गेल"</string>
+<string name="podcasts_listitem">"पॉडकॉस्ट्स"</string>
+<string name="podcasts_title">"पॉडकॉस्ट्स"</string>
+<string name="sdcard_missing_title">"एसडी कॉर्ड नहिं अछि"</string>
+<string name="sdcard_missing_title_nosdcard">"USB गोदाम नहिं अछि"</string>
+<string name="sdcard_missing_message">"अहांक फोन मं एसडी कॉर्ड नहिं डालल गेल अछि"</string>
+<string name="sdcard_missing_message_nosdcard">"अहांक फोन मं USB गोदाम नहिं अछि"</string>
+<string name="sdcard_busy_title">"एसडी कॉर्ड नहिं अछि"</string>
+<string name="sdcard_busy_title_nosdcard">"USB गोदाम नहिं भेटि रहल अछि"</string>
+<string name="sdcard_busy_message">"अहांक एसडी हफना रहल अछि"</string>
+<string name="sdcard_busy_message_nosdcard">"अहांक USB गोदाम हफना रहल अछि"</string>
+<string name="sdcard_error_title">"एसडी कॉर्ड गलत"</string>
+<string name="sdcard_error_title_nosdcard">"USB गोदाम गलत"</string>
+<string name="sdcard_error_message">"अहां क एसडी कॉर्डक गिनती गलत अछि"</string>
+<string name="sdcard_error_message_nosdcard">"अहां क USB गोदामक गिनती गलत भय गेल"</string>
+<string name="unknown_artist_name">"अचिन्हार कलाकार"</string>
+<string name="unknown_album_name">"अचिन्हार एलबम"</string>
+<string name="shuffle_on_notif">"फेंटय बला खुजल अछि"</string>
+<string name="shuffle_off_notif">"फेंटय बला बंद अछि"</string>
+<string name="repeat_off_notif">"बेर बेर करय बला बंद अछि"</string>
+<string name="repeat_current_notif">"एखुनका गीत क बेर बेर चलायल जा रहल"</string>
+<string name="repeat_all_notif">"सबटा गीत क बेर बेर चलायल जा रहल"</string>
+<string name="ringtone_menu">"फोनक घंटी क इस्तेमाल करू"</string>
+<string name="ringtone_menu_short">"फोनक घंटी क तरह इस्तेमाल"</string>
+<string name="ringtone_set">"\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>\"फोन क घंटी जेकां सजाऊ."</string>
+<string name="play_selection">"शुरू करू"</string>
+<string name="add_to_playlist">"चलबय बला सूची मं जोड़ू"</string>
+<string name="show_artist">"कलाकारक जानकारी देखाऊ"</string>
+<string name="delete_folder">"मेंटाऊ"</string>
+<string name="queue">"एखन चलय बला सूची"</string>
+<string name="new_playlist">"नबका"</string>
+<string name="new_playlist_name_template">"नबका प्ले सूची <xliff:g id="number">%d</xliff:g>"</string>
+<plurals name="NNNtrackstoplaylist">
+<item quantity="one">"1 टा गीत चलय बला सूची सं जुड़ि गेल"</item>
+<item quantity="other">"<xliff:g id="number" example="27">%d</xliff:g>  प्ले सूची में गीत जोड़ल गेल."</item>
+</plurals>
+<string name="emptyplaylist">"चुनल गेल चलय बला सूची खाली अछि"</string>
+<string name="create_playlist_create_text">"जोगैल"</string>
+<string name="create_playlist_overwrite_text">"ओहिये पर लिखू"</string>
+<string name="service_start_error_title">"प्लेबैकक दिक्कत"</string>
+<string name="service_start_error_msg">"गीत नहिं चलायल जा सकत"</string>
+<string name="service_start_error_button">"ठीक छई"</string>
+<string-array name="weeklist">
+<item>"1 सप्ताह"</item>
+<item>"2 हफ्ता"</item>
+<item>"3 हफ्ता"</item>
+<item>"4 हफ्ता"</item>
+<item>"5 हफ्ता"</item>
+<item>"6 हफ्ता"</item>
+<item>"7 हफ्ता"</item>
+<item>"8 हफ्ता"</item>
+<item>"9 हफ्ता"</item>
+<item>"10 हफ्ता"</item>
+<item>"11 हफ्ता"</item>
+<item>"12 हफ्ता"</item>
+</string-array>
+<string name="weekpicker_set">"ठीक अछि।"</string>
+<string name="weekpicker_title">"समय क ठीक करू"</string>
+<string name="save_as_playlist">"चलय बला सूची क जेकां जोगाऊ"</string>
+<string name="clear_playlist">"चलय बला सूची क साफ करू"</string>
+<string name="musicbrowserlabel">"गीत"</string>
+<string name="musicshortcutlabel">"चलय बला सूची क गीत"</string>
+<string name="mediaplaybacklabel">"गीत"</string>
+<string name="videobrowserlabel">"चलचित्र"</string>
+<string name="mediapickerlabel">"गीत"</string>
+<string name="playback_failed">"माफ करू, पोथी क चलैनय मुश्किल अछि"</string>
+<string name="cancel">"हंटाऊ।"</string>
+<string name="done">"ठीक अछि।"</string>
+<string name="remove_from_playlist">"चलय बला सूची सं हंटाऊ"</string>
+<string name="streamloadingtext">"जोड़ल जा रहल अछि <xliff:g id="host">%s</xliff:g>..."</string>
+<string name="mediasearch">"एकरा लेल खोज <xliff:g id="term" example="Beethoven">%s</xliff:g> इस्तेमाल भय रहल:"</string>
+<string name="working_artists">"कलाकार..".</string>
+<string name="working_albums">"एलबम..".</string>
+<string name="working_songs">"गीत..."</string>
+<string name="working_playlists">"चलय बला सूची"</string>
+<string name="loading">"जमा भय रहल अछि..."</string>
+<string name="sort_by_track">"रस्ता"</string>
+<string name="sort_by_album">"एलबम्स"</string>
+<string name="sort_by_artist">"कलाकार"</string>
+<string name="music_picker_title">"गीतक रस्ता क चुनू"</string>
+<string name="search_settings_description">"कलाकार, एलबम आ रस्ता"</string>
+<string name="search_hint">"गीत क खोजू"</string>
+<string name="search_result">"खोजक परिणाम"</string>
+<string name="fast_scroll_alphabet">"\u0020ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
+<string name="widget_initial_text">"गीत क खोजय लेल छुऊ"</string>
+<string name="effectspanel">"गीतक प्रभाव"</string>
+<string name="no_play">"एखन नहिं चलायल जा सकय"</string>
+<string name="add_favourite_song">"हमर मन पसंद गीतक सूचिमे जोड़ल गेल"</string>
+<string name="remove_favourite_song">"हमर मन पसंद गीतक सूचिसँ हटाओल गेल"</string>
+<string name="activity_title_delete">"गीत क हंटाऊ"</string>
+<string name="activity_title">"गीत जोड़ू"</string>
+<string name="add_music">"गीत जोड़ू"</string>
+<string name="music_selected_all">"सबटा क चुनू"</string>
+<string name="confirm_add">"जोड़नाय"</string>
+<string name="cancel_add">"हंटाऊ।"</string>
+<string name="delete_all_music">"हंटाऊ"</string>
+<string name="confirm_delete">"हंटाऊ"</string>
+<string name="music_selected_all_delete">"चाभी क खाली करय लेल चुनू"</string>
+<string name="music_cancle_selected_all">"सबटा क मेंटाऊ"</string>
+<string name="being_add">"जुड़ि रहल अछि, कृपा कय क रूकू..."</string>
+<string name="remove_track">"हंटि रहल अछि, कृपा कय क रूकू..."</string>
+<string name="invalid">"ई निर्देश देय बला नहिं खुजत"</string>
+<string name="from_library">"लाइब्रेरी सं गीत क जोड़ू"</string>
+<string name="from_folder">"पोथी सं गीत क जोड़ू"</string>
+<string name="lyrics_edit_title">"गीत क सुधारू"</string>
+<string name="nolrc">"कोनो गीत नहिं या पोथी गलत अछि"</string>
+<string name="del_track">"चीज मेंटाय रहल अछि, कृपा कय क रूकू..."</string>
+<string name="ringtone_title_sim1">"सिम 1 फोनक घंटी"</string>
+<string name="ringtone_title_sim2">"सिम 2 फोनक घंटी"</string>
+<string name="ringtone_set_sim1">"\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>\"फोन सिम फोन 1 क घंटी जेकां सजाऊ."</string>
+<string name="ringtone_set_sim2">"\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>\"फोन सिम फोन 2 क घंटी जेकां सजाऊ"</string>
+<string name="ring_set_fail">"माफ करू, गीत क नहिं चलैल जा सकय। कृपा कय क घंटी कय लेल दोसर गीत चुनू"</string>
+<string name="ring_set_silent_vibrate">"कस्टम घंटी बलाक एखुनका तरीका मदद नहिं कय पाबि रहल छै"</string>
+<string name="please_insert_sim_card">"कृपा कय क कम सं कम सिम कॉर्ड क डालू"</string>
+<string name="create_playlist_warning">"एखन जोड़ल गेल चीज क एके नाम कय इस्तेमाल नहिं भय सकय"</string>
+<string name="overwrite_playlist_alert">"प्ले सूची क आंकड़ा मं"<xliff:g id="NAME">%s</xliff:g>"मेंटा देल जायत."</string>
+<string name="playlist_created_message">"चलेवाक सूचि सृजन कयल गेल"</string>
+<string name="overwrite_playlist_alert_rename">"चलय बला सूची बनि गेल"प्ले सूची क आंकड़ा मं अछि"<xliff:g id="NAME">%s</xliff:g>"एहि मं शामिल रहत."</string>
+<string name="delete_artist">"सबटा गीत क हरदम क लेल मंेटा देल गेल \"<xliff:g id="artist">%s</xliff:g>\"उपकरण सं?"</string>
+<string name="delete_album">"सबटा एलबम क हरदम क लेल मंेटा देल गेल \"<xliff:g id="album">%s</xliff:g>\"उपकरण सं?"</string>
+<string name="delete_song">"हरदम क लेल मंेटा देल गेल \"<xliff:g id="song">%s</xliff:g>\"उपकरण सं?"</string>
+<string name="delete_playlist">" "<xliff:g id="song">%s</xliff:g>" चलेवाक सूचिसँ "हटाऊ?"</string>
+<string name="delete_songs">"उपकरणसँ सदा केर लेल मिटाऊ?"</string>
+<string name="display_music">"गीत"</string>
+<string name="quit">"छोड़ू"</string>
+<string name="setting">"सजाबय बला"</string>
+<string name="folder_menu">"पोथी बला फोल्डर"</string>
+<string name="delete_playlist_message">"की अहां प्ले सूची क मेंटबय चाहैत छी"%1$s"？"</string>
+<string name="delete_all_playlist">"सबटा चलय बला सूची क हंटाऊ"</string>
+<plurals name="NNNallSongsExist">
+<item quantity="one">"गीत अहां क चलय बला सूची मं अछि"</item>
+<item quantity="other">"गीत अहां क चलय बला सूची मं अछि"</item>
+</plurals>
+<plurals name="NNNaddsongtoplaylist">
+<item quantity="one">"1 टा गीत जुड़ि गेल"</item>
+<item quantity="other">"<xliff:g id="number" example="27">%d</xliff:g> गीत जोड़ल गेल,"</item>
+</plurals>
+<plurals name="NNNsongAlreadyExist">
+<item quantity="one">"1 टा गीत अहां क चलय बला सूची मं पहिनैयें सं अछि"</item>
+<item quantity="other">"<xliff:g id="number" example="27">%d</xliff:g> गीत पहिनैये सं प्ले सूची मं उपलब्ध अछि"</item>
+</plurals>
+<string name="length_limited">"नाम आखिरी लंबाई तक अछि"</string>
+<string name="favorite_added">"हमर मनपसंद गीत"</string>
+<string name="add_playlist_title">"चलेवाक सूचि जोड़ू"</string>
+<string name="empty_play_list">"खाली चलेवाक सूचि"</string>
+<string name="sort_by_time">"समय क मुताबिक"</string>
+<string name="sort_by_name">"नाम क मुताबिक"</string>
+<string name="share">"बांटू"</string>
+<string name="share_error">"साझीक लेल आवेदन नहि!"</string>
+<string name="no_search_result">"कोनो गीत नहिं भेटल"</string>
+<string name="search_title_hint">"कलाकार, गीत आ एलबम"</string>
+<string name="error_permissions">"एप केर चलबाक लेल आलोचनात्मक अनुमति नहि चाही। कृपाकय अहाँ अनुमतिक स्थापना सभक जाँच करू."</string>
+<string name="dialog_dismiss">"हंटाऊ"</string>
+<string name="toast_fileexplorer_internal_error">"संगीतमे अनुमतिसँ मना कायल गेल!"</string>
+<string name="fifty_min">"15 मिनट्स"</string>
+<string name="theirty_min">"30 मिनट्स"</string>
+<string name="sixty_min">"60 मिनट"</string>
+<string name="ninety_min">"90 मिनट"</string>
+<string name="self_define">"रिवाज"</string>
+<string name="timer_option">"सफलतापुर्वक लगाऊ, संगीत उल्टी गीनतीक बाद बंद होयत"</string>
+<string name="self_min">"मिनट"</string>
+<string name="timer_setting">"रोकबाक समयपाल लगाऊ"</string>
+<string name="change_face">"चेहरा बदलू"</string>
+<string name="timed_setting">"रोकय वला समयक चयन करू"</string>
+<string name="time_warning">"प्रचलित समयपाल उपरक सीमा 1440 मिनट (24 घंटा) सँ बढि गेल अछि!"</string>
+<string name="time_min_warning">"प्रचलित समयपाल एक मिनटसँ कम केर नहि होवाक चाही!"</string>
+<string name="no_allow_play_calling">"काँलक दौराण संगीत चलेबाक अनुमति नहि अछि(रेडियो/विडियो)."</string>
+<string name="songs_nums_for_suffix">"गीत सब"</string>
+<string name="random_play_all">"अचानक सब केर चलाऊ"</string>
+<string name="unable_to_connect_title">"फाइलसँ नहि जोड़ि सकलौ"</string>
+<string name="unable_to_connect_message">"वर्तामान फाइल नहि ताकि सकलौ। कृपाकय जोड़क जाँच करू"</string>
+<string name="protect_information">"जानकारी क सुरक्षित करू"</string>
+<string name="drm_consume_title">"डीआरएम अधिकार क इस्तेमाल"</string>
+<string name="drm_consume_hint">"अहां कय काज डीआरएम अधिकारक इस्तेमाल कय लैत"</string>
+<string name="drm_file_name">"फाइलक नाम:%1$s"</string>
+<string name="drm_rights_validity">"अधिकारक वैधता: वैध"</string>
+<string name="drm_rights_invalidity">"अधिकारक वैधता: अवैध"</string>
+<string name="drm_rights_status_transfer">"अधिकारक स्थिति: आगां बढ़बय क आज्ञा अछि"</string>
+<string name="drm_rights_status_untransfer">"अधिकारक स्थिति: आगां बढ़बय क आज्ञा नहिं अछि"</string>
+<string name="drm_start_time">"समय शुरू: %1$s"</string>
+<string name="drm_end_time">"आखिर समय: %1$s"</string>
+<string name="drm_expiration_time">"खतम होय बला समय: %1$s"</string>
+<string name="drm_remain_times">"बचल समय: %1$s"</string>
+<string name="drm_no_info">"कोनो जानकारी नहिं"</string>
+<string name="drm_unlimited_rights">"कोनो सीमा नहिं"</string>
+<string name="drm_rights_unknown">"पता नहिं"</string>
+<string name="drm_inactive_rights">"अधिकार काज नहिं कय रहल"</string>
+<string name="statusbarlabel">"सँगीत"</string>
+<string name="dock_forced_resizable">"एप बिभाजित स्क्रीनक सँग काज नहियो कय सकैत अछि।"</string>
+<string name="error_choose_drm_for_gallery">"डीआरएम पोथी क चुनल नहिं जा सकल"</string>
+<string name="delete_from_device">"उपकरणसँ हटाऊ"</string>
+<string name="delete_from_playlist">"चलेवाक सूचिसँ मिटाऊ?"</string>
+</resources>

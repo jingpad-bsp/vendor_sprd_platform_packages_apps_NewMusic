@@ -1,0 +1,43 @@
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingStart="8dp"
+    android:paddingEnd="8dp" >
+
+    <GridView
+        android:id="@+id/grid"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="@color/grid_bg_color"
+        android:gravity="center"
+        android:numColumns="2"
+        android:scrollbarStyle="insideOverlay"
+        android:scrollbars="vertical"
+        android:stretchMode="columnWidth"
+        android:verticalSpacing="8dp"
+        android:horizontalSpacing="8dp" />
+
+    <ImageView
+        android:id="@+id/nodata_img"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_marginTop="80dp"
+        android:gravity="center"
+        android:visibility="gone"
+        android:src="@drawable/pic_void_album" />
+
+    <TextView
+        android:id="@+id/nodata_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:maxLines="1"
+        android:layout_below="@+id/nodata_img"
+        android:layout_marginTop="8dp"
+        android:textColor="#7F000000"
+        android:layout_centerHorizontal="true"  
+        android:text="@string/no_album_title"
+        android:visibility="gone"
+        android:textSize="16sp" />
+
+</RelativeLayout>

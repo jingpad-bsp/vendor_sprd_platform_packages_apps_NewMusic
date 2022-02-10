@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="onesong">១បទ</string>
+    <plurals name="Nsongs">
+        <item quantity="one">"<xliff:g id="count">%d</xliff:g> បទ"</item>
+        <item quantity="other">"ចម្រៀងសរុបចំនួន <xliff:g id="count">%d</xliff:g> បទ"</item>
+    </plurals>
+    <plurals name="Nalbums">
+        <item quantity="one">១អាល់ប៊ុម</item>
+        <item quantity="other">"<xliff:g id="count">%d</xliff:g> អាល់ប៊ុម"</item>
+    </plurals>
+    <string name="whoes_album">"អាល់ប៊ុមរបស់"</string>
+    <string name="party_shuffle">ចាក់ដោយចៃដន្យ</string>
+    <string name="party_shuffle_off">បិទការចាក់ដោយចៃដន្យ</string>
+    <string name="delete_item">លុបចោល</string>
+    <string name="shuffle_all">ចាក់ដោយចៃដន្យទាំងអស់</string>
+    <string name="delete_confirm_button_text">យល់ព្រម</string>
+    <plurals name="NNNtracksdeleted">
+        <item quantity="one">បានលុបចម្រៀង១បទ</item>
+        <item quantity="other">"ចម្រៀងចំនួន <xliff:g id="songs_to_delete">%d</xliff:g> បទត្រូវបានលុប។"</item>
+    </plurals>
+    <plurals name="NNNtracksremoved">
+        <item quantity="one">"<xliff:g id="songs_to_delete">%d</xliff:g> បទចម្រៀងត្រូវបានដកចេញពី \"<xliff:g id="playlist">%s</xliff:g>\" បញ្ជីចាក់ចម្រៀង។"</item>
+        <item quantity="other">"<xliff:g id="songs_to_delete">%d</xliff:g> បទចម្រៀងនានាត្រូវបានដកចេញពី \"<xliff:g id="playlist">%s</xliff:g>\" បញ្ជីចាក់ចម្រៀង។"</item>
+    </plurals>
+    <string name="scanning">កំពុងស្កែនកាតSD\u2026</string>
+    <string name="scanning_nosdcard">កំពុងស្កែនអង្គចងចាំUSB\u2026</string>
+    <string name="nowplaying_title">កំពុងចាក់</string>
+    <string name="artists_title">សិល្បៈករ</string>
+    <string name="albums_menu">"អាល់ប៊ុម"</string>
+    <string name="albums_title">"Albums"</string>
+    <string name="tracks_menu">ចម្រៀង</string>
+    <string name="tracks_title">ចម្រៀង</string>
+    <string name="playlists_menu">បញ្ជីចាក់</string>
+    <string name="playlists_title">បញ្ជីចាក់</string>
+    <string name="all_title">ឯកសារមីឌាទាំងអស់</string>
+    <string name="browse_menu">សិល្បៈករ</string>
+    <string name="search_title">"ស្វែងរក"</string>
+    <string name="no_tracks_title">មិនមានបទចម្រៀង</string>
+    <string name="no_album_title">"គ្មានអាល់ប៊ុម"</string>
+    <string name="no_artist_title">"គ្មានសិល្បករ"</string>
+    <string name="no_folderlist_title">"គ្មានថតឯកសារ"</string>
+    <string name="delete_playlist_menu">លុបចោល</string>
+    <string name="rename_playlist_menu">"ឲ្យឈ្មោះឡើងវិញ"</string>
+    <string name="playlist_deleted_message">បានលុបបញ្ជីចាក់</string>
+    <string name="playlist_renamed_message">បានកែឈ្មោះបញ្ជីចាក់</string>
+    <string name="recentlyadded">បានបន្ថែមក្នុងពេលថ្មីៗ</string>
+    <string name="podcasts_listitem">ផូសខាសត៍</string>
+    <string name="sdcard_missing_title">មិនមានកាតSD</string>
+    <string name="sdcard_missing_title_nosdcard">មិនមានអង្គចងចាំUSBទេ</string>
+    <string name="sdcard_missing_message">ទូរស័ព្ទរបស់លោកគ្មានកាតSD។</string>
+    <string name="sdcard_missing_message_nosdcard">ទូរស័ព្ទរបស់លោកគ្មានអង្គចងចាំUSB។</string>
+    <string name="sdcard_busy_title">កាតSD មិនអាចប្រើបាន</string>
+    <string name="sdcard_busy_title_nosdcard">អង្គចងចាំUSBមិនអាចប្រើបាន</string>
+    <string name="sdcard_busy_message">សូមទោស កាតSDជាប់រវល់</string>
+    <string name="sdcard_busy_message_nosdcard">សូមទោស បរិក្ខារ USBរបស់លោកអ្នកជាប់រវល់</string>
+    <string name="sdcard_error_title">កាតSDមានកំហុស</string>
+    <string name="sdcard_error_title_nosdcard">អង្គចងចាំUSBមានកំហុស</string>
+    <string name="sdcard_error_message">កាតSDរបស់លោកអ្នកបានជួបនឹងបញ្ហាមួយ។</string>
+    <string name="sdcard_error_message_nosdcard">អង្គចងចាំUSBរបស់លោកអ្នកបានជួបនឹងបញ្ហាមួយ។</string>
+    <string name="unknown_artist_name">សិល្បៈករដែលមិនស្គាល់</string>
+    <string name="unknown_album_name">អាល់ប៊ុមដែលមិនស្គាល់</string>
+    <string name="shuffle_on_notif">បានបើកការចាក់ដោយចៃដន្យ</string>
+    <string name="repeat_current_notif">ចាក់ចម្រៀងកំពុងប្រើនេះឡើងវិញ។</string>
+    <string name="sequence_notif">"ការលេងតៗគ្នាបានបើក។"</string>
+    <string name="repeat_all_notif">កំពុងចាក់ចម្រៀងទាំងអស់ឡើងវិញ។</string>
+    <string name="ringtone_menu">"ប្រើប្រាស់ជាសំឡេងរោទ៍ទូរសព្ទ"</string>
+    <string name="ringtone_menu_short">ប្រើវាជាសម្លេងរោទិ៍</string>
+    <string name="ringtone_set">"\"<xliff:g example="Alarm Bell" id="name">%s</xliff:g>\" ត្រូវបានកំណត់ជាសំឡេងរោទ៍ហៅទូរសព្ទ។"</string>
+    <string name="play_selection">"លេង"</string>
+    <string name="add_to_playlist">បន្ថែមទៅក្នុងបញ្ជីចាក់</string>
+    <string name="show_artist">"បង្ហាញព័ត៌មានសិល្បករ"</string>
+    <string name="queue">បញ្ជីលេងបច្ចុប្បន្ន</string>
+    <string name="new_playlist">ថ្មី</string>
+    <string name="emptyplaylist">បញ្ជីចាក់ដែលជ្រើសរើសទទេ</string>
+    <string name="create_playlist_create_text">រក្សាទុក</string>
+    <string name="service_start_error_title">មានបញ្ហាក្នុងការចាក់</string>
+    <string name="service_start_error_msg">សូមទោស មិនអាចបញ្ចាំងបទចំរៀងនេះ</string>
+    <string name="service_start_error_button">យល់ព្រម</string>
+    <string name="musicbrowserlabel">"តន្រ្តី"</string>
+    <string name="mediaplaybacklabel">"Music"</string>
+    <string name="mediapickerlabel">"Music"</string>
+    <string name="playback_failed">"សូមទោស មិនអាចចាក់ឯកសារនេះបានទេ។"</string>
+    <string name="cancel">បោះបង់</string>
+    <string name="done">រួចរាល់</string>
+    <string name="remove_from_playlist">លុបចេញពីបញ្ជីចាក់ចោល</string>
+    <string name="streamloadingtext">កំពុងភ្ជាប់ទៅកាន់<xliff:g id="host">%s</xliff:g>\u2026</string>
+    <string name="loading">"កំពុងដំណើរការ..."</string>
+    <string name="sort_by_track">បទភ្លេង</string>
+    <string name="sort_by_album">"Albums"</string>
+    <string name="sort_by_artist">សិល្បៈករ</string>
+    <string name="music_picker_title">ជ្រើសរើសបទចំរៀង</string>
+    <string name="search_result">លទ្ធផលរុករក</string>
+    <string name="widget_initial_text">សូមប៉ះដើម្បីជ្រើស​តន្ត្រី។</string>
+    <string name="effectspanel">ប្រសិទ្ធិភាពសម្លេង</string>
+    <string name="no_play">មិនអាចចាក់តន្រ្តីបានទេពេលនេះ</string>
+    <string name="music_selected_all">ជ្រើសរើសទាំងអស់</string>
+    <string name="music_cancle_selected_all">"បដិសេធទាំងអស់"</string>
+    <string name="nolrc">គ្មានទំនុកឬឯកសារមិនបានការ</string>
+    <string name="ringtone_title_sim1">"សំឡេងរោទ៍ការហៅទូរសព្ទស៊ីមទី 1"</string>
+    <string name="ringtone_title_sim2">"សំឡេងរោទ៍ការហៅទូរសព្ទស៊ីមទី 2"</string>
+    <string name="ringtone_set_sim1">"\"<xliff:g example="Alarm Bell" id="name">%s</xliff:g>\" ត្រូវបានកំណត់ជាសំឡេងរោទ៍ហៅទូរសព្ទរបស់ស៊ីមទី 1 ។"</string>
+    <string name="ringtone_set_sim2">"\"<xliff:g example="Alarm Bell" id="name">%s</xliff:g>\" ត្រូវបានកំណត់ជាសំឡេងរោទ៍ហៅទូរសព្ទរបស់ស៊ីមទី 2 ។"</string>
+    <string name="ring_set_fail">សុំអត់ទោស ឯកសារសម្លេងរោទ៍មិនអាចចាក់បាន។ សូមជ្រើសរើសចម្រៀងដទៃធ្វើជាសម្លេងរោទ៍</string>
+    <string name="ring_set_silent_vibrate">ម៉ូដដែលកំពុងប្រើប្រាស់នេះមិនគាំទ្រភ្លេងរោទិ៍កំណត់ដោយស្វ័យប្រវត្តិទេ។</string>
+    <string name="please_insert_sim_card">សូមស៊កស៊ីមកាតយ៉ាងហោចមួយចូល</string>
+    <string name="create_playlist_warning">"មិនអាចប្រើឈ្មោះដូចគ្នាជាមួយបញ្ជីចាក់របស់ប្រព័ន្ធបានទេ។"</string>
+    <string name="playlist_created_message">"តារាងចាក់ចម្រៀងត្រូវបានបង្កើត។"</string>
+    <string name="delete_album">តើត្រូវការលុបចោលអាល់ប៊ុម<xliff:g id="ALBUM">%s</xliff:g>”ចោលទាំងមូលពីឧបករណ៍ឬ?</string>
+    <string name="delete_artist_album">"លុបបទចម្រៀងទាំងអស់នៅក្នុងអាល់ប៊ុមជាអចិន្ត្រៃយ៍\"<xliff:g id="album">%s</xliff:g>\" ដែលតាម \"<xliff:g id="artist">%s</xliff:g>\" ពីឧបករណ៍?"</string>
+    <string name="delete_song">តើត្រូវការលុបទចម្រៀង“<xliff:g id="SONG">%s</xliff:g>”ចោលទាំងមូលពីឧបករណ៍ឬ?</string>
+    <plurals name="NNNallDeleteSelectedSong">
+        <item quantity="one">"លុបបទចម្រៀងដែលបានជ្រើសរើសចេញពីឧបករណ៍ជាអចិន្ត្រៃយ៍ឬ?"</item>
+        <item quantity="other">"លុបបទចម្រៀងនានាដែលបានជ្រើសរើសចេញពីឧបករណ៍ជាអចិន្ត្រៃយ៍ឬ?"</item>
+    </plurals>
+    <string name="delete_folder_prompt">"លុបចម្រៀងនានាដែលបានបន្ថែមអចិន្ត្រៃយ៍នៅក្នុង \"<xliff:g id="folder">%s</xliff:g>\" ថតឯកសារពីឧបករណ៍ឬ?"</string>
+    <string name="delete_playlist">"លុប \"<xliff:g id="song">%s</xliff:g>\" ចេញពីបញ្ជីចាក់ចម្រៀងឬ?"</string>
+    <string name="display_music">"Music"</string>
+    <string name="quit">"ចាកចេញ"</string>
+    <string name="setting">"ការកំណត់"</string>
+    <string name="folder_menu">"ថតឯកសារនានា"</string>
+    <string name="delete_playlist_message">"តើអ្នកពិតជាចង់លុបបញ្ជីចាក់ \"%1$s\"?"</string>
+    <string name="delete_all_playlist">លុបបញ្ជីរចាក់ចោលទាំងអស់</string>
+    <plurals name="NNNallSongsExist">
+        <item quantity="one">ចម្រៀងនេះមាននៅក្នុងបញ្ជីរចាក់ចម្រៀងរួចហើយ</item>
+        <item quantity="other">ចម្រៀងទាំងនេះមាននៅក្នុងបញ្ជីរចាក់ចម្រៀងរួចហើយ</item>
+    </plurals>
+    <plurals name="NNNaddsongtoplaylist">
+        <item quantity="one">ចម្រៀង១បទត្រូវបានបន្ថែម</item>
+        <item quantity="other">"ចម្រៀងចំនួន <xliff:g example="27" id="number">%d</xliff:g> បទត្រូវបានបន្ថែម"</item>
+    </plurals>
+    <string name="NNNsongAlreadyExist2"><xliff:g example="27" id="number">%d</xliff:g> បទចម្រៀងមាននៅក្នុង\"<xliff:g id="playlist">%s</xliff:g>\" បញ្ជីចាក់ចម្រៀងរួចហើយ។</string>
+    <string name="favorite_added">"បទចម្រៀងដែលខ្ញុំចូលចិត្តបំផុត"</string>
+    <string name="add_playlist_title">"បន្ថែមបញ្ជីចាក់ចម្រៀង"</string>
+    <string name="empty_play_list">"ធ្វើអោយបញ្ជីចាក់ចម្រៀងទទេ"</string>
+    <string name="sort_by_time">រៀបចំលំដាប់តាមម៉ោង</string>
+    <string name="sort_by_name">"តម្រៀប​តាម​ឈ្មោះ"</string>
+    <string name="share">"ចែករំលែក"</string>
+    <string name="share_error">"គ្មានកម្មវិធីអាចចែករំលែកទេ!"</string>
+    <string name="no_search_result">គ្មានបទចម្រៀងត្រូវរកឃើញ</string>
+    <string name="search_title_hint">"សិល្បករ ចម្រៀង ឬអាល់ប៊ុម"</string>
+    <string name="dialog_dismiss">"បដិសេធ"</string>
+    <string name="toast_fileexplorer_internal_error">"ការអនុញ្ញាតត្រូវបានបដិសេធនៅក្នុងតន្ត្រី!"</string>
+    <string name="fifty_min">"15 នាទី"</string>
+    <string name="theirty_min">"៣០ នាទី"</string>
+    <string name="sixty_min">"60 នាទី"</string>
+    <string name="ninety_min">"90 នាទី"</string>
+    <string name="self_define">"លៃតម្រូវម៉ោងឈប់តាមបំណង"</string>
+    <string name="timer_option">"ការកំណត់បានជោគជ័យ បទភ្លេងនឹងបិទបន្ទាប់ពីរាប់ថយក្រោយ។"</string>
+    <plurals name="NNNselftimeSuffix">
+        <item quantity="one">"នាទី"</item>
+        <item quantity="other">"នាទី"</item>
+    </plurals>
+    <string name="self_min">"minutes"</string>
+    <string name="timer_setting">"កំណត់អង្គកំណត់ម៉ោងឈប់"</string>
+    <string name="change_face">"ប្ដូរផ្ទាំងរូបភាព"</string>
+    <string name="timed_setting">"ជ្រើសរើសម៉ោងឈប់"</string>
+    <string name="time_warning">"អង្គកំណត់ម៉ោងលៃតម្រូវតាមបំណងលើសដែនកំណត់ខាងលើ 1440 នាទី (24 ម៉ោង)!"</string>
+    <string name="time_min_warning">"អង្គកំណត់ម៉ោងលៃតម្រូវតាមបំណងមិនត្រូវតិចជាងមួយនាទីទេ!"</string>
+    <string name="time_not_null">"អង្គកំណត់ម៉ោងលៃតម្រូវតាមបំណងមិនត្រូវមានតម្លៃសូន្យទេ!"</string>
+    <string name="no_allow_play_calling">មិនអនុញ្ញាតិអោយចាក់តន្ត្រីក្នុងពេលកំពុងហៅទូរស័ព្ទទេ(វិទ្យុ/វីដេអូ)។</string>
+    <string name="random_play_all">"ចាក់លេងទាំងអស់ដោយចៃដន្យ"</string>
+    <string name="unable_to_connect_title">"មិនអាចភ្ជាប់ទៅកាន់ឯកសារបានទេ"</string>
+    <string name="unable_to_connect_message">"មិនអាចទទួលបានឯកសារបច្ចុប្បន្នបានទេ។ សូមពិនិត្យមើលការតភ្ជាប់"</string>
+    <string name="protect_information">ពត៍មានការការពារ</string>
+    <string name="drm_consume_title">ប្រើប្រាស់សិទ្ធិDRM</string>
+    <string name="drm_consume_hint">ប្រតិបត្តិការរបស់លោកអ្នកនឹងប្រើប្រាស់សិទ្ធិDrm</string>
+    <string name="drm_file_name">"ឈ្មោះឯកសារ៖ %1$s"</string>
+    <string name="drm_rights_validity">"សុពលភាពនៃសិទ្ធិ៖ មានសុពលភាព"</string>
+    <string name="drm_rights_invalidity">"សុពលភាពនៃសិទ្ធិ៖ មិនមានសុពលភាព"</string>
+    <string name="drm_rights_status_transfer">ស្ថានភាពសិទ្ធិ៖ អនុញ្ញាតិអោយត្រូវបានបង្វែរ</string>
+    <string name="drm_rights_status_untransfer">ស្ថានភាពសិទ្ធិ៖មិន អនុញ្ញាតិអោយត្រូវបានបង្វែរ</string>
+    <string name="drm_start_time">ពេលវេលាចាប់ផ្តើម៖%1$s</string>
+    <string name="drm_end_time">ពេលវេលាបញ្ចប់៖%1$s</string>
+    <string name="drm_expiration_time">ពេលវេលាហួសកំណត់៖%1$s</string>
+    <string name="drm_remain_times">ពេលវេលានៅសល់៖%1$s</string>
+    <string name="drm_unlimited_rights">គ្មានដែនកំណត់</string>
+    <string name="drm_rights_unknown">មិនស្គាល់</string>
+    <string name="drm_inactive_rights">សិទ្ធិមិនទាន់បានធ្វើអោយសកម្មទេ</string>
+    <string name="statusbarlabel">"បទភ្លេង "</string>
+    <string name="dock_forced_resizable">"កម្មវិធីចាក់បទភ្លេងមិនអាចដំណើរការបានត្រឹមត្រូវនៅក្នុងទម្រង់អេក្រង់បំបែកទេ។"</string>
+    <string name="error_choose_drm_for_gallery">"ឯកសារ DRM មិនអនុវត្តចំពោះប្រតិបត្តិការនេះទេ"</string>
+    <string name="delete_from_device">"យកចេញពីឧបករណ៍"</string>
+    <string name="delete_from_playlist">"តើលុបបទចម្រៀងដែលបានជ្រើសរើសពីបញ្ជីចាក់ចម្រៀងឬ?"</string>
+    <string name="empty">"បទចម្រៀងដែលបានជ្រើសរើសគឺទទេ សូមធ្វើការពិនិត្យមើល។"</string>
+    <string name="empty_playlist_message">"តើអ្នកពិតជាចង់សម្អាតបញ្ជីចាក់ \"%1$s\"?"</string>
+    <string name="same_playlist">"ឈ្មោះបញ្ជីចាក់ចម្រៀងដែលបានបញ្ចូលមានរួចហើយ!"</string>
+    <string name="overwrite_playlist_alert_rename">"ទិន្នន័យបញ្ជីចាក់មីឌានៅក្នុង “<xliff:g id="NAME">%s</xliff:g>” ត្រូវបានគ្របដណ្តប់ពីលើ។"</string>
+    <string name="usbdisk">"ឌីស USB(<xliff:g id="USBNAME">%s</xliff:g>)"</string>
+    <string name="length_limited">ឈ្មោះនេះហួសពីប្រវែងអតិបរមា</string>
+    <string name="file_notfound">"សុំទោស មិនអាចស្វែងរកឯកសារបានទេ សូមធ្វើការពិនិត្យមើល។"</string>
+    <string name="operation_failed">"បន្ថែមបទចម្រៀងទៅកាន់បញ្ជីចាក់ចម្រៀង “បទចម្រៀងដែលខ្ញុំចូលចិត្តបំផុត”មិនជោគជ័យ។"</string>
+    <string name="playlist_emptied">"បញ្ជីចាក់ចម្រៀងត្រូវបានធ្វើអោយទទេ។"</string>
+    <string name="max_number">" ឯកសារជាង 100 ត្រូវបានជ្រើសរើស ហើយមុខងារចែករំលែកមិនអាចរកបានទេ"</string>
+    <string name="invalid_playlist_name">"ឈ្មោះរបស់បញ្ជីចាក់ ឮមិនអាចបញ្ចប់ដោយ \"/\" បានទេ។"</string>
+    <string name="special_playlist_name">"ឈ្មោះបញ្ជីចាក់មិនអាចមានផ្ទុកតួអក្សរមិនត្រឹមត្រូវបានទេ\\:*?\"\u003C\u003E|/"</string>
+    <string name="skip_to_next">"សូមទោស មិនអាចចាក់ឯកសារនេះបានទេ រំលងទៅឯកសារបន្ទាប់ដោយស្វ័យប្រវត្តិ។"</string>
+    <string name="no_sd_write_permission">"តន្ត្រីមិនមានសិទ្ធិចូលប្រើកាត SD របស់អ្នកទេ សូមផ្ដល់ការអនុញ្ញាត ឬសម្អាតទំហំផ្ទុករបស់កម្មវិធី ហើយធ្វើប្រតិបត្តិការម្តងទៀត"</string>
+    <string name="confirm">យល់ព្រម</string>
+    <string name="playback_notification">"សេវាកម្មចាក់ឡើងវិញ"</string>
+    <string name="no_sd_rootdir_permission">"កម្មវិធីចាក់តន្ត្រីមិនមានសិទ្ធិចូលប្រើកាត SD របស់អ្នកទេ សូមជ្រើសរើសកាត SD SANDISK របស់ថតឬសខាងក្រៅ ហើយអនុញ្ញាតការប្រតិបត្តិការឯកសារ។"</string>
+    <string name="error_permissions">"កម្មវិធីមិនមានការអនុញ្ញាតចាំបាច់ដើម្បីដំណើរការទេ។ សូមពិនិត្យមើលការកំណត់ការអនុញ្ញាតរបស់អ្នក។"</string>
+    <string name="create_failed">"ការបង្កើតមិនបានសម្រេច។"</string>
+    <plurals name="NNNtrackstoplaylist" formatted="false">
+        <item quantity="one">"បានបន្ថែមចម្រៀង 1 បទទៀតទៅ \"<xliff:g id="playlist">%2$s</xliff:g>\" បញ្ជីចាក់។"</item>
+        <item quantity="other">"<xliff:g example="27" id="number">%1$d</xliff:g> បានបន្ថែមចម្រៀងទៅ \"<xliff:g id="playlist">%2$s</xliff:g>\" បញ្ជីចាក់។"</item>
+    </plurals>
+</resources>

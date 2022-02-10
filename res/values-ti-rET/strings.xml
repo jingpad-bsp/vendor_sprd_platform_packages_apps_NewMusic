@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="onesong">"1ሙዚቃ"</string>
+<plurals name="Nsongs">
+<item quantity="one">"<xliff:g id="count">%d</xliff:g> ደርፊ/መዝሙር"</item>
+<item quantity="other">"ብጠቕላላ <xliff:g id="count">%d</xliff:g> ደርፍታት/መዛሙር"</item>
+</plurals>
+<plurals name="Nalbums">
+<item quantity="one">"1 አልበም"</item>
+<item quantity="other">"<xliff:g id="count">%d</xliff:g> አልበም"</item>
+</plurals>
+<string name="whoes_album">"ኣልቡም ናይ..።"</string>
+<string name="party_shuffle">"ናይ በዓል ክሽከሻ"</string>
+<string name="party_shuffle_off">"ናይ በዓል ክሽከሻ ኣጥፍእ"</string>
+<string name="delete_item">"ደምስስ"</string>
+<string name="shuffle_all">"ኩሉ ከሽክሽ"</string>
+<string name="delete_confirm_button_text">"ሕራይ"</string>
+<plurals name="NNNtracksdeleted">
+<item quantity="one">"1 ሙዚቃ ተደምሲሱ።"</item>
+<item quantity="other">"<xliff:g id="songs_to_delete">%d</xliff:g> ሙዚቃታት ተደመሰሲሶም ነይሮም።"</item>
+</plurals>
+<plurals name="NNNtracksremoved">
+<item quantity="one">"<xliff:g id="songs_to_delete">%d</xliff:g> ደርፊ/መዝሙር ተኣልዩ - ካብ \"<xliff:g id="playlist">%s</xliff:g>\" playlist።"</item>
+<item quantity="other">"<xliff:g id="songs_to_delete">%d</xliff:g> ደርፍታት/መዛሙር ተኣልዮም - ካብ \"<xliff:g id="playlist">%s</xliff:g>\" playlist።"</item>
+</plurals>
+<string name="scanning">"SD ካርድ ይፍተሽ አሎ\u2026"</string>
+<string name="scanning_nosdcard">"USB መኽዘን ይፍተሽ አሎ\u2026"</string>
+<string name="nowplaying_title">"ሕጂ ይፃወት አሎ"</string>
+<string name="artists_title">"አርቲስት"</string>
+<string name="albums_menu">"አልበም"</string>
+<string name="albums_title">"አልበም"</string>
+<string name="tracks_menu">"ሙዚቃታት"</string>
+<string name="tracks_title">"ሙዚቃታት"</string>
+<string name="playlists_menu">"ናይ ሙዚቃታት ዝርዝር"</string>
+<string name="playlists_title">"ናይ ሙዚቃታት ዝርዝር"</string>
+<string name="all_title">"ኩሎም መራኸቢ ማዕኸናት"</string>
+<string name="browse_menu">"አርቲስት"</string>
+<string name="search_title">"ድለ"</string>
+<string name="no_tracks_title">"ሙዚቃታት የለን"</string>
+<string name="no_album_title">"ምዝጉባት ኣልቡማት የለዉን"</string>
+<string name="no_artist_title">"ምዝጉባት ስነ-ጥበበኛታት የለዉን"</string>
+<string name="no_folderlist_title">"ማህደራት የለዉን"</string>
+<string name="delete_playlist_menu">"ደምስስ"</string>
+<string name="rename_playlist_menu">"ካብደገና ስም ኣውጽእ"</string>
+<string name="playlist_deleted_message">"ናይ ሙዚቃታት ዝርዝር ተደመሲሱ።"</string>
+<string name="playlist_renamed_message">"ናይ ሙዚቃታት ዝርዝር እንደገና ተሰዪሙ።"</string>
+<string name="recentlyadded">"አብ ቀረባ እዋን ዝተወሰኹ"</string>
+<string name="podcasts_listitem">"ፖድካስትስ"</string>
+<string name="sdcard_missing_title">"ሚሞርይ ካርድ የለን"</string>
+<string name="sdcard_missing_title_nosdcard">"USB መኽዘን የለን"</string>
+<string name="sdcard_missing_message">"ስልክኹም ዝአተወ SD ካርድ የብሉን።"</string>
+<string name="sdcard_missing_message_nosdcard">"ስልክኹም USB መኽዘን የብሉን።"</string>
+<string name="sdcard_busy_title">"ሚሞርይ ካርድ ኣይሰርሕን"</string>
+<string name="sdcard_busy_title_nosdcard">"USB ቦታ ኣይተረኸበን"</string>
+<string name="sdcard_busy_message">"SD ካርድ ተጨናኒቑ።"</string>
+<string name="sdcard_busy_message_nosdcard">"USB መኽዘንኩም ተጨናኒቁ።"</string>
+<string name="sdcard_error_title">"ናየ SD ካርድ ፀገም"</string>
+<string name="sdcard_error_title_nosdcard">"ናይ USB መኽዘን ፀገም"</string>
+<string name="sdcard_error_message">"አብ SD ካርድኻ ፀገም ተረኺቡ።"</string>
+<string name="sdcard_error_message_nosdcard">"አብ USB መኽዘንካ ፀገም ተረኺቡ።"</string>
+<string name="unknown_artist_name">"ዘይፍለጥ አርቲስት"</string>
+<string name="unknown_album_name">"ዘይፍለጥ አልበም"</string>
+<string name="shuffle_on_notif">"መኸሽከሺ ተኸፊቱ ኣሎ።"</string>
+<string name="repeat_current_notif">"ሕጂ ዘሎ ሙዚቃ የደጋገም።"</string>
+<string name="sequence_notif">"ቅደም-ተኸተላዊ ኣጸዋውታ ተወሊዑ ኣሎ።"</string>
+<string name="repeat_all_notif">"ኩሎም ሙዚቃታት ይደጋገሙ።"</string>
+<string name="ringtone_menu">"ከም መፀዋዕታ ድምፂ ተጠቐም"</string>
+<string name="ringtone_menu_short">"ከም መፀዋዕታ ተጠቐም"</string>
+<string name="ringtone_set">"\"<xliff:g example="Alarm Bell" id="name">%s</xliff:g>\" ከም ናይ ተሌፎን ድምጺ ደወል ኣዋድድዎ።"</string>
+<string name="play_selection">"ተሳወት"</string>
+<string name="add_to_playlist">"ናብ ናይ ሙዚቃ ዝርዝር ወስኽ"</string>
+<string name="show_artist">"ናይ ስነ-ጠበበኛ ሓበሬታ ኣርእዪ"</string>
+<string name="queue">"ሕጂ ዘሎ ሙዚቃ"</string>
+<string name="new_playlist">"ሓዱሽ"</string>
+<plurals name="NNNtrackstoplaylist">
+<item quantity="one">"1 ሙዚቃ ናብ ናይ ሙዚቃ ዝርዝር ተወሲኹ።"</item>
+<item quantity="other">"<xliff:g example="27" id="number">%d</xliff:g> ናብ ማዕከን ዝርዝር ናይ ዝጽወቱ ሙዚቃታት ዝኣተዉ ደርፍታት/መዛሙር።"</item>
+</plurals>
+<string name="emptyplaylist">"ዝተመረፁ ሙዚቃ ዝርዝራት ጥርሖም እዮም።"</string>
+<string name="create_playlist_create_text">"ኣቀምጥ"</string>
+<string name="service_start_error_title">"ዳግም ናይ ምፅዋት ፀገም"</string>
+<string name="service_start_error_msg">"እዚ ሙዚቃ ክፃወት አይኽእልን።"</string>
+<string name="service_start_error_button">"ሕራይ"</string>
+<string name="musicbrowserlabel">"ሙዚቃ"</string>
+<string name="mediaplaybacklabel">"ሙዚቃ"</string>
+<string name="mediapickerlabel">"ሙዚቃ"</string>
+<string name="playback_failed">"ይቕሬታ፣ እዚ ክፃወተ አይኽእልን።"</string>
+<string name="cancel">"ኣሰናኽል"</string>
+<string name="done">"ተፈፂሙ"</string>
+<string name="remove_from_playlist">"ካብ መፃወቲ ዝርዝር አወግድ"</string>
+<string name="streamloadingtext">"ምስ ይተሓሕዘ <xliff:g id="host">%s</xliff:g>\u2026"</string>
+<string name="loading">"ይእልሽ አሎ\u2026"</string>
+<string name="sort_by_track">"ዝተሓተሙ ሙዚቃታት"</string>
+<string name="sort_by_album">"አልበም"</string>
+<string name="sort_by_artist">"አርቲስት"</string>
+<string name="music_picker_title">"ዝተሓተሙ ሙዚቃታት ምረፅ"</string>
+<string name="search_result">"ውፅኢት ኣለሻ"</string>
+<string name="widget_initial_text">"ሙዚቃ ንምምራፅ አብዚ ተንክፍ።"</string>
+<string name="effectspanel">"ፅርየት ድምፂ ሙዚቃ"</string>
+<string name="no_play">"ሕዚ ክፃወት አይኽእልን!"</string>
+<string name="music_selected_all">"ኩሉ ኣድምቆ"</string>
+<string name="music_cancle_selected_all">"ኩሉ ኣቋርፅ"</string>
+<string name="nolrc">"ምንም ፋይል ወይ ግጥሚ ቅቡል ኣይኮነን"</string>
+<string name="ringtone_title_sim1">"ናይ SIM1መፀውዒ ድምፂ"</string>
+<string name="ringtone_title_sim2">"ናይ SIM2መፀውዒ ድምፂ"</string>
+<string name="ringtone_set_sim1">"\"<xliff:g example="Alarm Bell" id="name">%s</xliff:g>\" ከም ናይ ሲም ቍ. 1 ናይ ተሌፎን ድምጺ ደወል ኣዋድድዎ።"</string>
+<string name="ringtone_set_sim2">"\"<xliff:g example="Alarm Bell" id="name">%s</xliff:g>\" ከም ናይ ሲም ቍ. 2 ናይ ተሌፎን ድምጺ ደወል ኣዋድድዎ።"</string>
+<string name="ring_set_fail">"ይቕሬታ፣ እዚ ሙዚቃ ክፃወት አይኽእልን። በጃካ ካልእ ናይ መፃወቲ ሙዚቃምረጽ"</string>
+<string name="ring_set_silent_vibrate">"ኣብዚ ሕጂ ዘሎ ልሙድ መጸውዒ ድምጺ ኣይድገፍን እዩ"</string>
+<string name="please_insert_sim_card">"እንተወሓደ በጃካ SIM ካርድ የእትው"</string>
+<string name="create_playlist_warning">"ምስ ናይ ስርዓት ዝርዝር ዝጽወቱ ሙዚቃታት ተመሳሳልነት ዘለዎም ኣስማት ክጥቀም ኣይክእልን እዩ።"</string>
+<string name="playlist_created_message">"ናይ መፃወቲ ዝርዝር ተፈጢሩ።"</string>
+<string name="delete_album">"ብቐዋሚ ብምሉኡ ኩሉ አልበም ካብ “<xliff:g id="album">%s</xliff:g>” መሳርሒ ሰርዝ?"</string>
+<string name="delete_artist_album">"ንኹላቶም ኣብ\'ዚ ኣልቡም እዚ ዝርከቡ ደርፍታት/መዛሙር ምሉእ-ብሙሉእ ክትድምስስዎም ትደልዩ ዶ፦ \"<xliff:g id="album">%s</xliff:g>\" ማለት ብ \"<xliff:g id="artist">%s</xliff:g>\" ካብ ኣቕሓኹም?"</string>
+<string name="delete_song">"“<xliff:g id="song">%s</xliff:g>” ካብ መሳርሒ ይሰረዝ"</string>
+<plurals name="NNNallDeleteSelectedSong">
+<item quantity="one">"ነዚ ተመሪጹ ዘሎ ደርፊ/መዝሙር ምሉእ-ብሙሉእ ክትድምስስዎም ትደልዩ ዶ?"</item>
+<item quantity="other">"ነዞም ዝተመርጹ ደርፍታት/መዛሙር ምሉእ-ብሙሉእ ክትድምስስዎም ትደልዩ ዶ?"</item>
+</plurals>
+<string name="delete_folder_prompt">"ነቶም ኣብ ማህደር \"<xliff:g id="folder">%s</xliff:g>\" ዝርከቡ እተወሰኹ ደርፍታት/መዛሙር ካብ ኣቕሓኹም ምሉእ-ብሙሉእ ክትድምስስዎም?"</string>
+<string name="delete_playlist">"ን \"<xliff:g id="song">%s</xliff:g>\" ካብ ማዕከን ዝርዝር ናይ ዝጽወቱ ሙዚቃታት ደምስስዎ?"</string>
+<string name="display_music">"ሙዚቃ"</string>
+<string name="quit">"አቋርፅ"</string>
+<string name="setting">"መቓነ-ቍጽጽር"</string>
+<string name="folder_menu">"ማህደራት"</string>
+<string name="delete_playlist_message">"ርግፀኛ ዲኻ ናይ መፃወቲ ዝርዝር "%1$s" ክትድምስስ ደሊኻ?"</string>
+<string name="delete_all_playlist">"ኩሉ ናይ መፃወቲ ዝርዝር ሰርዝ"</string>
+<plurals name="NNNallSongsExist">
+<item quantity="one">"እቲ ደርፊ አብ ናይ መፃወቲ ዝርዝር ነይሩ"</item>
+<item quantity="other">"እዞም ደርፍታት አብ ናይ መፃወቲ ዝርዝር ነሮም።"</item>
+</plurals>
+<plurals name="NNNaddsongtoplaylist">
+<item quantity="one">"1ደርፊ ተወሲኹ፣"</item>
+<item quantity="other">"<xliff:g example="27" id="number">%d</xliff:g> ደርፍታት/መዛሙር ተወሲኾም፡"</item>
+</plurals>
+<string name="NNNsongAlreadyExist2">"" <xliff:g example="27" id="number">%d</xliff:g> ደርፍታት/መዛሙር ድሮ ኣብ ዝርዝር ዝጽወቱ ሙዚቃታት \"<xliff:g id="playlist">%s</xliff:g>\" ኣለዉ። "</string>
+<string name="favorite_added">"ኣነ ዝፈትዎ ደርፍ/መዝሙር"</string>
+<string name="add_playlist_title">"ዝርዝር ዝጽወቱ ሙዚቃታት ኣእትዉ"</string>
+<string name="empty_play_list">"ንዝርዝር ዝጽወቱ ሙዚቃታት ባዶ ኣትሪፍኩም ደምስስዎ"</string>
+<string name="sort_by_time">"ብግዘ ምድርዳር"</string>
+<string name="sort_by_name">"ብሽም ምድርዳር"</string>
+<string name="share">"ኣካፍል"</string>
+<string name="share_error">"ምክፋል-ኣልቦ ኣፕሊኬሽን!"</string>
+<string name="no_search_result">"ምንም ደርፍታት አይተተረኽቡን"</string>
+<string name="search_title_hint">"አርቲስትታት፣ ደርፍታት ወይ አልበም"</string>
+<string name="error_permissions">"እቲ ኣፕ ኣድላይይ ዝኮነ መእተዊ ፍቃድ የብሉን በይዘኦም ናይ ፍቃድ ኣቀማምጣ የዐርዩ"</string>
+<string name="dialog_dismiss">"ሕለፍ"</string>
+<string name="toast_fileexplorer_internal_error">"ኣብ መዳይ ተጠቃሚነት ሙዚቃ ፍቓድ ተኸሊኡ ኣሎ!"</string>
+<string name="fifty_min">"15 ደቂቃ"</string>
+<string name="theirty_min">"30 ደቂቃ"</string>
+<string name="sixty_min">"60 ደቓይቕ"</string>
+<string name="ninety_min">"90 ደቓይቕ"</string>
+<string name="self_define">"ዓይነተ-ምዕሩይ ናይ ደው ኣበሃህላ ግዜ"</string>
+<string name="timer_option">"ዕዉት ብዝዀነ መገዲ ተዋዲዱ ኣሎ፤ ቈጻሪ ክሳብ ባዶ ምስበጽሐ፡ ሙዚቃ ክዕጾ እዩ።"</string>
+<plurals name="NNNselftimeSuffix">
+<item quantity="one">"ደቒቓ"</item>
+<item quantity="other">"ደቓይቕ"</item>
+</plurals>
+<string name="self_min">"ደቓይቕ"</string>
+<string name="timer_setting">"ናይ ደው ምባል ቈጻሪ ኣዋድዱ"</string>
+<string name="change_face">"ስእላዊ ቴማ ቀይሩ"</string>
+<string name="timed_setting">"ደው እትብሉሉ ንውሓት ግዜ ምረጹ"</string>
+<string name="time_warning">"ይነተ-ምዕሩይ ናይ ደው ኣበሃህላ ግዜ ካብ\'ቲ ጥርዛዊ መጠን፡ ማለት ካብ 1440 ደቓይቕ (24 ሰዓታት) ዝበዝሕ እዩ!"</string>
+<string name="time_min_warning">"እዚ ዓይነተ-ምዕሩይ ናይ ደው ኣበሃህላ ግዜ፡ ካብ ሓንቲ ደቒቕ ዝውሕድ ክኸውን ኣይግባእን!"</string>
+<string name="time_not_null">"እዚ ዓይነተ-ምዕሩይ ናይ ደው ኣበሃህላ ግዜ፡ ባዶ ክኸውን እውን ኣይክእልን እዩ!"</string>
+<string name="no_allow_play_calling">"አብ ምድዋል ሙዚቃ(ራድዮ/ቪድዮ)ምፅዋት አይፍቀድን።"</string>
+<string name="random_play_all">"ንኹላቶም ብወዝባዊ ኣገባብ ኣጻውትዮም"</string>
+<string name="unable_to_connect_title">"ምስ ኣድራሻ ናይ ሰነድ ርክብ ክግበር ኣይተኻእለን"</string>
+<string name="unable_to_connect_message">"እዚ እዋናዊ ሰነድ ክርከብ ኣይተኻእለን። ብኽብረትኩም ንመስመር ርክብኩም ፈትሽዎ"</string>
+<string name="protect_information">"ሓበሪታ ሓሉ"</string>
+<string name="drm_consume_title">"Drm መሰል ሓሉ"</string>
+<string name="drm_consume_hint">"ኦፕሪሽኖም ናይ ቭ መሰል ይሕሉ እዩ"</string>
+<string name="drm_file_name">"ፋይል ስም:%1$s"</string>
+<string name="drm_rights_validity">"ቅቡልነት መሰላት፦ ተቐባልነት ዘለዎ"</string>
+<string name="drm_rights_invalidity">"ቅቡልነት መሰላት፦ ተቐባልነት-ኣልቦ"</string>
+<string name="drm_rights_status_transfer">"መሰል ኣቀማምጣ:ንክብተን ተመሪጹ"</string>
+<string name="drm_rights_status_untransfer">"መሰል ኣቀማምጣ፡ ንክብተን ኣይፍቀድን"</string>
+<string name="drm_start_time">"መጀመሪ ግዘ%1$s"</string>
+<string name="drm_end_time">"መወድኢ ግዘ%1$s"</string>
+<string name="drm_expiration_time">"ኢክስፓየር ግዘ%1$s"</string>
+<string name="drm_remain_times">"ዝቀረየ ግዘ%1$s"</string>
+<string name="drm_unlimited_rights">"ዘይውሱን"</string>
+<string name="drm_rights_unknown">"ኣይፍለጥን"</string>
+<string name="drm_inactive_rights">"መሰል የለን"</string>
+<string name="statusbarlabel">"ሙዚቃ።"</string>
+<string name="dock_forced_resizable">"ኣጻዋቲ ሙዚቃ ኣብ ዝተገምዐ ገጽታ መስኮት ብግቡእ ክሰርሕ ኣይክእልን እዩ።"</string>
+<string name="error_choose_drm_for_gallery">"ናይ ዲ.ኣር.ኤም. ሰነድ ነዚ መስርሕ ዕዮ ዝውክል ኣይኰነን"</string>
+<string name="delete_from_device">"ካብ\'ዛ ኣቕሓ እለይዎ"</string>
+<string name="delete_from_playlist">"ነዞም ዝተመርጹ ደርፍታት/መዛሙር ካብ ማዕከን ዝርዝር ናይ ዝጽወቱ ሙዚቃታት ክትድምስስዎም?"</string>
+<string name="empty">"እተመርጸ ደርፊ/መዝሙር ጥርሑ እዩ፤ ብኽብረትኩም ፈትሽዎ።"</string>
+<string name="empty_playlist_message">"ንማዕከን ዝርዝር ናይ ዝጽወቱ ሙዚቃታት ባዶ ኣትሪፍኩም ክትድምስስዎ ከምዝደለኹም ርግጸኛታት ዲኹም "%1$s"？"</string>
+<string name="same_playlist">"ዘእተኹሞ ስም ዝርዝር ናይ ዝጽወቱ ሙዚቃታት ድሮ ምዝጉብ እዩ!"</string>
+<string name="overwrite_playlist_alert_rename">"ናይ መፃወቲ ዳታ “<xliff:g id="NAME">%s</xliff:g>”ክሽፍን እዩ።"</string>
+<string name="usbdisk">"ናይ ዩ.ኤስ.ቢ. ማዕከን (<xliff:g id="USBNAME">%s</xliff:g>)"</string>
+<string name="length_limited">"ዝነወሐ ስም"</string>
+<string name="file_notfound">"ይቕሬታ፡ ሰነድ ክርከብ ኣይተኻእለን። ብኽብረትኩም ፈትሽዎ።"</string>
+<string name="operation_failed">"ደርፊ-መዝሙር ናብ ዝርዝራት "ኣነ ዝፈትዎም ደርፍታት/ሙዚቃታት" ንምእታው ዝገበርኩሞ ፈተነ ፈሺሉ።"</string>
+<string name="playlist_emptied">"The playlist has been emptied።"</string>
+<string name="max_number">" ልዕሊ 100 ሰነዳት ተመሪጾም ጸኒሖም፤ ናይ ምክፋል ንጥፈተ-ኣገባብ ድማ ንጡፍ ኣይጸንሐን"</string>
+</resources>

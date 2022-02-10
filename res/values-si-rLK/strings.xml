@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="onesong">"ගීත 1"</string>
+<plurals name="Nsongs">
+<item quantity="one">"ගීත<xliff:g id="total_count">%1$d</xliff:g>"</item>
+<item quantity="other">" ගීත <xliff:g id="count">%d</xliff:g>"</item>
+</plurals>
+    <plurals name="Nalbums">
+<item quantity="one">"ඇල්බම <xliff:g id="total_count">%1$d</xliff:g>"</item>
+<item quantity="other">"ඇල්බම <xliff:g id="count">%d</xliff:g>"</item>
+</plurals>
+    <string name="party_shuffle">"සාද කළවම් කිරීම"</string>
+<string name="party_shuffle_off">" සාද කළවම් කිරීම ක්‍රියාවිරහිතයි"</string>
+<string name="delete_item">"මකන්න"</string>
+<string name="shuffle_all">"සියල්ල කළවම් කරන්න"</string>
+    <string name="delete_confirm_button_text">"හරි"</string>
+<plurals name="NNNtracksdeleted">
+<item quantity="one">"ගීත <xliff:g id="total_count">%1$d</xliff:g>ක් මකා ඇත."</item>
+<item quantity="other">"ගීත "<xliff:g id="songs_to_delete">%d</xliff:g>ක් මකා ඇත.""</item>
+</plurals>
+<string name="scanning">"\u2026SD කාඩ්පත ස්කෑන් කරමින්"</string>
+<string name="scanning_nosdcard">"\u2026USB ගබඩාව ස්කෑන් කරමින්"</string>
+<string name="nowplaying_title">"දැන් ධාවනය වේ"</string>
+    <string name="artists_title">"කලාකරුවන්"</string>
+<string name="albums_menu">"ඇල්බම"</string>
+<string name="albums_title">"ඇල්බම"</string>
+<string name="tracks_menu">"ගීත"</string>
+<string name="tracks_title">"ගීත"</string>
+<string name="playlists_menu">"ධාවන ලැයිස්තු"</string>
+<string name="playlists_title">"ධාවන ලැයිස්තු"</string>
+    <string name="all_title">"සියලු මාධ්‍ය"</string>
+<string name="browse_menu">"කලාකරුවන්"</string>
+<string name="search_title">"සොයන්න"</string>
+<string name="no_tracks_title">"ගීත නැත"</string>
+    <string name="delete_playlist_menu">"මකන්න"</string>
+    <string name="rename_playlist_menu">"යළි නම් කරන්න"</string>
+<string name="playlist_deleted_message">"ධාවන ලැයිස්තුව මැකිණි."</string>
+<string name="playlist_renamed_message">"ධාවන ලැයිස්තුව නැවත නම් කෙරිණි."</string>
+<string name="recentlyadded">"මෑතකදී එක් කෙරිණි"</string>
+    <string name="podcasts_listitem">"පොඩ්කාස්ට්ස්"</string>
+    <string name="sdcard_missing_title">"SD කාඩ්පතක් නැත"</string>
+<string name="sdcard_missing_title_nosdcard">"USB ගබඩාව නැත"</string>
+<string name="sdcard_missing_message">"ඔබේ දුරකථනයේ ඇතුල් කළ SD කාඩ්පතක් නැත."</string>
+<string name="sdcard_missing_message_nosdcard">"ඔබේ දුරකථනයේ USB ගබඩාව නැත."</string>
+<string name="sdcard_busy_title">"SD කාඩ්පත ලබා ගත නොහැකිය"</string>
+<string name="sdcard_busy_title_nosdcard">"USB ගබඩාව ලබා ගත නොහැකිය"</string>
+<string name="sdcard_busy_message">"ඔබේ SD කාඩ්පත කාර්යබහුලයි."</string>
+<string name="sdcard_busy_message_nosdcard">"ඔබේ USB ගබඩාව කාර්යබහුලයි."</string>
+<string name="sdcard_error_title">"SD කාඩ්පත් දෝෂය"</string>
+<string name="sdcard_error_title_nosdcard">"USB ගබඩා දෝෂය"</string>
+<string name="sdcard_error_message">"ඔබේ SD කාඩ්පතේ දෝෂයක් සිදු විය."</string>
+<string name="sdcard_error_message_nosdcard">"ඔබේ USB ගබඩාවේ දෝෂයක් සිදු විය."</string>
+<string name="unknown_artist_name">"නොදන්නා කලාකරු"</string>
+<string name="unknown_album_name">"නොදන්නා ඇල්බමය"</string>
+<string name="shuffle_on_notif">"කළවම් කිරීම ක්‍රියාත්මකයි."</string>
+    <string name="repeat_current_notif">"වත්මන් ගීතය පුනරාවර්තනය වේ."</string>
+<string name="repeat_all_notif">"සියලු ගීත පුනරාවර්තනය වේ."</string>
+<string name="ringtone_menu">"දුරකථන නාද රිද්මය ලෙස භාවිත කරන්න"</string>
+<string name="ringtone_menu_short">"නාද රිද්මය ලෙස භාවිත කරන්න"</string>
+<string name="ringtone_set">"\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>\" දුරකථන නාද රිද්මය ලෙස සකසන්න."</string>
+<string name="play_selection">"ධාවනය කරන්න"</string>
+<string name="add_to_playlist">"ධාවන ලැයිස්තුව වෙත එක් කරන්න"</string>
+<string name="queue">"වත්මන් ධාවන ලැයිස්තුව"</string>
+<string name="new_playlist">"නව"</string>
+    <plurals name="NNNtrackstoplaylist">
+<item quantity="one">"ගීත <xliff:g id="total_count">%1$d</xliff:g>ක් ධාවන ලැයිස්තුව වෙත එක් කෙරිණි."</item>
+<item quantity="other">" ගීත <xliff:g id="number" example="27">%d</xliff:g>ක් ධාවන ලැයිස්තුව වෙත එක් කෙරිණි."</item>
+</plurals>
+<string name="emptyplaylist">"තෝරා ගත් ධාවන ලැයිස්තුව හිස්ය."</string>
+<string name="create_playlist_create_text">"සුරකින්න"</string>
+    <string name="service_start_error_title">"ධාවන ලැයිස්තු ගැටලුව"</string>
+<string name="service_start_error_msg">"ගීතය ධාවනය කළ නොහැකි විය."</string>
+<string name="service_start_error_button">"හරි"</string>
+    <string name="musicbrowserlabel">"සංගීතය"</string>
+    <string name="mediaplaybacklabel">"සංගීතය"</string>
+    <string name="mediapickerlabel">"සංගීතය"</string>
+<string name="playback_failed">"අවාසනාවකට,සංගීත ධාවකය නතර වී ඇත."</string>
+<string name="cancel">"අවලංගු කරන්න"</string>
+<string name="remove_from_playlist">"ධාවන ලැයිස්තුවෙන් ඉවත් කරන්න"</string>
+<string name="streamloadingtext">"<xliff:g id="host">%s</xliff:g>\u2026 වෙත සම්බන්ධ වෙමින් "</string>
+    <string name="loading">"පූරණය වෙමින්..."</string>
+<string name="sort_by_track">"ඛණ්ඩ"</string>
+<string name="sort_by_album">"ඇල්බම"</string>
+<string name="sort_by_artist">"කලාකරුවන්"</string>
+<string name="music_picker_title">"සංගීත ඛණ්ඩය තෝරන්න"</string>
+    <string name="widget_initial_text">"සංගීතය තේරීමට ස්පර්ශ කරන්න."</string>
+<string name="effectspanel">"හඬ ප්‍රයෝග"</string>
+<string name="no_play">"දැනට ධාවනය කිරීමට නොහැකිය!"</string>
+    <string name="music_selected_all">"සියල්ල තෝරන්න"</string>
+    <string name="music_cancle_selected_all">"සියල්ල අවලංගු කරන්න"</string>
+    <string name="nolrc">"ගී පදය හෝ ගොනුව අවලංගු නැත"</string>
+    <string name="ringtone_title_sim1">"SIM1 දුරකථන නාද රිද්මය"</string>
+<string name="ringtone_title_sim2">"SIM2 දුරකථන නාද රිද්මය"</string>
+<string name="ringtone_set_sim1">"\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>\" SIM1 නාද රිද්මය ලෙස සකසන්න."</string>
+<string name="ringtone_set_sim2">"\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>\" SIM2 නාද රිද්මය ලෙස සකසන්න."</string>
+<string name="ring_set_fail">"කනගාටුයි, ගීතය ධාවනය කළ නොහැකි විය. කරුණාකර වෙනත් ගීතයක් නාද රිද්මය ලෙස තෝරන්න"</string>
+<string name="ring_set_silent_vibrate">"අභිමත නාද රිද්ම වත්මන් ප්‍රකාරයෙහි සහාය නොදක්වයි "</string>
+<string name="please_insert_sim_card">"කරුණාකර අවම වශයෙන් SIM කාඩ්පතක් ඇතුල් කරන්න"</string>
+<string name="create_playlist_warning">"එකම නම මෑතකදී එක් කළ එක සමග භාවිත කළ නොහැකිය."</string>
+    <string name="playlist_created_message">"ධාවන ලැයිස්තුව තැණිනි."</string>
+    <string name="delete_album">"උපාංගයෙන් ස්ථීරව සමස්ථ \"<xliff:g id="album">%s</xliff:g>\" ඇල්බමය මකන්නද?"</string>
+<string name="delete_song">"උපාංගයෙන් ස්ථීරව \"<xliff:g id="song">%s</xliff:g>\" මකන්නද?"</string>
+<string name="display_music">"සංගීතය"</string>
+<string name="quit">"හැර යන්න"</string>
+<string name="delete_playlist_message">"ඔබට "%1$s" ධාවන ලැයිස්තුව මැකීමට අවශ්‍ය බව විශ්වාසද"</string>
+<string name="delete_all_playlist">"සියලු ධාවන ලැයිස්තු හිස් කරන්න"</string>
+<plurals name="NNNallSongsExist">
+<item quantity="one">"ගීතය ධාවන <xliff:g id="total_count">%1$d</xliff:g>ලැයිස්තුවෙහි පැවතී ඇත."</item>
+<item quantity="other">"ගීත ධාවන ලැයිස්තුවෙහි පැවතී ඇත."</item>
+</plurals>
+<plurals name="NNNaddsongtoplaylist">
+<item quantity="one">"ගිත <xliff:g id="total_count">%1$d</xliff:g>ක් එක් කෙරිණි,"</item>
+<item quantity="other">" ගිත <xliff:g id="number" example="27">%d</xliff:g>ක් එක් කෙරිණි,"</item>
+</plurals>
+    <string name="no_search_result">"ගීත හමු නොවිණි"</string>
+<string name="search_title_hint">"කලාකරුවන්,ගීත හෝ ඇල්බම"</string>
+<string name="error_permissions">"මෙම යෙදුම ධාවනය කිරීමට අවශ්‍ය අවශ්‍යම අවසර නැත. කරුණාකර ඔබගේ අවසර සැකසීම් පරික්ෂා කරන්න."</string>
+<string name="dialog_dismiss">"ඉවතලන්න"</string>
+<string name="toast_fileexplorer_internal_error">"සංගීතයෙහි අභ්‍යන්තර දෝෂයක් සිදු විය!"</string>
+<string name="no_allow_play_calling">"ඇමතුමක් (රේඩියෝ/වීඩියෝ) අතරතුර සංගීතය ධාවනය කිරීමට ඉඩ නොදේ."</string>
+<string name="protect_information">"තොරතුරු ආරක්ෂා කරන්න"</string>
+<string name="drm_consume_title">"Drm හිමිකම් පරිභෝජනය කරන්න"</string>
+<string name="drm_consume_hint">"ඔබේ මෙහෙයුම Drm හිමිකම් පරිභෝජනය කරනු ඇත"</string>
+<string name="drm_file_name">"ගොනු නම：%1$s"</string>
+<string name="drm_rights_validity">"හිමිකම් වලංගුතාව：වලංගුයි"</string>
+<string name="drm_rights_invalidity">" හිමිකම් වලංගුතාව：අවලංගුයි"</string>
+<string name="drm_rights_status_transfer">" හිමිකම් තත්ත්වය：මාරු කිරීමට ඉඩ දේ"</string>
+<string name="drm_rights_status_untransfer">" හිමිකම් තත්ත්වය：මාරු කිරීමට ඉඩ නොදේ"</string>
+<string name="drm_start_time">"ආරම්භක වේලාව：%1$s"</string>
+<string name="drm_end_time">"අවසන් වේලාව：%1$s"</string>
+<string name="drm_expiration_time">"කල් ඉකුත්වීමේ කාලය：%1$s"</string>
+<string name="drm_remain_times">"ඉතිරි කාල：%1$s"</string>
+    <string name="drm_unlimited_rights">"සීමා රහිත"</string>
+<string name="drm_rights_unknown">"නොදනී"</string>
+<string name="drm_inactive_rights">"හිමිකම් අක්‍රියයි"</string>
+    <string name="whoes_album">"\'s ඇල්බමය"</string>
+     <plurals name="NNNtracksremoved">
+<item quantity="one">"<xliff:g id="songs_to_delete">%d</xliff:g> සිංදුව ඉවත් කරන ලදී වෙතින් \"<xliff:g id="playlist">%s</xliff:g>\" ධාවන ලැයිස්තුවෙහි."</item>
+<item quantity="other">"<xliff:g id="songs_to_delete">%d</xliff:g> සිංදු ඉවත් කරන ලදී වෙතින් \"<xliff:g id="playlist">%s</xliff:g>\" ධාවන ලැයිස්තුවෙහි."</item>
+    </plurals>
+     <string name="no_album_title">"ඇල්බම නැත"</string>
+     <string name="no_artist_title">"ශිල්පීන් නැත"</string>
+     <string name="no_folderlist_title">"ෆෝල්ඩර නැත"</string>
+     <string name="sequence_notif">"පටිපාටි ධාවනය කිරීම ක්‍රියාත්මක කර ඇත."</string>
+     <string name="show_artist">"ශිල්පී තොරතුරු දර්ශනය කරන්න"</string>
+     <string name="done">"හරි"</string>
+     <string name="search_result">"සෙවීම් ප්‍රතිඵලය"</string>
+     <string name="delete_artist_album">"ඇල්බමයේ ඇති සියලුම සිංදු ස්ථිරව මකන්න \"<xliff:g id="album">%s</xliff:g>\" මගින් \"<xliff:g id="artist">%s</xliff:g>\" උපාංගයෙන්?"</string>
+     <plurals name="NNNallDeleteSelectedSong">
+<item quantity="one">"තෝරාගත් සින්දුව උපාංගයෙන් ස්ථිරවම මකා දමන්න?"</item>
+<item quantity="other">"තෝරාගත් සින්දු උපාංගයෙන් ස්ථිරවම මකා දමන්න?"</item>
+    </plurals>
+     <string name="delete_folder_prompt">"සිංදු එකතු කිරීම මකා දමන්න ස්ථිරවම \"<xliff:g id="folder">%s</xliff:g>\" මෙම උපාංගයේ ෆෝල්ඩරයෙන්?"</string>
+     <string name="delete_playlist">"මකන්න \"<xliff:g id="song">%s</xliff:g>\" ධාවක ලැයිස්තුවෙන්?"</string>
+     <string name="setting">"පසුතල"</string>
+     <string name="folder_menu">"ෆෝල්ඩර"</string>
+     <string name="NNNsongAlreadyExist2">"<xliff:g example="27" id="number">%d</xliff:g> සිංදු දැනටමත් තිබේ \"<xliff:g id="playlist">%s</xliff:g>\" ධාවක ලැයිස්තුවෙහි. "</string>
+     <string name="favorite_added">"මගේ ප්‍රියතම ගීතය"</string>
+     <string name="add_playlist_title">" ධාවක ලැයිස්තුව එකතු කරන්න"</string>
+     <string name="empty_play_list">"හිස් ධාවක ලැයිස්තුව"</string>
+     <string name="sort_by_time">"වේලාවෙන් තෝරන්න"</string>
+     <string name="sort_by_name">"නමින් අනුපිළිවෙලට සකසන්න"</string>
+     <string name="share">"බෙදාගන්න"</string>
+     <string name="share_error">"යෙදුමට හුවමාරු කිරීම් නැත!"</string>
+     <string name="fifty_min">"මිනිත්තු 15"</string>
+     <string name="theirty_min">"මිනිත්තු 30"</string>
+     <string name="sixty_min">"මිනිත්තු 60"</string>
+     <string name="ninety_min">"මිනිත්තු 90"</string>
+     <string name="self_define">"නැවත්වීමේ රිසි වෙලාව "</string>
+     <string name="timer_option">"සාර්ථකව පිහිටුවන ලදී, ආපස්සට ගණන් කිරීමකින් පසු සංගීතය වැසෙනු ඇත."</string>
+     <plurals name="NNNselftimeSuffix">
+<item quantity="one">"මිනිත්තුව "</item>
+<item quantity="other">"මිනිත්තු"</item>
+    </plurals>
+     <string name="self_min">"මිනිත්තු"</string>
+     <string name="timer_setting">"කාලකය නැවත්වීම පිහිටුවන්න"</string>
+     <string name="change_face">"තේමාව වෙනස් කරන්න"</string>
+     <string name="timed_setting">"කාලකය නැවත්වීම තෝරන්න"</string>
+     <string name="time_warning">"රිසි කාලකය මිනිත්තු 1440 (පැය 24) උපරිම කාල සීමාව ඉක්මවයි!"</string>
+     <string name="time_min_warning">"රිසි කාලකය මිනිත්තු එකට වඩා අඩු නොවිය යුතුය!"</string>
+     <string name="time_not_null">"රිසි කාලකය හිස් නොවිය යුතුය!"</string>
+     <string name="random_play_all">"සසම්භාවී සියල්ල ධාවනය කිරීම"</string>
+     <string name="unable_to_connect_title">"ගොනුවට සම්බන්ධ වීමට නොහැකි විය"</string>
+     <string name="unable_to_connect_message">"වර්තමාන ගොනුව ගැනීමට නොහැකි විය. කරුණාකර සම්බන්ධතාවය පරීක්ෂා කරන්න"</string>
+     <string name="statusbarlabel">"සංගීතය . "</string>
+     <string name="dock_forced_resizable">"සංගීත ධාවකය බෙදුම් තිර ප්‍රකාරයේ නිසි ආකාරයෙන් ක්‍රියා නොකරයි."</string>
+     <string name="error_choose_drm_for_gallery">"DRM ගොනුව මෙම මෙහෙයුමට අඩාල නොවේ"</string>
+     <string name="delete_from_device">"මෙම උපාංගයෙන් ඉවත් කරන්න"</string>
+     <string name="delete_from_playlist">"තෝරාගත් සින්දු ධාවක ලැයිස්තුවෙන් මකන්න?"</string>
+     <string name="empty">"තෝරාගත් සිංදුව හිස්ය, කරුණාකර පරීක්ෂා කරන්න."</string>
+     <string name="empty_playlist_message">"ඔබට ධාවක ලැයිස්තු \"%1$s\" හිස් කිරීමට අවශ්‍ය බව විශ්වාසද?"</string>
+     <string name="same_playlist">"ආදාන ධාවක ලයිස්තුවේ නම දැනටමත් අත්!"</string>
+     <string name="overwrite_playlist_alert_rename">"“<xliff:g id="NAME">%s</xliff:g>” හි ධාවන ලැයිස්තු දත්ත ආවරණය වනු ඇත."</string>
+     <string name="usbdisk">"USB තැටිය(<xliff:g id="USBNAME">%s</xliff:g>)"</string>
+     <string name="length_limited">"නම උපරිම දිග දක්වා වේ"</string>
+     <string name="file_notfound">"සමාවෙන්න, ගොනුව සොයාගැනීමට නොහැකි විය, කරුණාකර පරීක්ෂා කරන්න."</string>
+     <string name="operation_failed">""මගේ ප්‍රියතම සිංදු" වෙත සින්දුව ඇතුලත් කිරීම ධාවක ලැයිස්තුව අසාර්ථක විය."</string>
+     <string name="playlist_emptied">"ධාවක ලැයිස්තුව හිස් කර ඇත."</string>
+     <string name="max_number">"ගොනු 100කට වඩා තෝරන ලදී, සහ හුවමාරු කිරීමේ විශේෂාංගය ලද නොහැකි විය"</string>
+     <string name="invalid_playlist_name">"ධාවක ලැයිස්තු නාමය අවසන් වීමට නොහැකිය සමඟ \"/\"."</string>
+     <string name="special_playlist_name">"ධාවක ලැයිස්තු නාමයේ නීතිවිරෝධී අනුලක්‍ෂණ තිබීමට නොහැකිය \\:*?\"\u003C\u003E|/"</string>
+
+</resources>

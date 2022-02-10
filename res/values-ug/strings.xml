@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="onesong">"1دانە ناخشا"</string>
+<plurals name="Nsongs">
+<item quantity="one">"ناخشا<xliff:g id="count">%d</xliff:g>"</item>
+<item quantity="other">"دانە ناخشىلار<xliff:g id="count">%d</xliff:g>"</item>
+</plurals>
+<plurals name="Nsongscomp">
+<item quantity="one">"ناخشا<xliff:g id="count_for_artist">%2$d</xliff:g>نىڭ ئىچىدىكى<xliff:g id="total_count">%1$d</xliff:g>"</item>
+<item quantity="other">"دانە ناخشا<xliff:g id="count_for_artist">%2$d</xliff:g> نىڭ ئىچىدىكى<xliff:g id="total_count">%1$d</xliff:g>"</item>
+</plurals>
+<plurals name="Nalbums">
+<item quantity="one">"1پارچە ئالبۇم"</item>
+<item quantity="other">"پارچە ئالبۇملار<xliff:g id="count">%d</xliff:g>"</item>
+</plurals>
+<string name="whoes_album">"نىڭ توپلىمى"</string>
+<string name="goto_start">"مۇزىكا ئامبىرى"</string>
+<string name="party_shuffle">"زىياپەت ئارىلاشتۇرۇپ قۇيۇلىشى"</string>
+<string name="party_shuffle_off">"زىياپەت ئارىلاشتۇرۇپ قۇيۇلىشىنى ئېتىش"</string>
+<string name="delete_item">ئۆچۈرۈش</string>
+<string name="shuffle_all">"ھەممىسىنى ئارىلاشتۇرۇپ قويۇش"</string>
+<string name="play_all">"ھەممىسىنى قويۇش"</string>
+<string name="delete_artist_desc">"نىڭ بارلىق ناخشىلىرىنى مەڭگۈلۈك يۇيامسىز؟<xliff:g id="artist">%s</xliff:g>كارتىسىدىكىSD "</string>
+<string name="delete_artist_desc_nosdcard">"نىڭ بارلىق ناخشىلىرىنى مەڭگۈلۈك يۇيامسىز؟<xliff:g id="artist">%s</xliff:g>ساقلىغۇچىدىكىUSB "</string>
+<string name="delete_album_desc">"پۈتۈن ئالبۇمنىڭ ھەممىسىنى مەڭگۈلۈك يۇيامسىز؟"<xliff:g id="album">%s</xliff:g>"كارتىسىدىكىSD "</string>
+<string name="delete_album_desc_nosdcard">"پۈتۈن ئالبۇمنىڭ ھەممىسىنى مەڭگۈلۈك يۇيامسىز؟"<xliff:g id="album">%s</xliff:g>"ساقلىغۇچىدىكىUSB "</string>
+<string name="delete_song_desc">"نى مەڭگۈلۈك يۇيامسىز؟"<xliff:g id="song">%s</xliff:g>" كارتىسىدىكىSD"</string>
+<string name="delete_song_desc_nosdcard">"نى مەڭگۈلۈك يۇيامسىز؟"<xliff:g id="song">%s</xliff:g>" ساقلىغۇچىدىكىUSB"</string>
+<string name="delete_confirm_button_text">مۇقىملاش</string>
+<plurals name="NNNtracksdeleted">
+<item quantity="one">"1دانە ناخشا يۇيۇلدى"</item>
+<item quantity="other">".دانە ناخشا يۇيۇلدى<xliff:g id="songs_to_delete">%d</xliff:g>"</item>
+</plurals>
+<string name="scanning">"...كارتىنى سكاننىرلاۋاتىدۇSD"</string>
+<string name="scanning_nosdcard">"...ساقلىغۇچىنى سكاننىرلاۋاتىدۇUSB"</string>
+<string name="nowplaying_title">"قويۇۋاتىدۇ"</string>
+<string name="partyshuffle_title">"زىياپەت ئارىلاشتۇرۇپ قۇيۇلىشى"</string>
+<string name="artists_title">"ئاتىسلار"</string>
+<string name="albums_menu">"ئالبۇملار"</string>
+<string name="albums_title">"ئالبۇملار"</string>
+<string name="tracks_menu">"ناخشىلار"</string>
+<string name="tracks_title">"ناخشىلار"</string>
+<string name="playlists_menu">"قويۇش تىزىملىكى"</string>
+<string name="playlists_title">"قويۇش تىزىملىكى"</string>
+<string name="videos_title">"سىن، سىنلىق ھۆججەتلەر، ۋىدىيولار"</string>
+<string name="all_title">"بارلىق مىدىيا"</string>
+<string name="browse_menu">"ئاتىسلار"</string>
+<string name="search_title">"ئىزدەش"</string>
+<string name="no_tracks_title">"ناخشا يوق"</string>
+<string name="no_album_title">"توپلام يوق"</string>
+<string name="no_artist_title">"ئارتىسلار يوق"</string>
+<string name="no_folderlist_title">"ھۆججەت پاپكىلىرى يوق"</string>
+<string name="no_videos_title">"سىن يوق"</string>
+<string name="no_playlists_title">"قويۇش تىزىملىكى يوق"</string>
+<string name="delete_playlist_menu">ئۆچۈرۈش</string>
+<string name="edit_playlist_menu">تەھرىرلەش</string>
+<string name="rename_playlist_menu">ئىسىمنى ئۆگەرتىش</string>
+<string name="playlist_deleted_message">".قويۇش تىزىملىكى يۇيۇلدى"</string>
+<string name="playlist_renamed_message">".قويۇش تىزىملىكى قايتا ئىسىملاندى"</string>
+<string name="recentlyadded">"يېقىندا قوشۇلغان"</string>
+<string name="recentlyadded_title">"يېقىندا قوشۇلغان"</string>
+<string name="podcasts_listitem">"پودكاست"</string>
+<string name="podcasts_title">"پودكاست"</string>
+<string name="sdcard_missing_title">SD كارتا يوق</string>
+<string name="sdcard_missing_title_nosdcard">"ساقلىغۇچى يوقUSB"</string>
+<string name="sdcard_missing_message">"كارتىسى يوقSDيانفۇنىڭىزدا"</string>
+<string name="sdcard_missing_message_nosdcard">"ساقلىغۇچىسى يوقUSBيانفۇنىڭىزدا"</string>
+<string name="sdcard_busy_title">"كارتىنى ئىشلەتكىلى بولمايدۇSD"</string>
+<string name="sdcard_busy_title_nosdcard">"ساقلىغۇچىنى ئىشلىتىشكە بولمايدۇUSB"</string>
+<string name="sdcard_busy_message">"كارتىڭىز ئالدىراشSD"</string>
+<string name="sdcard_busy_message_nosdcard">"ساقلىغۇچىڭىز ئالدىراشUSB"</string>
+<string name="sdcard_error_title">"كارتا خاتالىقىSD"</string>
+<string name="sdcard_error_title_nosdcard">"ساقلىغۇچ خاتالىقىUSB"</string>
+<string name="sdcard_error_message">".كارتىڭىزدا بىر خاتالىق كۆرۈلدىSD"</string>
+<string name="sdcard_error_message_nosdcard">".كارتىڭىزدا بىر خاتالىق كۆرۈلدىUSB"</string>
+<string name="unknown_artist_name">"نامەلۇم ئارتىس"</string>
+<string name="unknown_album_name">"نامەلۇم ئالبۇم"</string>
+<string name="shuffle_on_notif">".ئىختىيارىي قويۇش ئۇچۇق"</string>
+<string name="shuffle_off_notif">".ئىختىيارىي قويۇش ئېتىك"</string>
+<string name="repeat_off_notif">".قايتىلاپ قويۇش ئېتىلدى"</string>
+<string name="repeat_current_notif">".ھازىرقى ناخشىنى قايتىلاپ قويۇش"</string>
+<string name="repeat_all_notif">".بارلىق ناخشىلارنى قايتىلاپ قويۇش"</string>
+<string name="ringtone_menu">"يانڧۇن قوڭغىراق ئاۋازى قىلىپ ئىشلىتىش"</string>
+<string name="ringtone_menu_short">"قوڭغىراق ئاۋازى قىلىپ ئىشلىتىش"</string>
+<string name="ringtone_set">".نى يانڧۇن قوڭغىراق ئاۋازى قىلىپ تەڭشەلدى"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>""</string>
+<string name="play_selection">قۇيۇش</string>
+<string name="add_to_playlist">"قويۇش تىزىملىكىگە قوشۇش"</string>
+<string name="show_artist">"ئارتىس ئۇچۇرىنى كۆرسىتىش"</string>
+<string name="delete_folder">ئۆچۈرۈش</string>
+<string name="queue">"يېقىنقى قويۇش تىزىملىكى"</string>
+<string name="new_playlist">يېڭى</string>
+<string name="new_playlist_name_template">"<xliff:g id="number">%d</xliff:g>يېڭى قويۇش تىزىملىكى"</string>
+<plurals name="NNNtrackstoplaylist">
+<item quantity="one">".قويۇش تىزىملىكىگە 1دانە ناخشا قوشۇلدى"</item>
+<item quantity="other">".دانە ناخشا قويۇش تىزىملىكىگە قوشۇلدى<xliff:g id="number" example="27">%d</xliff:g>"</item>
+</plurals>
+<string name="emptyplaylist">".تاللانغان قويۇش تىزىملىكى قۇرۇق"</string>
+<string name="create_playlist_create_text">ساقلاش</string>
+<string name="create_playlist_overwrite_text">"قاپلاش"</string>
+<string name="service_start_error_title">"قويۇش مەسىلىسى"</string>
+<string name="service_start_error_msg">"بۇ ناخشىنى قويغىلى بولمىدى"</string>
+<string name="service_start_error_button">مۇقىملاش</string>
+<string-array name="weeklist">
+<item>1ھەپتە</item>
+<item>"2ھەپتە"</item>
+<item>"3ھەپتە"</item>
+<item>"4ھەپتە"</item>
+<item>"5ھەپتە"</item>
+<item>"6ھەپتە"</item>
+<item>"7ھەپتە"</item>
+<item>"8ھەپتە"</item>
+<item>"9ھەپتە"</item>
+<item>"10ھەپتە"</item>
+<item>"11ھەپتە"</item>
+<item>"12ھەپتە"</item>
+</string-array>
+<string name="weekpicker_set">تامام</string>
+<string name="weekpicker_title">"ۋاقىتنى تەڭشەش"</string>
+<string name="save_as_playlist">"قويۇش تىزىملىكى قىلىپ ساقلاش"</string>
+<string name="clear_playlist">"قويۇش تىزىملىكىنى قۇرۇقداش"</string>
+<string name="musicbrowserlabel">"مۇزىكا"</string>
+<string name="musicshortcutlabel">"مۇزىكا قويۇش تىزىملىكى"</string>
+<string name="mediaplaybacklabel">"مۇزىكا"</string>
+<string name="videobrowserlabel">"سىن، سىنلىق ھۆججەتلەر، ۋىدىيولار"</string>
+<string name="mediapickerlabel">"مۇزىكا"</string>
+<string name="playback_failed">".كەچۈرۈڭ، ھۆججەتنى قويۇش مەغلۇپ بولدى"</string>
+<string name="cancel">ئەمەلدىن قالدۇرۇش</string>
+<string name="done">تامام</string>
+<string name="remove_from_playlist">"قويۇش تىزىملىكىدىن يۆتكىۋېتىش"</string>
+<string name="streamloadingtext">"...غا ئۇلىنىۋاتىدۇ<xliff:g id="host">%s</xliff:g>"</string>
+<string name="mediasearch">":<xliff:g id="term" example="Beethoven">%s</xliff:g>تۆۋەندىكى قورالنى ئىشلىتىپ ئىزدەش"</string>
+<string name="working_artists">"...سەنئەتكارلار"</string>
+<string name="working_albums">"...ئاتلاسلار"</string>
+<string name="working_songs">"...ناخشىلار"</string>
+<string name="working_playlists">"...قويۇش تىزىملىكى"</string>
+<string name="loading">يۈكلەۋاتىدۇ\u2026</string>
+<string name="sort_by_track">"مۇزىكا كاتالوگى"</string>
+<string name="sort_by_album">"ئالبۇملار"</string>
+<string name="sort_by_artist">"ئاتىسلار"</string>
+<string name="music_picker_title">"مۇزىكا كاتالوگىنى تاللاش"</string>
+<string name="search_settings_description">"ئارتىسلار،ئالبۇملار ۋە مۇزىكا كاتالوگى"</string>
+<string name="search_hint">"مۇزىكا ئىزدەش"</string>
+<string name="search_result">ئىزدەش نەتىجىسى</string>
+<string name="fast_scroll_alphabet">"\u0020ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
+<string name="widget_initial_text">"چېكىش ئارقىلىق مۇزىكا تاللاش"</string>
+<string name="effectspanel">"ئاۋاز ئۈنۈمى"</string>
+<string name="no_play">"!ھازىر مۇزىكا قويالمايدۇ"</string>
+<string name="add_favourite_song">"مەن ئەڭ ئامراق ناخشىلار تىزىملىكىگە قوشۇش"</string>
+<string name="remove_favourite_song">"مەن ئەڭ ئامراق ناخشىلار تىزىملىكىدىن يۆتكەپ چىقىرىۋېتىش"</string>
+<string name="activity_title_delete">"ناخشىلارنى يۆتكەش"</string>
+<string name="activity_title">"مۇزىكا قوشۇش"</string>
+<string name="add_music">"مۇزىكا قوشۇش"</string>
+<string name="music_selected_all">ھەممىنى تاللاش</string>
+<string name="confirm_add">قوشۇش</string>
+<string name="cancel_add">ئەمەلدىن قالدۇرۇش</string>
+<string name="delete_all_music">ئۈچۈرۈش</string>
+<string name="confirm_delete">ئۈچۈرۈش</string>
+<string name="music_selected_all_delete">"بىر كۇنۇپكا بىلەن قۇرۇقداشنى تاللاش"</string>
+<string name="music_cancle_selected_all">"ھەممىنى بىكار قىلىش"</string>
+<string name="being_add">قېتىلىشقا باشلىدى، ساقلاڭ...</string>
+<string name="remove_track">"...يۆتكىلىۋاتىدۇ، سەل ساقلاڭ"</string>
+<string name="invalid">"بۇ كاتالوگنى ئاچقىلى بولمايدۇ"</string>
+<string name="from_library">"مۇزىكا ئامبىرىدىن مۇزىكا قوشۇش"</string>
+<string name="from_folder">"ھۆججەت پاپكىسىدىن مۇزىكا قوشۇش"</string>
+<string name="lyrics_edit_title">"ناخشا تېكستىنى تەھرىرلەش"</string>
+<string name="nolrc">ناخشا تېكىستى ھۆججىتى يوق ياكى ئۈنۈمسىز</string>
+<string name="del_track">"...تۈرلەرنى يۇيۇۋاتىدۇ، سەل ساقلاڭ"</string>
+<string name="ringtone_title_sim1">"يانڧۇن قوڭغىرىقىSIM1"</string>
+<string name="ringtone_title_sim2">"يانڧۇن قوڭغىرىقىSIM2"</string>
+<string name="ringtone_set_sim1">".نىڭ قوڭغىرىقى قىلىپ تەڭشەلدىSIMئاللىبۇرۇن1"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>""</string>
+<string name="ringtone_set_sim2">".نىڭ قوڭغىرىقى قىلىپ تەڭشەلدىSIMئاللىبۇرۇن2"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>""</string>
+<string name="ring_set_fail">كەچۈرۈڭ، ناخشا قويۇلمىدى. باشقا ناخشا تاللاپ قوڭغۇراق قىلىپ بېكىتىڭ</string>
+<string name="ring_set_silent_vibrate">"ھازىرقى ھالەتتە خاسلىق قوڭغىراق ئاۋازىنى قوللىمايدۇ"</string>
+<string name="please_insert_sim_card">"ئاز بولغاندا بىر SIM كارتا كىرگۈزۈڭ"</string>
+<string name="create_playlist_warning">يېقىندا قېتىلغان بىلەن نامى ئوخشاش بولۇپ قالسا بولمايدۇ.</string>
+<string name="overwrite_playlist_alert">"“<xliff:g id="NAME">%s</xliff:g>”دىكى(تىكى) قويۇش تىزىملىكى تازىلاندى."</string>
+<string name="playlist_created_message">"قويۇش تىزىملىكى قۇرۇلدى"</string>
+<string name="overwrite_playlist_alert_rename">"نىڭ ئىچىدىكى قويۇش تىزىملىكى قاپلىنىدۇ“<xliff:g id="NAME">%s</xliff:g>”"</string>
+<string name="delete_artist">"نىڭ بارلىق ناخشىلىرىنى مەڭگۈلۈك يۇيامسىز؟"<xliff:g id="artist">%s</xliff:g>"ئەسلىھەدىكى"</string>
+<string name="delete_album">"نىڭ پۈتۈن ئالبۇمىنى مەڭگۈلۈك يۇيامسىز؟"<xliff:g id="album">%s</xliff:g>"ئەسلىھەدىكى"</string>
+<string name="delete_song">"نى مەڭگۈلۈك يۇيامسىز؟"<xliff:g id="song">%s</xliff:g>"ئەسلىھەدىكى"</string>
+<string name="delete_playlist">"نى قويۇش تىزىملىكىدىن يۇيۇۋېتەمسىز؟"<xliff:g id="song">%s</xliff:g>""</string>
+<string name="delete_songs">"ئەسلىھەدىن مەڭگۈلۈك يۇيۇۋېتەمسىز؟"</string>
+<string name="display_music">"مۇزىكا"</string>
+<string name="quit">چېكىنىش</string>
+<string name="setting">"تەڭشەك"</string>
+<string name="folder_menu">"ھۆججەت پاپكىسى"</string>
+<string name="delete_playlist_message">قويۇش تىزىملىكى %1$s نى ئۆچۈرۈشكە جەزىم قىلامسىز؟</string>
+<string name="delete_all_playlist">قويۇش تىزىملىكلىرىنى تازىلاش</string>
+<plurals name="NNNallSongsExist">
+<item quantity="one">بۇ ناخشا قويۇش تىزىملىكىدە بار</item>
+<item quantity="other">بۇ ناخشىلار قويۇش تىزىملىكىدە بار</item>
+</plurals>
+<plurals name="NNNaddsongtoplaylist">
+<item quantity="one">"1ناخشا قوشۇلدى"</item>
+<item quantity="other">" ناخشا قوشۇلدى<xliff:g id="number" example="27">%d</xliff:g>"</item>
+</plurals>
+<plurals name="NNNsongAlreadyExist">
+<item quantity="one">"1ناخشا قويۇش تىزىملىكىدە ئاللىبۇرۇن بار"</item>
+<item quantity="other">" ناخشا قويۇش تىزىملىكىدە ئاللىبۇرۇن بار<xliff:g id="number" example="27">%d</xliff:g>"</item>
+</plurals>
+<string name="length_limited">نام ئۇزۇنلۇقى يۇقىرى چەككە يەتتى</string>
+<string name="favorite_added">"مەن ئەڭ ئامراق ناخشا"</string>
+<string name="add_playlist_title">"قويۇش تىزىملىكى قوشۇش"</string>
+<string name="empty_play_list">"قويۇش تىزىملىكىنى قۇرۇقداش"</string>
+<string name="sort_by_time">ۋاقىت بويىنچە تىزىش</string>
+<string name="sort_by_name">"تىزىش"</string>
+<string name="share">بەھرىمان بولۇش</string>
+<string name="share_error">"!بەھىرلەشكە بولىدىغان ئەپ يوق"</string>
+<string name="no_search_result">ناخشا تېپىلمىدى</string>
+<string name="search_title_hint">"ئارتىسلار،ناخشىلار ۋە ئالبۇملار"</string>
+<string name="error_permissions">"بۇ ئەپنىڭ يۇرۈشىشى ئۈچۈن ھالقىلىق ھوقۇقلار كەمچىل. ھوقۇق تەڭشىكىڭىزنى تەكشۈرۈڭ"</string>
+<string name="dialog_dismiss">"تارقىلىش"</string>
+<string name="toast_fileexplorer_internal_error">"!مۇزىكا قويغۇچتا ئىچكى خاتالىق كۆرۈلدى"</string>
+<string name="fifty_min">"15مىنۇت"</string>
+<string name="theirty_min">"30مىنۇت"</string>
+<string name="sixty_min">"60مىنۇت"</string>
+<string name="ninety_min">"90مىنۇت"</string>
+<string name="self_define">"ئىختىيارىي "</string>
+<string name="timer_option">".ئۇتۇقلۇق تەڭشەلدى، مۇزىكا تەتۈر ساناقتىن كېيىن ئۆچىدۇ"</string>
+<plurals name="NNNselftimeSuffix">
+    <item quantity="one">مىنۇت</item>
+    <item quantity="other">مىنۇت</item>
+</plurals>
+<string name="self_min">"مىنۇت"</string>
+<string name="timer_setting">"دەۋرىي ھالدا ئۆچۈرۈش"</string>
+<string name="change_face">"تىرە ئالماشتۇرۇش"</string>
+<string name="timed_setting">"توختاش ۋاقتىنى تاللاش"</string>
+<string name="time_warning">"!(24سائەت)ئۆزلۈك ۋاقتى يۇقىرى چەك 1440مىنۇتتىن ئېشىپ كەتتى"</string>
+<string name="no_allow_play_calling">".(رادىئو\سىن)سۆزلىشىش جەريانىدا مۇزىكا قويۇشقا رۇخسەت قىلىنمايدۇ"</string>
+<string name="songs_nums_for_suffix">"ناخشىلار"</string>
+<string name="random_play_all">"ھەممىسىنى ئىختىيارى قويۇش"</string>
+<string name="unable_to_connect_title">"ھۆججەتكە ئۇلىنالمىدى"</string>
+<string name="unable_to_connect_message">"نۆۋەتتىكى ھۆججەتكە ئېرىشەلمىدى، ئۇلىنىشنى تەكشۈرۈڭ"</string>
+<string name="protect_information">"ئۇچۇرنى قوغداش"</string>
+<string name="drm_consume_title">"  ھوقۇقىنى ئىستىمال قىلىشDrm"</string>
+<string name="drm_consume_hint">"  ھوقۇقىنى ئىستىمال قىلىدۇDrmسىزنىڭ مەشغۇلاتىڭىز"</string>
+<string name="drm_file_name">"%1$s :ھۆججەت نامى"</string>
+<string name="drm_rights_validity">" نەشىر ھوقۇقى: ئىناۋەتلىك"</string>
+<string name="drm_rights_invalidity">" نەشىر ھوقۇقى: ئىناۋەتسىز"</string>
+<string name="drm_rights_status_transfer">" قوغداش ھالىتى: يۆتكەپ تارقىتىشقا رۇخسەت قىلىش"</string>
+<string name="drm_rights_status_untransfer">" قوغداش ھالىتى: يۆتكەپ تارقىتىشنى چەكلەش"</string>
+<string name="drm_start_time">"%1$s :باشلاش ۋاقتى"</string>
+<string name="drm_end_time">"%1$s :ئاخىرلاشتۇرۇش ۋاقتى"</string>
+<string name="drm_expiration_time">"%1$s :مۇددىتى تۇشۇش ۋاقتى"</string>
+<string name="drm_remain_times">"%1$s :ئېشىپ قالغان قېتىم سانى"</string>
+<string name="drm_no_info">"ئۇچۇر يوق"</string>
+<string name="drm_unlimited_rights">"چەكلىمىسىز"</string>
+<string name="drm_rights_unknown">نامەلۇم</string>
+<string name="drm_inactive_rights">"نەشىر ھۇقۇقى ئاكتىپلاشتۇرۇلمىغان"</string>
+<string name="statusbarlabel">".   مۇزىكا"</string>
+<string name="dock_forced_resizable">".ئەپ ئېكران پارچىلىنىش ھالىتىدە خىزمەت قىلماسلىقى مۇمكىن"</string>
+<string name="error_choose_drm_for_gallery">"ھۆججىتىنى پرويېكسىيە پليونكىسىنىڭ مۇزىكىسى قىلىپ تەڭشىگىلى بولمايدۇ، باشقا ھۆججەتلەردىن تاللاڭDRM"</string>
+<string name="delete_from_device">"ئەسلىھەدىن يۆتكەپ چىقىرىۋېتىش"</string>
+<string name="delete_from_playlist">"قويۇش تىزىملىكىدىن يۇيۇۋېتەمسىز؟"</string>
+</resources>

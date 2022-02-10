@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="onesong">1 abesti</string>
+<plurals name="Nsongs">
+<item quantity="one">"<xliff:g id="count">%d</xliff:g> abestia"</item>
+<item quantity="other"><xliff:g id="count">%d</xliff:g> abesti</item>
+</plurals>
+    <plurals name="Nalbums">
+<item quantity="one">1 album</item>
+<item quantity="other"><xliff:g id="count">%d</xliff:g> albumak</item>
+</plurals>
+    <string name="party_shuffle">Festa nahasketa</string>
+<string name="party_shuffle_off">Festa nahasketa itzalita</string>
+<string name="delete_item">Ezabatu</string>
+<string name="shuffle_all">Nahastu guztia</string>
+    <string name="delete_confirm_button_text">Ados</string>
+<plurals name="NNNtracksdeleted">
+<item quantity="one">1 abesti ezabatu da.</item>
+<item quantity="other"><xliff:g id="songs_to_delete">%d</xliff:g> abesti ezabatu dira.</item>
+</plurals>
+<string name="scanning">SD txartela eskaneatzen\u2026</string>
+<string name="scanning_nosdcard">USB memoria eskaneatzen\u2026</string>
+<string name="nowplaying_title">Orain erreproduzitzen</string>
+    <string name="artists_title">Artistak</string>
+<string name="albums_menu">Albumak</string>
+<string name="albums_title">Albumak</string>
+<string name="tracks_menu">Abestiak</string>
+<string name="tracks_title">Abestiak</string>
+<string name="playlists_menu">Erreprodukzio-zerrendak</string>
+<string name="playlists_title">Erreprodukzio-zerrendak</string>
+    <string name="all_title">Euskarri guztiak</string>
+<string name="browse_menu">Artistak</string>
+<string name="search_title">"Bilatu"</string>
+<string name="no_tracks_title">Abestirik ez</string>
+    <string name="delete_playlist_menu">Ezabatu</string>
+    <string name="rename_playlist_menu">Izena aldatu</string>
+<string name="playlist_deleted_message">Erreprodukzio-zerrenda ezabatu da.</string>
+<string name="playlist_renamed_message">Erreprodukzio-zerrendari beste izen bat jarri zaio.</string>
+<string name="recentlyadded">Berriki gehitutakoak</string>
+    <string name="podcasts_listitem">Podcasts</string>
+    <string name="sdcard_missing_title">SD txartelik ez</string>
+<string name="sdcard_missing_title_nosdcard">USB memoriarik ez</string>
+<string name="sdcard_missing_message">Zure telefonoak es du SD txartelik sartuta.</string>
+<string name="sdcard_missing_message_nosdcard">Zure telefonoak ez du USB memoriarik.</string>
+<string name="sdcard_busy_title">SD txartela ez dago eskuragarri.</string>
+<string name="sdcard_busy_title_nosdcard">USB memoria ez dago erabilgarri</string>
+<string name="sdcard_busy_message">Zure SD txartela lanpetuta dago.</string>
+<string name="sdcard_busy_message_nosdcard">Zure USB memoria lanpetuta dago.</string>
+<string name="sdcard_error_title">SD txartelaren errorea</string>
+<string name="sdcard_error_title_nosdcard">USB Memoriaren errorea</string>
+<string name="sdcard_error_message">Errore bat egon da zure SD txartelean.</string>
+<string name="sdcard_error_message_nosdcard">Errore bat egon da zure USB biltegian.</string>
+<string name="unknown_artist_name">Artista ezezaguna</string>
+<string name="unknown_album_name">Algum ezezaguna</string>
+<string name="shuffle_on_notif">Nahasketa aktibatuta dago.</string>
+    <string name="repeat_current_notif">Abesti hau errepikatzen.</string>
+<string name="repeat_all_notif">Abesti guztiak errepikatzen.</string>
+<string name="ringtone_menu">Erabili telefonoko dei tonu gisa</string>
+<string name="ringtone_menu_short">Erabili dei tonu gisa</string>
+<string name="ringtone_set">\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>\" ezarri telefonoaren dei tonu gisa.</string>
+<string name="play_selection">Erreproduzitu</string>
+<string name="add_to_playlist">Gehitu erreprodukzio-zerrendara</string>
+<string name="queue">Uneko erreprodukzio-zerrenda</string>
+<string name="new_playlist">Berria</string>
+    <plurals name="NNNtrackstoplaylist">
+<item quantity="one">1 abesti gehitu da erreprodukzio-zerrendara.</item>
+<item quantity="other"><xliff:g id="number" example="27">%d</xliff:g> abesti gehitu dira erreprodukzio-zerrendan.</item>
+</plurals>
+<string name="emptyplaylist">Hautatutako erreprodukzio-zerrenda hutsik dago.</string>
+<string name="create_playlist_create_text">Gorde</string>
+    <string name="service_start_error_title">Erreprodukzio arazoa</string>
+<string name="service_start_error_msg">Abestia ezin izan da erreproduzitu.</string>
+<string name="service_start_error_button">Ados</string>
+    <string name="musicbrowserlabel">Musika</string>
+    <string name="mediaplaybacklabel">Musika</string>
+    <string name="mediapickerlabel">Musika</string>
+<string name="playback_failed">"Erreproduzigailuak ez du onartzen audio fitxategi mota hau."</string>
+<string name="cancel">Utzi</string>
+<string name="remove_from_playlist">Kendu erreprodukzio-zerrendatik</string>
+<string name="streamloadingtext"> <xliff:g id="host">%s</xliff:g>-ra konektatzen…</string>
+    <string name="loading">Kargatzen…</string>
+<string name="sort_by_track">Abesti piztak</string>
+<string name="sort_by_album">Albumak</string>
+<string name="sort_by_artist">Artistak</string>
+<string name="music_picker_title">Aukeratu musika pista</string>
+    <string name="widget_initial_text">Ukitu musika aukeratzeko.</string>
+<string name="effectspanel">Soinu efektuak</string>
+<string name="no_play">"Une honetan ezin da erreproduzitu!"</string>
+    <string name="music_selected_all">Guztia hautatu</string>
+    <string name="music_cancle_selected_all">"Utzi dena"</string>
+    <string name="nolrc">Ez dago baliogabeak diren letra edo fitxategirik</string>
+    <string name="ringtone_title_sim1">SIM1 Telefonoaren dei tonua</string>
+<string name="ringtone_title_sim2">SIM2 Telefonoaren dei tonua</string>
+<string name="ringtone_set_sim1">\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>\" ezarri SIM1 Telefonoaren dei tonu gisa.</string>
+<string name="ringtone_set_sim2">\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>\" ezarri SIM2 Telefonoaren dei tonu gisa.</string>
+<string name="ring_set_fail">"Sentitzen dugu, abestia ezin izan da erreproduzitu. Mesedez aukeratu beste abesti bat dei soinu bezala"</string>
+<string name="ring_set_silent_vibrate">"Modu honek ez ditu onartzen pertsonalizatutako tonuak"</string>
+<string name="please_insert_sim_card">"Sartu SIM txartel bat gutxienez"</string>
+<string name="create_playlist_warning">ezin da izen bera erabili oraintxe gehitutakoarentzat.</string>
+    <string name="playlist_created_message">Erreprodukzio-zerrenda sortu da.</string>
+    <string name="delete_album">Betiko ezabatu \"<xliff:g id="album">%s</xliff:g>\" album osoa gailutik?</string>
+<string name="delete_song">Betiko ezabatu \"<xliff:g id="song">%s</xliff:g>\" gailutik?</string>
+<string name="display_music">Musika</string>
+<string name="quit">"Irten"</string>
+<string name="delete_playlist_message">"Ziur zaude erreprodukzio-zerrenda ezabatu nahi duzula "%1$s"？"</string>
+<string name="delete_all_playlist">"Erreprodukzio-zerrenda guztiak ezabatu"</string>
+<plurals name="NNNallSongsExist">
+<item quantity="one">Abestia erreprodukzio-zerrendan egon da.</item>
+<item quantity="other">Abestiak erreproduzkzio-zerrendan egon dira.</item>
+</plurals>
+<plurals name="NNNaddsongtoplaylist">
+<item quantity="one">1 abesti gehitu da,</item>
+<item quantity="other"><xliff:g id="number" example="27">%d</xliff:g> abesti gehitu,</item>
+</plurals>
+    <string name="no_search_result">"Ez da abestirik aurkitu"</string>
+<string name="search_title_hint">"Artistak, Abestiak edo Albumak"</string>
+<string name="error_permissions">"Aplikazioak ez du exekutatu ahal izateko derrigorrez beharrezko baimenik. Egiaztatu baimenen ezarpenak."</string>
+<string name="dialog_dismiss">Baztertu</string>
+<string name="toast_fileexplorer_internal_error">"Barneko errorea gertatu da Musikan!"</string>
+<string name="no_allow_play_calling">"Ezin da musika erreproduzitu dei batean zehar (irratia/bideoa)."</string>
+
+<string name="protect_information">"Informazioa babestu"</string>
+<string name="drm_consume_title">"Kontsumitzeko DRM eskubideak"</string>
+<string name="drm_consume_hint">"Zure Eragiketak Drm Eskubideak kontsumituko ditu"</string>
+<string name="drm_file_name">Fitxategiaren izena: %1$s</string>
+<string name="drm_rights_validity">Eskubideen Baliozkotasuna: baliozkoa</string>
+<string name="drm_rights_invalidity">Eskubideen Baliozkotasuna: baliogabea</string>
+<string name="drm_rights_status_transfer">Eskubieen Egoera: transferitzeko baimenduta</string>
+<string name="drm_rights_status_untransfer">Eskubideen Egoera: ez dago baimenduta transferitzea</string>
+<string name="drm_start_time">Hasteko ordua：%1$s</string>
+<string name="drm_end_time">Amaiera ordua: %1$s</string>
+<string name="drm_expiration_time">Iraungitze Denbora: %1$s</string>
+<string name="drm_remain_times">Geratzen diren aldiak：%1$s</string>
+    <string name="drm_unlimited_rights">Mugagabea</string>
+<string name="drm_rights_unknown">"Ezezaguna"</string>
+<string name="drm_inactive_rights">Eskubideak inaktibo daude</string>
+    <string name="whoes_album">"albuma"</string>
+     <plurals name="NNNtracksremoved">
+<item quantity="one">"<xliff:g id="songs_to_delete">%d</xliff:g> abesti kendu da <xliff:g id="playlist">%s</xliff:g> erreprodukzio-zerrendatik."</item>
+<item quantity="other">"<xliff:g id="songs_to_delete">%d</xliff:g> abesti kendu dira <xliff:g id="playlist">%s</xliff:g> erreprodukzio-zerrendatik."</item>
+    </plurals>
+     <string name="no_album_title">"Albumik ez"</string>
+     <string name="no_artist_title">"Artistarik ez"</string>
+     <string name="no_folderlist_title">"Karpetarik ez"</string>
+     <string name="sequence_notif">"Segidan erreproduzitzea aktibatuta dago."</string>
+     <string name="show_artist">"Erakutsi artistaren informazioa"</string>
+     <string name="done">Eginda</string>
+     <string name="search_result">Bilaketaren Emaitza</string>
+     <string name="delete_artist_album">"Gailutik behin betiko ezabatu nahi dituzu <xliff:g id="artist">%s</xliff:g> artistaren <xliff:g id="album">%s</xliff:g> albumeko abesti guztiak?"</string>
+     <plurals name="NNNallDeleteSelectedSong">
+<item quantity="one">"Hautatutako abestia behin betiko ezabatu nahi duzu gailutik?"</item>
+<item quantity="other">"Hautatutako abestiak behin betiko ezabatu nahi dituzu gailutik?"</item>
+    </plurals>
+     <string name="delete_folder_prompt">"Gailutik behin betiko ezabatu nahi dituzu <xliff:g id="folder">%s</xliff:g> karpetako abestiak?"</string>
+     <string name="delete_playlist">"Erreprodukzio-zerrendatik ezabatu nahi duzu <xliff:g id="song">%s</xliff:g>?"</string>
+     <string name="setting">ezarpena</string>
+     <string name="folder_menu">"Karpetak"</string>
+     <string name="NNNsongAlreadyExist2">"<xliff:g example="27" id="number">%d</xliff:g> abesti daude dagoeneko <xliff:g id="playlist">%s</xliff:g> erreprodukzio-zerrendan. ""</string>
+     <string name="favorite_added">"Nire abestirik gogokoena"</string>
+     <string name="add_playlist_title">"Gehitu erreprodukzio-zerrenda"</string>
+     <string name="empty_play_list">"Hustu erreprodukzio-zerrenda"</string>
+     <string name="sort_by_time">"Orduaren arabera antolatu"</string>
+     <string name="sort_by_name">Ordenatu izenaren arabera</string>
+     <string name="share">Partekatu</string>
+     <string name="share_error">"Ezin da partekatu aplikazioa!"</string>
+     <string name="fifty_min">15 min</string>
+     <string name="theirty_min">30 min</string>
+     <string name="sixty_min">"60 minutu"</string>
+     <string name="ninety_min">"90 minutu"</string>
+     <string name="self_define">"Geldialdiaren ordu pertsonalizatua"</string>
+     <string name="timer_option">"Ondo ezarri da, musika itxi egingo da atzerako kontaketaren ondoren."</string>
+     <plurals name="NNNselftimeSuffix">
+<item quantity="one">minutu</item>
+<item quantity="other">minutu</item>
+    </plurals>
+     <string name="self_min">minutu</string>
+     <string name="timer_setting">"Ezarri geldialdiaren tenporizadorea"</string>
+     <string name="change_face">"Aldatu gaia"</string>
+     <string name="timed_setting">"Hautatu geldialdiaren ordua"</string>
+     <string name="time_warning">"Tenporizadore pertsonalizatuak 1440 minutuko (24 ordu) gehieneko muga gainditzen du!"</string>
+     <string name="time_min_warning">"Tenporizadore pertsonalizatua ezin da ezarri minutu baterako baino gutxiagorako!"</string>
+     <string name="time_not_null">"Tenporizadore pertsonalizatuaren balioa ezin da izan zero!"</string>
+     <string name="random_play_all">"Erreproduzitu guztiak ausaz"</string>
+     <string name="unable_to_connect_title">"Ezin da konektatu fitxategira"</string>
+     <string name="unable_to_connect_message">"Ezin izan da lortu uneko fitxategia. Egiaztatu konexioa"</string>
+     <string name="statusbarlabel">"Musika ·"</string>
+     <string name="dock_forced_resizable">"Musika erreproduzigailuak ez du ondo funtzionatzen pantaila zatituaren moduan."</string>
+     <string name="error_choose_drm_for_gallery">"DRM fitxategian ez da eragiketa honi aplikatzen"</string>
+     <string name="delete_from_device">"Kendu gailutik"</string>
+     <string name="delete_from_playlist">"erreprodukzio-zerrendatik ezabatu nahi dituzu hautatutako abestiak?"</string>
+     <string name="empty">"Hautatutako abestia hutsik dago, egiaztatu."</string>
+     <string name="empty_playlist_message">"Ziur %1$s erreprodukzio-zerrenda hustu nahi duzula?"</string>
+     <string name="same_playlist">"Beste erreprodukzio-zerrenda bat dago izen horrekin!"</string>
+     <string name="overwrite_playlist_alert_rename">" “<xliff:g id="NAME">%s</xliff:g>”-n dauden erreprodukzio-zerrendaren datuak ezkutatuko dira."</string>
+     <string name="usbdisk">"USB diskoa (<xliff:g id="USBNAME">%s</xliff:g>)"</string>
+     <string name="length_limited">Izena gehienezko luzeerarekin</string>
+     <string name="file_notfound">"Sentitzen dugu, ezin da aurkitu fitxategia, egiaztatu."</string>
+     <string name="operation_failed">"Ezin izan da gehitu abestia "Nire abestirik gogokoenak" erreprodukzio-zerrendan."</string>
+     <string name="playlist_emptied">"Erreprodukzio-zerrenda hustu da."</string>
+     <string name="max_number">"100 fitxategi baino gehiago hautatu dira, eta partekatzeko funtzioa ez dago erabilgarri"</string>
+     <string name="invalid_playlist_name">"Erreprodukzio-zerrendaren izenak ezin du eduki amaieran honakoa: \"/\"."</string>
+     <string name="special_playlist_name">"Erreprodukzio-zerrendaren izenak ezin ditu eduki karaktere hauek: *?\"\u003C\u003E|/""</string>
+</resources>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" 
+    xmlns:app="http://schemas.android.com/apk/res-auto" >
+
+    <item
+        android:id="@+id/menu_plustolist"
+        android:icon="@drawable/ic_plus_to_list"
+        android:title="@string/add_to_playlist"
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        app:showAsAction="always">
+        <menu>
+            <group android:checkableBehavior = "none">
+                <item android:title = "@string/queue"/>
+                <item android:title = "@string/new_playlist"/>
+            </group>
+        </menu>
+    </item>
+
+    <item
+        android:id="@+id/menu_delete"
+        android:icon="@drawable/ic_delete"
+        android:title="@string/delete_item"
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        app:showAsAction="always"/>
+    
+    <item
+        android:id="@+id/menu_share"
+        android:icon="@drawable/ic_share"
+        android:title="@string/share"
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        app:showAsAction="always"/>
+    
+    <item
+        android:id="@+id/menu_selecteall"
+        android:title="@string/music_selected_all"
+        app:showAsAction="never"/>
+
+</menu>

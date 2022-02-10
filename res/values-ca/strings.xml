@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+/*
+** Copyright 2007, The Android Open Source Project
+**
+** Licensed under the Apache License, Version 2.0 (the "License"); 
+** you may not use this file except in compliance with the License. 
+** You may obtain a copy of the License at 
+**
+**     http://www.apache.org/licenses/LICENSE-2.0 
+**
+** Unless required by applicable law or agreed to in writing, software 
+** distributed under the License is distributed on an "AS IS" BASIS, 
+** WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. 
+** See the License for the specific language governing permissions and 
+** limitations under the License.
+*/
+ -->
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="onesong" msgid="8336826100414159413">"1 cançó"</string>
+    <plurals name="Nsongs" formatted="false" msgid="6016461352893352675">
+      <item quantity="other"><xliff:g id="COUNT_1">%d</xliff:g> cançons</item>
+      <item quantity="one"><xliff:g id="COUNT_0">%d</xliff:g> cançó</item>
+    </plurals>
+    <plurals name="Nalbums" formatted="false" msgid="7947176578850672205">
+      <item quantity="other"><xliff:g id="COUNT">%d</xliff:g> àlbums</item>
+      <item quantity="one">1 àlbum</item>
+    </plurals>
+    <string name="party_shuffle" msgid="8213359225506006168">"Sessió aleatòria"</string>
+    <string name="party_shuffle_off" msgid="1828744483354711679">"Desactiva la sessió aleatòria"</string>
+    <string name="delete_item" msgid="3363330144534750601">"Suprimeix"</string>
+    <string name="shuffle_all" msgid="1388193611787878773">"Reprodueix aleatòriament"</string>
+    <string name="delete_confirm_button_text" msgid="7008121194944357274">"D\'acord"</string>
+    <plurals name="NNNtracksdeleted" formatted="false" msgid="2499334199042190643">
+      <item quantity="other">S\'han suprimit <xliff:g id="SONGS_TO_DELETE">%d</xliff:g> cançons.</item>
+      <item quantity="one">S\'ha suprimit 1 cançó.</item>
+    </plurals>
+    <string name="scanning" msgid="3529383847223198502">"S\'està cercant a la targeta SD..."</string>
+    <string name="scanning_nosdcard" msgid="8105284774487360148">"S\'està explorant l\'emmagatzematge USB…"</string>
+    <string name="nowplaying_title" msgid="8342523844307751761">"Reproducció en curs"</string>
+    <string name="artists_title" msgid="8490372367259160067">"Artistes"</string>
+    <string name="albums_menu" msgid="5807982055590211900">"Àlbums"</string>
+    <string name="albums_title" msgid="8773880394961378035">"Àlbums"</string>
+    <string name="tracks_menu" msgid="6942246568246092330">"Cançons"</string>
+    <string name="tracks_title" msgid="3229389424532295124">"Cançons"</string>
+    <string name="playlists_menu" msgid="5382792649771928849">"Llistes"</string>
+    <string name="playlists_title" msgid="5094238486322957927">"Llistes"</string>
+    <string name="all_title" msgid="6880186414437237653">"Tots els fitxers multimèdia"</string>
+    <string name="browse_menu" msgid="5248122473075843289">"Artistes"</string>
+    <string name="search_title" msgid="1016971653383739344">"Cerca"</string>
+    <string name="no_tracks_title" msgid="8805805388271238471">"Cap cançó"</string>
+    <string name="delete_playlist_menu" msgid="8998637685583495247">"Suprimeix"</string>
+    <string name="rename_playlist_menu" msgid="3133463747389494668">"Canvia el nom"</string>
+    <string name="playlist_deleted_message" msgid="9008053828193961455">"S\'ha suprimit la llista de reproducció."</string>
+    <string name="playlist_renamed_message" msgid="7187580192703005990">"S\'ha canviat el nom de la llista de reproducció."</string>
+    <string name="recentlyadded" msgid="110978416756366953">"Afegits recentment"</string>
+    <string name="podcasts_listitem" msgid="8657809279717670634">"Podcasts"</string>
+    <string name="sdcard_missing_title" msgid="9008284946643270850">"No hi ha cap targeta SD"</string>
+    <string name="sdcard_missing_title_nosdcard" msgid="7984839174824243958">"Sense emmagatzematge USB"</string>
+    <string name="sdcard_missing_message" msgid="2100061456003981823">"El telèfon no té cap targeta SD inserida."</string>
+    <string name="sdcard_missing_message_nosdcard" msgid="4459620970330194881">"El telèfon no té emmagatzematge USB."</string>
+    <string name="sdcard_busy_title" msgid="1162763571147174655">"La targeta SD no està disponible"</string>
+    <string name="sdcard_busy_title_nosdcard" msgid="3319125156566499501">"Emmagatzematge USB no disponible"</string>
+    <string name="sdcard_busy_message" msgid="579981082201215537">"La targeta SD està ocupada."</string>
+    <string name="sdcard_busy_message_nosdcard" msgid="1493449756827869166">"L\'emmagatzematge USB està ocupat."</string>
+    <string name="sdcard_error_title" msgid="165682155008600643">"Error de targeta SD"</string>
+    <string name="sdcard_error_title_nosdcard" msgid="7564338137076303931">"Error d\'emmagatzematge USB"</string>
+    <string name="sdcard_error_message" msgid="4574563894036627855">"S\'ha detectat un error a la targeta SD."</string>
+    <string name="sdcard_error_message_nosdcard" msgid="4983430848526821234">"S\'ha detectat un error a l\'emmagatzematge USB."</string>
+    <string name="unknown_artist_name" msgid="5567811106415855219">"Intèrpret desconegut"</string>
+    <string name="unknown_album_name" msgid="8525145988941244727">"Àlbum desconegut"</string>
+    <string name="shuffle_on_notif" msgid="5453708337808483943">"Reproducció aleatòria activada"</string>
+    <string name="repeat_current_notif" msgid="1227153936360904196">"S\'està repetint la cançó actual."</string>
+    <string name="repeat_all_notif" msgid="6443293055987316642">"S\'estan repetint totes les cançons."</string>
+    <string name="ringtone_menu" msgid="2737472190159134599">"Utilitza com a so de trucada del telèfon"</string>
+    <string name="ringtone_menu_short" msgid="3367622038867238133">"Utilitza com a so"</string>
+    <string name="ringtone_set" msgid="5325818347613843130">"S\'ha establert \"<xliff:g id="NAME">%s</xliff:g>\" com a so de trucada del telèfon."</string>
+    <string name="play_selection" msgid="2854921021814550018">"Reprodueix"</string>
+    <string name="add_to_playlist" msgid="7110273488645072783">"Afegeix a la llista"</string>
+    <string name="queue" msgid="2937629819482787704">"Llista de reproducció actual"</string>
+    <string name="new_playlist" msgid="7588112979692632867">"Nou"</string>
+    <string name="emptyplaylist" msgid="6711555673997896344">"La llista de reproducció seleccionada és buida."</string>
+    <string name="create_playlist_create_text" msgid="8149755205483279143">"Desa"</string>
+    <string name="service_start_error_title" msgid="8649916852210198813">"Problema de reproducció"</string>
+    <string name="service_start_error_msg" msgid="7061754255330276478">"No s\'ha pogut reproduir la cançó."</string>
+    <string name="service_start_error_button" msgid="480888406592240723">"D\'acord"</string>
+    <string name="musicbrowserlabel" msgid="3162022214114562892">"Música"</string>
+    <string name="mediaplaybacklabel" msgid="6733604841530940397">"Música"</string>
+    <string name="mediapickerlabel" msgid="4549836003229914299">"Música"</string>
+    <string name="playback_failed" msgid="3811851150820251398">"El reproductor no és compatible amb aquest tipus de fitxer d\'àudio."</string>
+    <string name="cancel" msgid="886559484711947520">"Cancel·la"</string>
+    <string name="remove_from_playlist" msgid="2548577514849026354">"Suprimeix de la llista de reproducció"</string>
+    <string name="streamloadingtext" msgid="8842426517396356215">"S\'està connectant a <xliff:g id="HOST">%s</xliff:g>…"</string>
+    <string name="loading" msgid="1991660396037155453">"S\'està carregant..."</string>
+    <string name="sort_by_track" msgid="7662999005554152565">"Cançons"</string>
+    <string name="sort_by_album" msgid="2912837715658975248">"Àlbums"</string>
+    <string name="sort_by_artist" msgid="4607024967813199992">"Artistes"</string>
+    <string name="music_picker_title" msgid="4143865470317360605">"Tria una pista de música"</string>
+    <string name="widget_initial_text" msgid="3166878738860903586">"Toca per triar música."</string>
+    <string name="effectspanel" msgid="8804547581593509614">"Efectes de so"</string>
+    <string name="no_play">"En aquest moment no es pot reproduir!"</string>
+    <string name="music_selected_all">"Selec. tot"</string>
+    <string name="music_cancle_selected_all">"Cancel·lar tot"</string>
+    <string name="nolrc">"La lletra o el fitxer no són vàlids"</string>
+    <string name="ringtone_title_sim1">"So de trucada del telèfon SIM1"</string>
+     <string name="ringtone_title_sim2">"So de trucada del telèfon SIM2"</string>
+     <string name="ringtone_set_sim1">"Alarma \"<xliff:g id="name" exemple="Alarma">%s</xliff:g>\" establerta com a so de trucada del telèfon, per la SIM1."</string>
+     <string name="ringtone_set_sim2">"Alarma \"<xliff:g id="name" exemple="Alarma">%s</xliff:g>\" establerta com a so de trucada del telèfon, per la SIM2."</string>
+     <string name="ring_set_fail">"Disculpeu les molèsties, no s\'ha pogut reproduir la cançó. Seleccioneu una altra cançó com a so de trucada."</string>
+     <string name="ring_set_silent_vibrate">"Els sons de trucada personalitzats no són compatibles amb el mode actual"</string>
+     <string name="please_insert_sim_card">"Inseriu com a mínim una targeta SIM"</string>
+     <string name="create_playlist_warning">"No es pot fer servir el mateix nom que s\'ha afegit recentment."</string>
+    <string name="playlist_created_message">"S\'ha creat una llista de reproducció."</string>
+    <string name="delete_album">"Voleu eliminar definitivament tot l\'àlbum \<xliff:g id="album">%s</xliff:g>\" del dispositiu?"</string>
+     <string name="delete_song">"Voleu eliminar definitivament \"<xliff:g id="song">%s</xliff:g>\" del dispositiu?"</string>
+     <string name="display_music">"Música"</string>
+     <string name="quit">"Sortir"</string>
+     <string name="delete_playlist_message">"Esteu segurs de voler eliminar la llista de reproducció "%1$s"？"</string>
+     <string name="delete_all_playlist">Neteja totes les llistes de reproducció</string>
+     <plurals name="NNNallSongsExist">
+<item quantity="one">La cançó han format part de la llista de reproducció.</item>
+<item quantity="other">Les cançons han format part de la llista de reproducció.</item>
+    </plurals>
+     <plurals name="NNNaddsongtoplaylist">
+<item quantity="one">"1 cançó afegida"</item>
+<item quantity="other">"<xliff:g id="number" example="27">%d</xliff:g> cançons afegides,"</item>
+    </plurals>
+    <string name="no_search_result">"No s\'ha trobat cap cançó"</string>
+     <string name="search_title_hint">"Artistes, cançons o àlbums"</string>
+     <string name="error_permissions">"L\'aplicació no té els permisos importants necessaris per executar-se. Comprova la configuració dels permisos."</string>
+     <string name="dialog_dismiss">"Omet"</string>
+     <string name="toast_fileexplorer_internal_error">"S\'ha produït un error intern a música!"</string>
+    <string name="no_allow_play_calling">"No es pot reproduir música durant una trucada (ràdio/vídeo)."</string>
+    <string name="protect_information">"Protegir informació"</string>
+    <string name="drm_consume_title">"Consumeix drets DRM"</string>
+    <string name="drm_consume_hint">"Aquesta operació consumirà drets DRM"</string>
+    <string name="drm_file_name">"Nom del fitxer: %1$s"</string>
+    <string name="drm_rights_validity">"Validesa dels drets: vàlid"</string>
+    <string name="drm_rights_invalidity">"Validesa dels drets: no vàlid"</string>
+    <string name="drm_rights_status_transfer">"Estat dels drets: es pot transferir"</string>
+    <string name="drm_rights_status_untransfer">"Estat dels drets: no es pot transferir"</string>
+    <string name="drm_start_time">"Hora d\'inici: %1$s"</string>
+    <string name="drm_end_time">"Hora de finalització: %1$s"</string>
+    <string name="drm_expiration_time">"Hora d\'expiració: %1$s"</string>
+    <string name="drm_remain_times">"Temps restant: %1$s"</string>
+    <string name="drm_unlimited_rights">"Il·limitat"</string>
+    <string name="drm_rights_unknown">"Desconegut"</string>
+    <string name="drm_inactive_rights">"Drets inactius"</string>
+    <string name="whoes_album">"de l\'àlbum"</string>
+     <plurals name="NNNtracksremoved">
+<item quantity="one">"<xliff:g id="songs_to_delete">%d</xliff:g> cançó s\'ha eliminat de la llista de reproducció \"<xliff:g id="playlist">%s</xliff:g>\"."</item>
+<item quantity="other">"<xliff:g id="songs_to_delete">%d</xliff:g> cançons s\'han eliminat de la llista de reproducció \"<xliff:g id="playlist">%s</xliff:g>\"."</item>
+    </plurals>
+     <string name="no_album_title">"No hi ha cap àlbum"</string>
+     <string name="no_artist_title">"Sense artistes"</string>
+     <string name="no_folderlist_title">"No hi ha cap carpeta"</string>
+     <string name="sequence_notif">"La reproducció de seqüències està activada."</string>
+     <string name="show_artist">"Mostra la informació de l\'artista"</string>
+     <string name="done">"Fet"</string>
+     <string name="search_result">Resultat de la cerca</string>
+     <string name="delete_artist_album">"Voleu eliminar permanentment totes les cançons de l\'àlbum \"<xliff:g id="album">%s</xliff:g>\" de \"<xliff:g id="artist">%s</xliff:g>\" del dispositiu?"</string>
+     <plurals name="NNNallDeleteSelectedSong">
+<item quantity="one">"Voleu eliminar de forma permanent la cançó seleccionada del dispositiu?"</item>
+<item quantity="other">"Voleu eliminar de forma permanent les cançons seleccionades del dispositiu?"</item>
+    </plurals>
+     <string name="delete_folder_prompt">"Voleu eliminar de forma permanent les cançons afegides en la carpeta \"<xliff:g id="folder">%s</xliff:g>\" del dispositiu?"</string>
+     <string name="delete_playlist">"Voleu eliminar \"<xliff:g id="song">%s</xliff:g>\" de la llista de reproducció?"</string>
+     <string name="setting">"configurant"</string>
+     <string name="folder_menu">"Carpetes"</string>
+     <string name="NNNsongAlreadyExist2"><xliff:g example="27" id="number">%d</xliff:g> cançons ja existeixen a la llista de reproducció \"<xliff:g id="playlist">%s</xliff:g>\".</string>
+     <string name="favorite_added">"La meva cançó favorita"</string>
+     <string name="add_playlist_title">"Afegeix llista de reproducció"</string>
+     <string name="empty_play_list">"Llista de reproducció buida"</string>
+     <string name="sort_by_time">"Ordena per hora"</string>
+     <string name="sort_by_name">"Ordena per nom"</string>
+     <string name="share">"Comparteix"</string>
+     <string name="share_error">"Aplicació d\'ús no compartit"</string>
+     <string name="fifty_min">"15 minuts"</string>
+     <string name="theirty_min">"30 minuts"</string>
+     <string name="sixty_min">"60 minuts"</string>
+     <string name="ninety_min">"90 minuts"</string>
+     <string name="self_define">"Hora d\'aturada personalitzada"</string>
+     <string name="timer_option">"S\'ha establert correctament, la música es tancarà després del compte enrere."</string>
+     <plurals name="NNNselftimeSuffix">
+<item quantity="one">"minut"</item>
+<item quantity="other">"minuts"</item>
+    </plurals>
+     <string name="self_min">"minuts"</string>
+     <string name="timer_setting">"Establiu el temporitzador d\'aturada"</string>
+     <string name="change_face">"Canvia el tema"</string>
+     <string name="timed_setting">"Seleccioneu l\'hora d\'aturada"</string>
+     <string name="time_warning">"El temporitzador personalitzat ultrapassa el límit superior de 1440 minuts (24 hores)."</string>
+     <string name="time_min_warning">"El temporitzador personalitzat no ha de ser inferior a un minut."</string>
+     <string name="time_not_null">"El temporitzador personalitzat no ha de ser nul."</string>
+     <string name="random_play_all">"Reprodueix-ho tot de forma aleatòria"</string>
+     <string name="unable_to_connect_title">"No es pot connectar al fitxer"</string>
+     <string name="unable_to_connect_message">"No es pot obtenir el fitxer actual. Comproveu la connexió"</string>
+     <string name="statusbarlabel">"Música · "</string>
+     <string name="dock_forced_resizable">"El reproductor de música no pot funcionar correctament en mode de pantalla dividida."</string>
+     <string name="error_choose_drm_for_gallery">"El fitxer DRM no s\'aplica a aquesta operació"</string>
+     <string name="delete_from_device">"Suprimeix del dispositiu"</string>
+     <string name="delete_from_playlist">"voleu suprimir les cançons seleccionades de la llista de reproducció?"</string>
+     <string name="empty">"La cançó seleccionada està buida, comproveu-ho."</string>
+     <string name="empty_playlist_message">"Segur que voleu buidar la llista de reproducció \"%1$s\"?"</string>
+     <string name="same_playlist">"El nom de la llista de reproducció d\'entrada ja existeix"</string>
+     <string name="overwrite_playlist_alert_rename">"Les dades de la llista de reproducció de “<xliff:g id="NAME">%s</xliff:g>” es sobreescriuran."</string>
+     <string name="usbdisk">"Disc USB (<xliff:g id="USBNAME">%s</xliff:g>)"</string>
+     <string name="length_limited">"El nom ha arribat a la longitud màxima"</string>
+     <string name="file_notfound">"Ho sentim, no es pot trobar el fitxer, comproveu-ho."</string>
+     <string name="operation_failed">"No s\'ha pogut afegir la cançó a la llista de reproducció \"Les meves cançons favorites\"."</string>
+     <string name="playlist_emptied">"S\'ha buidat la llista de reproducció."</string>
+     <string name="max_number">"S\'han seleccionat més de 100 fitxers i la funció d\'ús compartit no està disponible"</string>
+     <string name="invalid_playlist_name">"El nom de la llista de reproducció no pot acabar amb \"/\"."</string>
+     <string name="special_playlist_name">"El nom de la llista de reproducció no pot contenir caràcters no permesos \\:*?\"\u003C\u003E|/"</string>
+    <string name="skip_to_next">"No s’ha pogut reproduir l’arxiu. Es passarà al següent automàticament."</string>
+    <string name="no_sd_write_permission">"Música no té accés a la teva targeta SD. Autoritza’n l’accés o esborra l’emmagatzematge de l’aplicació i torna-ho a provar."</string>
+    <string name="confirm">"D\'acord"</string>
+    <string name="playback_notification">"Servei de reproducció"</string>
+    <string name="no_sd_rootdir_permission">"El reproductor de música no té accés a la teva targeta SD. Selecciona el directori arrel extern de la targeta SANDISK SD i autoritza les operacions amb arxius."</string>
+    <string name="create_failed">"Error de creació."</string>
+    <plurals name="NNNtrackstoplaylist" formatted="false">
+        <item quantity="one">"S'ha afegit 1 cançó a la  \"<xliff:g id="playlist">%2$s</xliff:g>\" llista de reproducció."</item>
+        <item quantity="other">"<xliff:g example="27" id="number">%1$d</xliff:g> cançons afegies a \"<xliff:g id="playlist">%2$s</xliff:g>\" la llista de reproducció. "</item>
+    </plurals>
+</resources>

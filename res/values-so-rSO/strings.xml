@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="onesong">"1 hees"</string>
+<plurals name="Nsongs">
+<item quantity="one">"<xliff:g id="count">%d</xliff:g> hees"</item>
+<item quantity="other">"Tirada guud ee <xliff:g id="count">%d</xliff:g> heesaha"</item>
+</plurals>
+<plurals name="Nalbums">
+<item quantity="one">"1 albuum"</item>
+<item quantity="other">"<xliff:g id="count">%d</xliff:g> Albumyo"</item>
+</plurals>
+<string name="whoes_album">"\'s albunka"</string>
+<string name="party_shuffle">"Shaandhaynta xisbiga"</string>
+<string name="party_shuffle_off">"Dami Shaandhaynta xisbiga"</string>
+<string name="delete_item">"tirtir"</string>
+<string name="shuffle_all">"Dhaandhee dhamaan"</string>
+<string name="delete_confirm_button_text">"OK"</string>
+<plurals name="NNNtracksdeleted">
+<item quantity="one">"1 hees ayaa latiray."</item>
+<item quantity="other">"<xliff:g id="songs_to_delete">%d</xliff:g> Heeso ayaa latiray."</item>
+</plurals>
+<plurals name="NNNtracksremoved">
+<item quantity="one">"<xliff:g id="songs_to_delete">%d</xliff:g> heesta waa laga saaray \"<xliff:g id="playlist">%s</xliff:g>\" liiska dhagaysiga."</item>
+<item quantity="other">"<xliff:g id="songs_to_delete">%d</xliff:g> heesaha waa laga saaray \"<xliff:g id="playlist">%s</xliff:g>\" liiska dhagaysiga."</item>
+</plurals>
+<string name="scanning">"Iskaagaraynta kaarka SD\u2026"</string>
+<string name="scanning_nosdcard">"Iskaangaraynta kaydka USB ga\u2026"</string>
+<string name="nowplaying_title">"Baahinaya hadda"</string>
+<string name="artists_title">"Farshaxanada"</string>
+<string name="albums_menu">"Albumyo"</string>
+<string name="albums_title">"Albumyo"</string>
+<string name="tracks_menu">"Heeso"</string>
+<string name="tracks_title">"Heeso"</string>
+<string name="playlists_menu">"Liiska ladhagaystay"</string>
+<string name="playlists_title">"Liiska ladhagaystay"</string>
+<string name="all_title">"Dhamaan warbaahinada"</string>
+<string name="browse_menu">"Farshaxanada"</string>
+<string name="search_title">"Baar"</string>
+<string name="no_tracks_title">"Heeso kumajiraan"</string>
+<string name="no_album_title">"Albumyo kuma jiraan"</string>
+<string name="no_artist_title">"Farshaxano maleh"</string>
+<string name="no_folderlist_title">"Sanduuqyo kuma jiraan"</string>
+<string name="delete_playlist_menu">"tirtir"</string>
+<string name="rename_playlist_menu">"Magaca kabadal"</string>
+<string name="playlist_deleted_message">"Liiska la dhagaystay waa latiray."</string>
+<string name="playlist_renamed_message">"Liiska la dhagaystay waa laga saaray."</string>
+<string name="recentlyadded">"Dhawaan lagu daray"</string>
+<string name="podcasts_listitem">"Podcasts"</string>
+<string name="sdcard_missing_title">"Kumajiro kaarka SD"</string>
+<string name="sdcard_missing_title_nosdcard">"Majiro wax kayd USB ah"</string>
+<string name="sdcard_missing_message">"Teleefankaaga kuma jiro Kaarka SD."</string>
+<string name="sdcard_missing_message_nosdcard">"Teleefankaaga kuma jiro kaydiyaha USB.."</string>
+<string name="sdcard_busy_title">"Kaarka SD lama helikaro"</string>
+<string name="sdcard_busy_title_nosdcard">"Kaydka USB ga lama heli karo"</string>
+<string name="sdcard_busy_message">"Kaarkaaga kaydka ee SD waa mashquul."</string>
+<string name="sdcard_busy_message_nosdcard">"Kaydka USB gaaga waa mashquul."</string>
+<string name="sdcard_error_title">"Cilad ayaa haysata kaarka kaydka SD"</string>
+<string name="sdcard_error_title_nosdcard">"Cilad ayaa haysta kaydka USB ga"</string>
+<string name="sdcard_error_message">"Cilad ayaa soo foodsaartay kaarkaaga SD ga."</string>
+<string name="sdcard_error_message_nosdcard">"Cilad ayaa soo foodsaartay keydkaaga USB ga."</string>
+<string name="unknown_artist_name">"Farshaxamiiste aan la aqoonsan"</string>
+<string name="unknown_album_name">"Albuum aan la aqoonsan"</string>
+<string name="shuffle_on_notif">"Shaandhaynta waa shidantahay."</string>
+<string name="repeat_current_notif">"Kucelinta heesta socota."</string>
+<string name="sequence_notif">"Daarista isxigxga way shidantahay."</string>
+<string name="repeat_all_notif">"Kucelinta heesaha dhamaan."</string>
+<string name="ringtone_menu">"Adeegso codka soo dhcista wicitaanka"</string>
+<string name="ringtone_menu_short">"U adeegso codka ahaan"</string>
+<string name="ringtone_set">"\"<xliff:g example="Alarm Bell" id="name">%s</xliff:g>\" kadhig codka wicitaanku kusoo dhaco."</string>
+<string name="play_selection">"Ciyaar"</string>
+<string name="add_to_playlist">"Kudar liiska la dhagaystay"</string>
+<string name="show_artist">"Muuji macluumaadka farshaxanka"</string>
+<string name="queue">"Liiska la dhagaystay ee socdo"</string>
+<string name="new_playlist">"cusub"</string>
+<plurals name="NNNtrackstoplaylist">
+<item quantity="one">"1 hees ayaa lagu daray liiska dhagaysiga"</item>
+<item quantity="other">"<xliff:g example="27" id="number">%d</xliff:g> heesaha lagu daray liiska ladhagaystay."</item>
+</plurals>
+<string name="emptyplaylist">"Liiska dhagaysiga ee ladoortay waa maranyahay."</string>
+<string name="create_playlist_create_text">"Keydi"</string>
+<string name="service_start_error_title">"Cilad dhanka liiska dhagaysiga ah"</string>
+<string name="service_start_error_msg">"Heesta lama dhagaysan karo."</string>
+<string name="service_start_error_button">"OK"</string>
+<string name="musicbrowserlabel">"Muusig"</string>
+<string name="mediaplaybacklabel">"Muusig"</string>
+<string name="mediapickerlabel">"Muusig"</string>
+<string name="playback_failed">"Waanu kaxunahay, laguma guulaysan in faylka lashido."</string>
+<string name="cancel">"Jooji"</string>
+<string name="done">"Waa lafuliyay"</string>
+<string name="remove_from_playlist">"Kasaar liiska dhagaysiga"</string>
+<string name="streamloadingtext">"Kuxiraaya <xliff:g id="host">%s</xliff:g>\u2026"</string>
+<string name="loading">"Raadinaya\u2026"</string>
+<string name="sort_by_track">"Taxanayaal"</string>
+<string name="sort_by_album">"Albumyo"</string>
+<string name="sort_by_artist">"Farshaxanada"</string>
+<string name="music_picker_title">"Dooro taxanka muusiga"</string>
+<string name="search_result">"Natiijadaha Raadinta"</string>
+<string name="widget_initial_text">"Taabo si aad muusig udoorato."</string>
+<string name="effectspanel">"Saamaynada codka"</string>
+<string name="no_play">"Hada lama dhagaysan karo!"</string>
+<string name="music_selected_all">"Dooro dhamaan"</string>
+<string name="music_cancle_selected_all">"Jooji dhammaan"</string>
+<string name="nolrc">"Majiraan miro ama faylku aa khalad"</string>
+<string name="ringtone_title_sim1">"Codka SIM1 u kusoo dhaco"</string>
+<string name="ringtone_title_sim2">"Codka SIM2 u kusoo dhaco"</string>
+<string name="ringtone_set_sim1">"\"<xliff:g example="Alarm Bell" id="name">%s</xliff:g>\" kadhig codka wicitaanku SIM1 kusoo dhaco."</string>
+<string name="ringtone_set_sim2">"\"<xliff:g example="Alarm Bell" id="name">%s</xliff:g>\" kadhig codka wicitaanku SIM2 kusoo dhaco."</string>
+<string name="ring_set_fail">"Waanu kaxunahay, heesta lama dhagaysan karo. Fadlan udoor hees kale cod ahaan"</string>
+<string name="ring_set_silent_vibrate">"Codadka caadiga laguma isticmaali karo noocaan"</string>
+<string name="please_insert_sim_card">"Fadlan ugu yaraan gali SIMkaar"</string>
+<string name="create_playlist_warning">"Ma adeegsankartid isla magaca systemka liiska ladhagaystay."</string>
+<string name="playlist_created_message">"Liis dhagaysi ayaa lasameeyay."</string>
+<string name="delete_album">"Si joogto ah uga tirtir dhammaan albuumka \"<xliff:g id="album">%s</xliff:g>\" kujira aalada?"</string>
+<string name="delete_artist_album">"Si rasmi utirtir dhamaan heesaha kujira albunka \"<xliff:g id="album">%s</xliff:g>\" kuwaasoo kabilowda \"<xliff:g id="artist">%s</xliff:g>\" ee aalada kayimaada?"</string>
+<string name="delete_song">"Si joogto ah uga tirtir \"<xliff:g id="song">%s</xliff:g>\" kujira aalada?"</string>
+<plurals name="NNNallDeleteSelectedSong">
+<item quantity="one">"Si rasmi ah uga tirtir heesta ladoortay aalada?"</item>
+<item quantity="other">"Si rasmi ah uga tirtir heesaha ladoortay aalada?"</item>
+</plurals>
+<string name="delete_folder_prompt">"Si rasmi utirtir heesaha lagu daray ee kujira \"<xliff:g id="folder">%s</xliff:g>\" sanduuqa aalada?"</string>
+<string name="delete_playlist">"Katiritr \"<xliff:g id="song">%s</xliff:g>\" liiska dhagaysiga?"</string>
+<string name="display_music">"Muusig"</string>
+<string name="quit">"Kabax"</string>
+<string name="setting">"Setting_ka"</string>
+<string name="folder_menu">"Sanduuqyada"</string>
+<string name="delete_playlist_message">"Mahubtaa inaad rabto tirtirida liiska ladhagaystay \"%1$s\"?"</string>
+<string name="delete_all_playlist">"Tir dhamaan liiska ladhagaystay"</string>
+<plurals name="NNNallSongsExist">
+<item quantity="one">"Heesta waxay kujirtay liiska ladhagaystay"</item>
+<item quantity="other">"Heesaha waxay kujireen liiska ladhagaystay."</item>
+</plurals>
+<plurals name="NNNaddsongtoplaylist">
+<item quantity="one">"1 hees ayaa lagu daray,"</item>
+<item quantity="other">"<xliff:g example="27" id="number">%d</xliff:g> heesaha lagu daray,"</item>
+</plurals>
+<string name="NNNsongAlreadyExist2">" <xliff:g example="27" id="number">%d</xliff:g> heesuhu horay ayay ugu jireen \"<xliff:g id="playlist">%s</xliff:g>\" liiska ladhagaystay. "</string>
+<string name="favorite_added">"Heesta aan ugu jeclahay"</string>
+<string name="add_playlist_title">"Kudar liiska dhagaysiga"</string>
+<string name="empty_play_list">"Liiska dhagaysiga aa faaruq"</string>
+<string name="sort_by_time">"Wakhtiga ku sooc"</string>
+<string name="sort_by_name">"Magaca ku sooc"</string>
+<string name="share">"Wadaag"</string>
+<string name="share_error">"Applicationka aan laysla wadaagin!"</string>
+<string name="no_search_result">"Wax heeso ah kuma jiraan"</string>
+<string name="search_title_hint">"Farshaxada, Heesaha ama Albunada"</string>
+<string name="error_permissions">"Barnamiijkan malahan ogolaanshaha aasaasiga ah uu ku kaco. Fadlan hubi qaabaynadaada ogolaanshaha"</string>
+<string name="dialog_dismiss">"Ka bixid"</string>
+<string name="toast_fileexplorer_internal_error">"Fasaxa Muusiga waa ladiiday!"</string>
+<string name="fifty_min">"15 daqiiqo"</string>
+<string name="theirty_min">"30 daqiiqo"</string>
+<string name="sixty_min">"60 daqiiqo"</string>
+<string name="ninety_min">"90 daqiiqo"</string>
+<string name="self_define">"Waqtiga joojinta macmiilka"</string>
+<string name="timer_option">"Dajinta waa lagu hguulaystay, muusigu uu xirmayaa tirinta kadib."</string>
+<plurals name="NNNselftimeSuffix">
+<item quantity="one">"daqiiqad"</item>
+<item quantity="other">"daqiiqado"</item>
+</plurals>
+<string name="self_min">"daqiiqado"</string>
+<string name="timer_setting">"Waqtiga joojinta kuxir"</string>
+<string name="change_face">"Badal midabka gudaha"</string>
+<string name="timed_setting">"Dooro Waqtiga Joojinta"</string>
+<string name="time_warning">"Waqtiga macmiilka wuxuu kabadanyahay xadka kore oo ah 1440 daqiiqadood (24 saacadood)!"</string>
+<string name="time_min_warning">"Waqtiga macmiilka waa inuusan kayaraan hal daqiiqo!"</string>
+<string name="time_not_null">"Waqtiga macmiilka ma ahaan karo faaruq!"</string>
+<string name="no_allow_play_calling">"Muusig lama dhagaysan karo inta wacniinka socdo (radio/fiidyoow)."</string>
+<string name="random_play_all">"Kuxir shid dhamaan"</string>
+<string name="unable_to_connect_title">"Laguma xiri karo faylka"</string>
+<string name="unable_to_connect_message">"Lama heli karo faylka hada. Fadlan hubi khadkaaga"</string>
+<string name="protect_information">"Macluumaadka ilaali"</string>
+<string name="drm_consume_title">"Kushaqee xuquuqdaDrm ka"</string>
+<string name="drm_consume_hint">"Hawshaada waxay kutumanaysaa xuquuqaha Drm ka"</string>
+<string name="drm_file_name">"Magaca Faylka: %1$s"</string>
+<string name="drm_rights_validity">"Saxnimada xquuqda: sax ah"</string>
+<string name="drm_rights_invalidity">"Saxnimada xquuqda: khalad ah"</string>
+<string name="drm_rights_status_transfer">"Xaalada Xuquuqaha: ee la ogolaaday in la diro"</string>
+<string name="drm_rights_status_untransfer">"Xaalada Xuquuqaha: een la ogolayn in ladiro"</string>
+<string name="drm_start_time">"Waqtiga Bilaabashada:%1$s"</string>
+<string name="drm_end_time">"Wqtiga Dhmaadka:%1$s"</string>
+<string name="drm_expiration_time">"Waqtiga dhicitaanka:%1$s"</string>
+<string name="drm_remain_times">"Waqtiyada Harida:%1$s"</string>
+<string name="drm_unlimited_rights">"Aan xadidnayn"</string>
+<string name="drm_rights_unknown">"Aan la aqoon"</string>
+<string name="drm_inactive_rights">"Xuquuqda mashaqaynayaan"</string>
+<string name="statusbarlabel">"Muusiga · "</string>
+<string name="dock_forced_resizable">"Shidaha muusiga si fiican uguma shaqayn karo qaabka shaashada kala xiran."</string>
+<string name="error_choose_drm_for_gallery">"Faylka DRM ka shaqadaan maquseeyo"</string>
+<string name="delete_from_device">"Kasaar aalada"</string>
+<string name="delete_from_playlist">"Katirtir heesaha ladoortay liiska dhagaysiga?"</string>
+<string name="empty">"Heesta ladoortay waa faaruq, fadlan hubi."</string>
+<string name="empty_playlist_message">"Mahubtaa inaad rabto faarujiso liiska ladhagaystay \"%1$s\"?"</string>
+<string name="same_playlist">"Magaca galinta liiska ladhagaystay horay ayuu ujiray!"</string>
+<string name="overwrite_playlist_alert_rename">"Macluumaadka liiska ladhagaystay ee kujira “<xliff:g id="NAME">%s</xliff:g>” waa la dhagaysanayaa."</string>
+<string name="usbdisk">"USB Disk(<xliff:g id="USBNAME">%s</xliff:g>)"</string>
+<string name="length_limited">"Magaca ilaa qiyaasta ugu badan"</string>
+<string name="file_notfound">"Waan kaxunahay, maheli karno faylka, fadlan hubi."</string>
+<string name="operation_failed">"Kudarista heesta liiska dhagaysiga "Heesaha aan Jeclahay" laguma guulaysan."</string>
+<string name="playlist_emptied">"Liiska ladhagaystay waa laxaaqay."</string>
+<string name="max_number">" Inkabadan 100 fayl ayaa ladoortay, qaybta lawadaagiduna mashaqaynayso"</string>
+<string name="invalid_playlist_name">"Liiska ladhagaystay kuma dhamaan karo astaanta \"/\"."</string>
+<string name="special_playlist_name">"Magaca liiska ladhagaystay kuma jiri karaan xarfaha lamamnuucay \\:*?\"\u003C\u003E|/"</string>
+</resources>

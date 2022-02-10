@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:id="@+id/random_layout"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:gravity="center_vertical"
+        android:layout_marginTop="8dp"
+        >
+
+        <ImageView
+            android:id="@+id/add_playlist_image"
+            android:layout_width="42dp"
+            android:layout_height="42dp"
+            android:layout_marginTop="3dp"
+            android:layout_marginStart="22dp"
+            android:layout_marginEnd="16dp"
+            android:clickable="true"
+            android:src="@drawable/button_plus_list"
+            android:tint="#f44336"
+            android:scaleType="centerCrop" />
+
+        <TextView
+            android:id="@+id/add_playlist_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_toEndOf="@id/add_playlist_image"
+            android:textColor="#f44336"
+            android:textStyle="bold"
+            android:text="@string/add_playlist_title"
+            android:textSize="16sp" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingStart="8dp"
+        android:paddingEnd="8dp"
+        android:paddingTop="8dp"
+        android:layout_below="@+id/random_layout">
+
+        <GridView
+                android:id="@+id/playlist_grid"
+
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:background="@color/grid_bg_color"
+                android:gravity="center"
+                android:numColumns="2"
+                android:scrollbarStyle="insideOverlay"
+                android:scrollbars="vertical"
+                android:stretchMode="columnWidth"
+                android:verticalSpacing="8dp"
+                android:horizontalSpacing="8dp"/>
+    </RelativeLayout>
+</RelativeLayout>
+

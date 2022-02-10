@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:key="pref_music_setting_key"
+    android:title="@string/setting"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Preference
+        android:key="pref_sound_effects_key"
+        android:title="@string/effectspanel" />
+
+    <com.sprd.music.view.SmartSwitchPreference
+        android:key="pref_music_setting_switch_key"
+        android:title="@string/timer_setting" />
+
+<!-- remove change face option
+    <Preference
+        android:key="pref_change_theme_key"
+        android:title="@string/change_face" />
+ -->
+</PreferenceScreen>

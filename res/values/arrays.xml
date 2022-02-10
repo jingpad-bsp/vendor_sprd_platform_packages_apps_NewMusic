@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--add new theme should modify here-->
+    <array name="face_color" translatable="false">
+        <item>@drawable/gallery_image_1</item>
+        <item>@drawable/gallery_image_2</item>
+        <item>@drawable/gallery_image_3</item>
+        <item>@drawable/gallery_image_4</item>
+        <item>@drawable/gallery_image_5</item>
+        <item>@drawable/gallery_image_6</item>
+        <item>@drawable/gallery_image_7</item>
+        <item>@drawable/gallery_image_8</item>
+        <item>@drawable/gallery_image_9</item>
+        <item>@drawable/gallery_image_10</item>
+    </array>
+</resources>

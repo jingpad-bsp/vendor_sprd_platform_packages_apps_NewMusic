@@ -1,0 +1,206 @@
+<RelativeLayout xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="24dip"
+    android:orientation="vertical" >
+
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="56dp"
+        android:background="@android:color/transparent" >
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:layout_marginEnd="32dp"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/title"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:maxLines="1"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:ellipsize="marquee"
+                android:marqueeRepeatLimit="marquee_forever"
+                android:textColor="@android:color/white" />
+            <TextView
+                android:id="@+id/subtitle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:maxLines="1"
+                android:ellipsize="marquee"
+                android:marqueeRepeatLimit="marquee_forever"
+                android:textColor="@color/sub_title_white_color" />
+        </LinearLayout>
+    </android.support.v7.widget.Toolbar>
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/vp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/toolbar"
+        android:layout_above="@+id/random_area"/>
+
+    <LinearLayout
+        android:id="@+id/random_area"
+        android:layout_width="match_parent"
+        android:layout_height="32dp"
+        android:layout_gravity="bottom"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginBottom="8dp"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:layout_above="@+id/control_button">
+
+        <ImageButton
+            android:id="@+id/favourite_correct"
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            android:background="@android:color/transparent"
+            android:gravity="start" />
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:layout_weight="0.70"
+            android:gravity="center"
+            android:orientation="horizontal" >
+
+            <View
+                android:id="@+id/dot_1"
+                android:layout_width="24dip"
+                android:layout_height="32dip"
+                android:background="@drawable/ic_point_deactivation" />
+
+            <View
+                android:id="@+id/dot_2"
+                android:layout_width="24dip"
+                android:layout_height="32dip"
+                android:background="@drawable/ic_point_deactivation" />
+
+            <View
+                android:id="@+id/dot_3"
+                android:layout_width="24dip"
+                android:layout_height="32dip"
+                android:background="@drawable/ic_point_deactivation" />
+        </LinearLayout>
+
+        <ImageButton
+            android:id="@+id/repeat"
+            android:layout_width="32dip"
+            android:layout_height="32dip"
+            android:tint="#FFFFFF"
+            android:background="@android:color/transparent"
+            android:gravity="end" />
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:id="@+id/control_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_weight="0.27"
+        android:background="#ffffff"
+        android:orientation="vertical" >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="48dip"
+            android:layout_marginTop="48dip"
+            android:layout_weight="0.24"
+            android:background="#ffffff"
+            android:layoutDirection="ltr">
+
+            <com.android.music.RepeatingImageButton
+                android:id="@+id/prev"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentStart="true"
+                android:layout_centerVertical="true"
+                android:background="@android:color/transparent"
+                android:paddingStart="48dip"
+                android:src="@drawable/button_play_last" />
+
+            <ImageButton
+                android:id="@+id/pause"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:background="@android:color/transparent"
+                android:src="@drawable/button_play_halt" />
+
+            <com.android.music.RepeatingImageButton
+                android:id="@+id/next"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_centerVertical="true"
+                android:background="@android:color/transparent"
+                android:paddingEnd="48dp"
+                android:src="@drawable/button_play_next" />
+        </RelativeLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:layout_gravity="center"
+            android:layout_marginStart="12dip"
+            android:layout_marginEnd="12dip"
+            android:layout_marginTop="28dip"
+            android:layout_marginBottom="28dip"
+            android:layout_weight="0.24"
+            android:background="#ffffff"
+            android:orientation="horizontal"
+            android:layoutDirection="ltr">
+
+            <TextView
+                android:id="@+id/currenttime"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="start|center_vertical"
+                android:layout_weight="1"
+                android:minWidth="65dp"
+                android:paddingEnd="2dip"
+                android:gravity="end|center_vertical"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="#747474"
+                android:textSize="12dp" />
+
+            <SeekBar
+                android:id="@android:id/progress"
+                android:focusable="false"
+                style="?android:attr/progressBarStyleHorizontal"
+                android:layout_width="match_parent"
+                android:layout_height="24dp"
+                android:layout_gravity="center"
+                android:layout_weight="8"
+                android:maxHeight="3dip"
+                android:minHeight="3dip"
+                android:paddingStart="10dip"
+                android:paddingEnd="10dip"
+                android:thumb="@drawable/progressbar_point_new"
+                android:background="@drawable/progress_horizontal_new"/>
+
+            <TextView
+                android:id="@+id/totaltime"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="end|center_vertical"
+                android:layout_weight="1"
+                android:minWidth="65dp"
+                android:paddingStart="2dip"
+                android:gravity="start|center_vertical"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="#747474"
+                android:textSize="12dp" />
+        </LinearLayout>
+    </LinearLayout>
+
+</RelativeLayout>

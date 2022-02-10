@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="onesong">"1 गाना"</string>
+<plurals name="Nsongs">
+<item quantity="one">"<xliff:g id="count">%d</xliff:g> गाना"</item>
+<item quantity="other">"<xliff:g id="count">%d</xliff:g> गाने"</item>
+</plurals>
+<plurals name="Nsongscomp">
+<item quantity="one">"<xliff:g id="total_count">%1$d</xliff:g> दा <xliff:g id="count_for_artist">%2$d</xliff:g> गाना"</item>
+<item quantity="other">"<xliff:g id="count_for_artist">%2$d</xliff:g> दे <xliff:g id="total_count">%1$d</xliff:g> गाने"</item>
+</plurals>
+<plurals name="Nalbums">
+<item quantity="one">"1 एलबम"</item>
+<item quantity="other">"<xliff:g id="count">%d</xliff:g> एलबमां"</item>
+</plurals>
+<string name="whoes_album">"एल्बम"</string>
+<string name="goto_start">"लाइब्रेरी"</string>
+<string name="party_shuffle">"पार्टी शफल"</string>
+<string name="party_shuffle_off">"पार्टी शफल बंद ऐ"</string>
+<string name="delete_item">"डिलीट"</string>
+<string name="shuffle_all">"सब्भै शफल करोl"</string>
+<string name="play_all">"सब्भै प्ले करो"</string>
+<string name="delete_artist_desc">"SD कार्ड थमां मुस्तकल तौर पर <xliff:g id="artist">%s</xliff:g> दे सब्भै गाने डिलीट करो?"</string>
+<string name="delete_artist_desc_nosdcard">"USB स्टोरज थमां मुस्तकल तौर पर <xliff:g id="artist">%s</xliff:g> दे सब्भै गाने डिलीट करो?"</string>
+<string name="delete_album_desc">"SD कार्ड थमां मुस्तकल तौर पर\"<xliff:g id="album">%s</xliff:g> \" पूरी एलबम डिलीट करो?"</string>
+<string name="delete_album_desc_nosdcard">"USB स्टोरज थमां मुस्तकल तौर पर\"<xliff:g id="album">%s</xliff:g> \" पूरी एलबम डिलीट करो?"</string>
+<string name="delete_song_desc">"SD कार्ड थमां मुस्तकल तौर पर\"<xliff:g id="song">%s</xliff:g> \"डिलीट करो?"</string>
+<string name="delete_song_desc_nosdcard">"USB स्टोरज थमां मुस्तकल तौर पर \"<xliff:g id="song">%s</xliff:g> \" डिलीट करो?"</string>
+<string name="delete_confirm_button_text">"ठीक ऐ"</string>
+<plurals name="NNNtracksdeleted">
+<item quantity="one">"1 गाना डिलीट कीता गेआ"</item>
+<item quantity="other">"<xliff:g id="songs_to_delete">%d</xliff:g> गाने डिलीट कीते गे न"</item>
+</plurals>
+<string name="scanning">"SD कार्ड स्कैन होआ करदा ऐ..."</string>
+<string name="scanning_nosdcard">"USB स्टोरज स्कैन होआ करदा ऐ..."</string>
+<string name="nowplaying_title">"हून प्ले होआ करदा ऐ"</string>
+<string name="partyshuffle_title">"पार्टी शफल"</string>
+<string name="artists_title">"कलाकार"</string>
+<string name="albums_menu">"एल्बमां"</string>
+<string name="albums_title">"एल्बमां"</string>
+<string name="tracks_menu">"गाने"</string>
+<string name="tracks_title">"गाने"</string>
+<string name="playlists_menu">"प्लेलिस्टां"</string>
+<string name="playlists_title">"प्लेलिस्टां"</string>
+<string name="videos_title">"विडियो"</string>
+<string name="all_title">"पूरा मिडिया"</string>
+<string name="browse_menu">"कलाकार"</string>
+<string name="search_title">"तपाश"</string>
+<string name="no_tracks_title">"कोई गाने नेईं"</string>
+<string name="no_album_title">"कोई एल्बम नेईं"</string>
+<string name="no_artist_title">"कोई कलाकार नेईं"</string>
+<string name="no_folderlist_title">"कोई फोल्डर नेईं"</string>
+<string name="no_videos_title">"कोई विडियो नेईं"</string>
+<string name="no_playlists_title">"कोई प्लेलिस्ट नेईं"</string>
+<string name="delete_playlist_menu">"डिलीट"</string>
+<string name="edit_playlist_menu">"संपादत करो"</string>
+<string name="rename_playlist_menu">"नांऽ बदलो"</string>
+<string name="playlist_deleted_message">"प्लेलिस्ट डिलीट कीती गेई ऐ।"</string>
+<string name="playlist_renamed_message">"प्लेलिस्ट मुड़-नांऽ कीती गेई ऐ"</string>
+<string name="recentlyadded">"हूनै-हूनै शामल कीते गेदे"</string>
+<string name="recentlyadded_title">"हूनै-हूनै शामल कीते गेदे"</string>
+<string name="podcasts_listitem">"पाडकास्ट"</string>
+<string name="podcasts_title">"पाडकास्ट"</string>
+<string name="sdcard_missing_title">"कोई SD कार्ड नेईं"</string>
+<string name="sdcard_missing_title_nosdcard">"कोई USB स्टोरज नेईं"</string>
+<string name="sdcard_missing_message">"थुआढ़े फोन च SD कार्ड दाखल नेईं कीता गेदा ऐ।"</string>
+<string name="sdcard_missing_message_nosdcard">"थुआढ़े फोन च USBस्टोरज नेईं ऐ।"</string>
+<string name="sdcard_busy_title">"SD कार्ड उपलब्ध नेईं"</string>
+<string name="sdcard_busy_title_nosdcard">"USB स्टोरज उपलब्ध नेईं"</string>
+<string name="sdcard_busy_message">"थुआढ़ा SD कार्ड मसरूफ ऐ।"</string>
+<string name="sdcard_busy_message_nosdcard">"थुआढ़ा USB स्टोरज मसरूफ ऐ।"</string>
+<string name="sdcard_error_title">"SDकार्ड त्रुटि"</string>
+<string name="sdcard_error_title_nosdcard">"USB स्टोरज त्रुटि"</string>
+<string name="sdcard_error_message">"थुआढ़े SDकार्ड पर कोई त्रुटि आई गेई ऐ।"</string>
+<string name="sdcard_error_message_nosdcard">"थुआढ़े USB स्टोरज पर कोई त्रुटि आई गेई ऐ।"</string>
+<string name="unknown_artist_name">"अनजांता कलाकार"</string>
+<string name="unknown_album_name">"अनजांती एलबम"</string>
+<string name="shuffle_on_notif">"शफल चालू ऐ।"</string>
+<string name="shuffle_off_notif">"शफल बंद ऐ।"</string>
+<string name="repeat_off_notif">"दोहराव बंद ऐ।"</string>
+<string name="repeat_current_notif">"मौजूदा गाना दोहराया जा करदा ऐ।"</string>
+<string name="repeat_all_notif">"सब्भै गाने दोहराए जा करदे न।"</string>
+<string name="ringtone_menu">"फोन रिंगटोन दे रूप च बरतो"</string>
+<string name="ringtone_menu_short">"रिंगटोन दे रूप च बरतो"</string>
+<string name="ringtone_set">"\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g> \" फोन रिंगटोन दे रूप च सेट करो"</string>
+<string name="play_selection">"चलाओ"</string>
+<string name="add_to_playlist">"प्लेलिस्ट च शामल करो"</string>
+<string name="show_artist">"कलाकार जानकारी दस्सो"</string>
+<string name="delete_folder">"डिलीट"</string>
+<string name="queue">"मौजूदा प्लेलिस्ट"</string>
+<string name="new_playlist">"नमां"</string>
+<string name="new_playlist_name_template">"नमीं प्लेलिस्ट <xliff:g id="number">%d</xliff:g> "</string>
+<plurals name="NNNtrackstoplaylist">
+<item quantity="one">"प्लेलिस्ट च 1 गाना शामल कीता गेआ"</item>
+<item quantity="other">"<xliff:g id="number" example="27">%d</xliff:g> गाने प्लेलिस्ट च शामल कीते गे"</item>
+</plurals>
+<string name="emptyplaylist">"चुनिंदा प्लेलिस्ट खाल्ली ऐ"</string>
+<string name="create_playlist_create_text">"सहेजो"</string>
+<string name="create_playlist_overwrite_text">"ओवरराइट"</string>
+<string name="service_start_error_title">"प्लेबैक समस्या"</string>
+<string name="service_start_error_msg">"गाना प्ले नेईं कीता जाई सकदा"</string>
+<string name="service_start_error_button">"ठीक ऐ"</string>
+<string-array name="weeklist">
+<item>"1 हफ्ता"</item>
+<item>"2 हफ्ते"</item>
+<item>"3 हफ्ते"</item>
+<item>"4 हफ्ते"</item>
+<item>"5 हफ्ते"</item>
+<item>"6 हफ्ते"</item>
+<item>"7 हफ्ते"</item>
+<item>"8 हफ्ते"</item>
+<item>"9 हफ्ते"</item>
+<item>"10 हफ्ते"</item>
+<item>"11 हफ्ते"</item>
+<item>"12 हफ्ते"</item>
+</string-array>
+<string name="weekpicker_set">"होई गेआ"</string>
+<string name="weekpicker_title">"समां सेट करो"</string>
+<string name="save_as_playlist">"प्लेलिस्ट दे रूप च सहेजो"</string>
+<string name="clear_playlist">"प्लेलिस्ट साफ करो"</string>
+<string name="musicbrowserlabel">"म्यूजिक"</string>
+<string name="musicshortcutlabel">"म्यूजिक प्लेलिस्ट"</string>
+<string name="mediaplaybacklabel">"म्यूजिक"</string>
+<string name="videobrowserlabel">"विडियो"</string>
+<string name="mediapickerlabel">"म्यूजिक"</string>
+<string name="playback_failed">"माफ करो, फाइल प्ले करने च असफल"</string>
+<string name="cancel">"रद्द करो"</string>
+<string name="done">"होई गेआ"</string>
+<string name="remove_from_playlist">"प्लेलिस्ट थमां हटाओ"</string>
+<string name="streamloadingtext">"<xliff:g id="host">%s</xliff:g> कन्नै कनेक्ट होआ करदा ऐ..."</string>
+<string name="mediasearch">"<xliff:g id="term" example="Beethoven">%s</xliff:g> दी बरतून करदे होई तपाशो :"</string>
+<string name="working_artists">"कलाकार..."</string>
+<string name="working_albums">"एलबमां..."</string>
+<string name="working_songs">"गीत..."</string>
+<string name="working_playlists">"प्लेलिस्ट..."</string>
+<string name="loading">लोड होआ करदा ऐ..."</string>
+<string name="sort_by_track">"ट्रैक"</string>
+<string name="sort_by_album">"एल्बमां"</string>
+<string name="sort_by_artist">"कलाकार"</string>
+<string name="music_picker_title">"म्यूजिक गाने चुनो"</string>
+<string name="search_settings_description">"कलाकार, एलबमां, ते गाने"</string>
+<string name="search_hint">"म्यूजिक तपाशो"</string>
+<string name="search_result">"सर्च रिज़ल्ट"</string>
+<string name="fast_scroll_alphabet">"\u0020ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
+<string name="widget_initial_text">"म्यूजिक चुनने लेई टच करो"</string>
+<string name="effectspanel">"साउंड प्रभाऽ"</string>
+<string name="no_play">"इसलै प्ले करने च असमर्थ!"</string>
+<string name="add_favourite_song">"मेरे पसंदीदा गाने दी सूची च जोड़ेआ गेआ"</string>
+<string name="remove_favourite_song">"मेरी पसंदीदा गाना सूची थमां हटाया गेआ"</string>
+<string name="activity_title_delete">"गाने हटाओ"</string>
+<string name="activity_title">"म्यूजिक शामल करो"</string>
+<string name="add_music">"म्यूजिक शामल करो"</string>
+<string name="music_selected_all">"सब्भै चुनो"</string>
+<string name="confirm_add">"जोड़ो"</string>
+<string name="cancel_add">"रद्द करो"</string>
+<string name="delete_all_music">"कड्ढो"</string>
+<string name="confirm_delete">"कड्ढो"</string>
+<string name="music_selected_all_delete">"खाल्ली कीऽ चुनो"</string>
+<string name="music_cancle_selected_all">"सब्भै रद्द करो"</string>
+<string name="being_add">"शामल कीता जा करदा ऐ, किरपा करियै इंतजार करो ..."</string>
+<string name="remove_track">"हटाया जा करदा ऐ, किरपा करियै इंतजार करो ..."</string>
+<string name="invalid">"एह् डायरेक्टरी खोली नेईं जाई सकदी"</string>
+<string name="from_library">"लाइब्रेरी थमां म्यूजिक शामल करो"</string>
+<string name="from_folder">"फोल्डर थमां म्यूजिक शामल करो"</string>
+<string name="lyrics_edit_title">"संगीत संपादत करो"</string>
+<string name="nolrc">"कोई संगीत नेईं जां फाइल अमान्य ऐ"</string>
+<string name="del_track">"आइटमां डिलीट कीतियां जा करदियां न, किरपा करियै इंतजार करो..."</string>
+<string name="ringtone_title_sim1">"सिम1 फोन रिंगटोन"</string>
+<string name="ringtone_title_sim2">"सिम2 फोन रिंगटोन"</string>
+<string name="ringtone_set_sim1">"\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g> \" सिम1 फोन रिंगटोन दे रूप च सेट"</string>
+<string name="ringtone_set_sim2">"\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g> \" सिम2 फोन रिंगटोन दे रूप च सेट"</string>
+<string name="ring_set_fail">"माफ करो, गीत प्ले नेईं कीता जाई सकेआ। किरपा करियै रिंगटोन दे रूप कोई होर गाना चुनो"</string>
+<string name="ring_set_silent_vibrate">"मौजूदा मोड च कस्टम रिंगटोन समर्थत नेईं ऐ"</string>
+<string name="please_insert_sim_card">"किरपा करियै घट्ट थमां घट्ट सिम कार्ड दाखल करो"</string>
+<string name="create_playlist_warning">"हाल च गै शामल कीते गेदे पैह्​ले आह्​ले नांऽ कन्नै नेईं बरतेआ जाई सकदा।"</string>
+<string name="overwrite_playlist_alert">"<xliff:g id="NAME">%s</xliff:g> "च प्लेलिस्ट डेटा साफ करी दित्ती जाग।"</string>
+<string name="playlist_created_message">"प्लेलिस्ट बनाई गेई।"</string>
+<string name="overwrite_playlist_alert_rename">""<xliff:g id="NAME">%s</xliff:g>" च प्लेलिस्ट डेटा कवर कीता जाग।"</string>
+<string name="delete_artist">"स्थाई तौर पर सब्भै गाने \"<xliff:g id="artist">%s</xliff:g> \" आसेआ डिवाइस थमां डिलीट करो?"</string>
+<string name="delete_album">"स्थाई तौर पर पूरी एलबम \"<xliff:g id="album">%s</xliff:g> \" डिवाइस थमां डिलीट करो?"</string>
+<string name="delete_song">"स्थाई तौर पर \"<xliff:g id="song">%s</xliff:g> \"डिवाइस थमां डिलीट करो?"</string>
+<string name="delete_playlist">"<xliff:g id="song">%s</xliff:g>"प्लेलिस्ट थमां डिलीट करो?"</string>
+<string name="delete_songs">"डिवाइस थमां स्थाई रूप कन्नै डिलीट करो?"</string>
+<string name="display_music">"म्यूजिक"</string>
+<string name="quit">"छोड़ो"</string>
+<string name="setting">"सेटिंग्स"</string>
+<string name="folder_menu">"फ़ाइल फ़ोल्डर"</string>
+<string name="delete_playlist_message">"क्या जकीनी तौर पर तुस प्लेलिस्ट"%1$s"डिलीट करना चांह्​दे ओ？"</string>
+<string name="delete_all_playlist">"सब्भै प्लेलिस्ट साफ करो"</string>
+<plurals name="NNNallSongsExist">
+<item quantity="one">"गाना प्लेलिस्ट च मौजूद ऐ।"</item>
+<item quantity="other">"गाना प्लेलिस्ट च मौजूद ऐ।"</item>
+</plurals>
+<plurals name="NNNaddsongtoplaylist">
+<item quantity="one">"1 गाना जोड़ेआ गेदा,"</item>
+<item quantity="other">"<xliff:g id="number" example="27">%d</xliff:g> गाना जोड़े गेदे"</item>
+</plurals>
+<plurals name="NNNsongAlreadyExist">
+<item quantity="one">"1 गाना पैह्​लें गै प्लेलिस्ट च मौजूद ऐ।"</item>
+<item quantity="other">"<xliff:g id="number" example="27">%d</xliff:g> गाने पैह्​लें गै प्लेलिस्ट च मौजूद न।"</item>
+</plurals>
+<string name="length_limited">"नांऽ मती शा मती हद्द तगर होना चाहिदा ऐ"</string>
+<string name="favorite_added">"मेरा मनपसंद गाना"</string>
+<string name="add_playlist_title">"प्ले सूची जोड़ो"</string>
+<string name="empty_play_list">"खाली प्ले सूची"</string>
+<string name="sort_by_time">"टाइम राहें तराशो"</string>
+<string name="sort_by_name">"नांऽ राहें तराशो"</string>
+<string name="share">"सांझा करो"</string>
+<string name="share_error">"कोई सांझा नेईं करने दा ऐप्लिकेशन!"</string>
+<string name="no_search_result">"कोई बी गाने नेईं मिले"</string>
+<string name="search_title_hint">"कलाकार,गाने जां एलबमां"</string>
+<string name="error_permissions">"ऐप कोल रन लेई लोड़चदी म्हत्तवपूर्ण मंजूरी नेईं ऐ। किरपा करियै अपनी मंजूरियां सेटिंग्स जांचो।"</string>
+<string name="dialog_dismiss">"रद्द करो"</string>
+<string name="toast_fileexplorer_internal_error">"म्यूजिक च मंजूरी नां-मंजूर!"</string>
+<string name="fifty_min">"15 मिनट"</string>
+<string name="theirty_min">"30 मिनट"</string>
+<string name="sixty_min">"60 मिनट"</string>
+<string name="ninety_min">"90 मिनट"</string>
+<string name="self_define">"कस्टम"</string>
+<string name="timer_option">"सफलतापूर्वक सेट करो, म्यूजिक काउंटडाउन बाद बंद होई जाह्​ग।"</string>
+<plurals name="NNNselftimeSuffix">
+    <item quantity="one">मिनट</item>
+    <item quantity="other">मिनट</item>
+</plurals>
+<string name="self_min">"मिनट"</string>
+<string name="timer_setting">"स्टाप टाइमर सेट करो"</string>
+<string name="change_face">"बदलो चेहरा"</string>
+<string name="timed_setting">"स्टाप टाइम चुनो"</string>
+<string name="time_warning">"कस्टम टाइमर 1440 मिनट (24 घंटे) दी अखीरी हद्द थमां मता ऐ!"</string>
+<string name="time_min_warning">"कस्टम टाइमर इक मिनट थमां घट्ट नेईं होना चाहिदा!"</string>
+<string name="no_allow_play_calling">"(रेडियो/वीडियो) काल दे दरान म्यूजिक प्ले करने दी इजाजत नेईं ऐ।"</string>
+<string name="songs_nums_for_suffix">"गाने"</string>
+<string name="random_play_all">"बे-तरतीब सब्भै प्ले करो"</string>
+<string name="unable_to_connect_title">"फाइल कन्नै कनेक्ट करने च असमर्थ"</string>
+<string name="unable_to_connect_message">"मौजूदा फाइल नेईं मिली। किरपा करियै कनेक्शन जांचो"</string>
+<string name="protect_information">"बचाऽ जानकारी"</string>
+<string name="drm_consume_title">"Drm अधिकार खाह्‌ग"</string>
+<string name="drm_consume_hint">"थुआढ़ी कारवाई  Drm अधिकार खाह्‌ग"</string>
+<string name="drm_file_name">"फ़ाइल दा नांऽ:%1$s"</string>
+<string name="drm_rights_validity">"अधिकार स्टेटस：अमान्य"</string>
+<string name="drm_rights_invalidity">"अधिकार स्टेटस：मान्य"</string>
+<string name="drm_rights_status_transfer">"अधिकार स्टेटस：हस्तांतरण लेई मंजूर"</string>
+<string name="drm_rights_status_untransfer">"अधिकार स्टेटस：हस्तांतरण लेई मंजूर नेईं"</string>
+<string name="drm_start_time">"शुरूआत समां：%1$s"</string>
+<string name="drm_end_time">"खत्म समां：%1$s"</string>
+<string name="drm_expiration_time">"मन्याद खातमा समां：%1$s"</string>
+<string name="drm_remain_times">"बाकी समां：%1$s"</string>
+<string name="drm_no_info">"कोई जानकारी नेईं"</string>
+<string name="drm_unlimited_rights">"अनलिमटेड"</string>
+<string name="drm_rights_unknown">"अनजांता"</string>
+<string name="drm_inactive_rights">"अधिकार असक्रिय"</string>
+<string name="statusbarlabel">"म्यूजिक"</string>
+<string name="dock_forced_resizable">"ऐप विभाजन स्क्रीन कन्नै कम्म नेईं करी सकदा ऐ।"</string>
+<string name="error_choose_drm_for_gallery">"Drm फाइलां नेईं चुनियां जाई सकदियां"</string>
+<string name="delete_from_device">"डिवाइस थमां हटाओ"</string>
+<string name="delete_from_playlist">"प्लेलिस्ट थमां डिलीट करो?"</string>
+</resources>

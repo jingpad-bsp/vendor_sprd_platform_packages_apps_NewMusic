@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="onesong">"1 పాట"</string>
+<plurals name="Nsongs">
+<item quantity="one">"<xliff:g id="count">%d</xliff:g> పాట"</item>
+<item quantity="other">"<xliff:g id="count">%d</xliff:g> పాటలు"</item>
+</plurals>
+    <plurals name="Nalbums">
+<item quantity="one">"1 ఆల్బమ్"</item>
+<item quantity="other">"<xliff:g id="count">%d</xliff:g> ఆల్బమ్స్"</item>
+</plurals>
+    <string name="party_shuffle">"పార్టీ షఫిల్"</string>
+<string name="party_shuffle_off">"పార్టీ షఫిల్ ఆఫ్"</string>
+<string name="delete_item">డిలీట్</string>
+<string name="shuffle_all">"అన్నీ షఫిల్"</string>
+    <string name="delete_confirm_button_text">సరి</string>
+<plurals name="NNNtracksdeleted">
+<item quantity="one">"1 పాట తొలగించబడింది."</item>
+<item quantity="other">"<xliff:g id="songs_to_delete">%d</xliff:g> పాటలు తొలగించబడ్డాయి."</item>
+</plurals>
+<string name="scanning">"SD కార్డు స్కాన్ చేస్తోంది\u2026"</string>
+<string name="scanning_nosdcard">"USB స్టోరేజ్ స్కాన్ చేస్తోంది\u2026"</string>
+<string name="nowplaying_title">"ఇపుడు ప్లే అవుతుంది"</string>
+    <string name="artists_title">"ఆర్టిస్టులు"</string>
+<string name="albums_menu">"ఆల్బమ్‌‌లు"</string>
+<string name="albums_title">"ఆల్బమ్‌‌లు"</string>
+<string name="tracks_menu">"పాటలు"</string>
+<string name="tracks_title">"పాటలు"</string>
+<string name="playlists_menu">"ప్లేలిస్ట్‌లు"</string>
+<string name="playlists_title">"ప్లేలిస్ట్‌లు"</string>
+    <string name="all_title">"మొత్తం మీడియా"</string>
+<string name="browse_menu">"ఆర్టిస్టులు"</string>
+<string name="search_title">వెతుకు</string>
+<string name="no_tracks_title">"పాటలు లేవు"</string>
+    <string name="delete_playlist_menu">డిలీట్</string>
+    <string name="rename_playlist_menu">"రీనేమ్ చేయుము"</string>
+<string name="playlist_deleted_message">"ప్లేలిస్టు తొలగించబడింది."</string>
+<string name="playlist_renamed_message">"ప్లేలిస్టు రీనేమ్ చేయబడింది."</string>
+<string name="recentlyadded">"ఇటీవల చేర్చబడినది"</string>
+    <string name="podcasts_listitem">"పాడ్ కాస్ట్స్"</string>
+    <string name="sdcard_missing_title">ఏ SD కార్డు లేదు</string>
+<string name="sdcard_missing_title_nosdcard">"USB స్టోరేజ్ లేదు"</string>
+<string name="sdcard_missing_message">"మీ ఫోనులో SD కార్డు చొప్పించబడలేదు."</string>
+<string name="sdcard_missing_message_nosdcard">"మీ ఫోనులో USB నిల్వ లేదు."</string>
+<string name="sdcard_busy_title">"SD కార్డు అందుబాటులో లేదు"</string>
+<string name="sdcard_busy_title_nosdcard">"USB స్టోరేజ్ అందుబాటులో లేదు"</string>
+<string name="sdcard_busy_message">"మీ SD కార్డ్ రద్దీగా ఉంది."</string>
+<string name="sdcard_busy_message_nosdcard">"మీ USB నిల్వ రద్దీగా ఉంది."</string>
+<string name="sdcard_error_title">"SD కార్డు ఎర్రర్"</string>
+<string name="sdcard_error_title_nosdcard">"USB స్టోరేజ్ ఎర్రర్"</string>
+<string name="sdcard_error_message">"మీ SD కార్డులో ఎర్రర్ వచ్చింది."</string>
+<string name="sdcard_error_message_nosdcard">"మీ USB స్టోరేజిలో ఎర్రర్ వచ్చింది."</string>
+<string name="unknown_artist_name">"తెలియని ఆర్టిస్ట్"</string>
+<string name="unknown_album_name">"తెలియని ఆల్బమ్"</string>
+<string name="shuffle_on_notif">"షఫిల్ ఆన్ లో ఉంది"</string>
+    <string name="repeat_current_notif">"ప్రస్తుత పాట రిపీట్ అవుతోంది"</string>
+<string name="repeat_all_notif">"అన్ని పాటలు రిపీట్ అవుతున్నాయి"</string>
+<string name="ringtone_menu">"ఫోన్ రింగ్‌టోన్ గా ఉపయోగించు"</string>
+<string name="ringtone_menu_short">"రింగ్‌టోన్ గా ఉపయోగించు"</string>
+<string name="ringtone_set">"\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>\" ఫోన్ రింగ్ టోన్ గా సెట్ చేయండి."</string>
+<string name="play_selection">"ప్లే"</string>
+<string name="add_to_playlist">"ప్లేలిస్టుకు చేర్చు"</string>
+<string name="queue">"ప్రస్తుత ప్లేలిస్ట్"</string>
+<string name="new_playlist">క్రొత్త</string>
+    <plurals name="NNNtrackstoplaylist">
+<item quantity="one">"ప్లేలిస్టుకు 1 పాట చేర్చబడింది"</item>
+<item quantity="other">"<xliff:g id="number" example="27">%d</xliff:g> పాటలు ప్లేలిస్టుకు చేర్చబడ్డాయి."</item>
+</plurals>
+<string name="emptyplaylist">"ఎంచుకోబడిన ప్లేలిస్టు ఖాళీగా ఉంది."</string>
+<string name="create_playlist_create_text">"సేవ్"</string>
+    <string name="service_start_error_title">"ప్లేబ్యాక్ సమస్య"</string>
+<string name="service_start_error_msg">"పాటను ప్లే చేయడం కుదరదు."</string>
+<string name="service_start_error_button">సరి</string>
+    <string name="musicbrowserlabel">"సంగీతం"</string>
+    <string name="mediaplaybacklabel">"సంగీతం"</string>
+    <string name="mediapickerlabel">"సంగీతం"</string>
+<string name="playback_failed">"ఈ రకం ఆడియో ఫైలుకు ప్లేయరు తోడ్పాటును అందించదు." </string>
+<string name="cancel">రద్దు</string>
+<string name="remove_from_playlist">"ప్లేలిస్టు నుండి తొలగించు"</string>
+<string name="streamloadingtext">"<xliff:g id="host">%s</xliff:g>\u2026 కు అనుసంధానం"</string>
+    <string name="loading">లోడ్ చేస్తోంది\u2026</string>
+<string name="sort_by_track">"ట్రాక్స్"</string>
+<string name="sort_by_album">"ఆల్బమ్‌‌లు"</string>
+<string name="sort_by_artist">"ఆర్టిస్టులు"</string>
+<string name="music_picker_title">"సంగీతపు ట్రాకును ఎంచుకోండి"</string>
+    <string name="widget_initial_text">"సంగీతాన్ని ఎంచుకునేందుకు తాకండి."</string>
+<string name="effectspanel">"శబ్దం ఎఫెక్టులు"</string>
+<string name="no_play">"ప్రస్తుతం ప్లే చేయడం కుదరదు!"</string>
+    <string name="music_selected_all">అన్నీ ఎంచుకోండి </string>
+    <string name="music_cancle_selected_all">అన్ని రద్దు చేయి.</string>
+    <string name="nolrc">ఏ లిరిక్ లేదా ఫైల్ ఇన్వాలీడ్ కాదు</string>
+    <string name="ringtone_title_sim1">"SIM1 ఫోన్ రింగ్‌టోన్"</string>
+<string name="ringtone_title_sim2">"SIM2 ఫోన్ రింగ్‌టోన్"</string>
+<string name="ringtone_set_sim1">"\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>\" SIM1ఫోన్ రింగ్ టోన్ గా సెట్ చేయండి."</string>
+<string name="ringtone_set_sim2">"\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>\" SIM2 ఫోన్ రింగ్ టోన్ గా సెట్ చేయండి."</string>
+<string name="ring_set_fail">క్షమించండి,పాటను ప్లే చేయలేకపోతున్నాము. మరొక పాటను రింగ్ట్ టోన్ గా ఎంపిక చేసుకోండి.</string>
+<string name="ring_set_silent_vibrate">"ప్రస్తుత రీతిలో కస్టం రింగ్ టోన్సుకు తోడ్పాటు లేదు"</string>
+<string name="please_insert_sim_card">"దయచేసి కనీసం SIM కార్డును దూర్చండి"</string>
+<string name="create_playlist_warning">ఈ మధ్య యాడ్ చేయబడిన వాటితో అదే పీరును మరలా వాడలేము.</string>
+    <string name="playlist_created_message">"ప్లేలిస్టు సృష్టించబడింది."</string>
+    <string name="delete_album">\"<xliff:g id="album">%s</xliff:g>\" మొత్తం ఆల్బమును పరికరం నుండి శాస్వతంగా తొలిగించు"</string>
+<string name="delete_song">పరికరం నుండి \"<xliff:g id="song">%s</xliff:g>\"ను శాస్వతంగా తొలిగించాలా?"</string>
+<string name="display_music">"సంగీతం"</string>
+<string name="quit">"క్విట్"</string>
+<string name="delete_playlist_message">"ప్లే లిస్ట్ "%1$s" ని తొలగించాలని మీరు నిశ్చయించుకున్నారా?" </string>
+<string name="delete_all_playlist">అన్ని ప్లేజాబితాలు క్లియర్ చెయ్యండి</string>
+<plurals name="NNNallSongsExist">
+<item quantity="one">పాట ప్లేజాబితాలో ఉండేది.</item>
+<item quantity="other">పాటలు ప్లేజాబితాలో ఉండేవి.</item>
+</plurals>
+<plurals name="NNNaddsongtoplaylist">
+<item quantity="one">"1 పాత జోడించబడింది,"</item>
+<item quantity="other">"<xliff:g id="number" example="27">%d</xliff:g> పాటలు యాడ్ చేయబడ్డాయి,"</item>
+</plurals>
+    <string name="no_search_result">"పాటలు కనుగొనబడలేదు"</string>
+<string name="search_title_hint">"ఆర్టిస్టులు, పాటలు లేదా ఆల్బమ్‌లు"</string>
+<string name="error_permissions">"అనువర్తనం అమలు కావడానికి అవసరమయ్యే క్లిష్టమైన అనుమతులను కలిగి లేదు. దయచేసి మీ అనుమతుల సెట్టింగ్‌లను తనిఖీ చేయండి."</string>
+<string name="dialog_dismiss">"డిస్మిస్"</string>
+<string name="toast_fileexplorer_internal_error">"మ్యూజిక్ లో అంతర్గత ఎర్రర్ కలిగింది!"</string>
+<string name="no_allow_play_calling">"కాల్ (రేడియో / వీడియో) సమయంలో సంగీతం ప్లే చేయటం అనుమతించబడదు."</string>
+<string name="protect_information">"సమాచారాన్ని సంరక్షించుము"</string>
+<string name="drm_consume_title">"Drm హక్కులను వినియోగించుము"</string>
+<string name="drm_consume_hint">"మీ యొక్క కార్యాచరణ Drm హక్కులను వినియోగిస్తుంది"</string>
+<string name="drm_file_name">"ఫైలు యొక్క పేరు：%1$s"</string>
+<string name="drm_rights_validity">"హక్కుల యొక్క చెల్లుబాటు: చెల్లును"</string>
+<string name="drm_rights_invalidity">"హక్కుల యొక్క చెల్లుబాటు: చెల్లుబాటు కావు"</string>
+<string name="drm_rights_status_transfer">"హక్కుల యొక్క స్థితి: బదిలీ చేసేందుకు అనుమతించబడినవి"</string>
+<string name="drm_rights_status_untransfer">"హక్కుల యొక్క స్థితి: బదిలీ చేసేందుకు అనుమతించబడలేదు"</string>
+<string name="drm_start_time">"ప్రారంభ సమయం:%1$s"</string>
+<string name="drm_end_time">"ముగింపు సమయం:%1$s"</string>
+<string name="drm_expiration_time">"గడువు సమయం:%1$s"</string>
+<string name="drm_remain_times">"మిగిలిన సమయాలు:%1$s"</string>
+    <string name="drm_unlimited_rights">"అపరిమితం"</string>
+<string name="drm_rights_unknown">"తెలియనిది"</string>
+<string name="drm_inactive_rights">"హక్కులు అచేతనం"</string>
+    <string name="whoes_album">"ఆల్బమ్"</string>
+    <string name="no_album_title">"ఏ ఆల్బమ్స్ లేవు"</string>
+    <string name="no_artist_title">"ఏ కళాకారులు లేవు"</string>
+    <string name="no_folderlist_title">"ఏ ఫోల్డర్లు లేవు"</string>
+    <string name="show_artist">"కళాకారుడి సమాచార౦ చూపి౦చు"</string>
+    <string name="delete_folder">డిలీట్</string>
+    <string name="done">జరిగినది</string>
+    <string name="search_result">సెర్చ్ రిజల్ట్</string>
+    <string name="delete_songs">"డివైస్ ను౦డి శాశ్వత౦గా తొలగి౦చాలా?_x005F_x000D_"</string>
+    <string name="setting">"సెట్టింగ్"</string>
+    <string name="folder_menu">"ఫోల్డరు"</string>
+    <string name="favorite_added">"నాకిష్టమైన పాట"</string>
+    <string name="add_playlist_title">"ప్లే లిస్ట్ జోడి౦చ౦డి"</string>
+    <string name="empty_play_list">"ప్లే లిస్ట్ ఖాళీ చేయి"</string>
+    <string name="shuffle_all_title">"అన్నిపాటలను అటూ ఇటూ మార్చు"</string>
+    <string name="sort_by_time">సార్ట్ బై టైమ్</string>
+    <string name="sort_by_name">పేరు ద్వారా క్రమీకరించు</string>
+    <string name="share">పంచు</string>
+    <string name="share_error">"ఏ పంచుకోవడం లేని అప్లికేషన్!"</string>
+    <string name="fifty_min">"15 నిమిషాలు"</string>
+    <string name="theirty_min">"30 నిమిషాలు"</string>
+    <string name="sixty_min">"60 నిమిషాలు"</string>
+    <string name="ninety_min">"90 నిమిషాలు"</string>
+    <string name="self_define">"మార్చబడిన ఆపేసే సమయ౦"</string>
+    <string name="timer_option">"విజయవ౦త౦గా సెట్ చేయబడి౦ది,ఆఫ్ అప్లికేషన్"</string>
+    <plurals name="NNNselftimeSuffix">
+        <item quantity="one">నిమిషాలు</item>
+        <item quantity="other">నిమిషాలు</item>
+    </plurals>
+    <string name="self_min">"MIN"</string>
+    <string name="timer_setting">"ఆపే టైమర్ సెట్ చేయి"</string>
+    <string name="change_face">"ఫేస్ మార్చు"</string>
+    <string name="timed_setting">"ఆపే సమయ౦ ఎ౦చుకొ౦డి "</string>
+    <string name="time_warning">"మార్చబడిన గరిష్ట సమయపరిమితి 1440 నిమిషాలు (24 గ౦టలు) దాటి పోయి౦ది!"</string>
+    <string name="songs_nums_for_suffix">"పాటలు"</string>
+    <string name="random_play_all">"ఏకమొత్త౦గా అన్ని౦టినీ ప్లే చేయ్యి"</string>
+    <string name="unable_to_connect_title">"ఫైల్ కు కనెక్ట్ చేయవీలుకాలేదు"</string>
+    <string name="unable_to_connect_message">"ప్రస్తుత ఫైల్ పొ౦దలేకపోతున్నాము. కనెక్షన్ సరిచూసుకో౦డి"</string>
+    <string name="statusbarlabel">"స౦గీత౦ ."</string>
+    <string name="error_choose_drm_for_gallery">"మ్యూజిక్‌ను స్లైడ్ చేయడానికి డిఆర్‌ఎం ఫైలును సెట్ చేయడం వీలవదు, దయచేసి మరొక దానిని ఎంచుకోండి"</string>
+</resources>

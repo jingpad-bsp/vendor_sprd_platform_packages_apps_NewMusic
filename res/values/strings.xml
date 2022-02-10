@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+/*
+** Copyright 2007, The Android Open Source Project
+**
+** Licensed under the Apache License, Version 2.0 (the "License"); 
+** you may not use this file except in compliance with the License. 
+** You may obtain a copy of the License at 
+**
+**     http://www.apache.org/licenses/LICENSE-2.0 
+**
+** Unless required by applicable law or agreed to in writing, software 
+** distributed under the License is distributed on an "AS IS" BASIS, 
+** WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. 
+** See the License for the specific language governing permissions and 
+** limitations under the License.
+*/
+-->
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- used in various places to indicate there is one song for a given artist or album -->
+    <string name="onesong">1 song</string>
+    <!-- used in various places to indicate there is some number other than one songs for a given artist or album. -->
+    <plurals name="Nsongs">
+        <item quantity="one"><xliff:g id="count">%d</xliff:g> song</item>
+        <item quantity="other">Total of <xliff:g id="count">%d</xliff:g> songs</item>
+    </plurals>
+
+    <!-- shows how many songs on the album are by the selected artist, out of how many total, if those two numbers are different -->
+
+    <!-- Used in artists list view, indicates how many albums exist for a given artist. -->
+    <plurals name="Nalbums">
+        <!-- number of albums is one -->
+        <item quantity="one">1 album</item>
+        <!-- number of albums is not equal to one -->
+        <item quantity="other"><xliff:g id="count">%d</xliff:g> albums</item>
+    </plurals>
+
+    <!--
+    This string is used as the format string in a String.format call,
+    and 5 additional arguments are available for printing:
+    1 - hours
+    2 - minutes
+    3 - minutes%60
+    4 - seconds
+    5 - second%60
+    -->
+    <skip/>
+    <!-- Do not translate. Duration format for duration < 1 hour -->
+    <string name="durationformatshort" translatable="false"><xliff:g id="format">%2$d:%5$02d</xliff:g></string>
+    <!-- Do not translate. Duration format for duration >= 1 hour -->
+    <string name="durationformatlong" translatable="false"><xliff:g id="format">%1$d:%3$02d:%5$02d</xliff:g></string>
+    <string name="whoes_album">"'s album"</string>
+    <!-- Menu item that takes the user back to the top level screen of the music player -->
+    <!-- Menu item that switches the music player in to party shuffle mode -->
+    <string name="party_shuffle">Party shuffle</string>
+    <!-- Menu item that switches the music player out of party shuffle mode -->
+    <string name="party_shuffle_off">Party shuffle off</string>
+    <!-- Menu item that deletes the currently selected item, which might be a single song, or a collection of songs.
+         The user will be prompted to confirm before deletion actually takes place -->
+    <string name="delete_item">Delete</string>
+    <!-- Menu item to play back all the songs in the currently showing list in shuffle mode -->
+    <string name="shuffle_all">Shuffle all</string>
+    <!-- Menu item to play back all the songs in the currently showing list in list order -->
+
+    <!-- Delete confirmation dialog when deleting an entire artist -->
+    <!-- Delete confirmation dialog when deleting an entire artist -->
+
+    <!-- Delete confirmation dialog when deleting an entire album -->
+    <!-- Delete confirmation dialog when deleting an entire album -->
+
+    <!-- Delete confirmation dialog when deleting a single song -->
+    <!-- Delete confirmation dialog when deleting a single song -->
+
+    <!-- Delete confirmation dialog, confirmation button text -->
+    <string name="delete_confirm_button_text">OK</string>
+    <!-- Toast confirming that song(s) was/were deleted. -->
+    <plurals name="NNNtracksdeleted">
+        <!-- delete confirmation message for 1 song -->
+        <item quantity="one">1 song was deleted.</item>
+        <!-- delete confirmation message for 0 or more than 1 songs -->
+        <item quantity="other"><xliff:g id="songs_to_delete">%d</xliff:g> songs were deleted.</item>
+    </plurals>
+
+    <plurals name="NNNtracksremoved">
+        <item quantity="one"><xliff:g id="songs_to_delete">%1$d</xliff:g> song was removed from \"<xliff:g id="playlist">%2$s</xliff:g>\" playlist.</item>
+        <item quantity="other"><xliff:g id="songs_to_delete">%1$d</xliff:g> songs were removed from \"<xliff:g id="playlist">%2$s</xliff:g>\" playlist.</item>
+    </plurals>
+
+    <!-- shown in dialog while the media scanner is starting up -->
+    <string name="scanning">Scanning SD card\u2026</string>
+    <!-- shown in dialog while the media scanner is starting up -->
+    <string name="scanning_nosdcard">Scanning USB storage\u2026</string>
+
+    <!-- title of the "current playlist" screen when not in party shuffle mode -->
+    <string name="nowplaying_title">Now playing</string>
+    <!-- title of the "current playlist" screen when in party shuffle mode-->
+    <!-- Artist screen title -->
+    <string name="artists_title">Artists</string>
+    <!-- Category label on Library screen -->
+    <string name="albums_menu">Albums</string>
+    <!-- Albums screen title -->
+    <string name="albums_title">Albums</string>
+    <!-- Category label on Library screen -->
+    <string name="tracks_menu">Songs</string>
+    <!-- Songs screen title -->
+    <string name="tracks_title">Songs</string>
+    <!-- Category label on Library screen -->
+    <string name="playlists_menu">Playlists</string>
+    <!-- Playlists screen title -->
+    <string name="playlists_title">Playlists</string>
+    <!-- Videos screen title -->
+    <!-- All media screen title -->
+    <string name="all_title">All media</string>
+    <!-- Category label on Library screen -->
+    <string name="browse_menu">Artists</string>
+    <!-- Library screen, menu item -->
+    <string name="search_title">Search</string>
+    <!-- Title of screen when there are no songs, or if the SD card is busy -->
+    <string name="no_tracks_title">No songs</string>
+    <!-- Title of screen when there are no albums, or if the SD card is busy -->
+    <string name="no_album_title">No albums</string>
+    <!-- Title of screen when there are no artists, or if the SD card is busy -->
+    <string name="no_artist_title">No artists</string>
+    <!-- Title of screen when there are no folders, or if the SD card is busy -->
+    <string name="no_folderlist_title">No folders</string>
+    <!-- Title of screen when there are no videos, or if the SD card is busy -->
+    <!-- Title of screen when there are no playlists, or if the SD card is busy -->
+    <!-- Playlist context menu item to delete the selected playlist. -->
+    <string name="delete_playlist_menu">Delete</string>
+    <!-- Playlist context menu item to edit the selected playlist -->
+    <!-- Playlist context menu item to rename the selected playlist-->
+    <string name="rename_playlist_menu">Rename</string>
+    <!-- Transient popup message shown after deleting a playlist -->
+    <string name="playlist_deleted_message">Playlist deleted.</string>
+    <!-- Transient popup message shown after renaming a playlist -->
+    <string name="playlist_renamed_message">Playlist renamed.</string>
+    <!-- The name of the pseudo-playlist that holds all the recently added files, shown in list view -->
+    <string name="recentlyadded">Recently added</string>
+    <!-- The name of the pseudo-playlist that holds all the recently added files, shown in title bar of songs list -->
+    <!-- The name of the pseudo-playlist that holds all the podcasts, shown in list view -->
+    <string name="podcasts_listitem">Podcasts</string>
+    <!-- The name of the pseudo-playlist that holds all the podcasts, shown in title bar of songs list -->
+    <!-- Title of screen when no sd card is present -->
+    <string name="sdcard_missing_title">No SD card</string>
+    <!-- Title of screen when no sd card is present -->
+    <string name="sdcard_missing_title_nosdcard">No USB storage</string>
+    <!-- label underneath icon used to indicate that no sd card is present -->
+    <string name="sdcard_missing_message">Your phone doesn\'t have an SD card inserted.</string>
+    <!-- label underneath icon used to indicate that no sd card is present -->
+    <string name="sdcard_missing_message_nosdcard">Your phone doesn\'t have USB storage.</string>
+    <!-- label underneath icon used to indicate that the sd card is present, but currently unavailable -->
+    <string name="sdcard_busy_title">SD card unavailable</string>
+    <!-- label underneath icon used to indicate that the sd card is present, but currently unavailable -->
+    <string name="sdcard_busy_title_nosdcard">USB storage unavailable</string>
+    <!-- label underneath icon used to indicate sd card is mounted to your computer via USB -->
+    <string name="sdcard_busy_message">Your SD card is busy.</string>
+    <!-- label underneath icon used to indicate sd card is mounted to your computer via USB -->
+    <string name="sdcard_busy_message_nosdcard">Your USB storage is busy.</string>
+    <!-- Title of screen when there was an error accessing the sd card -->
+    <string name="sdcard_error_title">SD card error</string>
+    <!-- Title of screen when there was an error accessing the sd card -->
+    <string name="sdcard_error_title_nosdcard">USB storage error</string>
+    <!-- label underneath icon used to indicate there was an error accessing the sd card -->
+    <string name="sdcard_error_message">An error was encountered on your SD card.</string>
+    <!-- label underneath icon used to indicate there was an error accessing the sd card -->
+    <string name="sdcard_error_message_nosdcard">An error was encountered on your USB storage.</string>
+    <!-- Default name of artist that doesn't have a name in the metadata -->
+    <string name="unknown_artist_name">Unknown artist</string>
+    <!-- Default name of album that doesn't have a name in the metadata -->
+    <string name="unknown_album_name">Unknown album</string>
+    <!-- Toast after turning shuffle on -->
+    <string name="shuffle_on_notif">Shuffle is on.</string>
+    <!-- Toast after turning shuffle off -->
+    <!-- Toast after turning repeat off -->
+    <!-- Toast after turning single repeat on -->
+    <string name="repeat_current_notif">Repeating current song.</string>
+    <string name="sequence_notif">"Sequence play is on."</string>
+    <!-- Toast after turning repeat all on -->
+    <string name="repeat_all_notif">Repeating all songs.</string>
+    <!-- Individual song context menu item -->
+    <string name="ringtone_menu">Use as Call ringtone</string>
+    <!-- Menu item -->
+    <string name="ringtone_menu_short">Use as ringtone</string>
+    <!-- Toast after setting a song as phone ringtone -->
+    <string name="ringtone_set">\"<xliff:g example="Alarm Bell" id="name">%s</xliff:g>\" set as Call ringtone.</string>
+    <!-- Context menu item -->
+    <string name="play_selection">Play</string>
+    <!-- Context menu item -->
+    <string name="add_to_playlist">Add to playlist</string>
+    <!-- Context menu item -->
+    <string name="show_artist">Show the artist info</string>
+    <!-- Context menu item -->
+    <string name="queue">Current playlist</string>
+    <!-- Context menu item -->
+    <string name="new_playlist">New</string>
+    <!-- Template for newly created playlist name -->
+    <!-- Toasts after adding song(s) to playlists -->
+    <plurals name="NNNtrackstoplaylist">
+        <!-- message shown when one song was added -->
+        <item quantity="one">1 song added to \"<xliff:g id="playlist">%2$s</xliff:g>\" playlist.</item>
+        <!-- message shown when zero or more than one song was added -->
+        <item quantity="other"><xliff:g example="27" id="number">%1$d</xliff:g> songs added to \"<xliff:g id="playlist">%2$s</xliff:g>\" playlist.</item>
+    </plurals>
+    <!-- Toast after selecting an empty playlist -->
+    <string name="emptyplaylist">Selected playlist is empty.</string>
+    <!-- Button name when saving a playlist -->
+    <string name="create_playlist_create_text">Save</string>
+    <!-- Button name when saving a playlist and the new playlist will overwrite an existing one -->
+    <!-- Dialog box title -->
+    <string name="service_start_error_title">Playback problem</string>
+    <!-- Dialog box message -->
+    <string name="service_start_error_msg">The song couldn\'t be played.</string>
+    <!-- Dialog box button -->
+    <string name="service_start_error_button">OK</string>
+    <!-- Time span edit options that appear when editing system playlist "Recently added" -->
+    <!-- Used to indicate the number of weeks the "recently added" playlist covers in a selector widget -->
+    <!-- Button name in time span picker -->
+    <!-- Title of time span picker -->
+    <!-- Do not translate. Background color for currently dragged item in playlist edit mode. -->
+    <!-- Do not translate. Background color for albums in the artists list view. -->
+
+    <!-- menu item to save the current list as a new playlist -->
+    <!-- menu item to clear the current playlist -->
+
+    <!-- Activity label. This might show up in the activity-picker -->
+    <string name="musicbrowserlabel">Music</string>
+    <!-- Activity label. This might show up in the activity-picker -->
+    <!-- Activity label. This might show up in the activity-picker -->
+    <string name="mediaplaybacklabel">Music</string>
+    <!-- Activity label. This might show up in the activity-picker -->
+    <!-- Activity label. This might show up in the activity-picker -->
+    <string name="mediapickerlabel">Music</string>
+
+    <!-- Shown as a transient message whenever a file fails to play -->
+    <!-- SPRD 411581 590456 playback_failed according to the VAL's advice -->
+    <string name="playback_failed">Sorry,fail to play the file.</string>
+
+    <!-- Text for the "cancel" button in the "delete" and "create playlist" confirmation dialogs -->
+    <string name="cancel">Cancel</string>
+    <string name="done">Done</string>
+
+    <!-- context menu item to remove the selected item from the playlist -->
+    <string name="remove_from_playlist">Remove from playlist</string>
+
+    <!-- shown when connecting to a music stream, before it starts playing -->
+    <string name="streamloadingtext">Connecting to <xliff:g id="host">%s</xliff:g>\u2026</string>
+
+    <!-- title of contextual music search menu -->
+
+    <!-- Shown in the title bar while the list of artists is being retrieved in the background -->
+    <!-- Shown in the title bar while the list of albums is being retrieved in the background -->
+    <!-- Shown in the title bar while the list of songs is being retrieved in the background -->
+    <!-- Shown in the title bar while the list of playlists is being retrieved in the background -->
+
+    <!-- Shown in the music picker while loading the music database. -->
+    <string name="loading">Loading\u2026</string>
+    <!-- Menu in music picker to sort the list by track/song name. -->
+    <string name="sort_by_track">Tracks</string>
+    <!-- Menu in music picker to sort the list by album name. -->
+    <string name="sort_by_album">Albums</string>
+    <!-- Menu in music picker to sort the list by artist name. -->
+    <string name="sort_by_artist">Artists</string>
+    <!--  Title of the music picker activity. -->
+    <string name="music_picker_title">Choose music track</string>
+
+    <!-- The string used to describe Music as a searchable item within system search settings. -->
+
+    <!-- Shown in the search box as a hint -->
+    <string name="search_result">"Search Result"</string>
+    <!--The fast scroll thumb will show one character from this string depending on the position in the list -->
+
+    <!-- Text shown on widget when first loaded -->
+    <string name="widget_initial_text">Touch to choose music.</string>
+
+    <!-- Menu text for the item controlling the audio effects panel [CHAR LIMIT=15] -->
+    <string name="effectspanel">Sound Effects</string>
+    <string name="no_play">"Currently unable to play!"</string>
+    <string name="music_selected_all">Select all</string>
+    <string name="music_cancle_selected_all">"Cancel all"</string>
+    <string name="nolrc">No lyric or file is invalid</string>
+    <string name="ringtone_title_sim1">SIM1 Call ringtone</string>
+    <string name="ringtone_title_sim2">SIM2 Call ringtone</string>
+    <string name="ringtone_set_sim1">\"<xliff:g example="Alarm Bell" id="name">%s</xliff:g>\" set as SIM1 Call ringtone.</string>
+    <string name="ringtone_set_sim2">\"<xliff:g example="Alarm Bell" id="name">%s</xliff:g>\" set as SIM2 Call ringtone.</string>
+    <string name="ring_set_fail">"Sorry, the song could not be played. Please select another song as ringtone"</string>
+    <string name="ring_set_silent_vibrate">"Custom ringtones is not supported in the current mode"</string>
+    <string name="please_insert_sim_card">"Please insert a SIM card at least."</string>
+    <string name="create_playlist_warning">Can\'t use the same name with system playlist.</string>
+    <string name="playlist_created_message">Playlist created.</string>
+    <string name="delete_album">Permanently delete the entire album \"<xliff:g id="album">%s</xliff:g>\" from device?</string>
+    <string name="delete_artist_album">Permanently delete all songs in the album \"<xliff:g id="album">%s</xliff:g>\" which by \"<xliff:g id="artist">%s</xliff:g>\"  from device?</string>
+    <string name="delete_song">Permanently delete \"<xliff:g id="song">%s</xliff:g>\" from device?</string>
+    <plurals name="NNNallDeleteSelectedSong">
+        <item quantity="one">Permanently deleted the selected song from device?</item>
+        <item quantity="other">Permanently deleted the selected songs from device?</item>
+    </plurals>
+    <string name="delete_folder_prompt">Permanently delete add songs in \"<xliff:g id="folder">%s</xliff:g>\" folder from device?</string>
+    <string name="delete_playlist">Delete \"<xliff:g id="song">%s</xliff:g>\" from playlist?</string>
+    <string name="display_music">Music</string>
+    <string name="quit">"Quit"</string>
+    <string name="setting">"Setting"</string>
+    <string name="folder_menu">"Folders"</string>
+    <string name="delete_playlist_message">Are you sure you want to delete playlist \"%1$s\"?</string>
+    <string name="delete_all_playlist">"Clear all playlists"</string>
+    <plurals name="NNNallSongsExist">
+        <item quantity="one">The song has existed in playlist.</item>
+        <item quantity="other">The songs have existed in playlist.</item>
+    </plurals>
+    <plurals name="NNNaddsongtoplaylist">
+        <item quantity="one">1 song added,</item>
+        <item quantity="other"><xliff:g example="27" id="number">%d</xliff:g> songs added,</item>
+    </plurals>
+    <string name="NNNsongAlreadyExist2">
+        <xliff:g example="27" id="number">%1$d</xliff:g> songs already exist in the \"<xliff:g id="playlist">%2$s</xliff:g>\" playlist.
+    </string>
+    <string name="favorite_added">My favorite song</string>
+    <string name="add_playlist_title">Add playlist</string>
+    <string name="empty_play_list">Empty playlist</string>
+    <string name="sort_by_time">Sort by time</string>
+    <string name="sort_by_name">Sort by name</string>
+    <string name="share">Share</string>
+    <string name="share_error">"Application of no share!"</string>
+    <string name="no_search_result">"No songs were found"</string>
+    <string name="search_title_hint">Artists, Songs or Albums</string>
+    <string name="error_permissions">The app does not have critical permissions needed to run. Please check your permissions settings.</string>
+    <string name="dialog_dismiss">Dismiss</string>
+    <string name="toast_fileexplorer_internal_error">Permission denied in Music!</string>
+    <string name="fifty_min"> 15 minutes</string>
+    <string name="theirty_min"> 30 minutes</string>
+    <string name="sixty_min"> 60 minutes</string>
+    <string name="ninety_min"> 90 minutes</string>
+    <string name="self_define">"Custom stop time"</string>
+    <string name="timer_option">"Set successfully, the music will close after the countdown."</string>
+    <plurals name="NNNselftimeSuffix">
+        <item quantity="one">minute</item>
+        <item quantity="other">minutes</item>
+    </plurals>
+    <string name="self_min">"minutes"</string>
+    <string name="timer_setting">"Set Stop Timer"</string>
+    <string name="change_face">Change Theme</string>
+    <string name="timed_setting">"Select Stop Time"</string>
+    <string name="time_warning">Custom timer exceeds the upper limit of 1440 minutes (24 hours)!</string>
+    <string name="time_min_warning">Custom timer should not be less than one minute!</string>
+    <string name="time_not_null">Custom timer should not be null!</string>
+    <string name="no_allow_play_calling">"Not allowed to play music during a call (radio/video)."</string>
+    <string name="random_play_all">"Shuffle All"</string>
+    <string name="unable_to_connect_title">"Unable to connect to file"</string>
+    <string name="unable_to_connect_message">"Could not get the current file. Please check the connection"</string>
+
+    <string name="protect_information">"Protect Information"</string>
+    <string name="drm_consume_title">"Consume DRM Rights"</string>
+    <string name="drm_consume_hint">"Your operation will consume DRM rights"</string>
+    <string name="drm_file_name">File Name: %1$s</string>
+    <string name="drm_rights_validity">Rights Validity: valid</string>
+    <string name="drm_rights_invalidity">Rights Validity: invalid</string>
+    <string name="drm_rights_status_transfer">Rights Status:allowed to be transfered</string>
+    <string name="drm_rights_status_untransfer">Rights Status:not allowed to be transfered</string>
+    <string name="drm_start_time">Start Time:%1$s</string>
+    <string name="drm_end_time">End Time:%1$s</string>
+    <string name="drm_expiration_time">Expiration Time:%1$s</string>
+    <string name="drm_remain_times">Remain Times:%1$s</string>
+    <string name="drm_unlimited_rights">"Unlimited"</string>
+    <string name="drm_rights_unknown">"Unknown"</string>
+    <string name="drm_inactive_rights">"Rights inactive"</string>
+    <string name="statusbarlabel">"Music · "</string>
+    <string name="dock_forced_resizable">"Music player can not work properly in split screen mode."</string>
+    <string name="error_choose_drm_for_gallery">"DRM file does not apply to this operation"</string>
+    <string name="delete_from_device">"Remove from device"</string>
+    <string name="delete_from_playlist">"delete the selected songs from playlist?"</string>
+    <string name="empty">"Selected song is empty, please have a check."</string>
+    <string name="empty_playlist_message">"Are you sure you want to empty playlist \"%1$s\"?</string>
+    <string name="same_playlist">The input playlist name already exists!</string>
+    <string name="overwrite_playlist_alert_rename">"Playlist data in the \"<xliff:g id="NAME">%s</xliff:g>\" will be covered."</string>
+    <string name="usbdisk">"USB Disk(<xliff:g id="USBNAME">%s</xliff:g>)"</string>
+    <string name="length_limited">The name up to the max length</string>
+    <string name="file_notfound">"Sorry,can not find the file, please have a check."</string>
+    <string name="operation_failed">"Add the song to "My favorite songs" playlist failed."</string>
+    <string name="create_failed">"Create failed."</string>
+    <string name="playlist_emptied">"The playlist has been emptied."</string>
+    <string name="max_number">" More than 100 files were selected, and share function was not available"</string>
+    <string name="invalid_playlist_name">The playlist name can\'t ends with \"/\".</string>
+    <string name="special_playlist_name">Playlist name cannot contain illegal characters \\:*?\"\u003C\u003E|/</string>
+    <string name="skip_to_next">Sorry,fail to play the file, jump to next one automatically.</string>
+    <string name="no_sd_write_permission">Music doesn\'t have access to your SD card, please authorize or clear the storage of the application and operate again</string>
+    <string name="confirm">OK</string>
+    <string name="playback_notification">Playback service</string>
+    <string name="no_sd_rootdir_permission">Music Player doesn\'t have access to your SD card, please select the external root directory SANDISK SD card and authorize file operations.</string>
+</resources>
+

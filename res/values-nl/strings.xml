@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+/*
+** Copyright 2007, The Android Open Source Project
+**
+** Licensed under the Apache License, Version 2.0 (the "License"); 
+** you may not use this file except in compliance with the License. 
+** You may obtain a copy of the License at 
+**
+**     http://www.apache.org/licenses/LICENSE-2.0 
+**
+** Unless required by applicable law or agreed to in writing, software 
+** distributed under the License is distributed on an "AS IS" BASIS, 
+** WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. 
+** See the License for the specific language governing permissions and 
+** limitations under the License.
+*/
+ -->
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="onesong" msgid="8336826100414159413">"1 nummer"</string>
+    <plurals name="Nsongs" formatted="false" msgid="6016461352893352675">
+      <item quantity="other"><xliff:g id="COUNT_1">%d</xliff:g> nummer</item>
+      <item quantity="one"><xliff:g id="COUNT_0">%d</xliff:g> nummer</item>
+    </plurals>
+    <plurals name="Nalbums" formatted="false" msgid="7947176578850672205">
+      <item quantity="other"><xliff:g id="COUNT">%d</xliff:g> albums</item>
+      <item quantity="one">1 album</item>
+    </plurals>
+    <string name="party_shuffle" msgid="8213359225506006168">"Party shuffle"</string>
+    <string name="party_shuffle_off" msgid="1828744483354711679">"Party shuffle uit"</string>
+    <string name="delete_item" msgid="3363330144534750601">"Verwijderen"</string>
+    <string name="shuffle_all" msgid="1388193611787878773">"Shuffle alles"</string>
+    <string name="delete_confirm_button_text" msgid="7008121194944357274">"OK"</string>
+    <plurals name="NNNtracksdeleted" formatted="false" msgid="2499334199042190643">
+      <item quantity="other"><xliff:g id="SONGS_TO_DELETE">%d</xliff:g> nummers zijn verwijderd.</item>
+      <item quantity="one">1 nummer is verwijderd.</item>
+    </plurals>
+    <string name="scanning" msgid="3529383847223198502">"SD-kaart scannen..."</string>
+    <string name="scanning_nosdcard" msgid="8105284774487360148">"USB-opslag scannen…"</string>
+    <string name="nowplaying_title" msgid="8342523844307751761">"Wordt nu afgespeeld"</string>
+    <string name="artists_title" msgid="8490372367259160067">"Artiesten"</string>
+    <string name="albums_menu" msgid="5807982055590211900">"Albums"</string>
+    <string name="albums_title" msgid="8773880394961378035">"Albums"</string>
+    <string name="tracks_menu" msgid="6942246568246092330">"Nummers"</string>
+    <string name="tracks_title" msgid="3229389424532295124">"Nummers"</string>
+    <string name="playlists_menu" msgid="5382792649771928849">"Afspeellijsten"</string>
+    <string name="playlists_title" msgid="5094238486322957927">"Afspeellijsten"</string>
+    <string name="all_title" msgid="6880186414437237653">"Alle media"</string>
+    <string name="browse_menu" msgid="5248122473075843289">"Artiesten"</string>
+    <string name="search_title" msgid="1016971653383739344">"Zoeken"</string>
+    <string name="no_tracks_title" msgid="8805805388271238471">"Geen nummers"</string>
+    <string name="delete_playlist_menu" msgid="8998637685583495247">"Verwijderen"</string>
+    <string name="rename_playlist_menu" msgid="3133463747389494668">"Naam wijzigen"</string>
+    <string name="playlist_deleted_message" msgid="9008053828193961455">"Afspeellijst verwijderd."</string>
+    <string name="playlist_renamed_message" msgid="7187580192703005990">"Naam van afspeellijst gewijzigd."</string>
+    <string name="recentlyadded" msgid="110978416756366953">"Onlangs toegevoegd"</string>
+    <string name="podcasts_listitem" msgid="8657809279717670634">"Podcasts"</string>
+    <string name="sdcard_missing_title" msgid="9008284946643270850">"Geen SD-kaart"</string>
+    <string name="sdcard_missing_title_nosdcard" msgid="7984839174824243958">"Geen USB-opslag"</string>
+    <string name="sdcard_missing_message" msgid="2100061456003981823">"Er is geen SD-kaart in de telefoon geplaatst."</string>
+    <string name="sdcard_missing_message_nosdcard" msgid="4459620970330194881">"Je telefoon heeft geen USB-opslag."</string>
+    <string name="sdcard_busy_title" msgid="1162763571147174655">"SD-kaart niet beschikbaar"</string>
+    <string name="sdcard_busy_title_nosdcard" msgid="3319125156566499501">"USB-opslag niet beschikbaar"</string>
+    <string name="sdcard_busy_message" msgid="579981082201215537">"De SD-kaart is bezet."</string>
+    <string name="sdcard_busy_message_nosdcard" msgid="1493449756827869166">"De USB-opslag is bezet."</string>
+    <string name="sdcard_error_title" msgid="165682155008600643">"Fout met SD-kaart"</string>
+    <string name="sdcard_error_title_nosdcard" msgid="7564338137076303931">"Fout met USB-opslag"</string>
+    <string name="sdcard_error_message" msgid="4574563894036627855">"Er is een fout opgetreden met de SD-kaart."</string>
+    <string name="sdcard_error_message_nosdcard" msgid="4983430848526821234">"Er is een fout opgetreden met de USB-opslag."</string>
+    <string name="unknown_artist_name" msgid="5567811106415855219">"Onbekende artiest"</string>
+    <string name="unknown_album_name" msgid="8525145988941244727">"Onbekend album"</string>
+    <string name="shuffle_on_notif" msgid="5453708337808483943">"Shuffle is ingeschakeld."</string>
+    <string name="repeat_current_notif" msgid="1227153936360904196">"Huidig nummer wordt herhaald."</string>
+    <string name="repeat_all_notif" msgid="6443293055987316642">"Alle nummers worden herhaald."</string>
+    <string name="ringtone_menu" msgid="2737472190159134599">"Gebruiken als beltoon van telefoon"</string>
+    <string name="ringtone_menu_short" msgid="3367622038867238133">"Gebruiken als beltoon"</string>
+    <string name="ringtone_set" msgid="5325818347613843130">"\'<xliff:g id="NAME">%s</xliff:g>\' is ingesteld als de beltoon van de telefoon."</string>
+    <string name="play_selection" msgid="2854921021814550018">"Afspelen"</string>
+    <string name="add_to_playlist" msgid="7110273488645072783">"Toev. aan afspeellijst"</string>
+    <string name="queue" msgid="2937629819482787704">"Huidige afspeellijst"</string>
+    <string name="new_playlist" msgid="7588112979692632867">"Nieuw"</string>
+    <string name="emptyplaylist" msgid="6711555673997896344">"Geselecteerde afspeellijst is leeg."</string>
+    <string name="create_playlist_create_text" msgid="8149755205483279143">"Opslaan"</string>
+    <string name="service_start_error_title" msgid="8649916852210198813">"Probleem met afspelen"</string>
+    <string name="service_start_error_msg" msgid="7061754255330276478">"Het nummer kan niet worden afgespeeld."</string>
+    <string name="service_start_error_button" msgid="480888406592240723">"OK"</string>
+    <string name="musicbrowserlabel" msgid="3162022214114562892">"Muziek"</string>
+    <string name="mediaplaybacklabel" msgid="6733604841530940397">"Muziek"</string>
+    <string name="mediapickerlabel" msgid="4549836003229914299">"Muziek"</string>
+    <string name="playback_failed" msgid="3811851150820251398">"De speler ondersteunt dit type audiobestand niet."</string>
+    <string name="cancel" msgid="886559484711947520">"Annuleren"</string>
+    <string name="remove_from_playlist" msgid="2548577514849026354">"Verwijderen uit afspeellijst"</string>
+    <string name="streamloadingtext" msgid="8842426517396356215">"Verbinding maken met <xliff:g id="HOST">%s</xliff:g>…"</string>
+    <string name="loading" msgid="1991660396037155453">"Laden…"</string>
+    <string name="sort_by_track" msgid="7662999005554152565">"Tracks"</string>
+    <string name="sort_by_album" msgid="2912837715658975248">"Albums"</string>
+    <string name="sort_by_artist" msgid="4607024967813199992">"Artiesten"</string>
+    <string name="music_picker_title" msgid="4143865470317360605">"Muzieknummer selecteren"</string>
+    <string name="widget_initial_text" msgid="3166878738860903586">"Raak aan om muziek te selecteren."</string>
+    <string name="effectspanel" msgid="8804547581593509614">"Geluidseffecten"</string>
+    <string name="no_play">"Momenteel niet mogelijk om af te spelen!"</string>
+    <string name="music_selected_all">Kies alles</string>
+    <string name="music_cancle_selected_all">"Kies geen"</string>
+    <string name="nolrc">Geen songtekst of bestand is ongeldig</string>
+    <string name="ringtone_title_sim1">"SIM1 Beltoon"</string>
+     <string name="ringtone_title_sim2">"SIM2 Beltoon"</string>
+     <string name="ringtone_set_sim1">"\"<xliff:g id="name" voorbeeld="Alarm Bell">%s</xliff:g>\" instellen als SIM1 Beltoon."</string>
+     <string name="ringtone_set_sim2">"\"<xliff:g id="name" voorbeeld="Alarm Bell">%s</xliff:g>\" instellen als SIM2 Beltoon."</string>
+     <string name="ring_set_fail">Sorry, het lied kan niet worden afgespeeld. Kies a.u.b. een ander lied als beltoon</string>
+     <string name="ring_set_silent_vibrate">"Gepersonaliseerde Beltonen wordt niet ondersteund in de huidige modus"</string>
+     <string name="please_insert_sim_card">"Gelieve tenminste een SIMKAART te plaatsen"</string>
+     <string name="create_playlist_warning">Kan niet dezelfde naam gebruiken met juist toegevoegde. </string>
+    <string name="playlist_created_message">"Afspellijst gecreëerd."</string>
+    <string name="delete_album">"Het volledige album \"<xliff:g id="album">%s</xliff:g>\" permanent van het apparaat verwijderen?"</string>
+     <string name="delete_song">" \"<xliff:g id="song">%s</xliff:g>\" permanent van het apparaat verwijderen?"</string>
+     <string name="display_music">"Muziek"</string>
+     <string name="quit">Stoppen</string>
+     <string name="delete_playlist_message">"Weet u zeker dat u de afspeellijst wilt verwijderen "%1$s"？"</string>
+     <string name="delete_all_playlist">Verwijder alle afspeellijsten</string>
+     <plurals name="NNNallSongsExist">
+<item quantity="one">Het liedje bestond reeds in de afspeellijst.</item>
+<item quantity="other">De liedjes bestonden reeds in the afspeellijst.</item>
+    </plurals>
+     <plurals name="NNNaddsongtoplaylist">
+<item quantity="one">"1 liedje toegevoegd,"</item>
+<item quantity="other">"<xliff:g id="number" example="27">%d</xliff:g> liedjes toegevoegd,"</item>
+    </plurals>
+    <string name="no_search_result">Geen liedjes zijn gevonden</string>
+     <string name="search_title_hint">"Artiesten, Liedjes of Albums"</string>
+     <string name="error_permissions">"De app beschikt niet over bepaalde essentiële rechten. Controleer uw instellingen voor rechten."</string>
+     <string name="dialog_dismiss">"Negeren"</string>
+     <string name="toast_fileexplorer_internal_error">"Interne fout opgetreden in Muziek"</string>
+    <string name="no_allow_play_calling">"Niet toegestaan om muziek af te spelen tijdens een oproep (radio/video)."</string>
+    <string name="protect_information">"Bescherm informatie"</string>
+    <string name="drm_consume_title">"Verbruik Drm rechten"</string>
+    <string name="drm_consume_hint">"Uw bewerking zal Drm rechten verbruiken"</string>
+    <string name="drm_file_name">"Bestandsnaam:%1$s"</string>
+    <string name="drm_rights_validity">"Rechten validatie: geldig"</string>
+    <string name="drm_rights_invalidity">"Rechten validatie: ongeldig"</string>
+    <string name="drm_rights_status_transfer">"Rechten status: toegestaan om overgezet te worden"</string>
+    <string name="drm_rights_status_untransfer">"Rechten status: niet toegestaan om overgezet te worden"</string>
+    <string name="drm_start_time">"Starttijd: %1$s"</string>
+    <string name="drm_end_time">"Eindtijd: %1$s"</string>
+    <string name="drm_expiration_time">"Verloop tijd: %1$s"</string>
+    <string name="drm_remain_times">"Overgebleven tijden: %1$s"</string>
+    <string name="drm_unlimited_rights">"Ongelimiteerd"</string>
+    <string name="drm_rights_unknown">"Onbekend"</string>
+    <string name="drm_inactive_rights">"Rechten niet actief"</string>
+    <string name="whoes_album">-album</string>
+    <string name="usbdisk">Usb-flashstation (<xliff:g id="USBNAME">%s</xliff:g>)</string>
+    <string name="unable_to_connect_title">Kan geen verbinding maken met bestand</string>
+    <string name="unable_to_connect_message">Kon huidig bestand niet ophalen. Kijk de verbinding na</string>
+    <string name="timer_setting">Sluimertijd instellen</string>
+    <string name="timer_option">Instelling voltooid. De muziek stopt na het aftellen.</string>
+    <string name="timed_setting">Sluimertijd selecteren</string>
+    <string name="time_warning">Aangepaste timer overschrijdt het maximum van 1440 minuten (24 uur)</string>
+    <string name="time_not_null">Aangepaste timer mag niet leeg zijn!</string>
+    <string name="time_min_warning">Aangepaste timer mag niet korter zijn dan één minuut!</string>
+    <string name="theirty_min">"30 minuten"</string>
+    <string name="statusbarlabel">Muziek · </string>
+    <string name="special_playlist_name">De naam van de afspeellijst mag geen ongeldige tekens bevatten – \\:*?\"\u003C\u003E|/</string>
+    <string name="sort_by_time">"Sorteren op tijd"</string>
+    <string name="sort_by_name">"Sorteren op naam"</string>
+    <string name="skip_to_next">Sorry, afspelen van dit bestand is mislukt. Automatisch naar het volgende bestand gaan.</string>
+    <string name="sixty_min">60 minuten</string>
+    <string name="show_artist">Toon info over de artiest</string>
+    <string name="share_error">Geen app om te delen!</string>
+    <string name="share">"Delen"</string>
+    <string name="setting">"instelling"</string>
+    <string name="sequence_notif">In volgorde afspelen staat aan</string>
+    <string name="self_min">"minuten"</string>
+    <string name="self_define">Aangepaste sluimertijd</string>
+    <string name="search_result">Zoek resultaat</string>
+    <string name="same_playlist">De naam van de ingevoerde afspeellijst is al in gebruik!</string>
+    <string name="random_play_all">Alles afspelen in willekeurige volgorde</string>
+    <plurals name="NNNtracksremoved">
+        <item quantity="one"><xliff:g id="songs_to_delete">%d</xliff:g> nummer is verwijderd uit de \"<xliff:g id="playlist">%s</xliff:g>\" afspeellijst.</item>
+        <item quantity="other"><xliff:g id="songs_to_delete">%d</xliff:g> nummers zijn verwijderd uit de \"<xliff:g id="playlist">%s</xliff:g>\" afspeellijst.</item>
+    </plurals>
+    <plurals name="NNNselftimeSuffix">
+        <item quantity="one">"minuut"</item>
+        <item quantity="other">"minuten"</item>
+    </plurals>
+    <plurals name="NNNallDeleteSelectedSong">
+        <item quantity="one">Geselecteerd nummer permanent verwijderen van apparaat?</item>
+        <item quantity="other">Geselecteerde nummers permanent verwijderen van apparaat?</item>
+    </plurals>
+    <string name="playlist_emptied">De afspeellijst is leeggemaakt.</string>
+    <string name="overwrite_playlist_alert_rename">"Afspeellijst gegevens in de "<xliff:g id="NAME">%s</xliff:g>" worden meegenomen."</string>
+    <string name="operation_failed">Toevoegen van dit nummer aan de afspeellijst Mijn favoriete nummers is mislukt.</string>
+    <string name="no_sd_write_permission">Muziek heeft geen toegang tot uw SD-kaart. Geef machtiging of wis de opslag van de app en herhaal de bewerking</string>
+    <string name="no_folderlist_title">Geen mappen</string>
+    <string name="no_artist_title">Geen artiesten</string>
+    <string name="no_album_title">Geen albums</string>
+    <string name="ninety_min">90 minuten</string>
+    <string name="max_number"> Er zijn meer dan 100 bestanden geselecteerd, en er is geen Delen-functie beschikbaar</string>
+    <string name="length_limited">De naam is te lang</string>
+    <string name="invalid_playlist_name">De naam van de afspeellijst mag niet eindigen op \"/\".</string>
+    <string name="folder_menu">Mappen</string>
+    <string name="file_notfound">Sorry, kan het bestand niet vinden. Kijk dit even na.</string>
+    <string name="fifty_min">"15 minuten"</string>
+    <string name="favorite_added">Mijn favoriete nummer</string>
+    <string name="error_choose_drm_for_gallery">DRM-bestand is niet van toepassing op deze bewerking</string>
+    <string name="empty_playlist_message">Weet u zeker dat u de afspeellijst \"%1$s\" wilt leegmaken?</string>
+    <string name="empty_play_list">Lege afspeellijst</string>
+    <string name="empty">Geselecteerde nummer is leeg. Kijk dit even na.</string>
+    <string name="done">Gereed</string>
+    <string name="dock_forced_resizable">Muziekspeler werkt niet correct op gesplitst scherm.</string>
+    <string name="delete_playlist">\"<xliff:g id="song">%s</xliff:g>\" schrappen uit afspeellijst?</string>
+    <string name="delete_from_playlist">de geselecteerde nummers schrappen uit de afspeellijst?</string>
+    <string name="delete_from_device">Van apparaat verwijderen</string>
+    <string name="delete_folder_prompt">Alle nummers in de map \"<xliff:g id="folder">%s</xliff:g>\" permanent verwijderen van het apparaat?</string>
+    <string name="delete_artist_album">Alle nummers in het album \"<xliff:g id="album">%s</xliff:g>\" van \"<xliff:g id="artist">%s</xliff:g>\" permanent verwijderen van apparaat?</string>
+    <string name="confirm">OK</string>
+    <string name="change_face">Thema wijzigen</string>
+    <string name="add_playlist_title">Afspeellijst toevoegen</string>
+    <string name="NNNsongAlreadyExist2"> <xliff:g example="27" id="number">%d</xliff:g> nummers zijn al opgenomen in de \"<xliff:g id="playlist">%s</xliff:g>\" afspeellijst. </string>
+    <string name="playback_notification">"Afspeelservice"</string>
+    <string name="no_sd_rootdir_permission">"Muziekspeler heeft geen toegang tot uw SD-kaart. Selecteer de externe hoofdmap SANDISK SD-kaart en sta de werking van Muziekspeler toe."</string>
+    <string name="create_failed">"Aanmaken is mislukt."</string>
+    <plurals name="NNNtrackstoplaylist" formatted="false">
+        <item quantity="one">"1 nummer toegevoegd aan \"<xliff:g id="playlist">%2$s</xliff:g>\" afspeellijst."</item>
+        <item quantity="other">"<xliff:g example="27" id="number">%1$d</xliff:g> nummers toegevoegd aan \"<xliff:g id="playlist">%2$s</xliff:g>\" afspeellijst."</item>
+    </plurals>
+</resources>

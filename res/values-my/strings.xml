@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="onesong">"သီချင်း 1 ပုဒ်"</string>
+<plurals name="Nsongs">
+<item quantity="one">"<xliff:g id="count">%d</xliff:g> ပုဒ်"</item>
+<item quantity="other">"စုစုပေါင်း သီချင်း <xliff:g id="count">%d</xliff:g> ပုဒ်"</item>
+</plurals>
+<plurals name="Nalbums">
+<item quantity="one">"အယ်လ်ဘမ် 1 ခု"</item>
+<item quantity="other">"အယ်လ်ဘမ် <xliff:g id="count">%d</xliff:g> ခု"</item>
+</plurals>
+<string name="whoes_album">"၏ အယ်လ်ဘမ်"</string>
+<string name="party_shuffle">"အုပ်စုလိုက်ရောမွှေ့ခြင်း"</string>
+<string name="party_shuffle_off">"အုပ်လိုက်ရောမွှေ့ခြင်းပိတ်ထား"</string>
+<string name="delete_item">"ပယ်ဖျက်သည်"</string>
+<string name="shuffle_all">"အားလုံးကို ရောမွှေ့၍ဖွင့်ပါ"</string>
+<string name="delete_confirm_button_text">"အိုကေ"</string>
+<plurals name="NNNtracksdeleted">
+<item quantity="one">"သီချင်း 1 ပုဒ်ဖျက်ပြီး"</item>
+<item quantity="other">"သီချင်း <xliff:g id="songs_to_delete">%d</xliff:g> ပုဒ်ဖျက်ပြီး။."</item>
+</plurals>
+<plurals name="NNNtracksremoved">
+<item quantity="one">"သီချင်း <xliff:g id="songs_to_delete">%1$d</xliff:g> ပုဒ်ကို \"<xliff:g id="playlist">%2$s</xliff:g>\" သီချင်းစာရင်းမှ ဖယ်ရှားလိုက်သည်။"</item>
+<item quantity="other">"သီချင်း <xliff:g id="songs_to_delete">%1$d</xliff:g> ပုဒ်ကို \"<xliff:g id="playlist">%2$s</xliff:g>\" သီချင်းစာရင်းမှ ဖယ်ရှားလိုက်သည်။"</item>
+</plurals>
+<string name="scanning">"SD ကဒ်ကို စစ်ဆေးနေသည်\u2026"</string>
+<string name="scanning_nosdcard">"USB သိုလှောင်မှု စကင်ဖတ်နေသည်\u2026"</string>
+<string name="nowplaying_title">"ယခုဖွင့်နေချက်"</string>
+<string name="artists_title">"တေးသံရှင်များ"</string>
+<string name="albums_menu">"အယ်လ်ဘမ်များ"</string>
+<string name="albums_title">"အယ်လ်ဘမ်များ"</string>
+<string name="tracks_menu">"သီချင်းများ"</string>
+<string name="tracks_title">"သီချင်းများ"</string>
+<string name="playlists_menu">"အဖွင့်စာရင်းများ"</string>
+<string name="playlists_title">"အဖွင့်စာရင်းများ"</string>
+<string name="all_title">"မီဒီယာအားလုံး"</string>
+<string name="browse_menu">"တေးသံရှင်များ"</string>
+<string name="search_title">"ရှာဖွေချက်"</string>
+<string name="no_tracks_title">"သီချင်းများမရှိပါ"</string>
+<string name="no_album_title">"အယ်လ်ဘမ်များ မရှိပါ"</string>
+<string name="no_artist_title">"အနုပညာရှင်များ မရှိပါ"</string>
+<string name="no_folderlist_title">"ဖိုင်တွဲများ မရှိပါ"</string>
+<string name="delete_playlist_menu">"ပယ်ဖျက်သည်"</string>
+<string name="rename_playlist_menu">"နာမည်အသစ်ပေး"</string>
+<string name="playlist_deleted_message">"အဖွင့်စာရင်းဖျက်ပြီး"</string>
+<string name="playlist_renamed_message">"အဖွင့်စာရင်းအမည်ပြန်ပေးပြီး"</string>
+<string name="recentlyadded">"မကြာသေးမီက ထည့်ထားသော"</string>
+<string name="podcasts_listitem">"Podcast များ"</string>
+<string name="sdcard_missing_title">"SD ကဒ်မရှိပါ"</string>
+<string name="sdcard_missing_title_nosdcard">"USB သိုလှောင်မှုမရှိ"</string>
+<string name="sdcard_missing_message">"သင့်ဖုန်းတွင် SD ကဒ် သွင်းထားခြင်းမရှိ"</string>
+<string name="sdcard_missing_message_nosdcard">"သင့်ဖုန်းတွင် USB သိုလှောင်မှုမရှိပါ"</string>
+<string name="sdcard_busy_title">"SD ကဒ် မရရှိနိုင်ပါ"</string>
+<string name="sdcard_busy_title_nosdcard">"USB သိမ်းဆည်းမှုပစ္စည်း မရရှိနိုင်ပါ"</string>
+<string name="sdcard_busy_message">"သင့် SD ကဒ် မအားပါ"</string>
+<string name="sdcard_busy_message_nosdcard">"သင့် USB သိုလှောင်မှုမအားပါ"</string>
+<string name="sdcard_error_title">"SD ကဒ် အမှားပြနေသည်"</string>
+<string name="sdcard_error_title_nosdcard">"USB သိုလှောင်မှု အမှားပြနေသည်"</string>
+<string name="sdcard_error_message">"သင့် SD ကဒ်တွင် အမှားပေါ်နေသည်"</string>
+<string name="sdcard_error_message_nosdcard">"သင့် USB သိုလှောင်မှုတွင် အမှားပေါ်နေသည်"</string>
+<string name="unknown_artist_name">"အမည်မသိသီဆိုသူ"</string>
+<string name="unknown_album_name">"အမည်မသိအယ်လ်ဘမ်"</string>
+<string name="shuffle_on_notif">"ရောမွှေ့၍ဖွင့်ခြင်း ဖွင့်ထားသည်"</string>
+<string name="repeat_current_notif">"လက်ရှိသီချင်းကို ထပ်ဖွင့်နေသည်"</string>
+<string name="sequence_notif">"အစဉ်လိုက်ဖွင့်ရန် ဖွင့်ထားသည်။"</string>
+<string name="repeat_all_notif">"သီချင်းအားလုံးကို ထပ်ဖွင့်နေသည်"</string>
+<string name="ringtone_menu">"ဖုန်းမြည်သံအဖြစ် သုံးပါ"</string>
+<string name="ringtone_menu_short">"မြည်သံအဖြစ်သုံးမည်"</string>
+<string name="ringtone_set">"\"<xliff:g example="Alarm Bell" id="name">%s</xliff:g>\" ကို ဖုန်းမြည်သံအဖြစ် သုံးပါ။"</string>
+<string name="play_selection">"ဖွင့်ပါ"</string>
+<string name="add_to_playlist">"အဖွင့်စာရင်းသို့ထည့်မည်"</string>
+<string name="show_artist">"အနုပညာရှင် အင်ဖိုကို ပြပါ"</string>
+<string name="queue">"လက်ရှိအဖွင့်စာရင်း"</string>
+<string name="new_playlist">"အသစ်"</string>
+<string name="emptyplaylist">"ရွေးချယ်ထားသော ဖွင့်ရန်စာရင်းမှာ ဗလာဖြစ်နေသည်"</string>
+<string name="create_playlist_create_text">"သိမ်းပါ"</string>
+<string name="service_start_error_title">"ပြန်ဖွင့်ခြင်းနှင့်ပတ်သက်သည့် ပြဿနာ"</string>
+<string name="service_start_error_msg">"သီချင်း ဖွင့်၍ မရနိုင်ပါ"</string>
+<string name="service_start_error_button">"အိုကေ"</string>
+<string name="musicbrowserlabel">"ဂီတ"</string>
+<string name="mediaplaybacklabel">"ဂီတ"</string>
+<string name="mediapickerlabel">"ဂီတ"</string>
+<string name="playback_failed">"ဝမ်းနည်းပါတယ်၊ ဖိုင်ကိုဖွင့်ခြင်း မအောင်မြင်ပါ"</string>
+<string name="cancel">"ပယ်ဖျက်ပါ"</string>
+<string name="done">"ပြီးပါပြီ"</string>
+<string name="remove_from_playlist">"အဖွင့်စာရင်းမှ ဖယ်ရှားမည်"</string>
+<string name="streamloadingtext">"<xliff:g id="host">%s</xliff:g>သို့ ချိတ်ဆက်နေသည်\u2026"</string>
+<string name="loading">"တင်နေ\u2026"</string>
+<string name="sort_by_track">"သီချင်းများ"</string>
+<string name="sort_by_album">"အယ်လ်ဘမ်များ"</string>
+<string name="sort_by_artist">"တေးသံရှင်များ"</string>
+<string name="music_picker_title">"တေးဂီတသီချင်းရွေးချယ်ပါ"</string>
+<string name="search_result">"ရလဒ်ကိုရှာနေသည်"</string>
+<string name="widget_initial_text">"သီချင်းရွေးချယ်ရန် ထိပါ"</string>
+<string name="effectspanel">"အသံပြုလုပ်ချက်များ"</string>
+<string name="no_play">"လက်ရှိတွင် ဖွင့်၍ မရနိုင်ပါ!"</string>
+<string name="music_selected_all">"အားလုံးကို ရွေးချယ်ပါ"</string>
+<string name="music_cancle_selected_all">"အားလုံးကို ပယ်ဖျက်ပါ"</string>
+<string name="nolrc">"ဂီတစာသားမရှိပါ(သို့)ဖိုင်တရားမဝင်ပါ"</string>
+<string name="ringtone_title_sim1">"SIM1 ဖုန်းမြည်သံ"</string>
+<string name="ringtone_title_sim2">"SIM2 ဖုန်းမြည်သံ"</string>
+<string name="ringtone_set_sim1">"\"<xliff:g example="Alarm Bell" id="name">%s</xliff:g>\" ကို SIM1 ဖုန်းမြည်သံအဖြစ် သုံးပါ။"</string>
+<string name="ringtone_set_sim2">"\"<xliff:g example="Alarm Bell" id="name">%s</xliff:g>\" ကို SIM2 ဖုန်းမြည်သံအဖြစ် သုံးပါ။"</string>
+<string name="ring_set_fail">"ဆောရီး၊ သီချင်းဖွင့်မရပါ၊ ကျေးဇူးပြု၍ ဖုန်းမြည်သံအတွက် တခြားသီချင်းကိုရွေးချယ်ပါ"</string>
+<string name="ring_set_silent_vibrate">"စိတ်ကြိုက်သတ်မှတ်ထားသော ဖုန်းမြည်သံကို လက်ရှိမုဒ်တွင် မပံ့ပိုးပေးပါ"</string>
+<string name="please_insert_sim_card">"အနည်းဆုံး SIM ကဒ်တစ်ခု ကျေးဇူးပြု၍ ထည့်ပါ"</string>
+<string name="create_playlist_warning">"စနစ်တွင်ပါသော ဖွင့်စရာစာရင်းနှင့် အမည်တူကို သုံး၍မရပါ။"</string>
+<string name="playlist_created_message">"သီချင်းစာရင်း ဖန်တီးပြီး။"</string>
+<string name="delete_album">"\"<xliff:g id="album">%s</xliff:g>\" အယ်လ်ဘမ် တစ်ခုလုံးအား အပြီးဖျက်မလား။"</string>
+<string name="delete_artist_album">"စက်ထဲမှ \"<xliff:g id="artist">%s</xliff:g>\" ၏ \"<xliff:g id="album">%s</xliff:g>\" အယ်လ်ဘမ်ပါ သီချင်းအားလုံးကို အပြီးဖျက်မလား။"</string>
+<string name="delete_song">"စက်ထဲမှ \"<xliff:g id="song">%s</xliff:g>\" ကို အပြီးဖျက်မလား။"</string>
+<plurals name="NNNallDeleteSelectedSong">
+<item quantity="one">"ရွေးထားသော သီချင်းကို စက်ထဲမှ အပြီးဖျက်မလား။"</item>
+<item quantity="other">"ရွေးထားသော သီချင်းများကို စက်ထဲမှ အပြီးဖျက်မလား။"</item>
+</plurals>
+<string name="delete_folder_prompt">"စက်၏ \"<xliff:g id="folder">%s</xliff:g>\" ဖိုင်တွဲထဲမှ ထည့်ထားသော သီချင်းများကို အပြီးဖျက်မလား။"</string>
+<string name="delete_playlist">"သီချင်းစာရင်းမှ \"<xliff:g id="song">%s</xliff:g>\" ကို ဖျက်မလား။"</string>
+<string name="display_music">"ဂီတ"</string>
+<string name="quit">"ထွက်မည်"</string>
+<string name="setting">"ဆက်တင်"</string>
+<string name="folder_menu">"ဖိုင်တွဲများ"</string>
+<string name="delete_playlist_message">"\"သီချင်းစာရင်း \"%1$s\" ကို သင် ဖျက်လိုသည်မှာ သေချာပါသလား။"</string>
+<string name="delete_all_playlist">"သီချင်းစာရင်းများ ရှင်းပါ"</string>
+<plurals name="NNNallSongsExist">
+<item quantity="one">"သီချင်းစာရင်းတွင် သီချင်းရှိပြီး။"</item>
+<item quantity="other">"သီချင်းစာရင်းတွင် သီချင်းများရှိပြီး။"</item>
+</plurals>
+<plurals name="NNNaddsongtoplaylist">
+<item quantity="one">"သီချင်း 1 ပုဒ်ကို ထည့်ပြီးပါပြီ။"</item>
+<item quantity="other">"သီချင်း <xliff:g example="27" id="number">%d</xliff:g> ပုဒ် ထည့်လိုက်သည်၊"</item>
+</plurals>
+<string name="NNNsongAlreadyExist2">" \"<xliff:g id="playlist">%2$s</xliff:g>\" သီချင်းစာရင်းထဲတွင် သီချင်း <xliff:g example="27" id="number">%1$d</xliff:g> ပုဒ် ရှိပြီးသားဖြစ်သည်။ "</string>
+<string name="favorite_added">"ကျွန်ုပ်၏ အကြိုက်ဆုံး သီချင်း"</string>
+<string name="add_playlist_title">"သီချင်းစာရင်း ထည့်ရန်"</string>
+<string name="empty_play_list">"ဗလာ သီချင်းစာရင်း"</string>
+<string name="sort_by_time">"အချိန်ဖြင့်စီပါ"</string>
+<string name="sort_by_name">"နာမည်ဖြင့် မျိုးတူစုမည်"</string>
+<string name="share">"ဝေမျှပါ"</string>
+<string name="share_error">"အပလီကေးရှင်းသည် မျှဝေခြင်းမပြုပါ။"</string>
+<string name="no_search_result">"မည်သည့်သီချင်းမှ မတွေ့ပါ"</string>
+<string name="search_title_hint">"အနုပညာရှင်များ၊ သီချင်းများ သို့မဟုတ် အယ်လ်ဘမ်များ"</string>
+<string name="error_permissions">"အက်ပ်တွင် ၎င်းအလုပ်လုပ်ရန် အရေးကြီးသည့် ခွင့်ပြုချက်များကို ရမထားပါ။ သင်၏ ခွင့်ပြုချက် ဆက်တင်များကို စစ်ဆေးပေးပါ။"</string>
+<string name="dialog_dismiss">"ချန်လှပ်ထားသည်"</string>
+<string name="toast_fileexplorer_internal_error">"\"ဂီတ\" တွင် ခွင့်ပြုချက်ကို ငြင်းထားသည်။"</string>
+<string name="fifty_min">"15 မိနစ်"</string>
+<string name="theirty_min">"30 မိနစ်"</string>
+<string name="sixty_min">"60 မိနစ်"</string>
+<string name="ninety_min">"90 မိနစ်"</string>
+<string name="self_define">"စိတ်ကြိုက် ရပ်ရန်အချိန်"</string>
+<string name="timer_option">"အောင်မြင်စွာ သတ်မှတ်ပြီးပါပြီ၊ နောက်ပြန်ရေပြီးသည့်နောက် တေးဂီတပိတ်သွားပါမည်။"</string>
+<plurals name="NNNselftimeSuffix">
+<item quantity="one">"မိနစ်"</item>
+<item quantity="other">"မိနစ်များ"</item>
+</plurals>
+<string name="self_min">"မိနစ်များ"</string>
+<string name="timer_setting">"ရပ်ရန်တိုင်မာ သတ်မှတ်ပါ"</string>
+<string name="change_face">"အလှဆင်သွင်ပြင် ပြောင်းရန်"</string>
+<string name="timed_setting">"ရပ်မည့်အချိန်ကို ရွေးချယ်ပါ"</string>
+<string name="time_warning">"စိတ်ကြိုက် တိုင်မာသည် အများဆုံး ကန့်သတ်ချက် 1440 မိနစ် (24 နာရီ) ကို ကျော်သွားပါပြီ။"</string>
+<string name="time_min_warning">"စိတ်ကြိုက် တိုင်မာသည် တစ်မိနစ်အောက် မဖြစ်ရပါ။"</string>
+<string name="time_not_null">"စိတ်ကြိုက်တိုင်မာကို မဖြည့်ဘဲထား၍မရပါ။"</string>
+<string name="no_allow_play_calling">"ဖုန်းခေါ်နေစဉ်အတွင်း တေးဂီတဖွင့်ခြင်းကို ခွင့်ပြုမထားပါ (ရေဒီယို/ဗီဒီယို)။"</string>
+<string name="random_play_all">"အားလုံးကို ရောမွှေ့၍ဖွင့်ပါ"</string>
+<string name="unable_to_connect_title">"ဖိုင်နှင့် ချိတ်ဆက်၍ မရပါ"</string>
+<string name="unable_to_connect_message">"လက်ရှိဖိုင်ကို ယူ၍ မရခဲ့ပါ။ ကွန်နက်ရှင်ကို ပြန်စစ်ပေးပါ"</string>
+<string name="protect_information">"သတင်းအချက်အလက် ကာကွယ်ပါ"</string>
+<string name="drm_consume_title">"အာမခံ DRM သုံးပါ"</string>
+<string name="drm_consume_hint">"အာမခံ DRM ကိုသာ သင့်အော်ပရေးရှင်း သုံးလိမ့်မည်"</string>
+<string name="drm_file_name">"ဖိုင်အမည်- %1$s"</string>
+<string name="drm_rights_validity">"ရပိုင်ခွင့်များ အကျုံးဝင်မှု- အကျုံးဝင်"</string>
+<string name="drm_rights_invalidity">"ရပိုင်ခွင့်များ အကျုံးဝင်မှု- အကျုံးမဝင်"</string>
+<string name="drm_rights_status_transfer">"ရပိုင်ခွင့်များ အခြေအနေ- လွှဲပြောင်းရန် ခွင့်ပြုထားသည်"</string>
+<string name="drm_rights_status_untransfer">"ရပိုင်ခွင့်များ အခြေအနေ- လွှဲပြောင်းရန် ခွင့်ပြုမထားပါ"</string>
+<string name="drm_start_time">"စတင်ချိန်- %1$s"</string>
+<string name="drm_end_time">"ပြီးဆုံးချိန်- %1$s"</string>
+<string name="drm_expiration_time">"သက်တမ်းကုန်ချိန်- %1$s"</string>
+<string name="drm_remain_times">"လက်ကျန်အချိန်များ- %1$s"</string>
+<string name="drm_unlimited_rights">"ကန့်သတ်မဲ့"</string>
+<string name="drm_rights_unknown">"မသိ"</string>
+<string name="drm_inactive_rights">"အာမခံမရှိ"</string>
+<string name="statusbarlabel">"ဂီတ · "</string>
+<string name="dock_forced_resizable">"အကန့်ခွဲ စခရင်မုဒ်တွင် ဂီတပလေယာသည် ဆီလျော်စွာ အလုပ်မလုပ်နိုင်ပါ။"</string>
+<string name="error_choose_drm_for_gallery">"ဤဆောင်ရွက်ချက်အား DRM ဖိုင်က သက်ရောက်ခြင်း မရှိပါ"</string>
+<string name="delete_from_device">"စက်မှ ဖယ်ရှားရန်"</string>
+<string name="delete_from_playlist">"ရွေးထားသော သီချင်းများကို ဖွင့်ရန်စာရင်းမှ ဖျက်မလား။"</string>
+<string name="empty">"ရွေးချယ်ထားသော သီချင်းသည် ဗလာဖြစ်သည်၊ တစ်ချက် စစ်ပေးပါ။"</string>
+<string name="empty_playlist_message">"\"သင်က \"%1$s\" သီချင်းစာရင်းကို ဗလာထားလိုတာ သေချာပါသလား။"</string>
+<string name="same_playlist">"ဖြည့်လိုက်သော သီချင်းစာရင်းအမည်သည် ရှိပြီးသားဖြစ်သည်။"</string>
+<string name="overwrite_playlist_alert_rename">"“<xliff:g id="NAME">%s</xliff:g>” တွင်ရှိသော အဖွင့်စာရင်းဒေတာများကို ပြန်အစားထိုးလိမ့်မည်"</string>
+<string name="usbdisk">"USB ဒစ္စ(<xliff:g id="USBNAME">%s</xliff:g>)"</string>
+<string name="length_limited">"အမည်သည် သတ်မှတ်ချက်ထက်ရှည်နေသည်"</string>
+<string name="file_notfound">"ဝမ်းနည်းပါတယ်၊ ဖိုင်ကို ရှာ၍မရပါ၊ တစ်ချက် စစ်ပေးပါ။"</string>
+<string name="operation_failed">"သီချင်းကို \"ကျွန်ုပ်၏ အကြိုက်ဆုံး သီချင်းများ\" သီချင်းစာရင်းသို့ ထည့်၍ မရပါ။"</string>
+<string name="playlist_emptied">"သီချင်းစာရင်းကို ဗလာထားလိုက်ပါပြီ။"</string>
+<string name="max_number">" ဖိုင် 100 ကျော် ရွေးထားသဖြင့် မျှဝေခြင်း လုပ်ဆောင်ချက်ကို သုံး၍မရခဲ့ပါ"</string>
+<string name="invalid_playlist_name">"သီချင်းစာရင်းအမည်သည် \"/\" ဖြင့် ပြီးဆုံး၍ မရပါ။"</string>
+<string name="special_playlist_name">"သီချင်းစာရင်းတွင် တရားမဝင်သော အက္ခရာများ ပါဝင်၍မရပါ \\:*?\"\u003C\u003E|/"</string>
+<string name="skip_to_next">"စိတ်မကောင်းပါ၊ ဖိုင်ကို ဖွင့်၍ မရပါ၊ နောက်တစ်ပုဒ်သို့ အလိုအလျောက် ကျော်လိုက်သည်။"</string>
+<string name="no_sd_write_permission">"ဂီတသည် သင့် SD ကတ်အား ဝင်သုံးခွင့် ရမထားပါ။ ခွင့်ပြုပေးပါ သို့မဟုတ် အပလီကေးရှင်း၏ သိုလှောင်ခန်းကို ရှင်းလင်းပြီး ထပ်မံ ဆောင်ရွက်ပါ"</string>
+<string name="confirm">"အိုကေ"</string>
+<string name="playback_notification">"ပြန်ဖွင့်ခြင်း ဝန်ဆောင်မှု"</string>
+<string name="no_sd_rootdir_permission">"ဂီတဖွင့်ပလေယာသည် SD ကတ်သို့ ဝင်သုံးခွင့် ရမထားပါ၊ ခွင့်ပြုပေးပါ။ ပြင်ပ ရု(တ်) ဖိုင်လမ်းညွှန် SANDISK SD ကတ်ကို ရွေးချယ်ပြီး ဖိုင်အော်ပရေးရှင်းများကို ခွင့်ပြုပေးပါ။"</string>
+<string name="create_failed">"ဖန်တီးမှု မအောင်မြင်ပါ။"</string>
+<plurals name="NNNtrackstoplaylist" formatted="false">
+    <item quantity="one">"1 သီးခ်င္းတစ္ပုဒ္ကို သို႔ထည့္ရန္\"<xliff:g id="playlist">%2$s</xliff:g>\" playlist."</item>
+    <item quantity="other">"<xliff:g example="27" id="number">%1$d</xliff:g>သီးခ်င္းမ်ားကို သို႔ထည့္ရန္ \"<xliff:g id="playlist">%2$s</xliff:g>\" playlist."</item>
+</plurals>
+</resources>

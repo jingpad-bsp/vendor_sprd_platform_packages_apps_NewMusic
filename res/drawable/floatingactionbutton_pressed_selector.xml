@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+<!--
+    <item android:state_pressed="true">
+    <layer-list>
+            <item >
+                <bitmap android:src="@drawable/button_suspending_play_white_bg" android:tint="?attr/face_color_value" />
+            </item>
+            <item >
+                <bitmap android:src="@drawable/button_suspending_play_white_play" android:tint="#ffffff" />
+            </item>
+    </layer-list>
+    </item>
+-->
+    <item >
+    <layer-list>
+            <item >
+                <bitmap android:src="@drawable/button_suspending_play_white_bg" android:tint="#ffffff" />
+            </item>
+            <item >
+                <bitmap android:src="@drawable/button_suspending_play_white_play" android:tint="@color/theme2_color" />
+            </item>
+    </layer-list>
+    </item>
+
+</selector>

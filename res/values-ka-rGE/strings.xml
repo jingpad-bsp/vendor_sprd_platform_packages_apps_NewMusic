@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="onesong">"1 სიმღერა"</string>
+<plurals name="Nsongs">
+<item quantity="one">"<xliff:g id="count">%d</xliff:g>  სიმღერა"</item>
+<item quantity="other">"<xliff:g id="count">%d</xliff:g> სიმღერები"</item>
+</plurals>
+    <plurals name="Nalbums">
+<item quantity="one">"1 ალბომი"</item>
+<item quantity="other">"<xliff:g id="count">%d</xliff:g> ალბომები"</item>
+</plurals>
+    <string name="party_shuffle">"დაკვრა ზრდადი თანმიმდევრობით"</string>
+<string name="party_shuffle_off">"დაკვრის ზრდადი თანმიმდევრობით გათიშვა"</string>
+<string name="delete_item">"წაშლა"</string>
+<string name="shuffle_all">"ყველას დაკვრა შემთხვევითი თანმიმდევრობით"</string>
+    <string name="delete_confirm_button_text">"OK"</string>
+<plurals name="NNNtracksdeleted">
+<item quantity="one">"წაშლილია 1 სიმღერა."</item>
+<item quantity="other">"<xliff:g id="songs_to_delete">%d</xliff:g> სიმღერა წაშლილია"</item>
+</plurals>
+<string name="scanning">"SD ბარათის სკანირება\u2026"</string>
+<string name="scanning_nosdcard">"USB მეხსიერების სკანირება\u2026"</string>
+<string name="nowplaying_title">"ეხლა უკრავს"</string>
+    <string name="artists_title">"შემსრულებლები"</string>
+<string name="albums_menu">"ალბომები"</string>
+<string name="albums_title">"ალბომები"</string>
+<string name="tracks_menu">"სიმღერები"</string>
+<string name="tracks_title">"სიმღერები"</string>
+<string name="playlists_menu">"კომპოზიციების სია"</string>
+<string name="playlists_title">"კომპოზიციების სია"</string>
+    <string name="all_title">"ყველა მედია"</string>
+<string name="browse_menu">"შემსრულებლები"</string>
+<string name="search_title">"ძიება"</string>
+<string name="no_tracks_title">"სიმღერები არ არის"</string>
+    <string name="delete_playlist_menu">"წაშლა"</string>
+    <string name="rename_playlist_menu">"გადარქმევა"</string>
+<string name="playlist_deleted_message">"კომპოზიციების სია წაშლილია."</string>
+<string name="playlist_renamed_message">"კომპოზიციების სიის სახელი შეცვლილია."</string>
+<string name="recentlyadded">"ეხლახანს დამატებული"</string>
+    <string name="podcasts_listitem">"პოდქასტები"</string>
+    <string name="sdcard_missing_title">"არ არის SD ბარათი"</string>
+<string name="sdcard_missing_title_nosdcard">"USB მახსოვრობა არ არის"</string>
+<string name="sdcard_missing_message">"SD ბარათი არ არის ჩადებული თქვენს ტელეფონში."</string>
+<string name="sdcard_missing_message_nosdcard">"თქვენს ტელეფონს არ აქვს USB მახსოვრობა."</string>
+<string name="sdcard_busy_title">"SD ბარათი არ არის ხელმისაწვდომი"</string>
+<string name="sdcard_busy_title_nosdcard">"USB შენახვა არ არის ხელმისაწვდომი"</string>
+<string name="sdcard_busy_message">"თქვენი SD ბარათი დაკავებულია."</string>
+<string name="sdcard_busy_message_nosdcard">"თქვენი USB მახსოვრობა დაკავებულია."</string>
+<string name="sdcard_error_title">"SD ბარათის შეცდომა"</string>
+<string name="sdcard_error_title_nosdcard">"USB მახსოვრობის შეცდომა"</string>
+<string name="sdcard_error_message">"თქვენს SD ბარათზე მოხდა შეცდომა."</string>
+<string name="sdcard_error_message_nosdcard">"თქვენს USB მახსოვრობაზე მოხდა შეცდომა."</string>
+<string name="unknown_artist_name">"უცნობი შემსრულებელი"</string>
+<string name="unknown_album_name">"უცნობი ალბომი"</string>
+<string name="shuffle_on_notif">"დაკვრა შემთხვევითი თანმიმდევრობით ჩართულია"</string>
+    <string name="repeat_current_notif">"მიმდინარე სიმღერის გამეორება."</string>
+<string name="repeat_all_notif">"ყველა სიმღერის გამეორება."</string>
+<string name="ringtone_menu">"სატელეფონო ზარის მელოდიის სახით გამოყენება"</string>
+<string name="ringtone_menu_short">"ზარის მელოდიის სახით გამოყენება"</string>
+<string name="ringtone_set">"\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>\" სატელეფონო ზარის მელოდიად დაყენება."</string>
+<string name="play_selection">"დაკვრა"</string>
+<string name="add_to_playlist">"კომპოზიციების სიაში დამატება"</string>
+<string name="queue">"კომპოზიციების მიმდინარე სია"</string>
+<string name="new_playlist">"ახალი"</string>
+    <plurals name="NNNtrackstoplaylist">
+<item quantity="one">"კომპოზიციების სიაზე დამატებულია 1 სიმღერა."</item>
+<item quantity="other">"<xliff:g id="number" example="27">%d</xliff:g> სიმღერა დამატებულია კომპოზიციების სიაზე."</item>
+</plurals>
+<string name="emptyplaylist">"შერჩეული კომპოზიციების სია ცარიელია."</string>
+<string name="create_playlist_create_text">"შენახვა"</string>
+    <string name="service_start_error_title">"დაკვრის პრობლემა"</string>
+<string name="service_start_error_msg">"შეუძლებელია სიმღერის დაკვრა."</string>
+<string name="service_start_error_button">"OK"</string>
+    <string name="musicbrowserlabel">"მუსიკა"</string>
+    <string name="mediaplaybacklabel">"მუსიკა"</string>
+    <string name="mediapickerlabel">"მუსიკა"</string>
+<string name="playback_failed">"ბოდიში, შეუძლებელია ფაილის გაშვება."</string>
+<string name="cancel">"გაუქმება"</string>
+<string name="remove_from_playlist">"კომპოზიციების სიიდან ამოშლა"</string>
+<string name="streamloadingtext">"დაკავშირება <xliff:g id="host">%s</xliff:g>\u2026"</string>
+    <string name="loading">"იტვირთება..."</string>
+<string name="sort_by_track">"ტრეკები"</string>
+<string name="sort_by_album">"ალბომები"</string>
+<string name="sort_by_artist">"შემსრულებლები"</string>
+<string name="music_picker_title">"მუსიკალური ტრეკის ძებნა"</string>
+    <string name="widget_initial_text">"შეეხეთ მუსიკის ასარჩევად."</string>
+<string name="effectspanel">"ხმის ეფექტები"</string>
+<string name="no_play">"ამჟამად დაკვრა შეუძლებელია!"</string>
+    <string name="music_selected_all">"ყველას არჩევა"</string>
+    <string name="music_cancle_selected_all">"ყველას გაუქმება"</string>
+    <string name="nolrc">"არცერთი სიმღერის ტექსტი ან ფაილი არასწორი არ არის"</string>
+    <string name="ringtone_title_sim1">"SIM1 სატელეფონო ზარის მელოდია"</string>
+<string name="ringtone_title_sim2">"SIM2 სატელეფონო ზარის მელოდია"</string>
+<string name="ringtone_set_sim1">"\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>\" SIM1 სატელეფონო ზარის მელოდიად დაყენება."</string>
+<string name="ringtone_set_sim2">"\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>\" SIM2 სატელეფონო ზარის მელოდიად დაყენება."</string>
+<string name="ring_set_fail">"ბოდიში, ამ სიმღერის დაკვრა შეუძლებელია. გთხოვთ, ზარის მელოდიისთვის შეარჩიეთ სხვა სიმღერა"</string>
+<string name="ring_set_silent_vibrate">"მიმდინარე რეჟიმში ზარის პერსონალიზირებული მელოდიები მხარდაჭერილი არ არის"</string>
+<string name="please_insert_sim_card">"გთხოვთ, ჩადეთ SIM ბარათი"</string>
+<string name="create_playlist_warning">"შეუძლებელია იმავე სახელის გამოყენება ეხლახანს დამატებულებთან."</string>
+    <string name="playlist_created_message">"კომპოზიციების სია შექმნილია."</string>
+    <string name="delete_album">"გსურთ მთლიანი ალბომის სამუდამოდ წაშლა\"<xliff:g id="album">%s</xliff:g>\" მოწყობილობიდან?"</string>
+<string name="delete_song">"გსურთ \"<xliff:g id="song">%s</xliff:g>\"-ის სამუდამოდ წაშლა მოწყობილობიდან?"</string>
+<string name="display_music">"მუსიკა"</string>
+<string name="quit">"გამოსვლა"</string>
+<string name="delete_playlist_message">"დარწმუნებული ხართ რომ გსურთ კომპოზიციების სიის წაშლა"%1$s"？"</string>
+<string name="delete_all_playlist">"ყველა კომპოზიციების სიის გასუფთავება"</string>
+<plurals name="NNNallSongsExist">
+<item quantity="one">"სიმღერა იყო კომპოზიციების სიაში."</item>
+<item quantity="other">"სიმღერები იყო კომპოზიციების სიაში."</item>
+</plurals>
+<plurals name="NNNaddsongtoplaylist">
+<item quantity="one">"1 სიმღერა დაემატა,"</item>
+<item quantity="other">"<xliff:g id="number" example="27">%d</xliff:g> სიმღერა დაემატა,"</item>
+</plurals>
+    <string name="no_search_result">"სიმღერები ნაპოვნი არ არის"</string>
+<string name="search_title_hint">"შემსრულებლები, სიმღერები ან ალბომები"</string>
+<string name="error_permissions">"აპს არ გააჩნია გაშვებისათვის აუცილებელი ნებართვები. გთხოვთ, შეამოწმოთ ნებართვების პარამეტრები."</string>
+<string name="dialog_dismiss">"იგნორირება"</string>
+<string name="toast_fileexplorer_internal_error">"მუსიკაში მოხდა შიდა შეცდომა!"</string>
+<string name="no_allow_play_calling">"მუსიკის დაკვრა დაუშვებელია ზარის (რადიო/ვიდეო) დროს."</string>
+    
+<string name="protect_information">"დაიცავი ინფორმაცია"</string>
+<string name="drm_consume_title">"Drm უფლებების გამოყენება"</string>
+<string name="drm_consume_hint">"თქვენი ოპერაციისთვის საჭიროა Drm უფლებები"</string>
+<string name="drm_file_name">"ფაილის სახელწოდება：%1$s"</string>
+<string name="drm_rights_validity">"უფლებების მოქმედება：მოქმედი"</string>
+<string name="drm_rights_invalidity">"უფლებების მოქმედება：ძალადაკარგული"</string>
+<string name="drm_rights_status_transfer">"უფლებების სტატუსი：ნებადართულია გადაცემა"</string>
+<string name="drm_rights_status_untransfer">"უფლებების სტატუსი：გადაცემა ნებადართული არ არის"</string>
+<string name="drm_start_time">"დაწყების დრო：%1$s"</string>
+<string name="drm_end_time">"დასრულების დრო：%1$s"</string>
+<string name="drm_expiration_time">"ამოწურვის დრო：%1$s"</string>
+<string name="drm_remain_times">"დარჩენილი დრო：%1$s"</string>
+    <string name="drm_unlimited_rights">"შეუზღუდავი"</string>
+<string name="drm_rights_unknown">"უცნობი"</string>
+<string name="drm_inactive_rights">"უფლებები აქტიური არ არის"</string>
+</resources>

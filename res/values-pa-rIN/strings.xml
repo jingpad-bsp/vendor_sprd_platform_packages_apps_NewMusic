@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="onesong">1 ਗਾਣਾ</string>
+<plurals name="Nsongs">
+<item quantity="one">"<xliff:g id="count">%d</xliff:g> ਗੀਤ"</item>
+<item quantity="other">"<xliff:g id="count">%d</xliff:g> ਗਾਣੇ"</item>
+</plurals>
+    <plurals name="Nalbums">
+<item quantity="one">1 ਐਲਬਮ</item>
+<item quantity="other">"<xliff:g id="count">%d</xliff:g> ਐਲਬਮਾਂ"</item>
+</plurals>
+    <string name="party_shuffle">"ਪਾਰਟੀ ਸ਼ਫਲ"</string>
+<string name="party_shuffle_off">ਪਾਰਟੀ ਦਾ ਫੇਰਬਦਲ ਬੰਦ</string>
+<string name="delete_item">ਮਿਟਾਓ</string>
+<string name="shuffle_all">ਸਾਰਿਆਂ ਦੀ ਅਦਲਾ ਬਦਲੀ ਕਰੋ</string>
+    <string name="delete_confirm_button_text">"ਠੀਕ ਹੈ"</string>
+<plurals name="NNNtracksdeleted">
+<item quantity="one">1 ਗਾਣਾ ਮਿਟਾਇਆ ਗਿਆ</item>
+<item quantity="other">"<xliff:g id="songs_to_delete">%d</xliff:g> ਗਾਣੇ ਮਿਟਾਏ ਗਏ ਸਨ।"</item>
+</plurals>
+<string name="scanning">SD ਕਾਰਡ ਸਕੈਨਿੰਗ ਹੋ ਰਹੀ ਹੈ \u2026</string>
+<string name="scanning_nosdcard">USB ਸਟੋਰੇਜ ਦੀ ਸਕੈਨਿੰਗ ਹੋ ਰਹੀ ਹੈ\u2026</string>
+<string name="nowplaying_title">ਹੁਣ ਚੱਲ ਰਿਹਾ ਹੈ</string>
+    <string name="artists_title">ਕਲਾਕਾਰ</string>
+<string name="albums_menu">"ਐਲਬਮਾਂ"</string>
+<string name="albums_title">"ਐਲਬਮਾਂ"</string>
+<string name="tracks_menu">ਗਾਣੇ</string>
+<string name="tracks_title">ਗਾਣੇ</string>
+<string name="playlists_menu">ਪਲੇਲਿਸਟਾਂ</string>
+<string name="playlists_title">ਪਲੇਲਿਸਟਾਂ</string>
+    <string name="all_title">ਸਾਰਾ ਮੀਡੀਆ</string>
+<string name="browse_menu">ਕਲਾਕਾਰ</string>
+<string name="search_title">"ਖੋਜੋ"</string>
+<string name="no_tracks_title">ਕੋਈ ਗਾਣਾ ਨਹੀ</string>
+    <string name="delete_playlist_menu">ਮਿਟਾਓ</string>
+    <string name="rename_playlist_menu">ਦੁਬਾਰਾ ਨਾਮ ਦਿਓ</string>
+<string name="playlist_deleted_message">ਪਲੇਲਿਸਟ ਮਿਟਾਈ ਗਈ।</string>
+<string name="playlist_renamed_message">ਪਲੇਲਿਸਟਾਂ ਦਾ ਦੁਬਾਰਾ ਨਾਮ ਦਿੱਤਾ ਗਿਆ।</string>
+<string name="recentlyadded">ਹਾਲ ਹੀ ਵਿੱਚ ਸ਼ਾਮਿਲ ਕੀਤੇ ਗਏ</string>
+    <string name="podcasts_listitem">ਪੋਡਕਾਸਟਸ</string>
+    <string name="sdcard_missing_title">ਕੋਈ SD ਕਾਰਡ ਨਹੀਂ</string>
+<string name="sdcard_missing_title_nosdcard">ਕੋਈ USB ਸਟੋਰੇਜ ਨਹੀ</string>
+<string name="sdcard_missing_message">ਤੁਹਾਡੇ ਫੋਨ ਵਿੱਚ ਇੱਕ SD ਕਾਰਡ ਨਹੀਂ ਪਾਇਆ ਗਿਆ ਹੈ।</string>
+<string name="sdcard_missing_message_nosdcard">ਤੁਹਾਡੇ ਫੋਨ ਵਿੱਚ USB ਸਟੋਰੇਜ ਨਹੀਂ ਹੈ।</string>
+<string name="sdcard_busy_title">SD ਕਾਰਡ ਮੌਜੂਦ ਨਹੀਂ ਹੈ</string>
+<string name="sdcard_busy_title_nosdcard">USB ਸਟੋਰੇਜ ਮੌਜੂਦ ਨਹੀਂ ਹੈ</string>
+<string name="sdcard_busy_message">ਤੁਹਾਡਾ SD ਕਾਰਡ ਰੁੱਝਿਆ ਹੋਇਆ ਹੈ।</string>
+<string name="sdcard_busy_message_nosdcard">ਤੁਹਾਡੀ USB ਸਟੋਰੇਜ ਰੁੱਝੀ ਹੋਈ ਹੈ।</string>
+<string name="sdcard_error_title">SD ਕਾਰਡ ਤਰੁੱਟੀ</string>
+<string name="sdcard_error_title_nosdcard">USB ਸਟੋਰੇਜ ਤਰੁੱਟੀ</string>
+<string name="sdcard_error_message">ਤੁਹਾਡੇ SD ਕਾਰਡ ਤੇ ਇੱਕ ਤਰੁੱਟੀ ਆਈ।</string>
+<string name="sdcard_error_message_nosdcard">ਤੁਹਾਡੇ USB ਸਟੋਰੇਜ ਤੇ ਇੱਕ ਤਰੁੱਟੀ ਆਈ।</string>
+<string name="unknown_artist_name">ਅਗਿਆਤ ਕਲਾਕਾਰ</string>
+<string name="unknown_album_name">ਅਗਿਆਤ ਐਲਬਮ</string>
+<string name="shuffle_on_notif">ਅਦਲਾ ਬਦਲੀ ਚਾਲੂ ਹੈ।</string>
+    <string name="repeat_current_notif">ਵਰਤਮਾਨ ਗਾਣੇ ਨੂੰ ਦੁਹਰਾਇਆ ਜਾ ਰਿਹਾ ਹੈ।</string>
+<string name="repeat_all_notif">ਸਾਰੇ ਗਾਣੇ ਦੁਹਰਾਏ ਜਾ ਰਹੇ ਹਨ।</string>
+<string name="ringtone_menu">ਫੋਨ ਦੀ ਰਿੰਗਟੋਨ ਦੇ ਰੂਪ ਵਿੱਚ ਵਰਤੋ ਕਰੋ</string>
+<string name="ringtone_menu_short">ਰਿੰਗਟੋਨ ਦੇ ਰੂਪ ਵਿੱਚ ਵਰਤੋ</string>
+<string name="ringtone_set">"\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>\" ਨੂੰ ਫੋਨ ਰਿੰਗਟੋਨ ਦੇ ਤੌਰ ਤੇ ਸੈਟ ਕਰੋ।"</string>
+<string name="play_selection">ਚਲਾਉ</string>
+<string name="add_to_playlist">ਪਲੇਲਿਸਟ ਵਿੱਚ ਸ਼ਾਮਿਲ ਕਰੋ</string>
+<string name="queue">"ਨਵੀਂ ਪਲੇਲਿਸਟ"</string>
+<string name="new_playlist">"ਨਵਾਂ"</string>
+    <plurals name="NNNtrackstoplaylist">
+<item quantity="one">1 ਗਾਣਾ ਪਲੇਲਿਸਟ ਵਿੱਚ ਸ਼ਾਮਿਲ ਕੀਤਾ ਗਿਆ</item>
+<item quantity="other">"<xliff:g id="number" example="27">%d</xliff:g> ਗਾਣੇ ਪਲੇਲਿਸਟ ਵਿੱਚ ਜੋੜੇ ਗਏ।"</item>
+</plurals>
+<string name="emptyplaylist">ਚੁਣੀ ਗਈ ਪਲੇਲਿਸਟ ਖਾਲੀ ਹੈ।</string>
+<string name="create_playlist_create_text">ਸੁਰੱਖਿਅਤ ਕਰੋ</string>
+    <string name="service_start_error_title">ਪਲੇਬੈਕ ਸਮੱਸਿਆ</string>
+<string name="service_start_error_msg">"ਗਾਣਾ ਪਲੇ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਿਆ।"</string>
+<string name="service_start_error_button">"ਠੀਕ ਹੈ"</string>
+    <string name="musicbrowserlabel">ਸੰਗੀਤ</string>
+    <string name="mediaplaybacklabel">ਸੰਗੀਤ</string>
+    <string name="mediapickerlabel">ਸੰਗੀਤ</string>
+<string name="playback_failed">"ਪਲੇਅਰ ਇਸ ਪ੍ਰਕਾਰ ਦੀ ਆੱਡਿਓ ਫਾਈਲ ਦਾ ਸਮਰਥਨ ਨਹੀਂ ਕਰਦਾ।"</string>
+<string name="cancel">ਰੱਦ ਕਰੋ</string>
+<string name="remove_from_playlist">ਪਲੇਲਿਸਟ ਤੋਂ ਹਟਾਓ</string>
+<string name="streamloadingtext">"<xliff:g id="host">%s</xliff:g>ਨਾਲ ਕਨੈਕਟ ਕਰ ਰਿਹਾ ਹੈ\u2026"</string>
+    <string name="loading">ਲੋਡ ਹੋ ਰਹੀ ਹੈ\u2026</string>
+<string name="sort_by_track">ਟਰੈਕ </string>
+<string name="sort_by_album">"ਐਲਬਮਾਂ"</string>
+<string name="sort_by_artist">ਕਲਾਕਾਰ</string>
+<string name="music_picker_title">ਸੰਗੀਤ ਟ੍ਰੈਕ ਚੁਣੋ</string>
+    <string name="widget_initial_text">ਸੰਗੀਤ ਚੁਣਨ ਲਈ ਛੋਹਵੋ।</string>
+<string name="effectspanel">ਧੁਨੀ ਦੇ ਪ੍ਰਭਾਵ</string>
+<string name="no_play">"ਇਸ ਵੇਲੇ ਪਲੇ ਕਰਨ ਵਿੱਚ ਅਸਮਰੱਥ!"</string>
+    <string name="music_selected_all">"ਸਾਰੇ ਚੁਣੋ"</string>
+    <string name="music_cancle_selected_all">ਸਾਰੇ ਰੱਦ ਕਰੋ</string>
+    <string name="nolrc">ਕੋਈ ਗੀਤ ਨਹੀਂ ਜਾਂ ਫਾਈਲ ਅਪ੍ਰਮਾਣਿਤ ਹੈ</string>
+    <string name="ringtone_title_sim1">SIM1 ਫੋਨ ਦੀ ਰਿੰਗਟੋਨ</string>
+<string name="ringtone_title_sim2">SIM2 ਫੋਨ ਦੀ ਰਿੰਗਟੋਨ</string>
+<string name="ringtone_set_sim1">"\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>\" ਨੂੰ SIM1 ਫੋਨ ਰਿੰਗਟੋਨ ਦੇ ਤੌਰ ਤੇ ਸੈਟ ਕਰੋ।"</string>
+<string name="ringtone_set_sim2">"\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>\" ਨੂੰ SIM2 ਫੋਨ ਰਿੰਗਟੋਨ ਦੇ ਤੌਰ ਤੇ ਸੈਟ ਕਰੋ।"</string>
+<string name="ring_set_fail">ਮਾਫ ਕਰਨਾ, ਗਾਣਾ ਪਲੇ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕੇਗਾ। ਕਿਰਪਾ ਕਰਕੇ ਰਿੰਗਟੋਨ ਦੇ ਤੌਰ ਤੇ ਦੂਜਾ ਗਾਣਾ ਚੁਣੋ</string>
+<string name="ring_set_silent_vibrate">"ਵਰਤਮਾਨ ਮੋਡ ਤੇ ਕਸਟਮ ਰਿੰਗਟੋਨਾਂ ਸਮਰੱਥਿਤ ਨਹੀਂ ਹਨ"</string>
+<string name="please_insert_sim_card">ਕਿਰਪਾ ਕਰਕੇ ਘੱਟੋ ਘੱਟ ਇੱਕ SIM ਕਾਰਡ ਪਾਓ</string>
+<string name="create_playlist_warning">ਨਵੇਂ ਜੋੜੇ ਗਏ ਨਾਲ ਇੱਕੋ ਨਾਂ ਪ੍ਰਯੋਗ ਨਹੀਂ ਕਰ ਸਕਦਾ।</string>
+    <string name="playlist_created_message">"ਪਲੇਲਿਸਟ ਬਣਾਈ ਗਈ।"</string>
+    <string name="delete_album">"ਕੀ ਸਮੂੱਚੀ ਐਲਬਮ \"<xliff:g id="album">%s</xliff:g>\" ਨੂੰ ਡਿਵਾਈਸ ਵਿੱਚੋਂ ਸਥਾਈ ਤੌਰ ਤੇ ਮਿਟਾਉਣਾ ਹੈ?"</string>
+<string name="delete_song">"ਕੀ \"<xliff:g id="song">%s</xliff:g>\" ਨੂੰ ਡਿਵਾਈਸ ਤੋਂ ਮਿਟਾਉਣਾ ਹੈ?"</string>
+<string name="display_music">ਸੰਗੀਤ</string>
+<string name="quit">ਛੱਡੋ</string>
+<string name="delete_playlist_message">ਕੀ ਤੁਸੀਂ ਯਕੀਨੀ ਰੂਪ ਨਾਲ ਇਸ ਪਲੇਲਿਸਟ %1$s ਨੂੰ ਮਿਟਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ？</string>
+<string name="delete_all_playlist">ਸਾਰੀਆਂ ਪਲੇਲਿਸਟਾਂ ਹਟਾਓ</string>
+<plurals name="NNNallSongsExist">
+<item quantity="one">ਗਾਣਾ ਪਲੇਲਿਸਟ ਵਿੱਚ ਮੌਜੂਦ ਹੈ।</item>
+<item quantity="other">ਗਾਣੇ ਪਲੇਲਿਸਟ ਵਿੱਚ ਮੌਜੂਦ ਹਨ।</item>
+</plurals>
+<plurals name="NNNaddsongtoplaylist">
+<item quantity="one">"1 ਗਾਣਾ ਜੋੜਿਆ,"</item>
+<item quantity="other">"<xliff:g id="number" example="27">%d</xliff:g> ਗਾਣੇ ਜੋੜੇ ਗਏ,"</item>
+</plurals>
+    <string name="no_search_result">ਕੋਈ ਗਾਣੇ ਨਹੀਂ ਮਿਲੇ ਸਨ</string>
+<string name="search_title_hint">"ਕਲਾਕਾਰ, ਗਾਣੇ ਜਾਂ ਐਲਬਮਾਂ"</string>
+<string name="error_permissions">"ਐਪ ਨੂੰ ਚਲਾਉਣ ਲਈ ਲੁੜੀਂਦੀਆਂ ਲਾਜ਼ਮੀ ਅਨੁਮਤੀਆਂ ਨਹੀਂ ਹਨ। ਕਿਰਪਾ ਕਰਕੇ ਆਪਣੀਆਂ ਅਨੁਮਤੀ ਸੈਟਿੰਗਾਂ ਦੀ ਜਾਂਚ ਕਰੋ।"</string>
+<string name="dialog_dismiss">ਖਰਿਜ ਕਰੋ</string>
+<string name="toast_fileexplorer_internal_error">"ਸੰਗੀਤ ਵਿੱਚ ਇੱਕ ਅੰਦਰੂਨੀ ਤਰੁਟੀ ਹੋਈ!"</string>
+<string name="no_allow_play_calling">"ਕਾੱਲ ਦੇ ਦੌਰਾਨ ਸੰਗੀਤ ਪਲੇ ਕਰਨ ਦੀ ਆਗਿਆ ਨਹੀਂ(ਰੇਡੀਓ/ਵੀਡਿਓ)।"</string>
+<string name="protect_information">"ਜਾਣਕਾਰੀ ਸੁਰੱਖਿਅਤ ਕਰੋ"</string>
+<string name="drm_consume_title">"Drm ਹੱਕ ਵਰਤੋ"</string>
+<string name="drm_consume_hint">"ਤੁਹਾਡਾ ਓਪਰੇਸ਼ਨ Drm ਹੱਕ ਵਰਤੇਗਾ"</string>
+<string name="drm_file_name">"ਫਾਈਲ ਨਾਮ：%1$s"</string>
+<string name="drm_rights_validity">"ਹੱਕ ਪ੍ਰਮਾਣਿਕਤਾ：ਪ੍ਰਮਾਣਿਤ"</string>
+<string name="drm_rights_invalidity">"ਹੱਕ ਪ੍ਰਮਾਣਿਕਤਾ：ਅਪ੍ਰਮਾਣਿਤ"</string>
+<string name="drm_rights_status_transfer">"ਹੱਕ ਸਥਿਤੀ：ਤਬਦੀਲ ਕਰਨ ਦੀ ਅਨੁਮਤੀ"</string>
+<string name="drm_rights_status_untransfer">"ਹੱਕ ਸਥਿਤੀ：ਤਬਦੀਲ ਕਰਨ ਦੀ ਅਨੁਮਤੀ ਨਹੀਂ"</string>
+<string name="drm_start_time">"ਸ਼ੁਰੂ ਕਰਨ ਦਾ ਸਮਾਂ：%1$s"</string>
+<string name="drm_end_time">"ਸਮਾਪਤ ਕਰਨ ਦਾ ਸਮਾਂ：%1$s"</string>
+<string name="drm_expiration_time">"ਐਕਸਪਾਇਰੇਸ਼ਨ ਸਮਾਂ：%1$s"</string>
+<string name="drm_remain_times">"ਬਾਕੀ ਸਮਾਂ：%1$s"</string>
+    <string name="drm_unlimited_rights">"ਅਸੀਮਿਤ"</string>
+<string name="drm_rights_unknown">ਅਗਿਆਤ</string>
+<string name="drm_inactive_rights">"ਹੱਕ ਨਿਸ਼ਕ੍ਰਿਏ"</string>
+    <string name="whoes_album">"ਐਲਬਮ"</string>
+    <string name="no_album_title">"ਕੋਈ ਐਲਬਮ ਨਹੀਂ ਹੈ"</string>
+    <string name="no_artist_title">"ਕੋਈ ਕਲਾਕਾਰ ਨਹੀਂ ਹੈ"</string>
+    <string name="no_folderlist_title">"ਕੋਈ ਫੋਲਡਰ ਨਹੀਂ ਹੈ"</string>
+    <string name="show_artist">"ਕਲਾਕਾਰ ਬਾਰੇ ਜਾਣਕਾਰੀ ਦਿਖਾਓ"</string>
+    <string name="delete_folder">ਮਿਟਾਓ</string>
+    <string name="done">ਹੋ ਗਿਆ</string>
+    <string name="search_result">ਖੋਜ ਨਤੀਜਾ</string>
+    <string name="delete_songs">"ਕੀ ਡਿਵਾਈਸ ਤੋਂ ਸਥਾਈ ਤੌਰ \'ਤੇ ਮਿਟਾਉਣਾ ਹੈ?"</string>
+    <string name="setting">"ਸੈਟਿੰਗ"</string>
+    <string name="folder_menu">"ਫੋਲਡਰ"</string>
+    <string name="favorite_added">"ਮੇਰਾ ਪਸੰਦੀਦਾ ਗੀਤ"</string>
+    <string name="add_playlist_title">"ਪਲੇ ਲਿਸਟ ਸ਼ਾਮਲ ਕਰੋ"</string>
+    <string name="empty_play_list">"ਪਲੇ ਲਿਸਟ ਨੂੰ ਖਾਲ੍ਹੀ ਕਰੋ"</string>
+    <string name="shuffle_all_title">"ਸਾਰਿਆਂ ਗੀਤਾਂ ਨੂੰ ਸ਼ਫਲ ਕਰੋ"</string>
+    <string name="sort_by_time">"ਸਮੇਂ ਅਨੁਸਾਰ ਛਾਂਟੋ"</string>
+    <string name="sort_by_name">ਨਾਮ ਅਨੁਸਾਰ ਕ੍ਰਮਬੱਧ ਕਰੋ</string>
+    <string name="share">ਸਾਂਝਾ ਕਰੋ</string>
+    <string name="share_error">"ਸ਼ੇਅਰ ਨਾ ਕਰਨ ਯੋਗ ਐਪਲੀਕੇਸ਼ਨ!"</string>
+    <string name="fifty_min">"15 ਮਿੰਟ"</string>
+    <string name="theirty_min">"30 ਮਿੰਟ"</string>
+    <string name="sixty_min">"60 ਮਿੰਟ"</string>
+    <string name="ninety_min">"90 ਮਿੰਟ"</string>
+    <string name="self_define">"ਕਸਟਮ ਸਟਾਪ ਟਾਈਮ"</string>
+    <string name="timer_option">""ਐਪਲੀਕੇਸ਼ਨ ਵਿੱਚ,ਸਫਲਤਾਪੂਰਵਕ ਸੈੱਟ ਹੋ ਗਿਆ ਹੈ।"</string>
+    <plurals name="NNNselftimeSuffix">
+        <item quantity="one">ਨਿਊਨਤਮ</item>
+        <item quantity="other">ਮਿੰਟ</item>
+    </plurals>
+    <string name="self_min">ਨਿਊਨਤਮ</string>
+    <string name="timer_setting">"ਸਟਾਪ ਟਾਈਮਰ ਸੈੱਟ ਕਰੋ"</string>
+    <string name="change_face">"ਫੇਸ ਬਦਲੋ"</string>
+    <string name="timed_setting">"ਰੁਕਣ ਦਾ ਸਮਾਂ ਚੁਣੋ"</string>
+    <string name="time_warning">"ਕਸਟਮ ਸਮਾਂ 1440 ਮਿੰਟ (24 ਘੰਟੇ) ਦੀ ਅਧਿਕਤਮ ਸੀਮਾ ਤੋਂ ਵੱਧ ਗਿਆ ਹੈ!"</string>
+    <string name="songs_nums_for_suffix">"ਗੀਤ"</string>
+    <string name="random_play_all">"ਸਾਰਿਆਂ ਗੀਤਾਂ ਨੂੰ ਬੇਤਰਤੀਬ ਕ੍ਰਮ ਵਿੱਚ ਚਲਾਓ"</string>
+    <string name="unable_to_connect_title">"ਫਾਈਲ ਨਾਲ ਜੁੜਨ ਵਿੱਚ ਅਸਮਰੱਥ ਹੈ"</string>
+    <string name="unable_to_connect_message">"ਮੌਜੂਦਾ ਫਾਈਲ ਪ੍ਰਾਪਤ ਨਹੀਂ ਹੋ ਸਕੀ ਹੈ। ਕਿਰਪਾ ਕਰਕੇ ਕਨੈਕਸ਼ਨ ਦੀ ਜਾਂਚ ਕਰੋ"</string>
+    <string name="statusbarlabel">""ਸੰਗੀਤ । \'"</string>
+    <string name="error_choose_drm_for_gallery">"DRM ਫਾਈਲ ਸੰਗੀਤ ਸਲਾਈਡ ਕਰਨ ਲਈ ਸੈਟ ਨਹੀਂ ਕੀਤੀ ਜਾ ਸਕਦੀ, ਕਿਰਪਾ ਕਰਕੇ ਦੂਜੀ ਚੁਣੋ"</string>
+</resources>

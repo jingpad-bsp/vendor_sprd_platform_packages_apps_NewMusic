@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="onesong">"1 canção"</string>
+<plurals name="Nsongs">
+<item quantity="one">"<xliff:g id="count">%d</xliff:g> música"</item>
+<item quantity="other">"<xliff:g id="count">%d</xliff:g> músicas"</item>
+</plurals>
+    <plurals name="Nalbums">
+<item quantity="one">"1 álbum"</item>
+<item quantity="other">"<xliff:g id="count">%d</xliff:g> álbuns"</item>
+</plurals>
+<string name="party_shuffle">"Aleatorizar"</string>
+<string name="party_shuffle_off">"Aleatorização desligada"</string>
+<string name="delete_item">"Apagar"</string>
+<string name="shuffle_all">"Reprodução aleatória"</string>
+    <string name="delete_confirm_button_text">"OK"</string>
+<plurals name="NNNtracksdeleted">
+<item quantity="one">"1 canção foi excluída."</item>
+<item quantity="other">"<xliff:g id="songs_to_delete">%d</xliff:g> músicas foram excluídas."</item>
+</plurals>
+<string name="scanning">"Digitalizando cartão SD\u2026"</string>
+<string name="scanning_nosdcard">"Digitalizando Armazenamento USB\u2026"</string>
+<string name="nowplaying_title">"Tocando agora"</string>
+    <string name="artists_title">"Artistas"</string>
+<string name="albums_menu">"Álbuns"</string>
+<string name="albums_title">"Álbuns"</string>
+<string name="tracks_menu">"Músicas"</string>
+<string name="tracks_title">"Músicas"</string>
+<string name="playlists_menu">"Listas de reprodução"</string>
+<string name="playlists_title">"Listas de reprodução"</string>
+<string name="all_title">"Todas as mídias"</string>
+<string name="browse_menu">"Artistas"</string>
+<string name="search_title">"Pesquisar"</string>
+<string name="no_tracks_title">"Nenhuma música"</string>
+    <string name="delete_playlist_menu">"Apagar"</string>
+    <string name="rename_playlist_menu">"Renomear"</string>
+<string name="playlist_deleted_message">"Lista de reprodução excluída."</string>
+<string name="playlist_renamed_message">"Lista de reprodução renomeada."</string>
+<string name="recentlyadded">"Adicionado recentemente"</string>
+    <string name="podcasts_listitem">"Podcasts"</string>
+<string name="sdcard_missing_title">"Nenhum cartão SD"</string>
+<string name="sdcard_missing_title_nosdcard">"Sem armazenamento USB"</string>
+<string name="sdcard_missing_message">"Seu telefone não possui um cartão SD inserido."</string>
+<string name="sdcard_missing_message_nosdcard">"Seu telefone não possui armazenamento USB."</string>
+<string name="sdcard_busy_title">"Cartão SD indisponível"</string>
+<string name="sdcard_busy_title_nosdcard">"Armazenamento USB indisponível"</string>
+<string name="sdcard_busy_message">"O seu cartão SD está cheio."</string>
+<string name="sdcard_busy_message_nosdcard">"O seu armazenamento USB está cheio."</string>
+<string name="sdcard_error_title">"Erro do cartão SD"</string>
+<string name="sdcard_error_title_nosdcard">"Erro de armazenamento USB"</string>
+<string name="sdcard_error_message">"Um erro foi encontrado no seu cartão SD."</string>
+<string name="sdcard_error_message_nosdcard">"Foi encontrado um erro no armazenamento USB."</string>
+<string name="unknown_artist_name">"Artista desconhecido"</string>
+<string name="unknown_album_name">"Álbum desconhecido"</string>
+<string name="shuffle_on_notif">"Reprodução aleatória está ligada."</string>
+    <string name="repeat_current_notif">"Repetindo música atual."</string>
+<string name="repeat_all_notif">"Repetindo todas as músicas."</string>
+<string name="ringtone_menu">"Usar como toque de chamada"</string>
+<string name="ringtone_menu_short">"Usar como toque"</string>
+<string name="ringtone_set">"\"<xliff:g example = "Campainha de alarmes" id="name">%s</xliff:g>\"definido como toque de chamada."</string>
+<string name="play_selection">"Reproduzir"</string>
+<string name="add_to_playlist">"Adicionar à Playlist"</string>
+<string name="queue">"Playlist atual"</string>
+<string name="new_playlist">"Nova"</string>
+<string name="emptyplaylist">"Playlist selecionada está vazia."</string>
+<string name="create_playlist_create_text">"Salvar"</string>
+    <string name="service_start_error_title">"Problema de reprodução"</string>
+<string name="service_start_error_msg">"Não foi possível reproduzir a música."</string>
+<string name="service_start_error_button">"OK"</string>
+    <string name="musicbrowserlabel">"Música"</string>
+    <string name="mediaplaybacklabel">"Música"</string>
+    <string name="mediapickerlabel">"Música"</string>
+<string name="playback_failed">"Desculpe, ocorreu uma falha ao reproduzir o arquivo."</string>
+<string name="cancel">"Cancelar"</string>
+<string name="remove_from_playlist">"Remover da lista de reprodução"</string>
+<string name="streamloadingtext">"Conectando-se a <xliff:g id ="host">%s</xliff:g> \u2026"</string>
+    <string name="loading">"Carregando..."</string>
+<string name="sort_by_track">"Faixas"</string>
+<string name="sort_by_album">"Álbuns"</string>
+<string name="sort_by_artist">"Artistas"</string>
+<string name="music_picker_title">"Escolher trilha de música"</string>
+    <string name="widget_initial_text">"Toque para escolher música."</string>
+<string name="effectspanel">"Efeitos sonoros"</string>
+<string name="no_play">"No momento, não é possível reproduzí-la!"</string>
+    <string name="music_selected_all">"Selecionar tudo"</string>
+<string name="music_cancle_selected_all">"Cancelar tudo"</string>
+<string name="nolrc">"Nenhuma letra ou arquivo é inválido"</string>
+<string name="ringtone_title_sim1">"Toque de chamada do SIM1"</string>
+<string name="ringtone_title_sim2">"Toque de chamada do SIM2"</string>
+<string name="ringtone_set_sim1">"\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>\" definido como toque de chamada do SIM1."</string>
+<string name="ringtone_set_sim2">"\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>\" definido como toque de chamada do SIM2."</string>
+<string name="ring_set_fail">"Desculpe, não foi possível reproduzir a música. Por favor selecione uma outra música como melodia"</string>
+<string name="ring_set_silent_vibrate">"O ringtone personalizado não é suportado no modo atual"</string>
+<string name="please_insert_sim_card">"Por favor insira um cartão SIM pelo menos"</string>
+<string name="create_playlist_warning">"Não é possível usar o mesmo nome na lista de reprodução do sistema."</string>
+    <string name="playlist_created_message">"Playlista criada."</string>
+<string name="delete_album">"Excluir permanentemente o álbum inteiro \" <xliff:g id="album">%s</xliff:g> \" do dispositivo?"</string>
+<string name="delete_song">"Excluir permanentemente \" <xliff:g id="song">%s</xliff:g> \"do dispositivo?"</string>
+<string name="display_music">"Música"</string>
+<string name="quit">"Sair"</string>
+<string name="delete_playlist_message">"Você tem certeza de que deseja excluir a lista de reprodução \"%1$s\"?"</string>
+<string name="delete_all_playlist">"Limpar todas as playlistas"</string>
+<plurals name="NNNallSongsExist">
+<item quantity="one">"A música já existe na playlist."</item>
+<item quantity="other">"As músicas já existem na playlist."</item>
+</plurals>
+<plurals name="NNNaddsongtoplaylist">
+<item quantity="one">"1 música adicionada"</item>
+<item quantity="other">"<xliff:g exemplo="27" id="number">%d</xliff:g> músicas adicionadas,"</item>
+</plurals>
+    <string name="no_search_result">"Nenhuma música foi encontrada"</string>
+<string name="search_title_hint">"Artistas, Canções ou Álbuns"</string>
+<string name="error_permissions">"O app não tem permissões críticas necessárias para ser executado. Por favor, verifique suas configurações de permissões."</string>
+<string name="dialog_dismiss">"Dispensar"</string>
+<string name="toast_fileexplorer_internal_error">"Permissão negada em Música!"</string>
+<string name="no_allow_play_calling">"Não é permitido reproduzir música durante as chamadas (rádio/vídeo)."</string>
+<string name="protect_information">"Proteger Informação"</string>
+<string name="drm_consume_title">"Consumir Direitos DRM"</string>
+<string name="drm_consume_hint">"Sua operação consumirá direitos de DRM"</string>
+<string name="drm_file_name">"Nome do arquivo: %1$s"</string>
+<string name="drm_rights_validity">"Validade dos Direitos: válida"</string>
+<string name="drm_rights_invalidity">"Validade dos Direitos: inválida"</string>
+<string name="drm_rights_status_transfer">"Status dos direitos: transmissão permitida"</string>
+<string name="drm_rights_status_untransfer">"Status dos direitos: transmissão não permitida"</string>
+<string name="drm_start_time">"Hora de início:%1$s"</string>
+<string name="drm_end_time">"Hora de término:%1$s"</string>
+<string name="drm_expiration_time">"Tempo de Expiração: %1$s"</string>
+<string name="drm_remain_times">"Vezes Restantes: %1$s"</string>
+<string name="drm_unlimited_rights">"Ilimitado"</string>
+<string name="drm_rights_unknown">"Desconhecido"</string>
+<string name="drm_inactive_rights">"Direitos inativos"</string>
+    <string name="whoes_album">"Álbum "</string>
+     <plurals name="NNNtracksremoved">
+<item quantity="one">"A música <xliff:g id="songs_to_delete">%d</xliff:g> foi removida da lista de reprodução \"<xliff:g id="playlist">%s</xliff:g>\"."</item>
+<item quantity="other">"As músicas <xliff:g id="songs_to_delete">%d</xliff:g> foram removidas da lista de reprodução \"<xliff:g id="playlist">%s</xliff:g>\"."</item>
+    </plurals>
+     <string name="no_album_title">"Sem álbuns"</string>
+     <string name="no_artist_title">"Sem artistas"</string>
+     <string name="no_folderlist_title">"Sem pastas"</string>
+     <string name="sequence_notif">"A reprodução em sequência está ativa."</string>
+     <string name="show_artist">"Mostrar as informações do artista"</string>
+     <string name="done">"Concluído"</string>
+     <string name="search_result">"Resultado da pesquisa"</string>
+     <string name="delete_artist_album">"Excluir permanentemente todas as músicas do álbum \"<xliff:g id="álbum">%s</xliff:g>\" que por \"<xliff:g id="artist">%s</xliff:g>\" do dispositivo?"</string>
+    <plurals name="NNNallDeleteSelectedSong">
+<item quantity="one">"Excluir permanentemente a música selecionada do dispositivo?"</item>
+<item quantity="other">"Excluir permanentemente as músicas selecionadas do dispositivo?"</item>
+</plurals>
+     <string name="delete_folder_prompt">"Excluir permanentemente adicionar músicas em \" <xliff:g id="pasta">%s</xliff:g> \"pasta do dispositivo?"</string>
+     <string name="delete_playlist">"Apagar \"<xliff:g id="song">%s</xliff:g>\" da lista de reprodução?"</string>
+     <string name="setting">"Configurações"</string>
+     <string name="folder_menu">"Pastas"</string>
+     <string name="NNNsongAlreadyExist2"><xliff:g example="27" id="number">%d</xliff:g> músicas já existem na lista de reprodução \"<xliff:g id="playlist">%s</xliff:g>\".</string>
+<string name="favorite_added">"Minha música favorita"</string>
+     <string name="add_playlist_title">"Adicionar lista de reprodução"</string>
+     <string name="empty_play_list">"Esvaziar lista de reprodução"</string>
+     <string name="sort_by_time">"Classificar por tempo"</string>
+     <string name="sort_by_name">"Classificar por nome"</string>
+     <string name="share">"Compartilhar"</string>
+     <string name="share_error">"Aplicação sem partilha!"</string>
+     <string name="fifty_min">"15 minutos"</string>
+     <string name="theirty_min">"30 minutos"</string>
+     <string name="sixty_min">"60 minutos"</string>
+     <string name="ninety_min">"90 minutos"</string>
+<string name="self_define">"Personalizar tempo de parada"</string>
+<string name="timer_option">"Definido com sucesso, a música será fechada após a contagem regressiva."</string>
+     <plurals name="NNNselftimeSuffix">
+<item quantity="one">"minuto"</item>
+<item quantity="other">"minutos"</item>
+    </plurals>
+    <string name="self_min">"minutos"</string>
+    <string name="timer_setting">"Configurar tempo de parada"</string>
+    <string name="change_face">"Alterar tema"</string>
+    <string name="timed_setting">"Selecione o tempo de parada"</string>
+    <string name="time_warning">"O temporizador personalizado excede o limite superior de 1440 minutos (24 horas)!"</string>
+    <string name="time_min_warning">"O temporizador personalizado não pode ser inferior a um minuto!"</string>
+    <string name="time_not_null">"O temporizador personalizado não pode ser zero!"</string>
+    <string name="random_play_all">"Reproduzir tudo de forma aleatória"</string>
+    <string name="unable_to_connect_title">"Não é possível conectar-se ao arquivo"</string>
+    <string name="unable_to_connect_message">"Não foi possível obter o arquivo atual. Por favor, verifique a conexão"</string>
+    <string name="statusbarlabel">"Música · "</string>
+    <string name="dock_forced_resizable">"O Music Player não funciona corretamente no modo de tela dividida."</string>
+    <string name="error_choose_drm_for_gallery">"Arquivo DRM não se aplica a esta operação"</string>
+    <string name="delete_from_device">"Remover do dispositivo"</string>
+    <string name="delete_from_playlist">"apagar as músicas selecionadas da lista de reprodução?"</string>
+    <string name="empty">"A música selecionada está vazia, por favor verifique-a."</string>
+    <string name="empty_playlist_message">"Você tem certeza que deseja esvaziar a lista \"%1$s\"?"</string>
+    <string name="same_playlist">"O nome da lista de reprodução introduzido já existe!"</string>
+    <string name="overwrite_playlist_alert_rename">"Os dados da lista de reprodução no "<xliff:g id="NAME">%s</xliff:g>" serão ocultados."</string>
+    <string name="usbdisk">"Disco USB(<xliff:g id="USBNAME">%s</xliff:g>)"</string>
+    <string name="length_limited">"O nome até o comprimento máximo"</string>
+    <string name="file_notfound">"Desculpe, mas não conseguimos encontrar o arquivo. Por favor, verifique."</string>
+    <string name="operation_failed">"Falha ao adicionar a música à lista de reprodução "As minhas músicas preferidas"."</string>
+    <string name="playlist_emptied">"A lista de reprodução foi esvaziada."</string>
+    <string name="max_number">" Foram selecionados mais de 100 arquivos e a função de compartilhamento não está disponível"</string>
+    <string name="invalid_playlist_name">"O nome da lista de reprodução não pode terminar com \"/\"."</string>
+    <string name="special_playlist_name">"O nome da lista de reprodução não pode conter caracteres ilegais \\:*?\"\u003C\u003E|/"</string>
+    <string name="skip_to_next">"Não foi possível executar a faixa, pular automaticamente para a próxima faixa."</string>
+    <string name="no_sd_write_permission">"A Música não tem acesso ao cartão SD. Autorize ou limpe o armazenamento do aplicativo e opere novamente"</string>
+    <string name="confirm">"OK"</string>
+    <string name="playback_notification">"Serviço de reprodução"</string>
+    <string name="no_sd_rootdir_permission">"O Reprodutor de música não tem acesso ao cartão SD, selecione o cartão SD SANDISK do diretório raiz externo e autorize e autorize operações de arquivo."</string>
+    <string name="create_failed">"Falha ao criar."</string>
+    <plurals name="NNNtrackstoplaylist" formatted="false">
+        <item quantity="one">"1 música adicionada à lista de reprodução \"<xliff:g id="playlist">%2$s</xliff:g>\"."</item>
+        <item quantity="other">"<xliff:g example="27" id="number">%1$d</xliff:g> músicas adicionada à lista de reprodução \"<xliff:g id="playlist">%2$s</xliff:g>\"."</item>
+    </plurals>
+</resources>

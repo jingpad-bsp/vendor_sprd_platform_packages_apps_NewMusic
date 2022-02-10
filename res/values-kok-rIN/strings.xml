@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="onesong">"1 गीत"</string>
+<plurals name="Nsongs">
+<item quantity="one">"<xliff:g id="count">%d</xliff:g> पद"</item>
+<item quantity="other">"<xliff:g id="count">%d</xliff:g> गितां"</item>
+</plurals>
+<plurals name="Nsongscomp">
+<item quantity="one">"<xliff:g id="total_count">%1$d</xliff:g> पदाचे <xliff:g id="count_for_artist">%2$d</xliff:g>"</item>
+<item quantity="other">"<xliff:g id="total_count">%1$d</xliff:g> हाचे <xliff:g id="count_for_artist">%2$d</xliff:g>  गितां"</item>
+</plurals>
+<plurals name="Nalbums">
+<item quantity="one">"1 आल्बम"</item>
+<item quantity="other">"<xliff:g id="count">%d</xliff:g> अल्बम"</item>
+</plurals>
+<string name="whoes_album">" आल्बम"</string>
+<string name="goto_start">"वाचनालय"</string>
+<string name="party_shuffle">"पार्टी मिश्रीत"</string>
+<string name="party_shuffle_off">"पार्टी मिश्रीत बंद"</string>
+<string name="delete_item">"वगळायात"</string>
+<string name="shuffle_all">"सगले मिश्रीत करात"</string>
+<string name="play_all">"सगले करात"</string>
+<string name="delete_artist_desc">"कडली सगली गितां कायमची वगळाय <xliff:g id="artist">%s</xliff:g> SD कार्डा वेल्यान?"</string>
+<string name="delete_artist_desc_nosdcard">कडली सगली गीतां कायमची वगळाय <xliff:g id="artist">%s</xliff:g> USB सांठ्या वेल्यान?"</string>
+<string name="delete_album_desc">"पुराय आल्बम कायमचो वगळाय \"<xliff:g id="album">%s</xliff:g>\" SD कार्डा वेल्यान?"</string>
+<string name="delete_album_desc_nosdcard">"पुराय आल्बम कायमचो वगळाय \"<xliff:g id="album">%s</xliff:g>\" USB सांठ्या वेल्यान?"</string>
+<string name="delete_song_desc">"कायमचे वगळाय \"<xliff:g id="song">%s</xliff:g>\" SD कार्डा वेल्यान?"</string>
+<string name="delete_song_desc_nosdcard">"कायमचे वगळाय \"<xliff:g id="song">%s</xliff:g>\" USB सांठ्या वेल्यान?"</string>
+<string name="delete_confirm_button_text">"बरे"</string>
+<plurals name="NNNtracksdeleted">
+<item quantity="one">"1 गीत वगळायले."</item>
+<item quantity="other">"<xliff:g id="songs_to_delete">%d</xliff:g> गितां वगळायली."</item>
+</plurals>
+<string name="scanning">"SD कार्ड स्कॅन करता..."</string>
+<string name="scanning_nosdcard">"USB सांठो स्कॅन करता..."</string>
+<string name="nowplaying_title">"आता प्ले करता"</string>
+<string name="partyshuffle_title">"पार्टी मिश्रीत"</string>
+<string name="artists_title">"कलाकार"</string>
+<string name="albums_menu">"आल्बम"</string>
+<string name="albums_title">"आल्बम"</string>
+<string name="tracks_menu">"गितां"</string>
+<string name="tracks_title">"गितां"</string>
+<string name="playlists_menu">"प्लेलीस्ट"</string>
+<string name="playlists_title">"प्लेलीस्ट"</string>
+<string name="videos_title">"व्हिडीयो"</string>
+<string name="all_title">"सगली मिडीया"</string>
+<string name="browse_menu">"कलाकार"</string>
+<string name="search_title">"सोदात"</string>
+<string name="no_tracks_title">"गितां ना"</string>
+<string name="no_album_title">"आल्बमां नात"</string>
+<string name="no_artist_title">"कलाकार नात"</string>
+<string name="no_folderlist_title">"फोल्डरां नात"</string>
+<string name="no_videos_title">"व्हिडीयो ना"</string>
+<string name="no_playlists_title">"प्लेलीस्ट ना"</string>
+<string name="delete_playlist_menu">"वगळायात"</string>
+<string name="edit_playlist_menu">"संपादन"</string>
+<string name="rename_playlist_menu">"परतून नांव दियात"</string>
+<string name="playlist_deleted_message">"प्लेलीस्ट वगळायले."</string>
+<string name="playlist_renamed_message">"प्लेलीस्टांक परते नांव दिले."</string>
+<string name="recentlyadded">"हालीच घाल्ले"</string>
+<string name="recentlyadded_title">"हालीच घाल्ले"</string>
+<string name="podcasts_listitem">"पोडकास्ट्स"</string>
+<string name="podcasts_title">"पोडकास्ट्स"</string>
+<string name="sdcard_missing_title">"SD कार्ड ना"</string>
+<string name="sdcard_missing_title_nosdcard">"USB सांठो ना"</string>
+<string name="sdcard_missing_message">"तुमच्या फोनात SD कार्ड घाल्ले ना."</string>
+<string name="sdcard_missing_message_nosdcard">"तुमच्या फोनात USB सांठो ना."</string>
+<string name="sdcard_busy_title">"SD कार्ड उपलब्ध ना"</string>
+<string name="sdcard_busy_title_nosdcard">"USB सांठो उपलब्ध ना"</string>
+<string name="sdcard_busy_message">"तुमचे SD कार्ड व्यस्त आसा."</string>
+<string name="sdcard_busy_message_nosdcard">"तुमचो USB सांठो व्यस्त आसा."</string>
+<string name="sdcard_error_title">"SD कार्ड चूक"</string>
+<string name="sdcard_error_title_nosdcard">"USB सांठो चूक"</string>
+<string name="sdcard_error_message">"तुमच्या SD कार्डार चूक सांपडल्या."</string>
+<string name="sdcard_error_message_nosdcard">"तुमच्या USB सांठ्यार चूक सांपडल्या."</string>
+<string name="unknown_artist_name">"अनवळखी कलाकार"</string>
+<string name="unknown_album_name">"अनवळखी आल्बम"</string>
+<string name="shuffle_on_notif">"मिश्रीत चालू आसा."</string>
+<string name="shuffle_off_notif">"मिश्रीत बंद आसा."</string>
+<string name="repeat_off_notif">"परत परत येवप बंद आसा."</string>
+<string name="repeat_current_notif">"सद्याचे गीत परतून लायता."</string>
+<string name="repeat_all_notif">"सगली गितां परतून लायता."</string>
+<string name="ringtone_menu">"फोनाचो रींगटोन म्हणून वापरात"</string>
+<string name="ringtone_menu_short">"रींगटोन म्हणून वापरात"</string>
+<string name="ringtone_set">"\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>\" फोनाचो रींगटोन म्हणून सेट करात."</string>
+<string name="play_selection">"प्ले"</string>
+<string name="add_to_playlist">"प्लेलीस्टात घालात"</string>
+<string name="show_artist">"कलाकाराची म्हायती दाखोवची"</string>
+<string name="delete_folder">"वगळायात"</string>
+<string name="queue">"सद्याचे प्लेलीस्ट"</string>
+<string name="new_playlist">"नवे"</string>
+<string name="new_playlist_name_template">"नवे प्लेलीस्ट <xliff:g id="number">%d</xliff:g>"</string>
+<plurals name="NNNtrackstoplaylist">
+<item quantity="one">"प्लेलीस्टात 1 गीत घाले."</item>
+<item quantity="other">"<xliff:g id="number" example="27">%d</xliff:g> प्लेलीस्टात गीतां घाली."</item>
+</plurals>
+<string name="emptyplaylist">"वेंचिल्ले प्लेलीस्ट रीते आसा."</string>
+<string name="create_playlist_create_text">"सेव करात"</string>
+<string name="create_playlist_overwrite_text">"वयल्यान बरय"</string>
+<string name="service_start_error_title">"प्लेबॅक समस्या"</string>
+<string name="service_start_error_msg">"गीत वाजोवंक जायना."</string>
+<string name="service_start_error_button">"बरे"</string>
+<string-array name="weeklist">
+<item>"1 सप्तक"</item>
+<item>"2 सप्तकां"</item>
+<item>"3 सप्तकां"</item>
+<item>"4 सप्तकां"</item>
+<item>"5 सप्तकां"</item>
+<item>"6 सप्तकां"</item>
+<item>"7 सप्तकां"</item>
+<item>"8 सप्तकां"</item>
+<item>"9 सप्तकां"</item>
+<item>"10 सप्तकां"</item>
+<item>"11 सप्तकां"</item>
+<item>"12 सप्तकां"</item>
+</string-array>
+<string name="weekpicker_set">"जाले"</string>
+<string name="weekpicker_title">"वेळ सेट करात"</string>
+<string name="save_as_playlist">"प्लेलीस्ट म्हणून सेव करात"</string>
+<string name="clear_playlist">"प्लेलीस्ट साफ करात"</string>
+<string name="musicbrowserlabel">"संगीत"</string>
+<string name="musicshortcutlabel">"संगीत प्लेलीस्ट"</string>
+<string name="mediaplaybacklabel">"संगीत"</string>
+<string name="videobrowserlabel">"व्हिडीयो"</string>
+<string name="mediapickerlabel">"संगीत"</string>
+<string name="playback_failed">"माफ करात, फायल प्ले करुंक अपेशी."</string>
+<string name="cancel">"रद्द"</string>
+<string name="done">"जाले"</string>
+<string name="remove_from_playlist">"प्लेलीस्टांतल्यान काडून वडयात"</string>
+<string name="streamloadingtext">"जोडतात <xliff:g id="host">%s</xliff:g>..."</string>
+<string name="mediasearch">"खातीर सोदात <xliff:g id="term" example="Beethoven">%s</xliff:g> वापरता:"</string>
+<string name="working_artists">"कलाकार..."</string>
+<string name="working_albums">"आल्बम..."</string>
+<string name="working_songs">"गितां..."</string>
+<string name="working_playlists">"प्लेलीस्ट..."</string>
+<string name="loading">"लोडींग..."</string>
+<string name="sort_by_track">"ट्रॅक्स"</string>
+<string name="sort_by_album">"आल्बम"</string>
+<string name="sort_by_artist">"कलाकार"</string>
+<string name="music_picker_title">"संगीत ट्रेग वेंचात"</string>
+<string name="search_settings_description">"कलाकार, आल्बम आनी ट्रेक"</string>
+<string name="search_hint">"संगीत सोदात"</string>
+<string name="search_result">"निकालाचो प्रकार"</string>
+<string name="fast_scroll_alphabet">"\u0020ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
+<string name="widget_initial_text">"संगीत सोदपाक स्पर्श करात."</string>
+<string name="effectspanel">"आवाजाचो परीणाम"</string>
+<string name="no_play">"सद्या प्ले करुंक अक्षम!"</string>
+<string name="add_favourite_song">"म्हज्या आवडट्या पदांच्या वळेरींत जोडलां"</string>
+<string name="remove_favourite_song">"म्हज्या आवडट्या पदांच्या वळेरींतल्यान काडलां"</string>
+<string name="activity_title_delete">"गितां काडात"</string>
+<string name="activity_title">"संगीत घालात"</string>
+<string name="add_music">"संगीत घालात"</string>
+<string name="music_selected_all">"सगळे वेंचात"</string>
+<string name="confirm_add">"अदीक"</string>
+<string name="cancel_add">"रद्द"</string>
+<string name="delete_all_music">"काडात"</string>
+<string name="confirm_delete">"काडात"</string>
+<string name="music_selected_all_delete">"रिकामी की निवडात"</string>
+<string name="music_cancle_selected_all">"सगले रद्द करात"</string>
+<string name="being_add">"घालतात, उपकार करुन वाट पळयात ..."</string>
+<string name="remove_track">"काडतात, उपकार करुन वाट पळयात ..."</string>
+<string name="invalid">"ही डिरेक्टरी उक्ती जायना"</string>
+<string name="from_library">"लायब्ररीतल्यान संगीत घालात"</string>
+<string name="from_folder">"फोल्डरातल्यान संगीत घालात"</string>
+<string name="lyrics_edit_title">"बोल घालात"</string>
+<string name="nolrc">"बोल वा फायल वैध ना"</string>
+<string name="del_track">"गजाली वगळायता, उपकार करुन वाट पळयात..."</string>
+<string name="ringtone_title_sim1">"SIM1 फोनाचो रींगटोन"</string>
+<string name="ringtone_title_sim2">"SIM2 फोनाचो रींगटोन"</string>
+<string name="ringtone_set_sim1">"\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>\" SIM1 फोन रींगटोन म्हणून सेट करात."</string>
+<string name="ringtone_set_sim2">"\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>\" SIM2 फोन रींगटोन म्हणून सेट करात."</string>
+<string name="ring_set_fail">"माफ करात, हे गीत प्ले करुंक जाले ना. उपकार करुन दुसरे गीत रींगटोन म्हणून वेंचात"</string>
+<string name="ring_set_silent_vibrate">"सद्याच्या मोडात कस्टम रींगटोनाक तेंको ना"</string>
+<string name="please_insert_sim_card">"उणेच SIM कार्ड घालात"</string>
+<string name="create_playlist_warning">"हालीच घाल्ल्या वांगडा समान नांव वापरुंक जायना."</string>
+<string name="overwrite_playlist_alert">"भितरलो प्लेलीस्ट डेटा “<xliff:g id="NAME">%s</xliff:g>” साफ करतले."</string>
+<string name="playlist_created_message">"प्लेलीस्ट तयार केलो."</string>
+<string name="overwrite_playlist_alert_rename">"भितरलो प्लेलीस्ट डेटा “<xliff:g id="NAME">%s</xliff:g>” आसपावीत करतले."</string>
+<string name="delete_artist">"कडल्यान सगली गीता कायमची वगळाय \"<xliff:g id="artist">%s</xliff:g>\" यंत्रावेल्यान?"</string>
+<string name="delete_album">"कडल्यान सगलो आल्बम कायमचो वगळाय \"<xliff:g id="album">%s</xliff:g>\" यंत्रावेल्यान?"</string>
+<string name="delete_song">"कायमचो वगळाय \"<xliff:g id="song">%s</xliff:g>\" यंत्रावेल्यान?"</string>
+<string name="delete_playlist">"वाजोवपाच्या वळेरींतल्यान "<xliff:g id="song">%s</xliff:g>" काडूं?"</string>
+<string name="delete_songs">"यंत्रांतल्यान कायम स्वरूपी वगळावं?"</string>
+<string name="display_music">"संगीत"</string>
+<string name="quit">"भायर सरात"</string>
+<string name="setting">"सेटिंग्स"</string>
+<string name="folder_menu">"फायल फॉल्डर"</string>
+<string name="delete_playlist_message">"प्लेलीस्ट वगळावपाची तुमकां खात्री आसा "%1$s"？"</string>
+<string name="delete_all_playlist">"सगले प्लेलीस्ट साफ करात"</string>
+<plurals name="NNNallSongsExist">
+<item quantity="one">"प्लेलीस्टात गीत आदीच आशिल्ले."</item>
+<item quantity="other">"प्लेलीस्टात गितां आदीच आशिल्ली."</item>
+</plurals>
+<plurals name="NNNaddsongtoplaylist">
+<item quantity="one">"1 गीत घाले,"</item>
+<item quantity="other">"<xliff:g id="number" example="27">%d</xliff:g> गितां घाली,"</item>
+</plurals>
+<plurals name="NNNsongAlreadyExist">
+<item quantity="one">"1 गीत प्लेलीस्टात आदीच आशिल्ले."</item>
+<item quantity="other">"<xliff:g id="number" example="27">%d</xliff:g> गितां प्लेलीस्टात आदीच आशिल्ली."</item>
+</plurals>
+<string name="length_limited">"नांव कमाल लांबे मेरेन आसा"</string>
+<string name="favorite_added">"म्हजे आवडटे पद"</string>
+<string name="add_playlist_title">"वाजोवपाच्या वळेरींत जोड"</string>
+<string name="empty_play_list">"वाजोवपाची वळेरी रिकामी कर"</string>
+<string name="sort_by_time">"वेळे प्रमाण वेगळे करात"</string>
+<string name="sort_by_name">"नांवा प्रमाण वेगळे करात"</string>
+<string name="share">"शॅयर"</string>
+<string name="share_error">"शॅर करूंक मेळूंक अशें ॲप्लिकेशन!"</string>
+<string name="no_search_result">"गितां सापडूंक ना"</string>
+<string name="search_title_hint">"कलाकार, गितां वा आल्बम"</string>
+<string name="error_permissions">"ॲपाक सुरू करूंक आवश्यक आशिल्ली निर्णायक मान्यताय ना. उपकार करून तुमची मान्यताय सेटिंग्स तपासात."</string>
+<string name="dialog_dismiss">"रद्द"</string>
+<string name="toast_fileexplorer_internal_error">"संगितांत मान्यताय न्हयकारली!"</string>
+<string name="fifty_min">"15 मिणटां"</string>
+<string name="theirty_min">"30 मिणटां"</string>
+<string name="sixty_min">"60 मिणटां"</string>
+<string name="ninety_min">"90 मिणटां"</string>
+<string name="self_define">"कस्टम"</string>
+<string name="timer_option">"यशस्वीपणान सेट. उरफाटें मेजणी उपरांत संगीत बंद जातले."</string>
+<string name="self_min">"मिनिट"</string>
+<string name="timer_setting">"स्टॉप टायमर सेट कर"</string>
+<string name="change_face">"चेहरो बदल"</string>
+<string name="timed_setting">"स्टॉप टायम वेंच"</string>
+<string name="time_warning">"रूढी टायमर 1440 मिणटांची (24 वरां) वयली मर्यादा हुंपता!"</string>
+<string name="time_min_warning">"रूढी टायमर एका मिणटां परस उणो आसूंक जाय!"</string>
+<string name="no_allow_play_calling">"कॉलावेळार संगीत वाजोवंक मान्यताय ना (रेडियो/व्हिडियो)."</string>
+<string name="songs_nums_for_suffix">"पदां"</string>
+<string name="random_play_all">"जाय त्या क्रमान सगळे वाजय"</string>
+<string name="unable_to_connect_title">"फायलीक जोडूंक शकना"</string>
+<string name="unable_to_connect_message">"सद्याची फायल मेळोवंक शकूंक ना. उपकार करून जोडणी तपासची"</string>
+<string name="protect_information">"म्हायतीचे रक्षण करात"</string>
+<string name="drm_consume_title">"Drm हक्क वापर"</string>
+<string name="drm_consume_hint">"तुमचे कारवाय Drm हक्क वापरतले"</string>
+<string name="drm_file_name">"फायलीचे नांव:%1$s"</string>
+<string name="drm_rights_validity">"हक्काची वैधता：वैध"</string>
+<string name="drm_rights_invalidity">"हक्काची वैधता：अवैध"</string>
+<string name="drm_rights_status_transfer">"हक्काची स्थीत：हस्तांतरीत करुंक अनुमती"</string>
+<string name="drm_rights_status_untransfer">"हक्काची स्थीत：हस्तांतरीत करुंक अनुमती ना"</string>
+<string name="drm_start_time">"सुरु जावपाचो वेळ：%1$s"</string>
+<string name="drm_end_time">"सोपपाचो वेळ：%1$s"</string>
+<string name="drm_expiration_time">"वेळेची मर्यादा सोंपपाचो काळ：%1$s"</string>
+<string name="drm_remain_times">"बाकी वेळ：%1$s"</string>
+<string name="drm_no_info">"म्हायती ना"</string>
+<string name="drm_unlimited_rights">"अमर्यादीत"</string>
+<string name="drm_rights_unknown">"अनवळखी"</string>
+<string name="drm_inactive_rights">"हक्क निश्क्रीय"</string>
+<string name="statusbarlabel">"संगीत · "</string>
+<string name="dock_forced_resizable">"विभाजीत-स्क्रीनींत ॲप घडये काम करचो ना."</string>
+<string name="error_choose_drm_for_gallery">"Drm फायली वेंचूंक शकनात"</string>
+<string name="delete_from_device">"यंत्रांतल्यान काड"</string>
+<string name="delete_from_playlist">"वाजोवपाच्या वळेरींतल्यान वगळावं?"</string>
+</resources>

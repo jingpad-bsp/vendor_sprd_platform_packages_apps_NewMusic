@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="onesong">"1 lagu"</string>
+    <plurals name="Nsongs">
+        <item quantity="one">"<xliff:g id="count">%d</xliff:g> lagu"</item>
+        <item quantity="other">"Jumlah <xliff:g id="count">%d</xliff:g> lagu"</item>
+    </plurals>
+    <plurals name="Nalbums">
+        <item quantity="one">"1 album"</item>
+        <item quantity="other">"<xliff:g id="count">%d</xliff:g> album"</item>
+    </plurals>
+    <string name="whoes_album">"album"</string>
+    <string name="party_shuffle">"Rombak parti"</string>
+    <string name="party_shuffle_off">"Rombak parti mati"</string>
+    <string name="delete_item">"Padam"</string>
+    <string name="shuffle_all">"Rombak semua"</string>
+    <string name="delete_confirm_button_text">OK</string>
+    <plurals name="NNNtracksdeleted">
+        <item quantity="one">"1 lagu telah dipadamkan."</item>
+        <item quantity="other">"<xliff:g id="songs_to_delete">%d</xliff:g> lagu telah dipadamkan."</item>
+    </plurals>
+    <plurals name="NNNtracksremoved">
+        <item quantity="one">"<xliff:g id="songs_to_delete">%d</xliff:g> lagu telah dialih keluar daripada senarai main \"<xliff:g id="playlist">%s</xliff:g>\"."</item>
+        <item quantity="other">"<xliff:g id="songs_to_delete">%d</xliff:g> lagu telah dialih keluar daripada senarai main \"<xliff:g id="playlist">%s</xliff:g>\"."</item>
+    </plurals>
+    <string name="scanning">"Mengimbas kad SD\u2026"</string>
+    <string name="scanning_nosdcard">"Mengimbas storan USB\u2026"</string>
+    <string name="nowplaying_title">"Dimainkan sekarang"</string>
+    <string name="artists_title">"Artis"</string>
+    <string name="albums_menu">"Album"</string>
+    <string name="albums_title">"Albums"</string>
+    <string name="tracks_menu">"Lagu"</string>
+    <string name="tracks_title">"Songs"</string>
+    <string name="playlists_menu">"Senarai main"</string>
+    <string name="playlists_title">"Playlists"</string>
+    <string name="all_title">"Semua media"</string>
+    <string name="browse_menu">"Artists"</string>
+    <string name="search_title">"Cari"</string>
+    <string name="no_tracks_title">"Tiada lagu"</string>
+    <string name="no_album_title">"Tiada album"</string>
+    <string name="no_artist_title">"Tiada artis"</string>
+    <string name="no_folderlist_title">"Tiada folder"</string>
+    <string name="delete_playlist_menu">"Padam"</string>
+    <string name="rename_playlist_menu">Namakan semula</string>
+    <string name="playlist_deleted_message">"Senarai main dipadamkan."</string>
+    <string name="playlist_renamed_message">"Senarai main dinamakan semula."</string>
+    <string name="recentlyadded">"Terbaru ditambahkan"</string>
+    <string name="podcasts_listitem">"Podcast"</string>
+    <string name="sdcard_missing_title">Tiada kad SD</string>
+    <string name="sdcard_missing_title_nosdcard">"Tiada storan USB"</string>
+    <string name="sdcard_missing_message">"Telefon anda tidak dimasukkan kad SD."</string>
+    <string name="sdcard_missing_message_nosdcard">"Telefon anda tidak mempunyai storan USB."</string>
+    <string name="sdcard_busy_title">"Kad SD tidak tersedia"</string>
+    <string name="sdcard_busy_title_nosdcard">"Storan USB tidak tersedia"</string>
+    <string name="sdcard_busy_message">"Kad SD anda sibuk."</string>
+    <string name="sdcard_busy_message_nosdcard">"Storan USB anda sibuk."</string>
+    <string name="sdcard_error_title">"Ralat kad SD"</string>
+    <string name="sdcard_error_title_nosdcard">"Ralat storan USB"</string>
+    <string name="sdcard_error_message">"Ralat ditemui pada kad SD anda."</string>
+    <string name="sdcard_error_message_nosdcard">"Ralat ditemui pada storan USB anda."</string>
+    <string name="unknown_artist_name">"Artis yang tidak diketahui"</string>
+    <string name="unknown_album_name">"Album tidak diketahui"</string>
+    <string name="shuffle_on_notif">"Rombak dihidupkan."</string>
+    <string name="repeat_current_notif">"Mengulangi lagu semasa."</string>
+    <string name="sequence_notif">"Main ikut urutan dihidupkan."</string>
+    <string name="repeat_all_notif">"Mengulangi semua lagu."</string>
+    <string name="ringtone_menu">"Gunakan sebagai nada dering Panggilan"</string>
+    <string name="ringtone_set">"\"<xliff:g example="Alarm Bell" id="name">%s</xliff:g>\" tetapkan sebagai nada dering Panggilan."</string>
+    <string name="play_selection">"Main"</string>
+    <string name="add_to_playlist">"Tambahkan pada senarai main"</string>
+    <string name="show_artist">"Tunjukkan maklumat artis"</string>
+    <string name="queue">"Senarai main semasa"</string>
+    <string name="new_playlist">"Baru"</string>
+    <string name="emptyplaylist">"Senarai main yang dipilih kosong."</string>
+    <string name="create_playlist_create_text">"Simpan"</string>
+    <string name="service_start_error_title">"Masalah main balik"</string>
+    <string name="service_start_error_msg">"Lagu itu tidak boleh dimainkan."</string>
+    <string name="service_start_error_button">OK</string>
+    <string name="musicbrowserlabel">"Muzik"</string>
+    <string name="mediaplaybacklabel">"Music"</string>
+    <string name="mediapickerlabel">"Music"</string>
+    <string name="playback_failed">"Maaf, gagal memainkan fail."</string>
+    <string name="cancel">Batal</string>
+    <string name="done">"Selesai"</string>
+    <string name="remove_from_playlist">"Alih keluar daripada senarai main"</string>
+    <string name="streamloadingtext">"Menyambung ke <xliff:g id="host">%s</xliff:g>\u2026"</string>
+    <string name="loading">memuat\u2026</string>
+    <string name="sort_by_track">"Runut"</string>
+    <string name="sort_by_album">"Albums"</string>
+    <string name="sort_by_artist">"Artists"</string>
+    <string name="music_picker_title">"Pilih runut muzik"</string>
+    <string name="search_result">Hasil carian</string>
+    <string name="widget_initial_text">"Sentuh untuk memilih muzik."</string>
+    <string name="effectspanel">"Kesan Bunyi"</string>
+    <string name="no_play">"Tidak dapat dimainkan pada masa ini!"</string>
+    <string name="music_selected_all">"Pilih Semua"</string>
+    <string name="music_cancle_selected_all">Batal semua</string>
+    <string name="nolrc">Tiada lirik atau fail yang tidak sah</string>
+    <string name="ringtone_title_sim1">"Nada dering panggilan SIM1"</string>
+    <string name="ringtone_title_sim2">"Nada dering panggilan SIM2"</string>
+    <string name="ringtone_set_sim1">"\"<xliff:g example="Alarm Bell" id="name">%s</xliff:g>\" ditetapkan sebagai nada dering panggilan SIM1."</string>
+    <string name="ringtone_set_sim2">"\"<xliff:g example="Alarm Bell" id="name">%s</xliff:g>\" ditetapkan sebagai nada dering panggilan SIM2."</string>
+    <string name="ring_set_fail">Maaf, lagu tidak boleh dimainkan. Sila pilih lagu lain sebagai nada dering</string>
+    <string name="ring_set_silent_vibrate">"Nada dering khusus tidak disokong dalam mod semasa"</string>
+    <string name="please_insert_sim_card">"Sila masukkan sekurang-kurangnya kad SIM"</string>
+    <string name="create_playlist_warning">"Tidak boleh menggunakan nama yang sama dengan senarai main sistem."</string>
+    <string name="playlist_created_message">"Senarai Main diwujudkan."</string>
+    <string name="delete_album">"Padam keseluruhan album \"<xliff:g id="album">%s</xliff:g>\" dari peranti?"</string>
+    <string name="delete_artist_album">"Padam secara kekal semua lagu dalam album \"<xliff:g id="album">%s</xliff:g>\" oleh \"<xliff:g id="artist">%s</xliff:g>\" daripada peranti?"</string>
+    <string name="delete_song">"Padam \"<xliff:g id="song">%s</xliff:g>\" dari peranti?"</string>
+    <plurals name="NNNallDeleteSelectedSong">
+        <item quantity="one">"Padam secara kekal lagu yang dipilih daripada peranti?"</item>
+        <item quantity="other">"Padam secara kekal lagu yang dipilih daripada peranti?"</item>
+    </plurals>
+    <string name="delete_folder_prompt">"Padam secara kekal lagu yang ditambah dalam folder \"<xliff:g id="folder">%s</xliff:g>\" daripada peranti?"</string>
+    <string name="delete_playlist">"Padam \"<xliff:g id="song">%s</xliff:g>\" daripada senarai main?"</string>
+    <string name="display_music">"Music"</string>
+    <string name="quit">berhenti</string>
+    <string name="setting">Tetapan</string>
+    <string name="folder_menu">"Folder"</string>
+    <string name="delete_playlist_message">"Adakah anda pasti mahu memadamkan senarai main \"%1$s\"?"</string>
+    <string name="delete_all_playlist">"mengosongkan kesemua senarai pemain"</string>
+    <plurals name="NNNallSongsExist">
+        <item quantity="one">"Lagu sudah wujud dalam senarai main."</item>
+        <item quantity="other">"Lagu telah wujud dalam senarai main."</item>
+    </plurals>
+    <plurals name="NNNaddsongtoplaylist">
+        <item quantity="one">"1 lagu ditambah,"</item>
+        <item quantity="other">"<xliff:g example="27" id="number">%d</xliff:g> lagu ditambahkan,"</item>
+    </plurals>
+    <string name="NNNsongAlreadyExist2"><xliff:g example="27" id="number">%d</xliff:g> lagu sudah wujud dalam senarai main \"<xliff:g id="playlist">%s</xliff:g>\". </string>
+    <string name="favorite_added">"Lagu kegemaran saya"</string>
+    <string name="add_playlist_title">"Tambah senarai main"</string>
+    <string name="empty_play_list">"Senarai main kosong"</string>
+    <string name="sort_by_time">disusun mengikut masa</string>
+    <string name="sort_by_name">"Isih mengikut nama"</string>
+    <string name="share">kongsi</string>
+    <string name="share_error">"Aplikasi tidak dikongsi!"</string>
+    <string name="no_search_result">"Tiada lagu yang ditemui"</string>
+    <string name="search_title_hint">"Artis, Lagu atau Album"</string>
+    <string name="dialog_dismiss">"Ketepikan"</string>
+    <string name="toast_fileexplorer_internal_error">"Kebenaran ditolak dalam Muzik!"</string>
+    <string name="fifty_min">"15 minit"</string>
+    <string name="theirty_min">"30 minit"</string>
+    <string name="sixty_min">"60 minit"</string>
+    <string name="ninety_min">"90 minit"</string>
+    <string name="self_define">"Masa henti tersuai"</string>
+    <string name="timer_option">"Berjaya menetapkan, muzik akan ditutup selepas kiraan detik."</string>
+    <plurals name="NNNselftimeSuffix">
+        <item quantity="one">minit</item>
+        <item quantity="other">"minit"</item>
+    </plurals>
+    <string name="self_min">"minutes"</string>
+    <string name="timer_setting">"Tetapkan Pemasa Henti"</string>
+    <string name="change_face">"Ubah Tema"</string>
+    <string name="timed_setting">"Pilih Masa Henti"</string>
+    <string name="time_warning">"Pemasa tersuai melebihi had atas 1440 minit (24 jam)!"</string>
+    <string name="time_min_warning">"Pemasa tersuai tidak boleh kurang daripada satu minit!"</string>
+    <string name="time_not_null">"Pemasa tersuai tidak boleh nol!"</string>
+    <string name="no_allow_play_calling">"Tidak dibenarkan untuk memainkan muzik semasa panggilan (radio/video)."</string>
+    <string name="random_play_all">"Main Rawak Semua"</string>
+    <string name="unable_to_connect_title">"Tidak dapat menyambung ke fail"</string>
+    <string name="unable_to_connect_message">"Tidak boleh mendapatkan fail semasa. Sila semak sambungan"</string>
+    <string name="protect_information">"Maklumat Perlindungan"</string>
+    <string name="drm_consume_title">"Gunakan Hak Drm"</string>
+    <string name="drm_consume_hint">"Operasi anda akan menggunakan Hak Drm"</string>
+    <string name="drm_file_name">"Nama Fail: %1$s"</string>
+    <string name="drm_rights_validity">"Kesahan Hak: sah"</string>
+    <string name="drm_rights_invalidity">"Kesahan Hak: tidak sah"</string>
+    <string name="drm_rights_status_transfer">"Status Hak:dibenarkan untuk dipindahkan"</string>
+    <string name="drm_rights_status_untransfer">"Status Hak:tidak dibenarkan untuk dipindahkan"</string>
+    <string name="drm_start_time">"Masa Mula:%1$s"</string>
+    <string name="drm_end_time">"Masa Tamat:%1$s"</string>
+    <string name="drm_expiration_time">"Penamatan Masa：%1$s"</string>
+    <string name="drm_remain_times">"Masa Tinggal:%1$s"</string>
+    <string name="drm_unlimited_rights">"Tanpa Had"</string>
+    <string name="drm_rights_unknown">Tidak diketahui</string>
+    <string name="drm_inactive_rights">"Hak tidak aktif"</string>
+    <string name="statusbarlabel">"Muzik · "</string>
+    <string name="dock_forced_resizable">"Pemain muzik tidak boleh main dengan betul dalam mod skrin pisah."</string>
+    <string name="error_choose_drm_for_gallery">"Fail DRM tidak diguna pakai untuk operasi ini"</string>
+    <string name="delete_from_device">"Alih keluar daripada peranti"</string>
+    <string name="delete_from_playlist">"Padam lagu yang dipilih daripada senarai main?"</string>
+    <string name="empty">"Lagu yang dipilih kosong, sila semak."</string>
+    <string name="empty_playlist_message">"Adakah anda pasti mahu mengosongkan senarai main \"%1$s\"?"</string>
+    <string name="same_playlist">"Nama senarai main input sudah wujud!"</string>
+    <string name="overwrite_playlist_alert_rename">"Data Senarai Main dalam “<xliff:g id="NAME">%s</xliff:g>” Akan dilindungi."</string>
+    <string name="usbdisk">"Cakera USB(<xliff:g id="USBNAME">%s</xliff:g>)"</string>
+    <string name="length_limited">Nama melebihi panjang maksimum</string>
+    <string name="file_notfound">"Maaf, tidak boleh menemui fail, sila semak."</string>
+    <string name="operation_failed">"Tambah lagu pada senarai main "Lagu kegemaran saya" gagal."</string>
+    <string name="playlist_emptied">"Senarai main telah dikosongkan."</string>
+    <string name="max_number">" Lebih daripada 100 fail dipilih dan fungsi kongsi tidak tersedia"</string>
+    <string name="invalid_playlist_name">"Nama senarai main tidak boleh berakhir dengan \"/\"."</string>
+    <string name="special_playlist_name">"Nama senarai main tidak boleh mengandungi aksara tidak sah \\:*?\"\u003C\u003E|/"</string>
+    <string name="skip_to_next">"Maaf, gagal memainkan fail, langkau ke fail seterusnya secara automatik."</string>
+    <string name="no_sd_write_permission">"Muzik tidak mempunyai akses ke kad SD anda, sila berikan kebenaran atau kosongkan storan aplikasi dan jalankan semula"</string>
+    <string name="confirm">OK</string>
+    <string name="playback_notification">"Perkhidmatan main balik"</string>
+    <string name="no_sd_rootdir_permission">"Pemain Muzik tidak mempunyai akses ke kad SD anda, sila pilih direktori akar luar kad SD SANDISK dan berikan kuasa operasi fail."</string>
+    <string name="ringtone_menu_short">"Gunakan sebagai nada dering"</string>
+    <string name="error_permissions">"Aplikasi ini tidak mempunyai kebenaran kritikal yang diperlukan untuk menjalankannya. Sila semak tetapan kebenaran anda."</string>
+    <string name="create_failed">"Gagal mencipta."</string>
+    <plurals name="NNNtrackstoplaylist" formatted="false">
+        <item quantity="one">"1 lagu ditambahkan ke senarai main \"<xliff:g id="playlist">%2$s</xliff:g>\"."</item>
+        <item quantity="other">"<xliff:g example="27" id="number">%1$d</xliff:g> lagu ditambahkan ke senarai main \"<xliff:g id="playlist">%2$s</xliff:g>\"."</item>
+    </plurals>
+</resources>

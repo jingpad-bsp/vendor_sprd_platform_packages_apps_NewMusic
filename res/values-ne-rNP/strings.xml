@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="onesong">"१ गीत"</string>
+<plurals name="Nsongs">
+<item quantity="one"><xliff:g id="COUNT_0">%d</xliff:g>" गीत"</item>
+<item quantity="other">"<xliff:g id="COUNT_1">%d</xliff:g> गीतहरू"</item>
+</plurals>
+    <plurals name="Nalbums">
+<item quantity="one">"१ एल्बम"</item>
+<item quantity="other">"<xliff:g id="count">%d</xliff:g> एल्बमहरू"</item>
+</plurals>
+    <string name="party_shuffle">"पार्टी शफल"</string>
+<string name="party_shuffle_off">"पार्टी शफल अफ"</string>
+<string name="delete_item">"मेटाउनुहोस्"</string>
+<string name="shuffle_all">"सबैलाई शफल गर्नुहोस्"</string>
+    <string name="delete_confirm_button_text">"ठिक छ"</string>
+<plurals name="NNNtracksdeleted">
+<item quantity="one">"१ गीतलाई हटाइयो।"</item>
+<item quantity="other">"<xliff:g id="songs_to_delete">%d</xliff:g> गीतहरूलाई हटाइयो।"</item>
+</plurals>
+<string name="scanning">"SD कार्ड स्क्यान गर्दै\u2026"</string>
+<string name="scanning_nosdcard">"USB भण्डारण स्क्यान गर्दै\u2026"</string>
+<string name="nowplaying_title">"अहिले बजिरहेको"</string>
+    <string name="artists_title">"कलाकारहरू"</string>
+<string name="albums_menu">"एल्बमहरू"</string>
+<string name="albums_title">"एल्बमहरू"</string>
+<string name="tracks_menu">"गीतहरू"</string>
+<string name="tracks_title">"गीतहरू"</string>
+<string name="playlists_menu">"प्लेलिस्टहरू"</string>
+<string name="playlists_title">"प्लेलिस्टहरू"</string>
+    <string name="all_title">"सबै मिडिया"</string>
+<string name="browse_menu">"कलाकारहरू"</string>
+<string name="search_title">"खोजी गर्नुहोस्"</string>
+<string name="no_tracks_title">"कुनै गीत छैन"</string>
+    <string name="delete_playlist_menu">"मेटाउनुहोस्"</string>
+    <string name="rename_playlist_menu">"पुनःनामाकरण गर्नुहोस्"</string>
+<string name="playlist_deleted_message">"प्लेलिस्टलाई मेटाइयो।"</string>
+<string name="playlist_renamed_message">"प्लेलिस्टलाई पुन:नामाकरण गरियो।"</string>
+<string name="recentlyadded">"हालसालै थपिएको"</string>
+    <string name="podcasts_listitem">"पोडकास्टहरू"</string>
+    <string name="sdcard_missing_title">"SD कार्ड छैन"</string>
+<string name="sdcard_missing_title_nosdcard">"कुनैUSB भण्डारण छैन"</string>
+<string name="sdcard_missing_message">"तपाईंको फोनमा SD कार्ड हालिएको छैन।"</string>
+<string name="sdcard_missing_message_nosdcard">"तपाईंको फोनमा USB भण्डारण छैन।"</string>
+<string name="sdcard_busy_title">"SD कार्ड उपलब्ध छैन"</string>
+<string name="sdcard_busy_title_nosdcard">"USB भण्डारण उपलब्ध छैन"</string>
+<string name="sdcard_busy_message">"तपाईंको SD कार्ड व्यस्त छ।"</string>
+<string name="sdcard_busy_message_nosdcard">"तपाईंको USB भण्डारण व्यस्त छ।"</string>
+<string name="sdcard_error_title">"SD कार्डमा त्रुटि भयो"</string>
+<string name="sdcard_error_title_nosdcard">"USB भण्डारणमा त्रुटि भयो"</string>
+<string name="sdcard_error_message">"तपाईंको SD कार्डमा एउटा त्रुटि भयो।"</string>
+<string name="sdcard_error_message_nosdcard">"तपाईंको USB भण्डारणमा एउटा त्रुटि भयो।"</string>
+<string name="unknown_artist_name">"अज्ञात कलाकार"</string>
+<string name="unknown_album_name">"अज्ञात एल्बम"</string>
+<string name="shuffle_on_notif">"शफल अन छ।"</string>
+    <string name="repeat_current_notif">"हालको गीतलाई दोहोर्याउनुहोस्।"</string>
+<string name="repeat_all_notif">"सबै गीतहरूलाई दोहोर्याउनुहोस्।"</string>
+<string name="ringtone_menu">"फोनको रिङटोनको रूपमा प्रयोग गर्नुहोस्"</string>
+<string name="ringtone_menu_short">"रिङटोनको रूपमा प्रयोग गर्नुहोस्"</string>
+<string name="ringtone_set">"\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>\" लाई फोनको रिङटोनको रूपमा प्रयोग गर्ने।"</string>
+<string name="play_selection">"बजाउनुहोस्"</string>
+<string name="add_to_playlist">"प्लेलिस्टमा थप्नुहोस्"</string>
+<string name="queue">"हालको प्लेलिस्ट"</string>
+<string name="new_playlist">"नयाँ"</string>
+    <plurals name="NNNtrackstoplaylist">
+<item quantity="one">"प्लेलिस्टमा १ गीत थपियो।"</item>
+<item quantity="other">"प्लेलिस्टमा <xliff:g id="number" example="27">%d</xliff:g> गीतहरू थपिए।"</item>
+</plurals>
+<string name="emptyplaylist">"चयन गरिएको प्लेलिस्ट खाली छ।"</string>
+<string name="create_playlist_create_text">"सुरक्षित गर्नुहोस्"</string>
+    <string name="service_start_error_title">"प्लेब्याकमा समस्या"</string>
+<string name="service_start_error_msg">"यस गीतलाई बजाउन सकिएन।"</string>
+<string name="service_start_error_button">"ठिक छ"</string>
+    <string name="musicbrowserlabel">"सङ्गीत"</string>
+    <string name="mediaplaybacklabel">"सङ्गीत"</string>
+    <string name="mediapickerlabel">"सङ्गीत"</string>
+<string name="playback_failed">"दुर्भाग्यवश, संगीत प्लेयर रोकिएको छ।"</string>
+<string name="cancel">"रद्द गर्नुहोस्"</string>
+<string name="remove_from_playlist">"प्लेलिस्टबाट हटाउनुहोस्"</string>
+<string name="streamloadingtext">"<xliff:g id="host">%s</xliff:g>\u2026 मा जडान गर्दै"</string>
+    <string name="loading">"लोड हुँदै..."</string>
+<string name="sort_by_track">"ट्र्याकहरू"</string>
+<string name="sort_by_album">"एल्बमहरू"</string>
+<string name="sort_by_artist">"कलाकारहरू"</string>
+<string name="music_picker_title">"संगीत ट्र्याकको छनोट गर्नुहोस्"</string>
+    <string name="widget_initial_text">"संगीत छनोट गर्न छुनुहोस्।"</string>
+<string name="effectspanel">"ध्वनि प्रभावहरू"</string>
+<string name="no_play">"हाल बजाउन सकिँदैन!"</string>
+    <string name="music_selected_all">"सबैलाई चयन गर्नुहोस्"</string>
+    <string name="music_cancle_selected_all">"सबै रद्द गर्नुहोस्"</string>
+    <string name="nolrc">"लिरिक्स छैन वा फाइल अमान्य छ"</string>
+    <string name="ringtone_title_sim1">"SIM १ को फोन रिङटोन"</string>
+<string name="ringtone_title_sim2">"SIM २ को फोन रिङटोन"</string>
+<string name="ringtone_set_sim1">"\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>\" लाई SIM १ को फोन रिङटोन सेट गरियो।"</string>
+<string name="ringtone_set_sim2">"\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>\" लाई SIM २ को फोन रिङटोन सेट गरियो।"</string>
+<string name="ring_set_fail">"माफ गर्नुहोला, यो गीत बजाउन सकिएन। कृपया अर्को गीतलाई रिङटोनको रूपमा चयन गर्नुहोस्"</string>
+<string name="ring_set_silent_vibrate">"हालको मोडमा अनुकूलन रिङटोन समर्थित छैन"</string>
+<string name="please_insert_sim_card">"कृपया कम्तीमा एक SIM कार्ड हाल्नुहोस्"</string>
+<string name="create_playlist_warning">"हालसालै थपिएको उही नामको प्रयोग गर्न सकिँदैन।"</string>
+    <string name="playlist_created_message">"प्लेलिस्टको सिर्जना गरियो।"</string>
+    <string name="delete_album">"यन्त्रबाट सम्पूर्ण एल्बम \"<xliff:g id="album">%s</xliff:g>\" लाई सदाका लागि मेट्ने हो?"</string>
+<string name="delete_song">"यन्त्रबाट \"<xliff:g id="song">%s</xliff:g>\" लाई सदाका लागि मेट्ने हो?"</string>
+<string name="display_music">"सङ्गीत"</string>
+<string name="quit">"अन्त्य गर्नुहोस्"</string>
+<string name="delete_playlist_message">"तपाई पक्का प्लेलिस्ट "%1$s" लाई मेट्न चाहनुहुन्छ？"</string>
+<string name="delete_all_playlist">"सबै प्लेलिस्टहरूलाई खाली गर्नुहोस्"</string>
+<plurals name="NNNallSongsExist">
+<item quantity="one">"यो गीत पहिलेदेखि नै प्लेलिस्टमा छ।"</item>
+<item quantity="other">"यी गीतहरू पहिलेदेखि नै प्लेलिस्टमा छ।"</item>
+</plurals>
+<plurals name="NNNaddsongtoplaylist">
+<item quantity="one">"१ गीत थपियो,"</item>
+<item quantity="other">"<xliff:g id="number" example="27">%d</xliff:g> गीतहरू थपियो,"</item>
+</plurals>
+    <string name="no_search_result">"कुनै गीत भेट्टिएन"</string>
+<string name="search_title_hint">"कलाकार, गीत, एल्बमहरू"</string>
+<string name="error_permissions">"सञ्चालन गर्नका लागि अनुप्रयोगसँग अति आवश्यकता अनुमति छैन। कृपया तपाईँको अनुमति सेटिङहरू जाँच गर्नुहोस्।"</string>
+<string name="dialog_dismiss">"खारेज गर्नुहोस्"</string>
+<string name="toast_fileexplorer_internal_error">"संगीतमा आन्तरिक त्रुटि भयो!"</string>
+<string name="no_allow_play_calling">"कुनै कलको बेलामा संगीत (रेडियो/भिडियो) प्ले गर्न अनुमति छैन।"</string>
+<string name="protect_information">"सुरक्षा सम्बन्धी जानकारी"</string>
+<string name="drm_consume_title">"Drm उपभोक्ताका अधिकारहरू"</string>
+<string name="drm_consume_hint">"तपाईंको कारबाहीले Drm का अधिकारहरूको उपभोग गर्नेछ"</string>
+<string name="drm_file_name">"फाइलको नाम：%1$s"</string>
+<string name="drm_rights_validity">"अधिकारको मान्यता：मान्य"</string>
+<string name="drm_rights_invalidity">"अधिकारको मान्यता：अमान्य"</string>
+<string name="drm_rights_status_transfer">"अधिकरको स्थिति：स्थानान्तरण गर्न अनुमति छ"</string>
+<string name="drm_rights_status_untransfer">"अधिकारको स्थिति：स्थानान्तरण गर्न अनुमति छैन"</string>
+<string name="drm_start_time">"सुरु समय：%1$s"</string>
+<string name="drm_end_time">"अन्त्य समय：%1$s"</string>
+<string name="drm_expiration_time">"म्याद सकिने समय：%1$s"</string>
+<string name="drm_remain_times">"बाँकी समय：%1$s"</string>
+    <string name="drm_unlimited_rights">"असीमित"</string>
+<string name="drm_rights_unknown">"अज्ञात"</string>
+<string name="drm_inactive_rights">"अधिकारहरू निष्क्रिय छन्"</string>
+    <string name="whoes_album">"एल्बम"</string>
+    <string name="no_album_title">"कुनै एल्बमहरू छैनन्"</string>
+    <string name="no_artist_title">"कुनै कलाकारहरू छैनन्"</string>
+    <string name="no_folderlist_title">"कुनै फोल्डरहरू छैनन्"</string>
+    <string name="show_artist">"कलाकारको जानकारी देखाउनुहोस्"</string>
+    <string name="delete_folder">"मेटाउनुहोस्"</string>
+    <string name="done">"सम्पन्न भयो"</string>
+    <string name="search_result">"खोज परिणाम"</string>
+    <string name="delete_songs">"स्थायी रूपमा यन्त्रबाट मेटाउने?"</string>
+    <string name="setting">"सेटिङ"</string>
+    <string name="folder_menu">"फोल्डर"</string>
+    <string name="favorite_added">"मेरो मनपर्ने गीत"</string>
+    <string name="add_playlist_title">"प्लेसूची थप्नुहोस्"</string>
+    <string name="empty_play_list">"खाली प्लेसूची"</string>
+    <string name="shuffle_all_title">"सबै गीतहरूलाई शफल गर्नुहोस्"</string>
+    <string name="sort_by_time">"समय अनुसार क्रमबद्ध गर्नुहोस्"</string>
+    <string name="sort_by_name">"नामबाट क्रमबद्ध गर्नुहोस्"</string>
+    <string name="share">"साझेदारी गर्नुहोस्"</string>
+    <string name="share_error">"साझा रहित एप्लिकेसन"</string>
+    <string name="fifty_min">"15 मिनेट"</string>
+    <string name="theirty_min">"30 मिनेट"</string>
+    <string name="sixty_min">"60 मिनेट"</string>
+    <string name="ninety_min">"90 मिनेट"</string>
+    <string name="self_define">"अनुकूलन रोक्ने समय"</string>
+    <string name="timer_option">"" अफ एप्लिकेसनलाई सफलतापूर्वक सेट गर्नुहोस्।"</string>
+    <plurals name="NNNselftimeSuffix">
+        <item quantity="one">मिनेट</item>
+        <item quantity="other">मिनेट</item>
+    </plurals>
+    <string name="self_min">"मिनेट"</string>
+    <string name="timer_setting">"स्टप टाइमर सेट गर्नुहोस्"</string>
+    <string name="change_face">"अनुहार परिवर्तन गर्नुहोस्"</string>
+    <string name="timed_setting">"रोक्ने समय चयन गर्नुहोस्"</string>
+    <string name="time_warning">"अनुकूलन समयले 1440 मिनेट (24 घण्टा)को माथिल्लो सीमालाई नाघ्दछ !"</string>
+    <string name="songs_nums_for_suffix">"गीतहरू"</string>
+    <string name="random_play_all">"सबैलाई क्रमरहित प्ले गर्नुहोस्"</string>
+    <string name="unable_to_connect_title">"फाइलमा जडित हुन सकिएन"</string>
+    <string name="unable_to_connect_message">"हालैको फाइल प्राप्त गर्न सकिएन। कृपया जडान जाँच गर्नुहोस्"</string>
+    <string name="statusbarlabel">"संगीत · "</string>
+    <string name="error_choose_drm_for_gallery">"DRM फाइललाई स्लाइडको संगीतमा सेट गर्न सकिँदैन, कृपया अर्को फाइल रोज्नुहोस्"</string>
+    <plurals name="NNNtracksremoved">
+<item quantity="one">"<xliff:g id="songs_to_delete">%1$d</xliff:g> गीतलाई \"<xliff:g id="playlist">%2$s</xliff:g>\" प्लेलिस्टबाट हटाइएको छ।"</item>
+<item quantity="other">"<xliff:g id="songs_to_delete">%1$d</xliff:g> गीतहरूलाई \"<xliff:g id="playlist">%2$s</xliff:g>\" प्लेलिस्टबाट हटाइएको छ।"</item>
+    </plurals>
+     <string name="sequence_notif">"क्रमैसँग प्ले गर्ने मोड अन छ।"</string>
+     <string name="delete_artist_album">"\"<xliff:g id="album">%s</xliff:g>\" एल्बममा रहेका \"<xliff:g id="artist">%s</xliff:g>\" का सबै गीतहरूलाई यन्त्रबाट सदाका लागि मेटाउने हो?"</string>
+     <plurals name="NNNallDeleteSelectedSong">
+<item quantity="one">"चयन गरिएका गीतहरूलाई यन्त्रबाट सदाका लागि मेटाउने हो?"</item>
+<item quantity="other">"चयन गरिएको गीत सदाका लागि मेटाउने हो?"</item>
+    </plurals>
+     <string name="delete_folder_prompt">"\"<xliff:g id="folder">%s</xliff:g>\" फोल्डरमा थपिएका गीतहरूलाई यन्त्रबाट सदाका लागि मेटाउने हो?"</string>
+     <string name="delete_playlist">"\"<xliff:g id="song">%s</xliff:g>\" लाई प्लेसूचीबाट हटाउने हो?"</string>
+     <string name="NNNsongAlreadyExist2">" \"<xliff:g id="playlist">%2$s</xliff:g>\" प्लेलिस्टमा पहिलेदेखि नै <xliff:g example="27" id="number">%1$d</xliff:g> गीतहरू विद्यमान छन्। "</string>
+     <string name="time_min_warning">"आफू अनुकूल टाइमर एक मिनेटभन्दा कम समयको हुनु हुँदैन!"</string>
+     <string name="time_not_null">"आफू अनुकूल टाइमर खाली हुनु हुँदैन!"</string>
+     <string name="dock_forced_resizable">"विभाजित स्क्रिनको दृश्यमा संगीत प्लेयरले सहीसँग काम गर्न सक्दैन।"</string>
+     <string name="delete_from_device">"यन्त्रबाट हटाउनुहोस्"</string>
+     <string name="delete_from_playlist">"चयन गरिएका गीतहरूलाई प्लेलिस्टबाट मेटाउने हो?"</string>
+     <string name="empty">"चयन गरिएको गीत खाली छ, कृपया जाँच गर्नुहोस्।"</string>
+     <string name="empty_playlist_message">""तपाईं पक्का \"%1$s\" प्लेलिस्ट खाली गर्न चाहनुहुन्छ?"</string>
+     <string name="same_playlist">"प्रविष्ट गरिएको प्लेलिस्टको नाम पहिलेदेखि नै विद्यमान छ!"</string>
+     <string name="overwrite_playlist_alert_rename">"“<xliff:g id="NAME">%s</xliff:g>” मा रहेको प्लेलिस्टको डेटा कभर गरिनेछ।"</string>
+     <string name="usbdisk">"USB डिस्क (<xliff:g id="USBNAME">%s</xliff:g>)"</string>
+     <string name="length_limited">"यो नाम अधिकतम सीमामा पुगेको छ"</string>
+     <string name="file_notfound">"माफ गर्नुहोला, फाइल फेला पार्न सकिँदैन, कृपया कृपया जाँच गर्नुहोस्।"</string>
+     <string name="operation_failed">"यो गीतलाई "मेरा मनपर्ने गीतहरू" प्लेलिस्टमा थप्न सकिएन।"</string>
+     <string name="playlist_emptied">"प्लेलिस्टलाई खाली गरिएको छ।"</string>
+     <string name="max_number">" 100 भन्दा बढी फाइलहरू चयन गरिएका छन्, त्यसैले साझा गर्ने फंक्शन उपलब्ध छैन"</string>
+     <string name="invalid_playlist_name">"प्लेलिस्टको नाम \"/\" मा अन्त्य हुन सक्दैन।"</string>
+     <string name="special_playlist_name">"प्लेलिस्टको नाममा अमान्य वर्णहरू समावेश गर्न सकिँदैन: \\:*?\"\u003C\u003E|/"</string>
+
+</resources>

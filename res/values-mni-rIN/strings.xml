@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="onesong">"ঈশৈ 1"</string>
+<plurals name="Nsongs">
+<item quantity="one">"<xliff:g id="count">%d</xliff:g> ঈশৈ"</item>
+<item quantity="other">"<xliff:g id="count">%d</xliff:g> ঈশৈশীং"</item>
+</plurals>
+<plurals name="Nsongscomp">
+<item quantity="one">"<xliff:g id="count_for_artist">%2$d</xliff:g> গী <xliff:g id="total_count">%1$d</xliff:g> ঈশৈ"</item>
+<item quantity="other">"<xliff:g id="count_for_artist">%2$d</xliff:g> গী <xliff:g id="total_count">%1$d</xliff:g> ঈশৈশীং"</item>
+</plurals>
+<plurals name="Nalbums">
+<item quantity="one">"অলবুম 1"</item>
+<item quantity="other">"<xliff:g id="count">%d</xliff:g> অলবুমশীং"</item>
+</plurals>
+<string name="whoes_album">"এলবুম"</string>
+<string name="goto_start">"লাইব্রেরি"</string>
+<string name="party_shuffle">"পার্তি হোংদোক হোংজিন তৌবা"</string>
+<string name="party_shuffle_off">"পার্তি হোংদোক হোংজিন তৌবা ওফ"</string>
+<string name="delete_item">"মুথৎলু"</string>
+<string name="shuffle_all">"লোইনমক হোংদোক হোংজিন তৌ"</string>
+<string name="play_all">"লোইনমক প্লে তৌ"</string>
+<string name="delete_artist_desc">"ঈশৈ লোইনমক মতম চুপ্পগী মুথৎলু না <xliff:g id="artist">%s</xliff:g> SD কার্দ অদুদগী?"</string>
+<string name="delete_artist_desc_nosdcard">"ঈশৈ লোইনমক মতম চুপ্পগী মুথৎলু না <xliff:g id="artist">%s</xliff:g> USB স্টোরেজ দগী?"</string>
+<string name="delete_album_desc">"অলবুম অপুম্বা মতম চুপ্পগী মুথৎলু \"<xliff:g id="album">%s</xliff:g>\" SD কার্দ অদুদগী?"</string>
+<string name="delete_album_desc_nosdcard">"অলবুম অপুম্বা মতম চুপ্পগী মুথৎলু \"<xliff:g id="album">%s</xliff:g>\" USB স্টোরেজ দগী?"</string>
+<string name="delete_song_desc">"মতম চুপ্পগী মুথৎলু \"<xliff:g id="song">%s</xliff:g>\" from the SD card?"</string>
+<string name="delete_song_desc_nosdcard">"মতম চুপ্পগী মুথৎলু \"<xliff:g id="song">%s</xliff:g>\"SD কার্দ অদুদগী?"</string>
+<string name="delete_confirm_button_text">"ওকে"</string>
+<plurals name="NNNtracksdeleted">
+<item quantity="one">"ঈশৈ 1 মুথৎলে."</item>
+<item quantity="other">"<xliff:g id="songs_to_delete">%d</xliff:g> ঈশৈশীং মুথৎলে."</item>
+</plurals>
+<string name="scanning">"SD কার্দ স্কেন তৌরি..."</string>
+<string name="scanning_nosdcard">"USB স্টোরেজ স্কেন তৌরি..."</string>
+<string name="nowplaying_title">"হৌজিক প্লে তৌরি"</string>
+<string name="partyshuffle_title">"পার্তি হোংদোক হোংজিন তৌবা"</string>
+<string name="artists_title">"কলাকারশীং"</string>
+<string name="albums_menu">"অলবুমশীং"</string>
+<string name="albums_title">"অলবুমশীং"</string>
+<string name="tracks_menu">"ঈশৈশীং"</string>
+<string name="tracks_title">"ঈশৈশীং"</string>
+<string name="playlists_menu">"প্লেলিস্টশীং"</string>
+<string name="playlists_title">"প্লেলিস্টশীং"</string>
+<string name="videos_title">"ভিদিওশীং"</string>
+<string name="all_title">"মেদিয়া লোইনমক"</string>
+<string name="browse_menu">"কলাকারশীং"</string>
+<string name="search_title">"থিবা"</string>
+<string name="no_tracks_title">"ঈশৈশীং লৈতে"</string>
+<string name="no_album_title">"এলবুমশীং লৈতে"</string>
+<string name="no_artist_title">"কলাকারশীং লৈতে"</string>
+<string name="no_folderlist_title">"ফোল্দরশীং লৈতে"</string>
+<string name="no_videos_title">"ভিদিওশীং লৈতে"</string>
+<string name="no_playlists_title">"প্লেলিস্টশীং লৈতে"</string>
+<string name="delete_playlist_menu">"মুথৎলু"</string>
+<string name="edit_playlist_menu">"এদিট"</string>
+<string name="rename_playlist_menu">"হন্না মমিং থোল্লু"</string>
+<string name="playlist_deleted_message">"প্লেলিস্ট মুথৎলে."</string>
+<string name="playlist_renamed_message">"প্লেলিস্টশীং হন্না মমিং থোল্লে."</string>
+<string name="recentlyadded">"হন্দক্তা হাপচিল্লে"</string>
+<string name="recentlyadded_title">"হন্দক্তা হাপচিল্লে"</string>
+<string name="podcasts_listitem">"পোদকাস্টশীং"</string>
+<string name="podcasts_title">"পোদকাস্টশীং"</string>
+<string name="sdcard_missing_title">"SD কার্দ লৈতে"</string>
+<string name="sdcard_missing_title_nosdcard">"USB স্টোরেজ লৈতে"</string>
+<string name="sdcard_missing_message">"নহাক্কি ফোন SD কার্দ অমা থিংজিল্লগা য়াওদে."</string>
+<string name="sdcard_missing_message_nosdcard">"নহা্ক্কি ফোন USB স্টোরেজ য়াওদে."</string>
+<string name="sdcard_busy_title">"SD কার্দ ফংদে"</string>
+<string name="sdcard_busy_title_nosdcard">"USB স্টোরেজ ফংদে"</string>
+<string name="sdcard_busy_message">"নহাক্কি SD কার্দ থবক চিল্লি."</string>
+<string name="sdcard_busy_message_nosdcard">"নহাক্কি USB স্টোরেজ থবক চিল্লি."</string>
+<string name="sdcard_error_title">"SD কার্দ অশোয়বা"</string>
+<string name="sdcard_error_title_nosdcard">"USB স্টোরেজ অশোয়বা"</string>
+<string name="sdcard_error_message">"নহাক্কি SD কার্দতা অশোয়বা অমা থেংনরে."</string>
+<string name="sdcard_error_message_nosdcard">"নহাক্কি USB স্টোরেজদা অশোয়বা অমা থেংনরে."</string>
+<string name="unknown_artist_name">"মশক খঙদবা কলাকার"</string>
+<string name="unknown_album_name">"মশক খঙদবা অলবুম"</string>
+<string name="shuffle_on_notif">"হোংদোক হোংজিন তৌরি."</string>
+<string name="shuffle_off_notif">"হোংদোক হোংজিন তৌবা তোক্লে."</string>
+<string name="repeat_off_notif">"হন্না তৌবা তোক্লে."</string>
+<string name="repeat_current_notif">"হৌজিক থাবা ঈশৈ হন্না থাগনি."</string>
+<string name="repeat_all_notif">"ঈশৈশীং লোইনমক হন্না থাগনি."</string>
+<string name="ringtone_menu">"ফোন রিংতোন ওইনা শীজিন্নৌ"</string>
+<string name="ringtone_menu_short">"রিংতোন ওইনা শীজিন্নৌ"</string>
+<string name="ringtone_set">"\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>\" ফোন রিংতোন ওইনা সেট তৌ."</string>
+<string name="play_selection">"প্লে তৌ"</string>
+<string name="add_to_playlist">"প্লেলিস্টতা হাপচিল্লু"</string>
+<string name="show_artist">"কলাকার অদুগী পাও উৎলু"</string>
+<string name="delete_folder">"মুথৎলু"</string>
+<string name="queue">"হৌজিক্কি প্লেলিস্ট"</string>
+<string name="new_playlist">"অনৌবা"</string>
+<string name="new_playlist_name_template">"অনৌবা প্লেলিস্ট <xliff:g id="number">%d</xliff:g>"</string>
+<plurals name="NNNtrackstoplaylist">
+<item quantity="one">"ঈশৈ 1 প্লেলিস্টতা হাপচিল্লে."</item>
+<item quantity="other">"<xliff:g id="number" example="27">%d</xliff:g> ঈশৈশীং প্লেলিস্টতা হাপচিল্লে."</item>
+</plurals>
+<string name="emptyplaylist">"খল্লবা প্লেলিস্ট ইহাং হাংই."</string>
+<string name="create_playlist_create_text">"সেব তৌ"</string>
+<string name="create_playlist_overwrite_text">"মথক্তা ইয়ু"</string>
+<string name="service_start_error_title">"প্লেবেক সমস্য"</string>
+<string name="service_start_error_msg">"ঈশৈ অদু প্লে তৌবা ঙমদে."</string>
+<string name="service_start_error_button">"ওকে"</string>
+<string-array name="weeklist">
+<item>"চয়োল 1"</item>
+<item>"চয়োল 2"</item>
+<item>"চয়োল 3"</item>
+<item>"চয়োল 4"</item>
+<item>"চয়োল 5"</item>
+<item>"চয়োল 6"</item>
+<item>"চয়োল 7"</item>
+<item>"চয়োল 8"</item>
+<item>"চয়োল 9"</item>
+<item>"চয়োল 10"</item>
+<item>"চয়োল 11"</item>
+<item>"চয়োল 12"</item>
+</string-array>
+<string name="weekpicker_set">"তৌখ্রে"</string>
+<string name="weekpicker_title">"মতম সেট তৌ"</string>
+<string name="save_as_playlist">"প্লেলিস্ট ওইনা সেব তৌ"</string>
+<string name="clear_playlist">"প্লেলিস্ট ক্লিয়র তৌ"</string>
+<string name="musicbrowserlabel">"ম্যুজিক"</string>
+<string name="musicshortcutlabel">"ম্যুজিক প্লেলিস্ট"</string>
+<string name="mediaplaybacklabel">"ম্যুজিক"</string>
+<string name="videobrowserlabel">"ভিদিওশীং"</string>
+<string name="mediapickerlabel">"ম্যুজিক"</string>
+<string name="playback_failed">"লানখ্রে, ফাইল অদু প্লে তৌবা ঙমদ্রে."</string>
+<string name="cancel">"ককথৎলু"</string>
+<string name="done">"তৌখ্রে"</string>
+<string name="remove_from_playlist">"প্লেলিস্ট তগী লৌথোকউ"</string>
+<string name="streamloadingtext">"দা শম্নরি <xliff:g id="host">%s</xliff:g>..."</string>
+<string name="mediasearch">"গী থিরি <xliff:g id="term" example="Beethoven">%s</xliff:g> শীজিন্নরি:"</string>
+<string name="working_artists">"কলাকারশীং..."</string>
+<string name="working_albums">"অলবুমশীং..."</string>
+<string name="working_songs">"ঈশৈশীং..."</string>
+<string name="working_playlists">"প্লেলিস্টশীং..."</string>
+<string name="loading">"লোদ তৌরি..."</string>
+<string name="sort_by_track">"ত্রেকশীং"</string>
+<string name="sort_by_album">"অলবুমশীং"</string>
+<string name="sort_by_artist">"কলাকারশীং"</string>
+<string name="music_picker_title">"ম্যুজিক ত্রেক খল্লু"</string>
+<string name="search_settings_description">"কলাকারশীং, অলবুমশীং অমসুং ত্রেকশীং"</string>
+<string name="search_hint">"ম্যুজিক থিয়ু"</string>
+<string name="search_result">"ফল থিয়ু"</string>
+<string name="fast_scroll_alphabet">"\u0020ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
+<string name="widget_initial_text">"ম্যুজিক খন্নবা শোকউ."</string>
+<string name="effectspanel">"সাওন্দ ইফেক্টশীং"</string>
+<string name="no_play">"হৌজিক প্লে তৌবা ঙমদে!"</string>
+<string name="add_favourite_song">"ঐহাক্কি খ্বাইদগী পামজবা ঈশৈশীং গী লিস্টতা হাপচিল্লে"</string>
+<string name="remove_favourite_song">"ঐহাক্কি খ্বাইদগী পামজবা ঈশৈশীং গী লিস্টতগী লৌথোক্লে"</string>
+<string name="activity_title_delete">"ঈশৈশীং লৌথোকউ"</string>
+<string name="activity_title">"ম্যুজিক হাপচিল্লু"</string>
+<string name="add_music">"ম্যুজিক হাপচিল্লু"</string>
+<string name="music_selected_all">"লোইনা খল্লু"</string>
+<string name="confirm_add">"হাপচিল্লু"</string>
+<string name="cancel_add">"ককথৎলু"</string>
+<string name="delete_all_music">"লৌথোকউ"</string>
+<string name="confirm_delete">"লৌথোকউ"</string>
+<string name="music_selected_all_delete">"অহাংবা কী অমা ওইনা খল্লু"</string>
+<string name="music_cancle_selected_all">"লোইনমক ককথৎলু"</string>
+<string name="being_add">"হাপচিল্লি, ঙাইবিয়ু ..."</string>
+<string name="remove_track">"লৌথোক্লি, ঙাইবিয়ু ..."</string>
+<string name="invalid">"দাইরেক্তরি অসি হাংবা য়াদে"</string>
+<string name="from_library">"লাইব্রেরিদগী ম্যুজিক হাপচিল্লু"</string>
+<string name="from_folder">"ফোল্দরদগী ম্যুজিক হাপচিল্লু"</string>
+<string name="lyrics_edit_title">"ঈশৈ ময়েক এদিত তৌ"</string>
+<string name="nolrc">"ঈশৈ ময়েক নত্ত্রগা ফাইল চৎনদবা নত্তে"</string>
+<string name="del_track">"আইটেমশীং মুথৎলি, ঙাইবিয়ু..."</string>
+<string name="ringtone_title_sim1">"SIM1 ফোন রিংতোন"</string>
+<string name="ringtone_title_sim2">"SIM2 ফোন রিংতোন"</string>
+<string name="ringtone_set_sim1">"\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>\"SIM 1 ফোন রিংতোন ওইনা সেট তৌই."</string>
+<string name="ringtone_set_sim2">"\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>\"SIM2 ফোন রিংতোন ওইনা সেট তৌই."</string>
+<string name="ring_set_fail">"লানখ্রে, ঈশৈ অদু প্লে তৌবা ঙমদ্রে. অতোপ্পা ঈশৈ রিংতোন ওইনা খনবিয়ু"</string>
+<string name="ring_set_silent_vibrate">"কস্টম রিংতোনশীং হৌজিক্কি মোদ অসিদা সপোর্ট তৌদে"</string>
+<string name="please_insert_sim_card">"য়ামদ্রবদা SIM কার্দ অমা থিংজিনবিয়ু"</string>
+<string name="create_playlist_warning">"হন্দক্তা হাপচিনখিবদু চপ মান্নবা মমিং অদুগা শীজিন্নবা য়াদে."</string>
+<string name="overwrite_playlist_alert">"প্লেলিস্ট দাতা দা  “<xliff:g id="NAME">%s</xliff:g>” ক্লিয়র তৌগনি."</string>
+<string name="playlist_created_message">"প্লেলিস্ট শেম্লে."</string>
+<string name="overwrite_playlist_alert_rename">"প্লেলিস্ট দাতা দা “<xliff:g id="NAME">%s</xliff:g>” মথক খুমগনি."</string>
+<string name="delete_artist">"ঈশৈ লোয়নমক মতম চুপ্পগী মুথৎলগনি না \"<xliff:g id="artist">%s</xliff:g>\" দিভাইসতগী?"</string>
+<string name="delete_album">"অলবুম অপুম্বা অদু মতম চুপ্পগী মুথৎলগনি \"<xliff:g id="album">%s</xliff:g>\" দিভাইসতগী?"</string>
+<string name="delete_song">"মতম চুপ্পগী মুথৎলগনি \"<xliff:g id="song">%s</xliff:g>\" দিভাইসতগী?"</string>
+<string name="delete_playlist">"মুথৎলু "<xliff:g id="song">%s</xliff:g>" প্লেলিস্ট তগী?"</string>
+<string name="delete_songs">"দিভাইসতগী মতম চুপ্পগী মুথৎলগদ্রা?"</string>
+<string name="display_music">"ম্যুজিক"</string>
+<string name="quit">"থাদোকউ"</string>
+<string name="setting">"সেটিংশীং"</string>
+<string name="folder_menu">"ফাইল ফোল্দর"</string>
+<string name="delete_playlist_message">"প্লেলিস্ট মুথৎপা পাম্মি হায়বা নহাক শোয়দ্রব্রা "%1$s"？"</string>
+<string name="delete_all_playlist">"প্লেলিস্টশীং লোইনমক ক্লিয়র তৌ"</string>
+<plurals name="NNNallSongsExist">
+<item quantity="one">"ঈশৈ অদু প্লেলিস্টতা হান্নদগী লৈরক্লি."</item>
+<item quantity="other">"ঈশৈশীং অদু প্লেলিস্টতা হান্নদগী লৈরক্লি."</item>
+</plurals>
+<plurals name="NNNaddsongtoplaylist">
+<item quantity="one">"ঈশৈ 1 হাপচিনখ্রে,"</item>
+<item quantity="other">"ঈশৈশীং <xliff:g id="number" example="27">%d</xliff:g> হাপচিনখ্রে,"</item>
+</plurals>
+<plurals name="NNNsongAlreadyExist">
+<item quantity="one">"ঈশৈ 1  প্লেলিস্টতা হান্নদগী লৈরক্লি."</item>
+<item quantity="other">"ঈশৈশীং <xliff:g id="number" example="27">%d</xliff:g> প্লেলিস্টতা হান্নদগী লৈরক্লি."</item>
+</plurals>
+<string name="length_limited">"মমিং অদু খ্বাইদগী শাংবা ফাওবা"</string>
+<string name="favorite_added">"ঐহাক্কি খ্বাইদগী পামজবা ঈশৈ"</string>
+<string name="add_playlist_title">"প্লেলিস্ট হাপচিল্লু"</string>
+<string name="empty_play_list">"প্লেলিস্ট হাংহল্লু"</string>
+<string name="sort_by_time">"মতমগী মতুং ইন্না শিল্লু"</string>
+<string name="sort_by_name">"মমিংগী মতুং ইন্না শিল্লু"</string>
+<string name="share">"শরুক য়ামিন্নৌ"</string>
+<string name="share_error">"এপ্লিকেশন শরুক য়ামিন্ননবা লৈতে!"</string>
+<string name="no_search_result">"ঈশৈশীং অমত্তা ফংদে"</string>
+<string name="search_title_hint">"কলাকারশীং,ঈশৈশীং নত্ত্রগা অলবুমশীং"</string>
+<string name="error_permissions">"এপ অদুগী রন তৌবদা দরকার ওইবা ক্রিতিকেল অয়াবা পীবশীং লৈতে. নহাক্কি অয়াবা পীবশীংগী সেটিংশীং চেক তৌ."</string>
+<string name="dialog_dismiss">"খন্নগনু"</string>
+<string name="toast_fileexplorer_internal_error">"ম্যুজিক্তা অয়াবা পীয়ু য়াদ্রে!"</string>
+<string name="fifty_min">"মিনট 15"</string>
+<string name="theirty_min">"মিনট 30"</string>
+<string name="sixty_min">"মিনট 60"</string>
+<string name="ninety_min">"মিনট 90"</string>
+<string name="self_define">"কস্টম"</string>
+<string name="timer_option">"মায় পাক্না সেট তৌরে, ম্যুজিক অদু কাওন্টদাওন অদুগী মতুংদা খুমজিল্লগনি."</string>
+<plurals name="NNNselftimeSuffix">
+    <item quantity="one">মিনট</item>
+    <item quantity="other">মিনট</item>
+</plurals>
+<string name="self_min">"মিনট"</string>
+<string name="timer_setting">"স্টোপ টাইমর সেট তৌ"</string>
+<string name="change_face">"মায়থোং হোংঙু"</string>
+<string name="timed_setting">"মতম লেপ্পু খল্লু"</string>
+<string name="time_warning">"কস্টম টাইমর মিনট 1440 (পুং 24) গী মথক থংবা ঙমখৈদগী হেল্লি !"</string>
+<string name="time_min_warning">"কস্টম টাইমর মিনট অমদগী হন্থবা ওইরোইদবনি!"</string>
+<string name="no_allow_play_calling">"কোল অমা তৌরিঙৈদা ম্যুজিক প্লে তৌবা য়াদে (রেদিও/ভিদিও)."</string>
+<string name="songs_nums_for_suffix">"ঈশৈশীং"</string>
+<string name="random_play_all">"রেন্দম ওইনা লোইনমক প্লে তৌ"</string>
+<string name="unable_to_connect_title">"ফাইল অদুদা শম্নবা ঙমদ্রে"</string>
+<string name="unable_to_connect_message">"হৌজিক্কি ফাইল অদু ফংবা ঙমদ্রে. শম্নবা অদু চেক তৌবিয়ু"</string>
+<string name="protect_information">"পাও ঙাক-শেল্লু"</string>
+<string name="drm_consume_title">"Drm অধিকারশীং শীজিন্নৌ"</string>
+<string name="drm_consume_hint">"নহাক্কি ওপরেসন Drm অধিকারশীং শীজিন্নগনি"</string>
+<string name="drm_file_name">"ফাইল মমিং:%1$s"</string>
+<string name="drm_rights_validity">"অধিকারশীং চৎনবা：চৎনৈ"</string>
+<string name="drm_rights_invalidity">"অধিকারশীং চৎনবা：চৎনদে"</string>
+<string name="drm_rights_status_transfer">"অধিকারশীংগী স্টেটস：ত্রান্সফর তৌবা য়াহল্লি"</string>
+<string name="drm_rights_status_untransfer">"অধিকারশীংগী স্টেটস：ত্রান্সফর তৌবা য়াহন্দে"</string>
+<string name="drm_start_time">"অহৌবা মতম：%1$s"</string>
+<string name="drm_end_time">"অরোইবা মতম：%1$s"</string>
+<string name="drm_expiration_time">"মতম হেনবা মতম：%1$s"</string>
+<string name="drm_remain_times">"লেমহৌবা মতমশীং：%1$s"</string>
+<string name="drm_no_info">"পাও নত্তে"</string>
+<string name="drm_unlimited_rights">"অকক্নবা লৈতবা"</string>
+<string name="drm_rights_unknown">"মশক খঙদবা"</string>
+<string name="drm_inactive_rights">"অধিকারশীং এক্তিব ওইদবা"</string>
+<string name="statusbarlabel">"ম্যুজিক· "</string>
+<string name="dock_forced_resizable">"এপনা য়ুংনা খায়বা-স্ক্রীনগা লোয়ননা থবক তৌদবা য়াই."</string>
+<string name="error_choose_drm_for_gallery">"Drm ফাইলশীং খনবা য়াদে"</string>
+<string name="delete_from_device">"দিভাইস তগী লৌথোকউ"</string>
+<string name="delete_from_playlist">"প্লেলিস্ট তগী মুথৎকদ্রা?"</string>
+</resources>

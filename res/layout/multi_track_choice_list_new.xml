@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="72dip"
+    android:gravity="center_vertical"
+    android:ignoreGravity="@+id/icon_layout">
+
+    <RelativeLayout
+        android:id="@+id/icon_layout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true" >
+
+    <ImageView
+        android:id="@+id/icon"
+        android:layout_width="42dp"
+        android:layout_height="42dp"
+        android:layout_marginStart="22dip"
+        android:layout_marginEnd="16dip" />
+
+    <ImageView
+        android:id="@+id/drm_icon"
+        android:layout_width="22dp"
+        android:layout_height="22dp"
+        android:layout_marginStart="52dip"
+        android:layout_alignBottom="@+id/icon" />
+
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/line1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignWithParentIfMissing="true"
+        android:layout_marginEnd="50dp"
+        android:layout_marginTop="18dip"
+        android:layout_toEndOf="@id/icon_layout"
+        android:ellipsize="end"
+        android:maxLines="1"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="#000000"
+        android:textSize="16sp" />
+
+    <!-- The height is set to half the height of the parent, which is 64 dip -->
+    <TextView
+        android:id="@+id/line2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignWithParentIfMissing="true"
+        android:layout_below="@id/line1"
+        android:layout_marginBottom="17dip"
+        android:layout_marginEnd="50dp"
+        android:layout_toEndOf="@id/icon_layout"
+        android:ellipsize="end"
+        android:maxLines="1"
+        android:scrollHorizontally="true"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textColor="#7F000000"
+        android:textSize="13sp"
+        android:visibility="visible" />
+
+    <CheckBox
+        android:id="@+id/music_checkbox_selected"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_marginEnd="18dp"
+        android:layout_marginTop="19dp"
+        android:button="@drawable/btn_check_material_anim"
+        android:focusable="false" />
+
+</RelativeLayout>

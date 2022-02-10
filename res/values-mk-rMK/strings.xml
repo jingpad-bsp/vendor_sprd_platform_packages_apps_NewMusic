@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="onesong">1 песна</string>
+<plurals name="Nsongs">
+<item quantity="one">"<xliff:g id="count">%d</xliff:g> песна"</item>
+<item quantity="other"><xliff:g id="count">%d</xliff:g>  песни</item>
+</plurals>
+    <plurals name="Nalbums">
+<item quantity="one">1 албум</item>
+<item quantity="other"><xliff:g id="count">%d</xliff:g> албуми</item>
+</plurals>
+    <string name="party_shuffle">Забава по случаен избор</string>
+<string name="party_shuffle_off">Забава по случаен избор е исклучено</string>
+<string name="delete_item">Избриши</string>
+<string name="shuffle_all">По случаен избор сите</string>
+    <string name="delete_confirm_button_text">Во ред</string>
+<plurals name="NNNtracksdeleted">
+<item quantity="one">1 песна е избришана.</item>
+<item quantity="other"><xliff:g id="songs_to_delete">%d</xliff:g>  песни се избришани.</item>
+</plurals>
+<string name="scanning">Скенирање на SD картичката</string>
+<string name="scanning_nosdcard">Скенирање на USB</string>
+<string name="nowplaying_title">Пуштено</string>
+    <string name="artists_title">Изведувачи</string>
+<string name="albums_menu">Албуми</string>
+<string name="albums_title">Албуми</string>
+<string name="tracks_menu">Песни</string>
+<string name="tracks_title">Песни</string>
+<string name="playlists_menu">Плејлиста</string>
+<string name="playlists_title">Плејлиста</string>
+    <string name="all_title">Сите медиуми</string>
+<string name="browse_menu">Изведувачи</string>
+<string name="search_title">Пребарај</string>
+<string name="no_tracks_title">Нема песни</string>
+    <string name="delete_playlist_menu">Избриши</string>
+    <string name="rename_playlist_menu">Преименувај</string>
+<string name="playlist_deleted_message">Плејлистата е избришана</string>
+<string name="playlist_renamed_message">Плејлистата е преименувана</string>
+<string name="recentlyadded">Неодамна додадени</string>
+    <string name="podcasts_listitem">Поткаст</string>
+    <string name="sdcard_missing_title">Нема SD картичка</string>
+<string name="sdcard_missing_title_nosdcard">Нема USB</string>
+<string name="sdcard_missing_message">Вашиот телефон нема SD картичка.</string>
+<string name="sdcard_missing_message_nosdcard">Вашиот телефон нема USB.</string>
+<string name="sdcard_busy_title">SD картичката е недостапна</string>
+<string name="sdcard_busy_title_nosdcard">USB меморијата е недостапна</string>
+<string name="sdcard_busy_message">Вашата SD картичка е зафатена</string>
+<string name="sdcard_busy_message_nosdcard">Вашата USB меморија е зафатена</string>
+<string name="sdcard_error_title">Грешка на SD картичката</string>
+<string name="sdcard_error_title_nosdcard">Грешка на USB меморијата</string>
+<string name="sdcard_error_message">Се појави грешка во вашата SD картичка.</string>
+<string name="sdcard_error_message_nosdcard">Се појави грешка во USB меморијата.</string>
+<string name="unknown_artist_name">Непознат изведувач</string>
+<string name="unknown_album_name">Непознат албум</string>
+<string name="shuffle_on_notif">Случајниот избор е вклучен</string>
+    <string name="repeat_current_notif">Повторување на моменталната песна.</string>
+<string name="repeat_all_notif">Повторување на сите песни</string>
+<string name="ringtone_menu">Употреби како тон на ѕвонење на телефонот.</string>
+<string name="ringtone_menu_short">Употреби како тон на ѕвонење.</string>
+<string name="ringtone_set">\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>\" постави го тонот на звонење на телефонот.</string>
+<string name="play_selection">Пушти</string>
+<string name="add_to_playlist">Додај во плејлиста</string>
+<string name="queue">Моментална плејлиста</string>
+<string name="new_playlist">Нова</string>
+    <plurals name="NNNtrackstoplaylist">
+<item quantity="one">1 песна е додадена во плејлистата.</item>
+<item quantity="other"><xliff:g id="number" example="27">%d</xliff:g> додадени песни на плејлистата.</item>
+</plurals>
+<string name="emptyplaylist">Избраната плејлиста е празна.</string>
+<string name="create_playlist_create_text">Зачувај</string>
+    <string name="service_start_error_title">Проблем со репродуцирањето.</string>
+<string name="service_start_error_msg">Песната не може да се пушти.</string>
+<string name="service_start_error_button">Во ред</string>
+    <string name="musicbrowserlabel">Музика</string>
+    <string name="mediaplaybacklabel">Музика</string>
+    <string name="mediapickerlabel">Музика</string>
+<string name="playback_failed">"Уредот не го поддржува овој тип на аудио датотеки."</string>
+<string name="cancel">Откажи</string>
+<string name="remove_from_playlist">Отстрани од плејлистата</string>
+<string name="streamloadingtext">Поврзување со  <xliff:g id="host">%s</xliff:g>... </string>
+    <string name="loading">Вчитување...</string>
+<string name="sort_by_track">Нумери</string>
+<string name="sort_by_album">Албуми</string>
+<string name="sort_by_artist">Изведувачи</string>
+<string name="music_picker_title">Избери музичка нумера</string>
+    <string name="widget_initial_text">Допри за да одбереш музика.</string>
+<string name="effectspanel">Звучни ефекти</string>
+<string name="no_play">"Моментално не може да репродуцирате!"</string>
+    <string name="music_selected_all">Избери сè</string>
+    <string name="music_cancle_selected_all">"Откажи ги сите"</string>
+    <string name="nolrc">Нема текст или датотеката е неважечка</string>
+    <string name="ringtone_title_sim1">SIM1 тон на звонење на телефон</string>
+<string name="ringtone_title_sim2">SIM2 тон на звонење на телефон</string>
+<string name="ringtone_set_sim1">\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>\" постави како SIM1 тон на звонење на телефон.</string>
+<string name="ringtone_set_sim2">\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>\" постави како SIM2 тон на звонење на телефон.</string>
+<string name="ring_set_fail">"Жал ни е, песната не може да се репродуцира. Изберете друга песна како тон на звонење"</string>
+<string name="ring_set_silent_vibrate">"Приспособените тонови на звонење не се поддржани во тековниот режим"</string>
+<string name="please_insert_sim_card">"Последно, вметнете SIM картичка"</string>
+<string name="create_playlist_warning">Не може да користите исто име со скорешно додаденото.</string>
+    <string name="playlist_created_message">Направена плејлиста.</string>
+    <string name="delete_album">Трајно избриши го целиот албум \"<xliff:g id="album">%s</xliff:g>\" од уредот?</string>
+<string name="delete_song">Трајно избриши \"<xliff:g id="song">%s</xliff:g>\" од уредот?</string>
+<string name="display_music">Музика</string>
+<string name="quit">"Откажи се"</string>
+<string name="delete_playlist_message">"Сигурни ли сте дека сакате да ја избришете плејлистата "%1$s"？"</string>
+<string name="delete_all_playlist">"Избриши ги сите плејлисти"</string>
+<plurals name="NNNallSongsExist">
+<item quantity="one">Песната постоела во плејлистата.</item>
+<item quantity="other">Песните постоеле во плејлистата.</item>
+</plurals>
+<plurals name="NNNaddsongtoplaylist">
+<item quantity="one">1 додадена песна,</item>
+<item quantity="other"><xliff:g id="number" example="27">%d</xliff:g> додадени песни,</item>
+</plurals>
+    <string name="no_search_result">"Не се пронајдени песни"</string>
+<string name="search_title_hint">"Изведувачи, Песни или Албуми"</string>
+<string name="error_permissions">"Апликацијата нема критични дозволи што се потребни за да се извршува. Проверете ги поставките за дозволи."</string>
+<string name="dialog_dismiss">Откажи</string>
+<string name="toast_fileexplorer_internal_error">"Се појави внатрешна грешка во Музиката!"</string>
+<string name="no_allow_play_calling">""Не е дозволено да репродуцира музика за време на повик (радио/видео)"."</string>
+<string name="protect_information">"Заштити информации"</string>
+<string name="drm_consume_title">"Прочитајте ги Drm правата"</string>
+<string name="drm_consume_hint">"За активноста ќе се употребат Drm права"</string>
+<string name="drm_file_name">Име на датотека：%1$s</string>
+<string name="drm_rights_validity">Важност на права：важечко</string>
+<string name="drm_rights_invalidity">Важност на права：неважечко</string>
+<string name="drm_rights_status_transfer">Статус на права：дозволено е да се пренесе</string>
+<string name="drm_rights_status_untransfer">Статус на права：не е дозволено да се пренесе</string>
+<string name="drm_start_time">Почетно време：%1$s</string>
+<string name="drm_end_time">Крајно време：%1$s</string>
+<string name="drm_expiration_time">Време на истекување：%1$s</string>
+<string name="drm_remain_times">Преостанато време：%1$s</string>
+    <string name="drm_unlimited_rights">Неограничено</string>
+<string name="drm_rights_unknown">Непознат</string>
+<string name="drm_inactive_rights">Правата се неактивни</string>
+</resources>

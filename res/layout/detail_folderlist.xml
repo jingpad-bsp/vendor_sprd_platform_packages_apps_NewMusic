@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center_vertical" >
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="56dp"
+        android:background="?attr/face_color_value"
+        android:elevation="4dp">
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="24dp"
+            android:layout_marginEnd="21dp"
+            android:orientation="vertical" >
+            <TextView
+                android:id="@+id/title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:layout_collapseMode="pin"
+                android:gravity="center_vertical"
+                android:ellipsize="end"
+                android:maxLines="1"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="@android:color/black" />
+            <TextView
+                android:id="@+id/subtitle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:layout_collapseMode="pin"
+                android:gravity="center_vertical"
+                android:textColor="#7F000000"
+                android:focusable="true"
+                android:singleLine="true"
+                android:ellipsize="end"
+                android:focusableInTouchMode="true"
+                android:marqueeRepeatLimit="marquee_forever" />
+        </LinearLayout>
+    </android.support.v7.widget.Toolbar>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:gravity="center_vertical"
+        android:layout_marginTop="8dp"
+        >
+
+        <ImageView
+        android:id="@+id/random_icon"
+        android:layout_width="42dp"
+        android:layout_height="42dp"
+        app:layout_collapseMode="parallax"
+        app:layout_collapseParallaxMultiplier="0.7"
+        android:layout_marginTop="3dp"
+        android:layout_marginStart="22dp"
+        android:layout_marginEnd="16dp"
+        android:clickable="true"
+        android:src="@drawable/button_play_shuffle"
+        android:scaleType="centerCrop"
+        android:tint="#f44336" />
+
+    <TextView
+        android:id="@+id/random_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:singleLine="true"
+        android:layout_centerVertical="true"
+        android:layout_toEndOf="@id/random_icon"
+        android:textColor="#f44336"
+        android:textStyle="bold"
+        android:textSize="16sp" />
+
+    </RelativeLayout>
+
+    <ImageView
+        android:id="@+id/nodata_img"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_marginTop="80dp"
+        android:gravity="center"
+        android:visibility="gone"
+        android:src="@drawable/pic_void_song" />
+
+    <TextView
+        android:id="@+id/nodata_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:singleLine="true"
+        android:layout_below="@+id/nodata_img"
+        android:layout_marginTop="8dp"
+        android:textColor="#7F000000"
+        android:layout_gravity="center_horizontal"
+        android:text="@string/no_tracks_title"
+        android:visibility="gone"
+        android:textSize="16sp" />
+
+    <com.android.music.TouchInterceptor
+        android:id="@android:id/list"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:divider="#00000000" 
+        android:drawSelectorOnTop="false"
+        android:fastScrollEnabled="false" />
+
+    <include layout="@layout/nowplaying" />
+
+</LinearLayout>

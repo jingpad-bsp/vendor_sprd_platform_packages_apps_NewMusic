@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="onesong">"རོལ་དབྱངས1"</string>
+    <plurals name="Nsongs">
+        <item quantity="one">"རོལ་དབྱངས<xliff:g id="count">%d</xliff:g> "</item>
+        <item quantity="other">"རོལ་དབྱངས <xliff:g id="count">%d</xliff:g> "</item>
+    </plurals>
+    <plurals name="Nsongscomp">
+        <item quantity="one">"རོལ་དབྱངས <xliff:g id="total_count">%1$d</xliff:g>ཡི་<xliff:g id="count_for_artist">%2$d</xliff:g>"</item>
+        <item quantity="other">"རོལ་དབྱངས་  <xliff:g id="total_count">%1$d</xliff:g> ནང་གི་ <xliff:g id="count_for_artist">%2$d</xliff:g> "</item>
+    </plurals>
+    <plurals name="Nalbums">
+        <item quantity="one">"ཆེད་སྒྲིག <xliff:g id="count_for_artist">%2$d</xliff:g> "</item>
+        <item quantity="other">"ཆེད་སྒྲིག <xliff:g id="count">%d</xliff:g> "</item>
+    </plurals>
+    <string name="whoes_album">"ཡི་ཆེད་སྒྲིག"</string>
+    <string name="goto_start">"རོལ་དབྱངས་མཛོད།"</string>
+    <string name="party_shuffle">"ཚོགས་པ་གང་འདོད་ཀྱིས་སྒྲོག་གཏོང་བྱེད།"</string>
+    <string name="party_shuffle_off">"ཚོགས་པ་གང་འདོད་ཀྱིས་སྒྲོག་གཏོང་བྱེད་པའི་སྒོ་སྟེམ།"</string>
+    <string name="delete_item">སུབ།</string>
+    <string name="shuffle_all">"ཚང་མ་གང་འདོད་ཀྱིས་སྒྲོག་གཏོང་བྱེད།"</string>
+    <string name="play_all">ཚང་མ་སྒྲོག་གཏོང་བྱེད། </string>
+    <string name="delete_artist_desc">SDབྱང་བུ་ནས་<xliff:g id="ARTIST">%s</xliff:g>ཡི་རོལ་དབྱངས་མཐའ་དག་ཡུན་གཏན་དུ་གསུབ་རྒྱུ་ཡིན་ནམ།</string>
+    <string name="delete_artist_desc_nosdcard">USBསྒྲིག་ཆས་ནས་<xliff:g id="ARTIST">%s</xliff:g>ཡི་རོལ་དབྱངས་མཐའ་དག་ཡུན་གཏན་དུ་གསུབ་རྒྱུ་ཡིན་ནམ།</string>
+    <string name="delete_album_desc">SDབྱང་བུ་ནས་<xliff:g id="ALBUM">%s</xliff:g>ཡི་ཆེད་སྒྲིག་ཧྲིལ་པོ་ཡུན་གཏན་དུ་སུབ་རྒྱུ་ཡིན་ནམ།</string>
+    <string name="delete_album_desc_nosdcard">USBགསོག་ཉར་སྒྲིག་ཆས་ནས་<xliff:g id="ALBUM">%s</xliff:g>ཡི་ཆེད་སྒྲིག་ཧྲིལ་པོ་ཡུན་གཏན་དུ་སུབ་རྒྱུ་ཡིན་ནམ།</string>
+    <string name="delete_song_desc">SDབྱང་བུ་ནས་<xliff:g id="SONG">%s</xliff:g>ཡུན་གཏན་དུ་གསུབ་རྒྱུ་ཡིན་ནམ།</string>
+    <string name="delete_song_desc_nosdcard">USBགསོག་ཉར་སྒྲིག་ཆས་ནས་<xliff:g id="SONG">%s</xliff:g>ཡུན་གཏན་དུ་གསུབ་རྒྱུ་ཡིན་ནམ།</string>
+    <string name="delete_confirm_button_text">ལགས་སོ།</string>
+    <plurals name="NNNtracksdeleted">
+        <item quantity="one">"རོལ་དབྱངས་1བསུབས་ཟིན།"</item>
+        <item quantity="other">"རོལ་དབྱངས་ <xliff:g id="songs_to_delete">%d</xliff:g>  བསུབས་ཟིན།"</item>
+    </plurals>
+    <string name="scanning">"SDབཤེར་འབེབ་བྱེད་བཞིན་འདུག\u2026"</string>
+    <string name="scanning_nosdcard">"USBགསོག་ཆས་བཤེར་འབེབ་བྱེད་བཞིན་འདུག\u2026"</string>
+    <string name="nowplaying_title">"སྒྲོག་གཏོང་བྱེད་བཞིན་འདུག"</string>
+    <string name="partyshuffle_title">"ཚོགས་པ་གང་འདོད་ཀྱིས་སྒྲོག་གཏོང་བྱེད།"</string>
+    <string name="artists_title">"རོལ་མོ་བ།"</string>
+    <string name="albums_menu">"པར་དེབ།"</string>
+    <string name="albums_title">"པར་དེབ།"</string>
+    <string name="tracks_menu">"རོལ་དབྱངས།"</string>
+    <string name="tracks_title">"རོལ་དབྱངས།"</string>
+    <string name="playlists_menu">སྒྲོག་གཏོང་སྟར་བྱང་། </string>
+    <string name="playlists_title">སྒྲོག་གཏོང་སྟར་བྱང་། </string>
+    <string name="videos_title">"བརྙན་ཟློས།"</string>
+    <string name="all_title">"སྨྱན་པོ་མཐའ་དག"</string>
+    <string name="browse_menu">"རོལ་མོ་བ།"</string>
+    <string name="search_title">"འཚོལ་བཤེར།"</string>
+    <string name="no_tracks_title">"རོལ་དབྱངས་མི་འདུག"</string>
+    <string name="no_album_title">"གནས་སྐབས་སུ་ཆེད་སྒྲིག་མི་འདུག"</string>
+    <string name="no_artist_title">"རོལ་དབྱངས་པ་མི་འདུག"</string>
+    <string name="no_folderlist_title">"ཡིག་ཁུག་མི་འདུག"</string>
+    <string name="no_videos_title">"བརྙན་ཟློས་མི་འདུག"</string>
+    <string name="no_playlists_title">སྒྲོག་གཏོང་སྟར་བྱང་མེད། </string>
+    <string name="delete_playlist_menu">སུབ།</string>
+    <string name="edit_playlist_menu">རྩོམ་སྒྲིག</string>
+    <string name="rename_playlist_menu">མིང་བསྐྱར་འདོགས།</string>
+    <string name="playlist_deleted_message">"སྒྲོག་གཏོང་སྟར་བྱང་གཙང་ཕྱགས་བྱས་ཟིན།"</string>
+    <string name="playlist_renamed_message">"སྒྲོག་གཏོང་སྟར་བྱང་ལ་མིང་བསྐྱར་འདོགས་བྱས་ཟིན།"</string>
+    <string name="recentlyadded">"ཉེ་སྔོན་ཁ་སྣོན་བྱས་པའི་གླུ་དབྱངས། "</string>
+    <string name="recentlyadded_title">"ཉེ་སྔོན་ཁ་སྣོན་བྱས་པའི་གླུ་དབྱངས། "</string>
+    <string name="podcasts_listitem">སྒྲོག་མཁན། </string>
+    <string name="podcasts_title">སྒྲོག་མཁན། </string>
+    <string name="sdcard_missing_title">SDཁཱ་མི་འདུག</string>
+    <string name="sdcard_missing_title_nosdcard">"USBགསོག་ཆས་མི་འདུག"</string>
+    <string name="sdcard_missing_message">ཁ་པར་ནང་ SD བྱང་བུ་འཛེར་མེད། </string>
+    <string name="sdcard_missing_message_nosdcard">ཁྱེད་ཀྱི་ཁ་པར་ནང་ USB གསོག་ཉར་སྒྲིག་ཆས་མེད། </string>
+    <string name="sdcard_busy_title">"SD བྱང་བུ་མི་འདུག"</string>
+    <string name="sdcard_busy_title_nosdcard">"USB གསོག་ཉར་ཆས་མི་འདུག"</string>
+    <string name="sdcard_busy_message">ཁྱེད་ཀྱི་SDབྱང་བུར་ཁོམ་ལོང་མི་འདུག</string>
+    <string name="sdcard_busy_message_nosdcard">ཁྱེད་ཀྱི་USBགསོག་ཆས་ལ་ཁོམ་ལོང་མི་འདུག</string>
+    <string name="sdcard_error_title">"SDབྱང་བུར་ནོར་འཛོལ་བྱུང་།"</string>
+    <string name="sdcard_error_title_nosdcard">"USBགསོག་ཆས་སུ་ནོར་འཛོལ་བྱུང་།"</string>
+    <string name="sdcard_error_message">"ཁྱེད་ཀྱི་SDབྱང་བུར་ནོར་འཛོལ་བྱུང་།"</string>
+    <string name="sdcard_error_message_nosdcard">"USBགསོག་ཆས་སུ་ནོར་འཛོལ་བྱུང་།"</string>
+    <string name="unknown_artist_name">"མ་ཤེས་པའི་རོལ་དབྱངས་པ།"</string>
+    <string name="unknown_album_name">"མ་ཤེས་པའི་ཆེད་སྒྲིག"</string>
+    <string name="shuffle_on_notif">"གང་འདོད་ཀྱིས་སྒྲོག་གཏོང་བྱེད།"</string>
+    <string name="shuffle_off_notif">"གང་འདོད་སྒྲོག་གཏོང་གི་སྒོ་སྟེམ་ཟིན།"</string>
+    <string name="repeat_off_notif">"གང་འདོད་སྒྲོག་གཏོང་གི་སྒོ་སྟེམ་ཟིན།"</string>
+    <string name="repeat_current_notif">"ད་སྐབས་ཀྱི་རོལ་དབྱངས་བསྐྱར་ཟློས་ཀྱིས་སྒྲོག་གཏོང་བྱེད།"</string>
+    <string name="repeat_all_notif">"རོལ་དབྱངས་མཐའ་དག་བསྐྱར་ཟློས་སུ་སྒྲོག་གཏོང་བྱེད།"</string>
+    <string name="ringtone_menu">"ཁ་པར་གྱི་དྲིལ་སྒྲར་སྤྱོད།"</string>
+    <string name="ringtone_menu_short">"དྲིལ་སྒྲར་སྤྱོད།"</string>
+    <string name="ringtone_set">"\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>\"དེ་ཁ་པར་གྱི་དྲིལ་སྒྲར་སྤྱོད།"</string>
+    <string name="play_selection">གཏོང་བ།</string>
+    <string name="add_to_playlist">"སྒྲོག་སྟོང་སྟར་བྱང་དུ་སྣོན།"</string>
+    <string name="show_artist">"རོལ་དབྱངས་པའི་ཆ་འཕྲིན་ལ་ལྟ།"</string>
+    <string name="delete_folder">སུབ།</string>
+    <string name="queue">མིག་སྔར་གྱི་སྒྲོག་གཏོང་སྟར་བྱང། </string>
+    <string name="new_playlist">གསར་བ།</string>
+    <string name="new_playlist_name_template">"སྒྲོག་གཏོང་སྟར་བྱང་གསར་བ <xliff:g id="number">%d</xliff:g> "</string>
+    <plurals name="NNNtrackstoplaylist">
+        <item quantity="one">"རོལ་དབྱངས་1དེ་སྒྲོག་སྟོང་སྟར་བྱང་དུ་བསྣན་ཟིན།"</item>
+        <item quantity="other">"རོལ་དབྱངས་ <xliff:g id="number" example="27">%d</xliff:g> དེ་སྒྲོག་གཏོང་སྟར་བྱང་དུ་སྣོན།"</item>
+    </plurals>
+    <string name="emptyplaylist">"ཁྱེད་ཀྱིས་བདམས་པའི་སྒྲོག་གཏོང་སྟར་བྱང་ནི་སྟོང་བ་རེད།"</string>
+    <string name="create_playlist_create_text">ཉར་ཚགས།</string>
+    <string name="create_playlist_overwrite_text">"འགེབས། "</string>
+    <string name="service_start_error_title">"སྒྲོག་གཏོང་གནད་དོན།"</string>
+    <string name="service_start_error_msg">ཐུགས་རྒྱལ་མ་བཞེངས།  གླུ་དབྱངས་འདི་སྒྲོག་གཏོང་བྱེད་ཐབས་མེད། </string>
+    <string name="service_start_error_button">ལགས་སོ།</string>
+    <string-array name="weeklist">
+        <item>གཟའ་འཁོར་1</item>
+        <item>"གཟའ་འཁོར2"</item>
+        <item>"གཟའ་འཁོར3"</item>
+        <item>"གཟའ་འཁོར4"</item>
+        <item>"གཟའ་འཁོར5"</item>
+        <item>"གཟའ་འཁོར6"</item>
+        <item>"གཟའ་འཁོར7"</item>
+        <item>"གཟའ་འཁོར8"</item>
+        <item>"གཟའ་འཁོར9"</item>
+        <item>"གཟའ་འཁོར10"</item>
+        <item>"གཟའ་འཁོར11"</item>
+        <item>"གཟའ་འཁོར12"</item>
+    </string-array>
+    <string name="weekpicker_set">ལེགས་འགྲུབ་བྱུང་།</string>
+    <string name="weekpicker_title">"དུས་ཚོད་སྒྲིག་འགོད་བྱེད།"</string>
+    <string name="save_as_playlist">"སྒྲོག་གཏོང་སྟར་བྱང་དུ་གཞན་ཉར་བྱེད།"</string>
+    <string name="clear_playlist">"སྒྲོག་གཏོང་སྟར་བྱང་གཙང་ཕྱགས་བྱེད།"</string>
+    <string name="musicbrowserlabel">"རོལ་དབྱངས།"</string>
+    <string name="musicshortcutlabel">"རོལ་དབྱངས་སྒྲོག་གཏོང་སྟར་བྱང་།"</string>
+    <string name="mediaplaybacklabel">"རོལ་དབྱངས།"</string>
+    <string name="videobrowserlabel">"བརྙན་ཟློས།"</string>
+    <string name="mediapickerlabel">"རོལ་དབྱངས།"</string>
+    <string name="playback_failed">"དགོངས་པ་མ་ཚོམ། ཡིག་ཆ་སྒྲོག་གཏོང་བྱེད་མ་ཐུབ།"</string>
+    <string name="cancel">འདོར།</string>
+    <string name="done">ལེགས་འགྲུབ་བྱུང་།</string>
+    <string name="remove_from_playlist">"སྒྲོག་གཏོང་སྟར་བྱང་ནས་སྤོས་ཟིན།"</string>
+    <string name="streamloadingtext"><xliff:g id="HOST">%s</xliff:g>ལ་སྦྲེལ་བཞིན་འདུག…</string>
+    <string name="mediasearch">" <xliff:g id="term" example="Beethoven">%s</xliff:g> བཀོལ་ནས་འཚོལ་བཤེར་བྱེད།"</string>
+    <string name="working_artists">སྒྱུ་རྩལ་བ།\u2026</string>
+    <string name="working_albums">ཆེད་སྒྲིག\u2026</string>
+    <string name="working_songs">གླུ་དབྱངས།\u2026</string>
+    <string name="working_playlists">"སྒྲོག་གཏོང་སྟར་བྱང\u2026"</string>
+    <string name="loading">ནང་འཇུག་བྱེད་བཞིན་པ།...</string>
+    <string name="sort_by_track">"རོལ་དབྱངས་ཁ་བྱང་།"</string>
+    <string name="sort_by_album">"པར་དེབ།"</string>
+    <string name="sort_by_artist">"རོལ་མོ་བ།"</string>
+    <string name="music_picker_title">དཀར་ཆག་འདམ།</string>
+    <string name="search_settings_description">"རོལ་དབྱངས་པ། ཆེད་སྒྲིག་དང་རོལ་དབྱངས་ཁ་བྱང་།"</string>
+    <string name="search_hint">"རོལ་དབྱངས་འཚོལ་བཤེར།"</string>
+    <string name="search_result">འཚོལ་བཤེར་མཇུག་འབྲས།</string>
+    <string name="fast_scroll_alphabet">"\u2ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
+    <string name="widget_initial_text">རེག་ནས་རོལ་དབྱངས་འདམ།</string>
+    <string name="effectspanel">"སྙོམ་སྒྲིག་ཆས།"</string>
+    <string name="no_play">ད་སྐབས་རོལ་དབྱངས་གཏོང་ཐབས་མི་འདུག</string>
+    <string name="add_favourite_song">"ང་རང་མོས་སའི་རོལ་དབྱངས་སུ་བསྣན་ཟིན།"</string>
+    <string name="remove_favourite_song">"ང་རང་མོས་སའི་རོལ་དབྱངས་ནས་བསུབས་ཟིན།"</string>
+    <string name="activity_title_delete">རོལ་དབྱངས་སུབ།</string>
+    <string name="activity_title">"གླུ་དབྱངས་སྣོན་པ།"</string>
+    <string name="add_music">"གླུ་དབྱངས་སྣོན་པ།"</string>
+    <string name="music_selected_all">ཚང་མ་འདམ།</string>
+    <string name="confirm_add">ཁ་སྣོན།</string>
+    <string name="cancel_add">འདོར།</string>
+    <string name="delete_all_music">སུབ། </string>
+    <string name="confirm_delete">སུབ། </string>
+    <string name="music_selected_all_delete">"མཐེབ་གཅིག་གིས་གཙང་ཕྱགས་བྱེད།"</string>
+    <string name="music_cancle_selected_all">ཚང་མ་སྐྱུར་བ།</string>
+    <string name="being_add">སྣོན་བཞིན་འདུག ཅུང་ཙམ་སྒུགས་རོགས།…</string>
+    <string name="remove_track">རོལ་དབྱངས་སུབ་བཞིན་འདུག</string>
+    <string name="invalid">"ལམ་ཐིག་གི་ཁྱ་འབྱེད་མི་ཐུབ།"</string>
+    <string name="from_library">"རོལ་དབྱངས་མཛོད་ནས་རོལ་དབྱངས་སྣོན།"</string>
+    <string name="from_folder">"ཡིག་ཁུག་ནས་རོལ་དབྱངས་སྣོན།"</string>
+    <string name="lyrics_edit_title">གླུ་ཚིག་རྩོམ་སྒྲིག་བྱེད།</string>
+    <string name="nolrc">གླུ་ཚིག་ཡིག་ཆ་མེད་པའམ་ནུས་མེད་ཡིན།</string>
+    <string name="del_track">སུབ་བཞིན་འདུག ཨེན་ཙམ་སྒུག་རོགས།…</string>
+    <string name="ringtone_title_sim1">"SIM1 ཁ་པར་དྲིལ་སྒྲ།"</string>
+    <string name="ringtone_title_sim2">"SIM2ཁ་པར་དྲིལ་སྒྲ།"</string>
+    <string name="ringtone_set_sim1">"\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g> \དེ་SIM1ཁ་པར་དྲིལ་སྒྲ་བྱས།"</string>
+    <string name="ringtone_set_sim2">"\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>\"དེ་SIM2ཁ་པར་དྲིལ་སྒྲ་བྱས།"</string>
+    <string name="ring_set_fail">དགོངས་པ་མ་ཚོམ། རོལ་དབྱངས་དེ་གཏོང་ཐབས་མི་འདུག རོལ་དབྱངས་གཞན་པ་ཞིག་དྲིལ་སྒྲར་འདམ་རོགས།</string>
+    <string name="ring_set_silent_vibrate">ད་སྐབས་ཀྱི་རྣམ་པས་རང་ལེན་དྲིལ་སྒྲར་རྒྱབ་སྐྱོར་མི་བྱེད།</string>
+    <string name="please_insert_sim_card">"ཉུང་ཤོས་ལའང་SIMགཅིག་བླུགས་དགོས།"</string>
+    <string name="create_playlist_warning">སྔོན་དུ་བསྣན་པའི་ཡིག་ཆའི་མིང་བསྐྱར་དུ་སྤྱོད་མི་ཐུབ།</string>
+    <string name="overwrite_playlist_alert">"གཞས་ཀྱི་རེའུ་མིང། “<xliff:g id="NAME">%s</xliff:g>” སྟོང་པ་ཆག་སྲིད།."</string>
+    <string name="playlist_created_message">"སྒྲོག་གཏོང་སྟར་བྱང་བཙུགས་ཟིན།"</string>
+    <string name="overwrite_playlist_alert_rename">"སྒྲོག་གཏོང་སྟར་བྱང་“<xliff:g id="NAME">%s</xliff:g>”ནང་གི་དན་གྲངས་འགེབས་ངེས་ཡིན།"</string>
+    <string name="delete_artist">སྒྲིག་ཆས་ནས་<xliff:g id="ARTIST">%s</xliff:g>ཡི་རོལ་དབྱངས་མཐའ་དག་སུབ་རྒྱུ་ཡིན་ནམ།</string>
+    <string name="delete_album">སྒྲིག་ཆས་ནས་<xliff:g id="ALBUM">%s</xliff:g>ཆེད་སྒྲིག་ཧྲིལ་པོ་ཡུན་གཏན་དུ་སུབ་རྒྱུ་ཡིན་ནམ།</string>
+    <string name="delete_song">སྒྲིག་ཆས་ནས་<xliff:g id="SONG">%s</xliff:g>ཡུན་གཏན་དུ་གསུབ་རྒྱུ་ཡིན་ནམ།</string>
+    <string name="delete_playlist">"སྒྲོག་གཏོང་སྟར་བྱང་ནས་ "<xliff:g id="song">%s</xliff:g>"སུབ་རྒྱུ་ཡིན་ནམ།"</string>
+    <string name="delete_songs">"སྒྲིག་ཆས་ནས་གསུབ་རྒྱུ་ཡིན་ནམ།"</string>
+    <string name="display_music">"རོལ་དབྱངས།"</string>
+    <string name="quit">ཕྱིར་འབུད།</string>
+    <string name="setting">"སྒྲིག་འགོད།"</string>
+    <string name="folder_menu">དཀར་ཆག</string>
+    <string name="delete_playlist_message">"སྒྲོག་གཏོང་སྟར་བྱང་"%1$s"སུབ་ཁོ་ཐག་ཡིན་ནམ།"</string>
+    <string name="delete_all_playlist">སྒྲོག་གཏོང་སྟར་བྱང་གཙང་ཕྱག་བྱེད།</string>
+    <plurals name="NNNallSongsExist">
+        <item quantity="one">རོལ་དབྱངས་དེ་སྒྲོག་གཏོང་སྟར་བྱང་དུ་འཇུག</item>
+        <item quantity="other">རོལ་དབྱངས་དེ་སྒྲོག་གཏོང་སྟར་བྱང་དུ་འཇུག</item>
+    </plurals>
+    <plurals name="NNNaddsongtoplaylist">
+        <item quantity="one">རོལ་དབྱངས་1བསྣན་ཟིན།</item>
+        <item quantity="other">གླུ་དབྱངས་<xliff:g id="number" example="27">%d</xliff:g>བསྣན་ཟིན།</item>
+    </plurals>
+    <plurals name="NNNsongAlreadyExist">
+        <item quantity="one">སྒྲོག་གཏོང་སྟར་བྱང་དུ་རོལ་དབྱངས་1འདུག</item>
+        <item quantity="other">གླུ་དབྱངས་<xliff:g id="number" example="27">%d</xliff:g>ནི་སྒྲོག་གཏོང་སྟར་བྱང་དུ་འདུག</item>
+    </plurals>
+    <string name="length_limited">མིང་གི་རིང་མཐར་ཐུག</string>
+    <string name="favorite_added">"ང་རང་མོས་སའི་རོལ་དབྱངས།"</string>
+    <string name="add_playlist_title">"གནས་བསྣན་སྒྲོག་གཏོང་སྟར་བྱང་།"</string>
+    <string name="empty_play_list">"སྟར་བྱང་སྟོང་བར་གཏོང་།"</string>
+    <string name="sort_by_time">དུས་ཚོད་གོ་རིམ་ལ་བསྟུན་ནས་སྟར་སྒྲིག</string>
+    <string name="sort_by_name">"མིང་ལྟར་གོ་རིམ་སྒྲིག་པ།"</string>
+    <string name="share">མཉམ་སྤྱོད།</string>
+    <string name="share_error">གཞུང་རོལ་གྱི་ཉེར་སྤྱོད་མི་འདུག</string>
+    <string name="no_search_result">"གཞས་རྙིད་མ་བྱུང།"</string>
+    <string name="search_title_hint">"རོལ་དབྱངས་པ། རོལ་དབྱངས་སམ་ཆེད་སྒྲིག"</string>
+    <string name="error_permissions">"ཉེར་སྤྱོད་འདིར་འཁོར་སྐྱོད་བྱེད་པར་ངེས་པར་མཁོ་བའི་དབང་ཚད་མི་འདུག ཁྱེད་ཀྱི་དབང་ཚད་སྒྲིག་འགོད་ལ་ལྟ་རྟོག་བྱེད་རོགས།"</string>
+    <string name="dialog_dismiss">"སྐྱུར་བ།"</string>
+    <string name="toast_fileexplorer_internal_error">"རོལ་དབྱངས་སྒྲོག་གཏོང་ཆས་ནང་རོལ་དུ་ནོར་འཛོལ་བྱུང་།"</string>
+    <string name="fifty_min">"སྐར་མ་15"</string>
+    <string name="theirty_min">"སྐར་མ་30"</string>
+    <string name="sixty_min">"སྐར་མ་60"</string>
+    <string name="ninety_min">"སྐར་མ་90"</string>
+    <string name="self_define">"རང་འཇོག"</string>
+    <string name="timer_option">"སྒྲིག་འགོད་བྱས་ཚར། ལྡོག་བགྲང་དུས་ཚོད་ཀྱི་མཇུག་རྫོགས་རྗེས་རོལ་དབྱངས་ཀྱི་སྒོ་སྟེམ།"</string>
+    <plurals name="NNNselftimeSuffix">
+        <item quantity="one">སྐར་མ་</item>
+        <item quantity="other">སྐར་མ་</item>
+    </plurals>
+    <string name="self_min">"MIN"</string>
+    <string name="timer_setting">"དུས་འཁེལ་སྒོ་སྟེམ།"</string>
+    <string name="change_face">"ངོ་བྱང་བརྗེ།"</string>
+    <string name="timed_setting">"དུས་འཁེལ་གྱིས་དུས་ཚོད་ཀྱི་སྒོ་སྟེམ།"</string>
+    <string name="time_warning">"རང་འཇོག་དུས་ཚོད་ནི་གོང་མཐའ་སྐར་མ་1440(དུས་ཆུང་2)ལས་བརྒལ།"</string>
+    <string name="no_allow_play_calling">"ཁ་བརྡའི་བརྒྱུད་རིམ་དུ་རོལ་དབྱངས་སྒྲོག་གཏོང་བྱེད་དུ་མི་འཇུག (སྒྲ་སྡུད་ཆས/བརྙན་ཟློས)"</string>
+    <string name="songs_nums_for_suffix">"གླུ་དབྱངས།"</string>
+    <string name="random_play_all">"ཚང་མ་གང་བྱུང་དུ་གཏོང་།"</string>
+    <string name="unable_to_connect_title">"ཡིག་ཆར་སྦྲེལ་མ་ཐུབ།"</string>
+    <string name="unable_to_connect_message">"ད་སྐབས་ཀྱི་ཡིག་ཆ་ལེན་མ་ཐུབ། སྦྲེལ་མཐུད་ལ་ལྟ་བཤེར་བྱེད་རོགས།"</string>
+    <string name="protect_information">སྲུང་སྐྱོང་ཆ་འཕྲིན།</string>
+    <string name="drm_consume_title">Drmདབང་ཚད་འཛད་སྤྱོད་བྱེད།</string>
+    <string name="drm_consume_hint">ཁྱེད་ཀྱི་སྒྲིག་བཀོལ་གྱིས་Drmདབང་ཚད་འཛད་སྤྱོད་བྱེད།</string>
+    <string name="drm_file_name">"ཡིག་ཆའི་མིང་%1$s"</string>
+    <string name="drm_rights_validity">"དབང་ཚད་དུས་ཡུན་ནུས་ལྡན་རེད།"</string>
+    <string name="drm_rights_invalidity">"དབང་ཚད་དུས་ཡུན་ནུས་མེད་རེད།"</string>
+    <string name="drm_rights_status_transfer">"སྲུང་སྐྱོང་གནས་བབ་སྟེ། གཞན་སྐུར་གནང་ཆོག"</string>
+    <string name="drm_rights_status_untransfer">"སྲུང་སྐྱོང་གནས་བབ་སྟེ། གཞན་སྐུར་གནང་མི་ཆོག"</string>
+    <string name="drm_start_time">"མགོ་རྩོམ་པའི་དུས་ཚོད།%1$s"</string>
+    <string name="drm_end_time">"མཇུག་སྡུད་པའི་དུས་ཚོད།%1$s"</string>
+    <string name="drm_expiration_time">"དུས་ཡོལ་དུས་ཚོད་%1$s"</string>
+    <string name="drm_remain_times">"ཐེངས་གྲངས་ལྷག་མ་%1$s"</string>
+    <string name="drm_no_info">ཆ་འཕྲིན་མི་འདུག</string>
+    <string name="drm_unlimited_rights">ཚོད་འཛིན་མེད།</string>
+    <string name="drm_rights_unknown">མ་ཤེས།</string>
+    <string name="drm_inactive_rights">པར་དབང་གི་སྐུལ་བསླངས་མེད།</string>
+    <string name="statusbarlabel">"རོལ་བྱང·"</string>
+    <string name="dock_forced_resizable">"ཡོལ་བགོད་རྣམ་པའི་འོག་ཏུ་ཉེར་སྤྱོད་འཁོར་སྐྱོད་བྱེད་མི་ཐུབ་ཀྱང་སྲིད།"</string>
+    <string name="error_choose_drm_for_gallery">"DRMཡིག་ཆ་ནི་སྒྲོན་བརྙན་རོལ་དབྱངས་སུ་སྒྲིག་འགོད་བྱས་མི་ཆོག ཡིག་ཆ་གཞན་པ་འདམ་རོགས།"</string>
+    <string name="delete_from_device">"སྒྲིག་ཆས་ན་སུབ།"</string>
+    <string name="delete_from_playlist">"སྒྲོག་གཏོང་སྟར་བྱང་ནས་ཚང་མ་སུབ་རྒྱུ་ཡིན་ནམ།"</string>
+</resources>

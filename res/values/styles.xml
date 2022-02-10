@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <attr name="ic_menu_moreoverflow" format="reference"/>
+
+    <style name="MusicTheme" parent="@android:style/Theme.Material.Light.LightStatusBar">
+        <item name="android:windowActionBarOverlay">false</item>
+        <item name="android:actionBarStyle">@style/ActionBarStyleNewUI</item>
+        <item name="android:fastScrollTextColor">#ffff6400</item>
+        <item name="android:statusBarColor">#c2185b</item>
+        <item name="android:colorPrimary">#000000</item>
+        <item name="android:actionBarWidgetTheme">@style/MyActionBarWidgetTheme</item>
+    </style>
+
+    <style name="MyActionBarWidgetTheme" parent="@android:style/Theme.Material.Light">
+        <item name="android:textColorHint">#66ffffff</item>
+        <item name="android:queryHint">@string/search_title</item>
+        <item name="android:searchViewStyle">@style/MySearchView</item>
+        <item name="android:iconifiedByDefault">true</item>
+    </style>
+
+    <style name="MySearchView" parent="@android:style/Widget.Material.Light.SearchView">
+        <item name="android:closeIcon">@drawable/status_delete</item>
+    </style>
+
+    <style name="ActionBarStyleNewUI" parent="@android:style/Widget.Material.Light.ActionBar">
+        <item name="android:background">@color/actionbar_background_color</item>
+        <item name="android:titleTextStyle">@style/ActionBarTitleTextStyleNewUI</item>
+        <item name="android:backgroundSplit">@null</item>
+        <item name="android:elevation">4dp</item>
+    </style>
+
+    <style name="ActionBarTitleTextStyleNewUI" parent="android:TextAppearance.Material.Widget.ActionBar.Title">
+        <item name="android:textColor">@color/background_light</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="MusicPickerTheme" parent="@style/MusicTheme">
+        <item name="android:actionBarStyle">@style/ActionBarPickerStyle</item>
+    </style>
+
+    <style name="ActionBarPickerStyle" parent="@style/ActionBarStyleNewUI">
+        <item name="android:elevation">8dp</item>
+    </style>
+
+    <style name="Theme.NoDisplay" parent="@android:style/Theme.Holo.Light">
+        <item name="android:windowBackground">@null</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:windowAnimationStyle">@null</item>
+        <item name="android:windowDisablePreview">true</item>
+        <item name="android:windowNoDisplay">false</item>
+    </style>
+
+    <style name="AppTheme" parent="AppTheme.Base">
+        <item name="android:actionOverflowMenuStyle">@style/OverflowMenuStyle</item>
+        <item name="android:actionOverflowButtonStyle">@style/OverflowButtonStyle1</item>
+        <item name="android:toolbarStyle">@style/CustomToolbar</item>
+    </style>
+
+    <style name="AppThemePlayback" parent="AppTheme.Base">
+        <item name="android:actionOverflowMenuStyle">@style/OverflowMenuStyle</item>
+        <item name="android:actionOverflowButtonStyle">@style/OverflowButtonStyle2</item>
+        <item name="android:toolbarStyle">@style/CustomToolbar</item>
+    </style>
+
+    <style name="CustomToolbar" parent="Widget.AppCompat.Toolbar">
+        <item name="contentInsetStart">0dp</item> <!-- 设置该属性边距为0dp -->
+    </style>
+
+    <style name="OverflowMenuStyle" parent="Widget.AppCompat.Light.PopupMenu.Overflow">
+        <item name="overlapAnchor">true</item>
+        <item name="android:dropDownWidth">wrap_content</item>
+        <item name="android:paddingRight">3dp</item>
+    </style>
+
+    <style name="OverflowButtonStyle1" parent="@android:style/Widget.Material.ActionButton.Overflow">
+        <item name="android:src">@drawable/ic_menu_moreoverflow_material</item>
+    </style>
+
+    <style name="OverflowButtonStyle2" parent="@android:style/Widget.Material.ActionButton.Overflow">
+        <item name="android:src">@drawable/ic_menu_moreoverflow_material_white</item>
+    </style>
+
+    <style name="AppTheme1" parent="AppTheme.Base">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+
+    <style name="AppTheme2" parent="AppTheme.Base">
+        <item name="android:statusBarColor">#c2185b</item>
+        <item name="android:colorPrimary">#e91e63</item>
+        <item name="actionOverflowButtonStyle">@style/OverflowButtonStyle</item>
+    </style>
+
+    <style name="AppTheme3" parent="AppTheme.Base">
+        <item name="android:windowIsTranslucent">true</item>
+    </style>
+
+    <style name="OverflowButtonStyle" parent="@android:style/Widget.ActionButton.Overflow">
+        <item name="android:src">@drawable/ic_sequence</item>
+    </style>
+
+    <style name="AppTheme.Base" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="NewMultiChoiceTheme" parent="AppThemePlayback">
+        <item name="android:statusBarColor">#5c5c5c</item>
+    </style>
+    <!--add new theme should modify here-->
+    <style name="MainFaceTheme" parent="AppTheme">
+        <item name="face_color_value">@color/theme1_color</item>
+        <item name="android:statusBarColor">@color/theme1_statusbar_color</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:colorPrimary">@color/theme1_color</item>
+    </style>
+
+    <style name="FaceTheme2" parent="AppTheme">
+        <item name="face_color_value">@color/theme2_color</item>
+        <item name="android:statusBarColor">@color/theme2_statusbar_color</item>
+        <item name="android:colorPrimary">@color/theme2_color</item>
+    </style>
+
+    <style name="FaceTheme3" parent="AppTheme">
+        <item name="face_color_value">@color/theme3_color</item>
+        <item name="android:statusBarColor">@color/theme3_statusbar_color</item>
+        <item name="android:colorPrimary">@color/theme3_color</item>
+    </style>
+
+    <style name="FaceTheme4" parent="AppTheme">
+        <item name="face_color_value">@color/theme4_color</item>
+        <item name="android:statusBarColor">@color/theme4_statusbar_color</item>
+        <item name="android:colorPrimary">@color/theme4_color</item>
+    </style>
+
+    <style name="FaceTheme5" parent="AppTheme">
+        <item name="face_color_value">@color/theme5_color</item>
+        <item name="android:statusBarColor">@color/theme5_statusbar_color</item>
+        <item name="android:colorPrimary">@color/theme5_color</item>
+    </style>
+
+    <style name="FaceTheme6" parent="AppTheme">
+        <item name="face_color_value">@color/theme6_color</item>
+        <item name="android:statusBarColor">@color/theme6_statusbar_color</item>
+        <item name="android:colorPrimary">@color/theme6_color</item>
+    </style>
+
+    <style name="FaceTheme7" parent="AppTheme">
+        <item name="face_color_value">@color/theme7_color</item>
+        <item name="android:statusBarColor">@color/theme7_statusbar_color</item>
+        <item name="android:colorPrimary">@color/theme7_color</item>
+    </style>
+
+    <style name="FaceTheme8" parent="AppTheme">
+        <item name="face_color_value">@color/theme8_color</item>
+        <item name="android:statusBarColor">@color/theme8_statusbar_color</item>
+        <item name="android:colorPrimary">@color/theme8_color</item>
+    </style>
+
+    <style name="FaceTheme9" parent="AppTheme">
+        <item name="face_color_value">@color/theme9_color</item>
+        <item name="android:statusBarColor">@color/theme9_statusbar_color</item>
+        <item name="android:colorPrimary">@color/theme9_color</item>
+    </style>
+
+    <style name="FaceTheme10" parent="AppTheme">
+        <item name="face_color_value">@color/theme10_color</item>
+        <item name="android:statusBarColor">@color/theme10_statusbar_color</item>
+        <item name="android:colorPrimary">@color/theme10_color</item>
+    </style>
+
+    <style name="DetailAlbumFaceTheme" parent="AppTheme1">
+        <item name="face_color_value">@color/theme1_color</item>
+        <item name="statusbar_color_value">@color/theme1_statusbar_color</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:colorPrimary">@color/theme1_color</item>
+    </style>
+
+    <style name="FaceTheme12" parent="AppTheme1">
+        <item name="face_color_value">@color/theme2_color</item>
+        <item name="statusbar_color_value">@color/theme2_statusbar_color</item>
+        <item name="android:colorPrimary">@color/theme2_color</item>
+    </style>
+
+    <style name="FaceTheme13" parent="AppTheme1">
+        <item name="face_color_value">@color/theme3_color</item>
+        <item name="statusbar_color_value">@color/theme3_statusbar_color</item>
+        <item name="android:colorPrimary">@color/theme3_color</item>
+    </style>
+
+    <style name="FaceTheme14" parent="AppTheme1">
+        <item name="face_color_value">@color/theme4_color</item>
+        <item name="statusbar_color_value">@color/theme4_statusbar_color</item>
+        <item name="android:colorPrimary">@color/theme4_color</item>
+    </style>
+
+    <style name="FaceTheme15" parent="AppTheme1">
+        <item name="face_color_value">@color/theme5_color</item>
+        <item name="statusbar_color_value">@color/theme5_statusbar_color</item>
+        <item name="android:colorPrimary">@color/theme5_color</item>
+    </style>
+
+    <style name="FaceTheme16" parent="AppTheme1">
+        <item name="face_color_value">@color/theme6_color</item>
+        <item name="statusbar_color_value">@color/theme6_statusbar_color</item>
+        <item name="android:colorPrimary">@color/theme6_color</item>
+    </style>
+
+    <style name="FaceTheme17" parent="AppTheme1">
+        <item name="face_color_value">@color/theme7_color</item>
+        <item name="statusbar_color_value">@color/theme7_statusbar_color</item>
+        <item name="android:colorPrimary">@color/theme7_color</item>
+    </style>
+
+    <style name="FaceTheme18" parent="AppTheme1">
+        <item name="face_color_value">@color/theme8_color</item>
+        <item name="statusbar_color_value">@color/theme8_statusbar_color</item>
+        <item name="android:colorPrimary">@color/theme8_color</item>
+    </style>
+
+    <style name="FaceTheme19" parent="AppTheme1">
+        <item name="face_color_value">@color/theme9_color</item>
+        <item name="statusbar_color_value">@color/theme9_statusbar_color</item>
+        <item name="android:colorPrimary">@color/theme9_color</item>
+    </style>
+
+    <style name="FaceThemePlayback" parent="AppThemePlayback">
+        <item name="face_color_value">@color/theme1_color</item>
+        <item name="android:statusBarColor">@color/theme1_statusbar_color</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:colorPrimary">@color/theme1_color</item>
+    </style>
+
+    <style name="FaceTheme110" parent="AppTheme1">
+        <item name="face_color_value">@color/theme10_color</item>
+        <item name="statusbar_color_value">@color/theme10_statusbar_color</item>
+        <item name="android:colorPrimary">@color/theme10_color</item>
+    </style>
+
+    <style name="MusicSearchTheme" parent="@style/MusicTheme">
+        <item name="android:actionBarStyle">@style/ActionBarStyle1</item>
+        <item name="android:statusBarColor">@color/theme1_statusbar_color</item>
+        <item name="face_color_value">@color/theme1_color</item>
+        <item name="android:homeAsUpIndicator">@drawable/ic_keyboard_backspace</item>
+    </style>
+
+    <style name="ActionBarStyle1" parent="@style/ActionBarStyleNewUI">
+        <item name="android:background">@color/theme1_color</item>
+    </style>
+
+    <style name="MusicSearchTheme2" parent="@style/MusicTheme">
+        <item name="android:actionBarStyle">@style/ActionBarStyle2</item>
+        <item name="android:statusBarColor">@color/theme2_statusbar_color</item>
+        <item name="face_color_value">@color/theme2_color</item>
+    </style>
+
+    <style name="ActionBarStyle2" parent="@style/ActionBarStyleNewUI">
+        <item name="android:background">@color/theme2_color</item>
+    </style>
+
+    <style name="MusicSearchTheme3" parent="@style/MusicTheme">
+        <item name="android:actionBarStyle">@style/ActionBarStyle3</item>
+        <item name="android:statusBarColor">@color/theme3_statusbar_color</item>
+        <item name="face_color_value">@color/theme3_color</item>
+    </style>
+
+    <style name="ActionBarStyle3" parent="@style/ActionBarStyleNewUI">
+        <item name="android:background">@color/theme3_color</item>
+    </style>
+
+    <style name="MusicSearchTheme4" parent="@style/MusicTheme">
+        <item name="android:actionBarStyle">@style/ActionBarStyle4</item>
+        <item name="android:statusBarColor">@color/theme4_statusbar_color</item>
+        <item name="face_color_value">@color/theme4_color</item>
+    </style>
+
+    <style name="ActionBarStyle4" parent="@style/ActionBarStyleNewUI">
+        <item name="android:background">@color/theme4_color</item>
+    </style>
+
+    <style name="MusicSearchTheme5" parent="@style/MusicTheme">
+        <item name="android:actionBarStyle">@style/ActionBarStyle5</item>
+        <item name="android:statusBarColor">@color/theme5_statusbar_color</item>
+        <item name="face_color_value">@color/theme5_color</item>
+    </style>
+
+    <style name="ActionBarStyle5" parent="@style/ActionBarStyleNewUI">
+        <item name="android:background">@color/theme5_color</item>
+    </style>
+
+    <style name="MusicSearchTheme6" parent="@style/MusicTheme">
+        <item name="android:actionBarStyle">@style/ActionBarStyle6</item>
+        <item name="android:statusBarColor">@color/theme6_statusbar_color</item>
+        <item name="face_color_value">@color/theme6_color</item>
+    </style>
+
+    <style name="ActionBarStyle6" parent="@style/ActionBarStyleNewUI">
+        <item name="android:background">@color/theme6_color</item>
+    </style>
+
+    <style name="MusicSearchTheme7" parent="@style/MusicTheme">
+        <item name="android:actionBarStyle">@style/ActionBarStyle7</item>
+        <item name="android:statusBarColor">@color/theme7_statusbar_color</item>
+        <item name="face_color_value">@color/theme7_color</item>
+    </style>
+
+    <style name="ActionBarStyle7" parent="@style/ActionBarStyleNewUI">
+        <item name="android:background">@color/theme7_color</item>
+    </style>
+
+    <style name="MusicSearchTheme8" parent="@style/MusicTheme">
+        <item name="android:actionBarStyle">@style/ActionBarStyle8</item>
+        <item name="android:statusBarColor">@color/theme8_statusbar_color</item>
+        <item name="face_color_value">@color/theme8_color</item>
+    </style>
+
+    <style name="ActionBarStyle8" parent="@style/ActionBarStyleNewUI">
+        <item name="android:background">@color/theme8_color</item>
+    </style>
+
+    <style name="MusicSearchTheme9" parent="@style/MusicTheme">
+        <item name="android:actionBarStyle">@style/ActionBarStyle9</item>
+        <item name="android:statusBarColor">@color/theme9_statusbar_color</item>
+        <item name="face_color_value">@color/theme9_color</item>
+    </style>
+
+    <style name="ActionBarStyle9" parent="@style/ActionBarStyleNewUI">
+        <item name="android:background">@color/theme9_color</item>
+    </style>
+
+    <style name="MusicSearchTheme10" parent="@style/MusicTheme">
+        <item name="android:actionBarStyle">@style/ActionBarStyle10</item>
+        <item name="android:statusBarColor">@color/theme10_statusbar_color</item>
+        <item name="face_color_value">@color/theme10_color</item>
+    </style>
+
+    <style name="ActionBarStyle10" parent="@style/ActionBarStyleNewUI">
+        <item name="android:background">@color/theme10_color</item>
+    </style>
+
+</resources>

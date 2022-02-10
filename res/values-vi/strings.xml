@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+/*
+** Copyright 2007, The Android Open Source Project
+**
+** Licensed under the Apache License, Version 2.0 (the "License"); 
+** you may not use this file except in compliance with the License. 
+** You may obtain a copy of the License at 
+**
+**     http://www.apache.org/licenses/LICENSE-2.0 
+**
+** Unless required by applicable law or agreed to in writing, software 
+** distributed under the License is distributed on an "AS IS" BASIS, 
+** WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. 
+** See the License for the specific language governing permissions and 
+** limitations under the License.
+*/
+ -->
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="onesong" msgid="8336826100414159413">"1 bài hát"</string>
+    <plurals name="Nsongs" formatted="false" msgid="6016461352893352675">
+      <item quantity="other"><xliff:g id="COUNT_1">%d</xliff:g> bài hát</item>
+      <item quantity="one"><xliff:g id="COUNT_0">%d</xliff:g> bài hát</item>
+    </plurals>
+    <plurals name="Nalbums" formatted="false" msgid="7947176578850672205">
+      <item quantity="other"><xliff:g id="COUNT">%d</xliff:g> album</item>
+      <item quantity="one">1 album</item>
+    </plurals>
+    <string name="party_shuffle" msgid="8213359225506006168">"Danh sách nhạc ngẫu nhiên"</string>
+    <string name="party_shuffle_off" msgid="1828744483354711679">"Tắt danh sách nhạc ngẫu nhiên"</string>
+    <string name="delete_item" msgid="3363330144534750601">"Xóa"</string>
+    <string name="shuffle_all" msgid="1388193611787878773">"Phát ngẫu nhiên tất cả"</string>
+    <string name="delete_confirm_button_text" msgid="7008121194944357274">"OK"</string>
+    <plurals name="NNNtracksdeleted" formatted="false" msgid="2499334199042190643">
+      <item quantity="other">Đã xóa <xliff:g id="SONGS_TO_DELETE">%d</xliff:g> bài hát.</item>
+      <item quantity="one">Đã xóa 1 bài hát.</item>
+    </plurals>
+    <string name="scanning" msgid="3529383847223198502">"Đang quét thẻ SD…"</string>
+    <string name="scanning_nosdcard" msgid="8105284774487360148">"Đang quét bộ nhớ USB…"</string>
+    <string name="nowplaying_title" msgid="8342523844307751761">"Hiện đang phát"</string>
+    <string name="artists_title" msgid="8490372367259160067">"Nghệ sĩ"</string>
+    <string name="albums_menu" msgid="5807982055590211900">"Album"</string>
+    <string name="albums_title" msgid="8773880394961378035">"Album"</string>
+    <string name="tracks_menu" msgid="6942246568246092330">"Bài hát"</string>
+    <string name="tracks_title" msgid="3229389424532295124">"Bài hát"</string>
+    <string name="playlists_menu" msgid="5382792649771928849">"Danh sách nhạc"</string>
+    <string name="playlists_title" msgid="5094238486322957927">"Danh sách nhạc"</string>
+    <string name="all_title" msgid="6880186414437237653">"Tất cả phương tiện"</string>
+    <string name="browse_menu" msgid="5248122473075843289">"Nghệ sĩ"</string>
+    <string name="search_title" msgid="1016971653383739344">"Tìm kiếm"</string>
+    <string name="no_tracks_title" msgid="8805805388271238471">"Không có bài hát nào"</string>
+    <string name="delete_playlist_menu" msgid="8998637685583495247">"Xóa"</string>
+    <string name="rename_playlist_menu" msgid="3133463747389494668">"Đổi tên"</string>
+    <string name="playlist_deleted_message" msgid="9008053828193961455">"Đã xóa danh sách nhạc."</string>
+    <string name="playlist_renamed_message" msgid="7187580192703005990">"Đã đổi tên danh sách nhạc."</string>
+    <string name="recentlyadded" msgid="110978416756366953">"Đã được thêm gần đây"</string>
+    <string name="podcasts_listitem" msgid="8657809279717670634">"Podcast"</string>
+    <string name="sdcard_missing_title" msgid="9008284946643270850">"Không có thẻ SD nào"</string>
+    <string name="sdcard_missing_title_nosdcard" msgid="7984839174824243958">"Không có bộ nhớ USB"</string>
+    <string name="sdcard_missing_message" msgid="2100061456003981823">"Điện thoại của bạn chưa lắp thẻ SD."</string>
+    <string name="sdcard_missing_message_nosdcard" msgid="4459620970330194881">"Điện thoại của bạn không có bộ lưu trữ USB."</string>
+    <string name="sdcard_busy_title" msgid="1162763571147174655">"Thẻ SD không khả dụng"</string>
+    <string name="sdcard_busy_title_nosdcard" msgid="3319125156566499501">"Bộ nhớ USB không khả dụng"</string>
+    <string name="sdcard_busy_message" msgid="579981082201215537">"Thẻ SD của bạn đang bận."</string>
+    <string name="sdcard_busy_message_nosdcard" msgid="1493449756827869166">"Bộ lưu trữ USB của bạn đang bận."</string>
+    <string name="sdcard_error_title" msgid="165682155008600643">"Lỗi thẻ SD"</string>
+    <string name="sdcard_error_title_nosdcard" msgid="7564338137076303931">"Lỗi bộ nhớ USB"</string>
+    <string name="sdcard_error_message" msgid="4574563894036627855">"Đã xảy ra lỗi trên thẻ SD của bạn."</string>
+    <string name="sdcard_error_message_nosdcard" msgid="4983430848526821234">"Đã xảy ra lỗi trên bộ nhớ USB của bạn."</string>
+    <string name="unknown_artist_name" msgid="5567811106415855219">"Nghệ sĩ không xác định"</string>
+    <string name="unknown_album_name" msgid="8525145988941244727">"Album không xác định"</string>
+    <string name="shuffle_on_notif" msgid="5453708337808483943">"Bật tính năng phát ngẫu nhiên."</string>
+    <string name="repeat_current_notif" msgid="1227153936360904196">"Lặp lại bài hát hiện tại."</string>
+    <string name="repeat_all_notif" msgid="6443293055987316642">"Lặp lại tất cả bài hát."</string>
+    <string name="ringtone_menu" msgid="2737472190159134599">"Sử dụng làm nhạc chuông điện thoại"</string>
+    <string name="ringtone_menu_short" msgid="3367622038867238133">"Sử dụng làm nhạc chuông"</string>
+    <string name="ringtone_set" msgid="5325818347613843130">"\"<xliff:g id="NAME">%s</xliff:g>\" được đặt làm nhạc chuông."</string>
+    <string name="play_selection" msgid="2854921021814550018">"Phát"</string>
+    <string name="add_to_playlist" msgid="7110273488645072783">"Thêm vào danh sách nhạc"</string>
+    <string name="queue" msgid="2937629819482787704">"Danh sách nhạc hiện tại"</string>
+    <string name="new_playlist" msgid="7588112979692632867">"Mới"</string>
+    <string name="emptyplaylist" msgid="6711555673997896344">"Danh sách nhạc được chọn trống."</string>
+    <string name="create_playlist_create_text" msgid="8149755205483279143">"Lưu"</string>
+    <string name="service_start_error_title" msgid="8649916852210198813">"Sự cố phát lại"</string>
+    <string name="service_start_error_msg" msgid="7061754255330276478">"Không thể phát bài hát."</string>
+    <string name="service_start_error_button" msgid="480888406592240723">"OK"</string>
+    <string name="musicbrowserlabel" msgid="3162022214114562892">"Nhạc"</string>
+    <string name="mediaplaybacklabel" msgid="6733604841530940397">"Nhạc"</string>
+    <string name="mediapickerlabel" msgid="4549836003229914299">"Nhạc"</string>
+    <string name="playback_failed" msgid="3811851150820251398">"Trình phát không hỗ trợ loại tệp âm thanh này."</string>
+    <string name="cancel" msgid="886559484711947520">"Hủy"</string>
+    <string name="remove_from_playlist" msgid="2548577514849026354">"Xóa khỏi danh sách nhạc"</string>
+    <string name="streamloadingtext" msgid="8842426517396356215">"Đang kết nối với <xliff:g id="HOST">%s</xliff:g>…"</string>
+    <string name="loading" msgid="1991660396037155453">"Đang tải…"</string>
+    <string name="sort_by_track" msgid="7662999005554152565">"Bài hát"</string>
+    <string name="sort_by_album" msgid="2912837715658975248">"Album"</string>
+    <string name="sort_by_artist" msgid="4607024967813199992">"Nghệ sĩ"</string>
+    <string name="music_picker_title" msgid="4143865470317360605">"Chọn bản nhạc"</string>
+    <string name="widget_initial_text" msgid="3166878738860903586">"Chạm để chọn nhạc."</string>
+    <string name="effectspanel" msgid="8804547581593509614">"H.ứng âm thanh"</string>
+    <string name="no_play">"Hiện tại không thể phát!"</string>
+    <string name="music_selected_all">"Chọn tất cả"</string>
+    <string name="music_cancle_selected_all">Hủy tất cả</string>
+    <string name="nolrc">Không có lời nhạc hay tệp nào vô hiệu</string>
+    <string name="ringtone_title_sim1">"Chuông SIM1"</string>
+     <string name="ringtone_title_sim2">"Chuông SIM2"</string>
+     <string name="ringtone_set_sim1">"\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>\" cài đặt như chuông SIM1."</string>
+     <string name="ringtone_set_sim2">"\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>\" cài đặt như chuông SIM2."</string>
+     <string name="ring_set_fail">Xin lỗi, bài hát không thể phát được. Vui lòng chọn một bài hát khác làm nhạc chuông.</string>
+     <string name="ring_set_silent_vibrate">"Nhạc chuông tùy chỉnh không được hỗ trợ ở chế độ hiện tại"</string>
+     <string name="please_insert_sim_card">"Vui lòng chèn tối thiểu 1 thẻ SIM"</string>
+     <string name="create_playlist_warning">Không thể sử dụng cùng tên với tên mới được thêm.</string>
+    <string name="playlist_created_message">"Danh sách phát được tạo."</string>
+    <string name="delete_album">"Xóa vĩnh viễn toàn bộ album \"<xliff:g id="album">%s</xliff:g>\" từ thiết bị?"</string>
+     <string name="delete_song">"Xóa vĩnh viễn \"<xliff:g id="bài hát">%s</xliff:g>\" từ thiết bị?" </string>
+     <string name="display_music">"Nhạc"</string>
+     <string name="quit">"Thoát"</string>
+     <string name="delete_playlist_message">"Bạn có chắc chắn bạn muốn xóa danh sách phát "%1$s"？"</string>
+     <string name="delete_all_playlist">Xóa tất cả danh sách</string>
+     <plurals name="NNNallSongsExist">
+<item quantity="one">Bài hát đã có trong danh sách.</item>
+<item quantity="other">Bài hát đã có trong danh sách.</item>
+    </plurals>
+     <plurals name="NNNaddsongtoplaylist">
+<item quantity="one">"1 bài hát được thêm vào,"</item>
+<item quantity="other">"<xliff:g id="number" example="27">%d</xliff:g> các bài hát đã được thêm vào,"</item>
+    </plurals>
+    <string name="no_search_result">"Không có những bài hát nào đã được tìm thấy"</string>
+     <string name="search_title_hint">"Các nghệ sĩ, bài hát hay album"</string>
+     <string name="error_permissions">"Ứng dụng không có quyền quan trọng cần thiết để chạy. Hãy kiểm tra cài đặt quyền của bạn."</string>
+     <string name="dialog_dismiss">"Loại bỏ"</string>
+     <string name="toast_fileexplorer_internal_error">"Một lỗibên trong đã xảy ra trong âm nhạc!"</string>
+    <string name="no_allow_play_calling">"Không được phép chơi nhạc trong một cuộc gọi (radio / video)."</string>
+    <string name="protect_information">"Bảo vệ Thông tin"</string>
+    <string name="drm_consume_title">"Dùng Quyền Drm "</string>
+    <string name="drm_consume_hint">"Thao tác của bạn sẽ dùng Quyền Drm"</string>
+    <string name="drm_file_name">"Tên Tệp：%1$s"</string>
+    <string name="drm_rights_validity">"Hiệu lực quyền：có hiệu lực"</string>
+    <string name="drm_rights_invalidity">"Hiệu lực quyền：không có hiệu lực"</string>
+    <string name="drm_rights_status_transfer">"Trạng thái Quyền: Được phép được truyền"</string>
+    <string name="drm_rights_status_untransfer">"Trạng thái Quyền: Không được phép được truyền"</string>
+    <string name="drm_start_time">"Thời gian bắt đầu：%1$s"</string>
+    <string name="drm_end_time">"Thời gian kết thúc：%1$s"</string>
+    <string name="drm_expiration_time">"Thời gian hết hạn：%1$s"</string>
+    <string name="drm_remain_times">"Thời gian còn lại：%1$s"</string>
+    <string name="drm_unlimited_rights">"Không giới hạn"</string>
+    <string name="drm_rights_unknown">"Không biết"</string>
+    <string name="drm_inactive_rights">"Các quyền không hoạt động"</string>
+    <string name="whoes_album">"album của"</string>
+     <string name="no_album_title">"Không có album nào"</string>
+     <string name="no_artist_title">"Không có nghệ sĩ nào"</string>
+     <string name="no_folderlist_title">"Không có thư mục nào"</string>
+     <string name="sequence_notif">"Đã bật phát tuần tự."</string>
+     <string name="show_artist">"Hiện thông tin nghệ sĩ"</string>
+     <string name="done">"Xong"</string>
+     <string name="search_result">Kết quả tìm kiếm</string>
+     <string name="delete_artist_album">"Xóa vĩnh viễn tất cả các bài hát trong album \"<xliff:g id="album">%s</xliff:g>\" của \"<xliff:g id="artist">%s</xliff:g>\" khỏi thiết bị?"</string>
+     <string name="delete_folder_prompt">"Xóa vĩnh viễn các bài hát đã thêm trong thư mục \"<xliff:g id="folder">%s</xliff:g>\" khỏi thiết bị?"</string>
+     <string name="delete_playlist">"Xóa \"<xliff:g id="song">%s</xliff:g>\" khỏi danh sách phát?"</string>
+     <string name="setting">"Cài đặt"</string>
+     <string name="folder_menu">"Thư mục"</string>
+     <string name="NNNsongAlreadyExist2">"Đã có <xliff:g example="27" id="number">%d</xliff:g> bài hát trong \"<xliff:g id="playlist">%s</xliff:g>\" danh sách phát. "</string>
+     <string name="favorite_added">"Bài hát ưa thích của tôi"</string>
+     <string name="add_playlist_title">"Thêm danh sách phát"</string>
+     <string name="empty_play_list">"Xóa rỗng danh sách phát"</string>
+     <string name="sort_by_time">sort by time</string>
+     <string name="sort_by_name">"Sắp xếp theo tên"</string>
+     <string name="share">"Chia sẻ"</string>
+     <string name="share_error">"Ứng dụng không chia sẻ!"</string>
+     <string name="fifty_min">"15 phút"</string>
+     <string name="theirty_min">"3 phút"</string>
+     <string name="sixty_min">"6 phút"</string>
+     <string name="ninety_min">"9 phút"</string>
+     <string name="self_define">"Thời gian dừng tùy chỉnh"</string>
+     <string name="timer_option">"Cài thành công, nhạc sẽ đóng lại sau thời gian đếm ngược."</string>
+     <string name="self_min">"phút"</string>
+     <string name="timer_setting">"Cài dừng hẹn giờ"</string>
+     <string name="change_face">"Đổi chủ đề"</string>
+     <string name="timed_setting">"Chọn thời gian dừng"</string>
+     <string name="time_warning">"Hẹn giờ tùy chỉnh đã vượt ngưỡng tối đa 144 phút (24 giờ)!"</string>
+     <string name="time_min_warning">"Không nên để hẹn giờ tùy chỉnh dưới mức một phút!"</string>
+     <string name="time_not_null">"Không nên để trống hẹn giờ tùy chỉnh!"</string>
+     <string name="random_play_all">"Phát ngẫu nhiên tất cả"</string>
+     <string name="unable_to_connect_title">"Không thể kết nối với tệp"</string>
+     <string name="unable_to_connect_message">"Không thể nhận được tệp hiện thời. Hãy kiểm tra kết nối"</string>
+     <string name="statusbarlabel">"Nhạc · "</string>
+     <string name="dock_forced_resizable">"Trình phát nhạc không thể hoạt động chính xác trong chế độ chia màn hình."</string>
+     <string name="error_choose_drm_for_gallery">"Tệp DRM không áp dụng cho thao tác này"</string>
+     <string name="delete_from_device">"Rút hỏi thiết bị"</string>
+     <string name="delete_from_playlist">"xóa các bài hát đã chọn khỏi danh sách phát?"</string>
+     <string name="empty">"Bài hát đã chọn bị trống, vui lòng kiểm tra."</string>
+     <string name="empty_playlist_message">"Bạn chắc chắn muốn xóa rỗng danh sách phát "%1$s"？"</string>
+     <string name="same_playlist">"Đã có tên danh sách phát vừa nhập!"</string>
+     <string name="overwrite_playlist_alert_rename">"Dữ liệu danh sách phát trong "<xliff:g id="NAME">%s</xliff:g>" sẽ được bảo vệ."</string>
+     <string name="usbdisk">"Ổ đĩa USB(<xliff:g id="USBNAME">%s</xliff:g>)"</string>
+     <string name="length_limited">Tên quá chiều dài tối đa</string>
+     <string name="file_notfound">"Rất tiếc, không tìm được tệp đó, vui lòng kiểm tra."</string>
+     <string name="operation_failed">"Thêm bài hát đó vào danh sách phát "Bài hát ưa thích của tôi" bị lỗi."</string>
+     <string name="playlist_emptied">"Danh sách phát đó đã bị xóa rỗng."</string>
+     <string name="max_number">" Đã chọn trên 1 tệp, chức năng chia sẻ không sẵn có"</string>
+    <plurals name="NNNtracksremoved">
+        <item quantity="one">"Đã gỡ bỏ <xliff:g id="songs_to_delete">%d</xliff:g> bài hát khỏi danh sách phát \"<xliff:g id="playlist">%s</xliff:g>\"."</item>
+        <item quantity="other">"Đã gỡ bỏ <xliff:g id="songs_to_delete">%d</xliff:g> bài hát khỏi danh sách phát \"<xliff:g id="playlist">%s</xliff:g>\"."</item>
+    </plurals>
+    <plurals name="NNNallDeleteSelectedSong">
+        <item quantity="one">"Xóa vĩnh viễn bài hát đã chọn khỏi thiết bị?"</item>
+        <item quantity="other">"Xóa vĩnh viễn các bài hát đã chọn khỏi thiết bị?"</item>
+    </plurals>
+    <plurals name="NNNselftimeSuffix">
+        <item quantity="one">phút</item>
+        <item quantity="other">"phút"</item>
+    </plurals>
+    <string name="special_playlist_name">"Tên danh sách phát không được chứa các ký tự không hợp lệ \\:*?\"\u003C\u003E|/"</string>
+    <string name="skip_to_next">"Rất tiếc, hệ thống không phát được tệp, sẽ tự động chuyển sang tệp tiếp theo."</string>
+    <string name="no_sd_write_permission">"Nhạc không có quyền truy cập vào thẻ SD, vui lòng cho phép hoặc xóa bộ nhớ ứng dụng và thực hiện lại"</string>
+    <string name="invalid_playlist_name">"Tên danh sách phát không được kết thúc bằng \"/\"."</string>
+    <string name="confirm">OK</string>
+    <string name="playback_notification">"Dịch vụ phát lại"</string>
+    <string name="no_sd_rootdir_permission">"Trình phát nhạc không có quyền truy cập thẻ SD của bạn, vui lòng chọn thẻ SD SANDISK tại thư mục gốc bên ngoài và cấp phép cho các thao tác với tệp."</string>
+    <string name="create_failed">"Tạo không thành công."</string>
+    <plurals name="NNNtrackstoplaylist" formatted="false">
+        <item quantity="one">"Đã thêm 1 bài hát vào danh sách phát \"<xliff:g id="playlist">%2$s</xliff:g>\"."</item>
+        <item quantity="other">"Đã thêm <xliff:g example="27" id="number">%1$d</xliff:g> bài hát vào danh sách phát \"<xliff:g id="playlist">%2$s</xliff:g>\"."</item>
+    </plurals>
+</resources>

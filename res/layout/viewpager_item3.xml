@@ -1,0 +1,37 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingTop="10dp"
+    android:paddingBottom="20dp"
+    android:background="@android:color/transparent"
+    >
+        <com.sprd.music.lrc.LyricListView
+            android:id="@+id/lyric_list"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:cacheColorHint="#e91e63"
+            android:clickable="false"
+            android:divider="@null"
+            android:focusable="false"
+            android:focusableInTouchMode="false"
+            android:longClickable="true"
+            android:minHeight="200dip"
+            android:scrollbars="none" />
+
+        <TextView
+            android:id="@+id/nolrc_notifier"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+	    android:layout_centerInParent="true"
+            android:paddingBottom="10dip"
+            android:paddingStart="10dip"
+            android:paddingEnd="10dip"
+            android:paddingTop="10dip"
+            android:text="@string/nolrc"
+            android:textColor="#ffffffff"
+            android:visibility="gone"
+            />
+
+</RelativeLayout>
